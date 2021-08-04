@@ -1,0 +1,46 @@
+id,language,family,genus,wsystem,script,word_types,cum_freq,idiosincracy_index,region
+fra,French,Indo-European,Romance,Alphabetic,Latn,-0.2506248582,-0.5981913482,-0.927672691,1
+cha,Chamorro,Austronesian,Chamorro,Alphabetic,Latn,-0.1656764332,-0.3976307878,-0.6254945197,1
+spa,Spanish,Indo-European,Romance,Alphabetic,Latn,-0.4537372367,-0.7571547878,-0.4665018635,1
+hau,Hausa,Afro-Asiatic,West Chadic,Alphabetic,Latn,-0.8510505104,-0.8330083611,-0.4588113558,1
+pes,Western Farsi,Indo-European,Iranian,Abugida,Arab,-0.851166244,-1.281042259,-0.4243925122,1
+ell,Modern Greek,Indo-European,Greek,Alphabetic,Grek,-0.03906393058,-0.4364435172,-0.3874162545,1
+gug,Paraguayan Guaraní,Pama-Nyungan,Western Pama-Nyungan,Alphabetic,Latn,-0.2459955162,-0.5621630103,-0.2922364737,1
+naq,Nama (Namibia),Khoe-Kwadi,Khoe-Kwadi,Alphabetic,Latn,-0.5887982884,-1.059008134,-0.2855300864,1
+laj,Lango (Uganda),Eastern Sudanic,Nilotic,Alphabetic,Latn,-0.9804406182,-1.052215907,-0.1663024562,1
+tgl,Tagalog,Austronesian,Greater Central Philippine,Alphabetic,Latn,-0.2528237956,-0.002669078276,-0.04142999493,1
+fij,Fijian,Austronesian,Oceanic,Alphabetic,Latn,-0.9581040433,-0.138555819,0.002904558469,2
+deu,German,Indo-European,Germanic,Alphabetic,Latn,-0.3196020534,-0.3572992994,0.02629154495,2
+yor,Yoruba,Niger-Congo,Defoid,Alphabetic,Latn,-1.282389448,-1.114611588,0.1091234884,2
+eng,English,Indo-European,Germanic,Alphabetic,Latn,-1.009721206,-0.5202283874,0.6404721233,2
+hin,Hindi,Indo-European,Indic,Abugida,Deva,-1.19049701,-1.348289532,0.8334942401,2
+tha,Thai,Tai-Kadai,Kam-Tai,Abugida,Thai,-1.369189609,-0.5755787145,1.640043959,2
+vie,Vietnamese,Austro-Asiatic,Viet-Muong,Alphabetic,Latn,-1.407265947,-1.190844851,1.98560068,2
+mig,San Miguel El Grande Mixtec,Oto-Manguean,Mixtecan,Alphabetic,Latn,-0.1039904516,0.3065671245,-0.026153581,3
+ind,Indonesian,Austronesian,Malayo-Sumbawan,Alphabetic,Latn,-0.2393987039,0.7940887561,0.1532235232,4
+kew,West Kewa,Trans-New Guinea,Engan,Alphabetic,Latn,-0.2122013199,0.7432103304,0.1832252713,4
+mzh,Wichí Lhamtés Güisnay,Matacoan,Matacoan,Alphabetic,Latn,-0.3133524417,0.1638881562,0.6869863418,4
+dgz,Daga,Dagan,Dagan,Alphabetic,Latn,-0.6077785904,0.5066636197,0.7094525433,4
+aey,Amele,Trans-New Guinea,Madang,Alphabetic,Latn,-0.180606061,0.358162742,0.7131142773,4
+jac,Popti',Mayan,Mayan,Alphabetic,Latn,-0.1372059801,0.9104425688,1.569361426,4
+sag,Sango,Niger-Congo,Ubangi,Alphabetic,Latn,-1.365486136,0.1924492625,2.362290697,4
+xsu,Sanumá,Yanomam,Yanomam,Alphabetic,Latn,-0.5604435689,1.649614125,3.054371117,4
+arn,Mapudungun,Araucanian,Araucanian,Alphabetic,Latn,0.6819560797,0.6642770513,0.3818290176,5
+yaq,Yaqui,Uto-Aztecan,Cahita,Alphabetic,Latn,0.4066259667,1.270810324,0.6062902332,5
+bsn,Barasana-Eduria,Tucanoan,Tucanoan,Alphabetic,Latn,1.394064607,2.381824703,0.6510304389,5
+ape,Bukiyip,Torricelli,Kombio-Arapesh,Alphabetic,Latn,0.2399696561,2.375538728,1.068036455,5
+qvi,Imbabura Highland Quichua,Quechuan,Quechuan,Alphabetic,Latn,2.481612767,1.941342412,-0.8861537371,6
+hae,Eastern Oromo,Afro-Asiatic,Lowland East Cushitic,Alphabetic,Latn,0.2451776658,0.1318676544,-0.6369268799,6
+yad,Yagua,Peba-Yaguan,Peba-Yaguan,Alphabetic,Latn,2.510893355,1.828405807,-0.600649971,6
+plt,Plateau Malagasy,Austronesian,Barito,Alphabetic,Latn,0.04819916538,0.1846445289,-0.5967782446,6
+apu,Apurinã,Arawakan,Purus,Alphabetic,Latn,1.267452104,1.442851966,-0.2549757223,6
+amp,Alamblak,Sepik,Sepik Hill,Alphabetic,Latn,0.9759192942,0.7065069884,-0.01772202811,6
+kal,Kalaallisut,Eskimo-Aleut,Eskimo,Alphabetic,Latn,3.240361914,-0.1679606803,-1.577096362,8
+arz,Egyptian Arabic,Afro-Asiatic,Semitic,Abjad,Arab,1.175559666,-0.3636274618,-1.337670511,8
+tur,Turkish,Altaic,Turkic,Alphabetic,Latn,0.4913429245,-0.9199573125,-1.214948888,8
+swh,Swahili,Niger-Congo,Bantoid,Alphabetic,Latn,0.1492345537,-0.8356240016,-1.070005794,8
+rus,Russian,Indo-European,Slavic,Alphabetic,Cyrl,0.01463643616,-1.226620063,-1.054887487,8
+kat,Georgian,Kartvelian,Kartvelian,Alphabetic,Geor,0.0860440359,-0.8381552665,-1.05391113,8
+eus,Basque,Basque,Basque,Alphabetic,Latn,0.08141469394,-0.6355696941,-1.037830696,8
+fin,Finnish,Uralic,Finnic,Alphabetic,Latn,0.4215555945,-0.6160789539,-1.026725854,8
+khk,Halh Mongolian,Altaic,Mongolic,Alphabetic,Cyrl,0.02458952138,-0.724628033,-0.9089168421,8
