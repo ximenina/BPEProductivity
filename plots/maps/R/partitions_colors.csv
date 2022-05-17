@@ -1,0 +1,48 @@
+iso639_3,|W|,cfreq,idiosyncrasy,partition,language,family,genus,wsystem,script
+aey,-0.1211713367,0.3826911865,0.5415662627,5,Amele,Trans-New Guinea,Madang,Alphabetic,Latn
+amp,1.017269609,0.7146174077,-0.08295584084,8,Alamblak,Sepik,Sepik Hill,Alphabetic,Latn
+ape,0.2928279026,2.304984994,0.8448581812,7,Bukiyip,Torricelli,Kombio-Arapesh,Alphabetic,Latn
+apu,1.304243766,1.41625726,-0.2856964205,9,Apurinã,Arawakan,Purus,Alphabetic,Latn
+arn,0.7279030526,0.6743778355,0.258472818,7,Mapudungun,Araucanian,Araucanian,Alphabetic,Latn
+arz,1.213788236,-0.3050798826,-1.210892422,9,Egyptian Arabic,Afro-Asiatic,Semitic,Abjad,Arab
+bsn,1.428876448,2.310974701,0.4885137131,10,Barasana-Eduria,Tucanoan,Tucanoan,Alphabetic,Latn
+cha,-0.1064751612,-0.337480577,-0.60231613,5,Chamorro,Austronesian,Chamorro,Alphabetic,Latn
+deu,-0.2579938702,-0.2990499766,-0.0453448888,5,German,Indo-European,Germanic,Alphabetic,Latn
+dgz,-0.541664235,0.5241929788,0.5384371984,4,Daga,Dagan,Dagan,Alphabetic,Latn
+ell,0.01815752118,-0.374464,-0.3988709291,5,Modern Greek,Indo-European,Greek,Alphabetic,Grek
+eng,-0.9373217359,-0.4542999544,0.4794913077,3,English,Indo-European,Germanic,Alphabetic,Latn
+eus,0.13675224,-0.5642050396,-0.954670076,6,Basque,Basque,Basque,Alphabetic,Latn
+fij,-0.8865117027,-0.09061622872,-0.06532978814,3,Fijian,Austronesian,Oceanic,Alphabetic,Latn
+fin,0.4715744096,-0.5456329294,-0.9451806468,7,Finnish,Uralic,Finnic,Alphabetic,Latn
+fra,-0.1900952607,-0.5285883953,-0.8605366724,5,French,Indo-European,Romance,Alphabetic,Latn
+gug,-0.1855383071,-0.4942581309,-0.3175368787,5,Paraguayan Guaraní,Pama-Nyungan,Western Pama-Nyungan,Alphabetic,Latn
+hae,0.2979544754,0.1670617509,-0.6120854335,7,Eastern Oromo,Afro-Asiatic,Lowland East Cushitic,Alphabetic,Latn
+hau,-0.7811321495,-0.7523381042,-0.4598802393,3,Hausa,Afro-Asiatic,West Chadic,Alphabetic,Latn
+hin,-1.115270776,-1.243333244,0.6444346439,2,Hindi,Indo-European,Indic,Abugida,Deva
+ind,-0.1790446481,0.7980713056,0.06312239103,5,Indonesian,Austronesian,Malayo-Sumbawan,Alphabetic,Latn
+jac,-0.07844989626,0.9089411758,1.27325579,5,Popti',Mayan,Mayan,Alphabetic,Latn
+kal,3.246303489,-0.1186351916,-1.415489176,12,Kalaallisut,Eskimo-Aleut,Eskimo,Alphabetic,Latn
+kat,0.1413091936,-0.7572424277,-0.968411302,6,Georgian,Kartvelian,Kartvelian,Alphabetic,Geor
+kew,-0.1522725454,0.749590862,0.08875980762,5,West Kewa,Trans-New Guinea,Engan,Alphabetic,Latn
+khk,0.0808156339,-0.6490659155,-0.8445092226,6,Halh Mongolian,Altaic,Mongolic,Alphabetic,Cyrl
+kor,-1.212789584,-2.410481833,-0.9612876807,2,Korean,Korean,Korean,Featural,Kore
+laj,-0.9084990041,-0.9612140453,-0.209922387,3,Lango (Uganda),Eastern Sudanic,Nilotic,Alphabetic,Latn
+mig,-0.0457537538,0.3335273536,-0.09016086214,5,San Miguel El Grande Mixtec,Oto-Manguean,Mixtecan,Alphabetic,Latn
+mya,-1.292991968,0.5252783618,3.170835048,2,Burmese,Sino-Tibetan,Burmese-Lolo,Abugida,Mymr
+mzh,-0.2518419827,0.1975730748,0.5192391381,5,Wichí Lhamtés Güisnay,Matacoan,Matacoan,Alphabetic,Latn
+naq,-0.5229807251,-0.9676861443,-0.3118060644,4,Nama (Namibia),Khoe-Kwadi,Khoe-Kwadi,Alphabetic,Latn
+pes,-0.7812460733,-1.179255443,-0.4304682787,3,Western Farsi,Indo-European,Iranian,Abugida,Arab
+plt,0.1040560975,0.2173511662,-0.5777771897,6,Plateau Malagasy,Austronesian,Barito,Alphabetic,Latn
+qvi,2.499418785,1.891253049,-0.8250574492,11,Imbabura Highland Quichua,Quechuan,Quechuan,Alphabetic,Latn
+rus,0.07101818354,-1.127398252,-0.9692456287,6,Russian,Indo-European,Slavic,Alphabetic,Cyrl
+sag,-1.287523624,0.2247880502,1.950838243,2,Sango,Niger-Congo,Ubangi,Alphabetic,Latn
+spa,-0.3900316022,-0.680059632,-0.4664520147,4,Spanish,Indo-European,Romance,Alphabetic,Latn
+swh,0.203511611,-0.7548304654,-0.9821646875,6,Swahili,Niger-Congo,Bantoid,Alphabetic,Latn
+tgl,-0.1922598137,0.03886595104,-0.1032150277,5,Tagalog,Austronesian,Greater Central Philippine,Alphabetic,Latn
+tha,-1.332865313,-0.4852534714,2.175640842,1,Thai,Tai-Kadai,Kam-Tai,Abugida,Thai
+tur,0.5402704859,-0.8351890116,-1.106023019,7,Turkish,Altaic,Turkic,Alphabetic,Latn
+vie,-1.328650131,-1.093309184,1.628945036,1,Vietnamese,Austro-Asiatic,Viet-Muong,Alphabetic,Latn
+xsu,-0.4950693839,1.613274386,2.542242249,4,Sanumá,Yanomam,Yanomam,Alphabetic,Latn
+yad,2.528241517,1.783639328,-0.581085699,11,Yagua,Peba-Yaguan,Peba-Yaguan,Alphabetic,Latn
+yaq,0.4568782341,1.252324218,0.4502818312,7,Yaqui,Uto-Aztecan,Cahita,Alphabetic,Latn
+yor,-1.205726306,-1.020668918,0.02543755478,2,Yoruba,Niger-Congo,Defoid,Alphabetic,Latn
