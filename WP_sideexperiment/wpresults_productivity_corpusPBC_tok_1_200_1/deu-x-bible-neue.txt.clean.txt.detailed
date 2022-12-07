@@ -1,0 +1,2347 @@
+15	15	1
+subword:15	1	1	1.0
+20	20 ##0 ##0	1
+subword:20	1	1	1.0
+200	200 ##0	1
+subword:200	1	1	1.0
+2000	2000	1
+subword:2000	1	1	1.0
+50	50 ##0 ##0	1
+subword:50	1	1	1.0
+500	500 ##0	1
+subword:500	1	1	1.0
+5000	5000	1
+subword:5000	1	1	1.0
+öf	öf ##f ##n ##e ##t ##e	2
+öf	öf ##f ##e ##n ##t ##l ##i ##c ##h	2
+subword:öf	2	4	2.0
+öff	öff ##n ##e ##t ##e	2
+öff	öff ##e ##n ##t ##l ##i ##c ##h	2
+subword:öff	2	4	2.0
+üb	üb ##e ##r ##a ##l ##l	2
+üb	üb ##e ##r	2
+üb	üb ##e ##r ##f ##l ##u ##s ##s	1
+subword:üb	3	5	1.6666666666666667
+üb	üb ##e ##r	2
+üb	üb ##e ##r ##h ##a ##u ##p ##t	7
+üb	üb ##e ##r ##a ##l ##l	2
+üb	üb ##e ##r ##r ##a ##s ##c ##h ##t	4
+üb	üb ##e ##r ##l ##e ##g ##t ##e ##n	4
+üb	üb ##r ##i ##g	3
+üb	üb ##e ##r ##z ##e ##u ##g ##t	2
+üb	üb ##e ##r ##t ##r ##ä ##g ##t	2
+üb	üb ##e ##r ##g ##e ##b ##e ##n	2
+üb	üb ##e ##r ##e ##i ##n	2
+üb	üb ##l ##i ##c ##h ##e	1
+üb	üb ##l ##i ##c ##h	1
+üb	üb ##e ##r ##w ##u ##c ##h ##e ##r ##t ##e	1
+üb	üb ##e ##r ##t ##r ##e ##f ##f ##e ##n	1
+üb	üb ##e ##r ##t ##r ##a ##g ##e ##n	1
+üb	üb ##e ##r ##s ##e ##t ##z ##t	1
+üb	üb ##e ##r ##s ##c ##h ##a ##t ##t ##e ##n	1
+üb	üb ##e ##r ##n ##a ##c ##h ##t ##e ##t ##e	1
+üb	üb ##e ##r ##n ##a ##c ##h ##t ##e ##n	1
+üb	üb ##e ##r ##l ##i ##e ##f ##e ##r ##t	1
+üb	üb ##e ##r ##l ##e ##g ##t ##e	1
+üb	üb ##e ##r ##l ##a ##u ##f ##e ##n ##d ##e ##s	1
+üb	üb ##e ##r ##l ##a ##s ##s ##e ##n	1
+üb	üb ##e ##r ##g ##a ##b ##e ##n	1
+üb	üb ##e ##r ##g ##a ##b	1
+üb	üb ##e ##r ##f ##l ##u ##s ##s	1
+subword:üb	26	46	1.7692307692307692
+üp	üp ##p ##i ##g ##e	1
+subword:üp	1	1	1.0
+üpp	üpp ##i ##g ##e	1
+subword:üpp	1	1	1.0
+ty	ty ##r ##u ##s	5
+subword:ty	1	5	5.0
+cä	cä ##s ##a ##r ##e ##a	1
+subword:cä	1	1	1.0
+##g-	d ##r ##e ##i ##ß ##i ##g-	2
+##g-	s ##e ##c ##h ##z ##i ##g- ##u ##n ##d	1
+##g-	s ##e ##c ##h ##z ##i ##g- ##o ##d ##e ##r	1
+subword:##g-	3	4	1.3333333333333333
+kö	kö ##n ##n ##e ##n	24
+kö	kö ##n ##i ##g	17
+kö	kö ##n ##n ##t	13
+kö	kö ##r ##p ##e ##r	6
+kö	kö ##r ##n ##e ##r	4
+kö	kö ##n ##n ##t ##e ##n	4
+kö	kö ##r ##b ##e	3
+kö	kö ##n ##i ##g ##e	2
+kö	kö ##n ##n ##t ##e ##t	1
+kö	kö ##n ##n ##t ##e	1
+kö	kö ##n ##n ##e	1
+kö	kö ##n ##i ##g ##s ##p ##a ##l ##ä ##s ##t ##e ##n	1
+kö	kö ##n ##i ##g ##s ##h ##e ##r ##r ##s ##c ##h ##a ##f ##t	1
+kö	kö ##n ##i ##g ##r ##e ##i ##c ##h ##e	1
+kö	kö ##n ##i ##g ##r ##e ##i ##c ##h	1
+kö	kö ##n ##i ##g ##i ##n	1
+kö	kö ##n ##i ##g ##e ##n	1
+subword:kö	17	82	4.823529411764706
+öd	öd ##e	1
+subword:öd	1	1	1.0
+fü	fü ##r	88
+fü	fü ##n ##f	6
+fü	fü ##h ##r ##t ##e	6
+fü	fü ##ß ##e	5
+fü	fü ##h ##r ##t ##e ##n	5
+fü	fü ##ß ##e ##n	3
+fü	fü ##r ##s ##t	3
+fü	fü ##l ##l ##t ##e ##n	3
+fü	fü ##g ##t ##e	3
+fü	fü ##r ##c ##h ##t ##e ##t ##e ##n	2
+fü	fü ##r ##c ##h ##t ##e ##n	2
+fü	fü ##l ##l ##t	2
+fü	fü ##h ##r ##e ##n ##d ##e ##n	2
+fü	fü ##h ##r ##e ##n	2
+fü	fü ##r ##c ##h ##t ##e ##t	1
+fü	fü ##r ##c ##h ##t ##e	1
+fü	fü ##n ##f ##z ##i ##g	1
+fü	fü ##h ##r ##t	1
+fü	fü ##h ##r ##e ##r	1
+fü	fü ##c ##h ##s ##e	1
+subword:fü	20	138	6.9
+sy	sy ##n ##a ##g ##o ##g ##e	9
+sy	sy ##n ##a ##g ##o ##g ##e ##n	5
+sy	sy ##n ##a ##g ##o ##g ##e ##n ##v ##o ##r ##s ##t ##e ##h ##e ##r	3
+sy	sy ##n ##a ##g ##o ##g ##e ##n ##v ##o ##r ##s ##t ##e ##h ##e ##r ##s	2
+sy	sy ##n ##a ##g ##o ##g ##e ##n ##g ##e ##r ##i ##c ##h ##t ##e	2
+subword:sy	5	21	4.2
+ly	ly ##s ##a ##n ##i ##a ##s	1
+subword:ly	1	1	1.0
+zy	zy ##r ##e ##n ##e	2
+subword:zy	1	2	2.0
+my	my ##r ##r ##h ##e	1
+subword:my	1	1	1.0
+öl	öl ##b ##e ##r ##g	7
+öl	öl ##e	3
+öl	öl	2
+subword:öl	3	12	4.0
+öf	öff ##n ##e ##t ##e	2
+öf	öff ##e ##n ##t ##l ##i ##c ##h	2
+öf	öf ##f ##n ##e	1
+subword:öf	3	5	1.6666666666666667
+öff	öff ##n ##e ##t ##e	2
+öff	öff ##e ##n ##t ##l ##i ##c ##h	2
+öff	öff ##n ##e	1
+subword:öff	3	5	1.6666666666666667
+ölb	ölb ##e ##r ##g	7
+subword:ölb	1	7	7.0
+füß	füß ##e	5
+füß	füß ##e ##n	3
+subword:füß	2	8	4.0
+jü	jü ##n ##g ##e ##r	65
+jü	jü ##n ##g ##e ##r ##n	33
+jü	jü ##n ##g ##e ##r ##e	2
+jü	jü ##d ##i ##s ##c ##h ##e ##n	1
+subword:jü	4	101	25.25
+qu	qu ##a ##l ##e ##n	1
+qu	qu ##a ##l	1
+qu	qu ##a ##d ##r ##a ##n ##s	1
+subword:qu	3	3	1.0
+##qu	g ##e ##qu ##ä ##l ##t	1
+subword:##qu	1	1	1.0
+##quä	g ##e ##quä ##l ##t	1
+subword:##quä	1	1	1.0
+##quäl	g ##e ##quäl ##t	1
+subword:##quäl	1	1	1.0
+##wö	z ##wö ##l ##f	24
+##wö	g ##e ##wö ##h ##n ##l ##i ##c ##h	1
+subword:##wö	2	25	12.5
+zwö	zwö ##l ##f	24
+subword:zwö	1	24	24.0
+zwöl	zwöl ##f	24
+subword:zwöl	1	24	24.0
+zwölf	zwölf	24
+subword:zwölf	1	24	24.0
+hö	hö ##r ##e ##n	22
+hö	hö ##r ##t	14
+hö	hö ##r ##t ##e	11
+hö	hö ##r ##t ##e ##n	7
+hö	hö ##r ##e	5
+hö	hö ##h ##e	4
+hö	hö ##c ##h ##s ##t ##e ##n	4
+hö	hö ##l ##l ##e	3
+hö	hö ##h ##n ##i ##s ##c ##h	1
+subword:hö	9	71	7.888888888888889
+zu	zu	443
+zu	zu ##m	46
+zu	zu ##r ##ü ##c ##k	24
+zu	zu ##r	18
+zu	zu ##s ##a ##m ##m ##e ##n	15
+zu	zu ##e ##r ##s ##t	8
+zu	zu ##r ##ü ##c ##k ##k ##a ##m	5
+zu	zu ##e ##i ##n ##a ##n ##d ##e ##r	5
+zu	zu ##r ##e ##c ##h ##t	4
+zu	zu ##g ##r ##u ##n ##d ##e	4
+zu	zu ##r ##ü ##c ##k ##g ##e ##z ##o ##g ##e ##n	3
+zu	zu ##h ##ö ##r ##e ##r	3
+zu	zu ##s ##t ##e ##h ##t	2
+zu	zu ##r ##ü ##c ##k ##k ##e ##h ##r ##e ##n	2
+zu	zu ##n ##g ##e	2
+zu	zu ##z ##u ##t ##e ##i ##l ##e ##n	1
+zu	zu ##v ##e ##r ##s ##i ##c ##h ##t ##l ##i ##c ##h	1
+zu	zu ##v ##e ##r ##l ##ä ##s ##s ##i ##g	1
+zu	zu ##s ##t ##a ##n ##d ##e ##b ##r ##i ##n ##g ##t	1
+zu	zu ##s ##a ##m ##m ##e ##n ##z ##u ##b ##r ##i ##n ##g ##e ##n	1
+zu	zu ##s ##a ##m ##m ##e ##n ##l ##i ##e ##f ##e ##n	1
+zu	zu ##s ##a ##m ##m ##e ##n ##g ##e ##f ##ü ##g ##t	1
+zu	zu ##s ##a ##m ##m ##e ##n ##b ##r ##e ##c ##h ##e ##n	1
+zu	zu ##r ##ü ##c ##k ##z ##u ##k ##o ##m ##m ##e ##n	1
+zu	zu ##r ##ü ##c ##k ##z ##u ##h ##o ##l ##e ##n	1
+zu	zu ##r ##ü ##c ##k ##z ##u ##f ##a ##h ##r ##e ##n	1
+zu	zu ##r ##ü ##c ##k ##z ##a ##h ##l ##e ##n	1
+zu	zu ##r ##ü ##c ##k ##l ##a ##u ##f ##e ##n	1
+zu	zu ##r ##ü ##c ##k ##k ##a ##m ##e ##n	1
+zu	zu ##r ##ü ##c ##k ##g ##i ##n ##g	1
+zu	zu ##r ##ü ##c ##k ##g ##e ##k ##e ##h ##r ##t	1
+zu	zu ##r ##ü ##c ##k ##g ##e ##h ##e ##n	1
+zu	zu ##r ##ü ##c ##k ##e ##r ##s ##t ##a ##t ##t ##e ##n	1
+zu	zu ##r ##ü ##c ##k ##b ##r ##i ##n ##g ##e ##n	1
+zu	zu ##r ##ü ##c ##k ##b ##e ##k ##o ##m ##m ##t	1
+zu	zu ##r ##ü ##c ##k ##b ##e ##k ##o ##m ##m ##e ##n	1
+zu	zu ##r ##e ##c ##h ##t ##g ##e ##k ##o ##m ##m ##e ##n	1
+zu	zu ##n ##i ##c ##h ##t ##e	1
+zu	zu ##l ##i ##e ##b ##e	1
+zu	zu ##l ##e ##t ##z ##t	1
+zu	zu ##l ##a ##s ##s ##e ##n	1
+zu	zu ##h ##ö ##r ##t ##e ##n	1
+zu	zu ##h ##ö ##r ##t	1
+zu	zu ##h ##ö ##r ##e ##r ##n	1
+zu	zu ##g ##l ##e ##i ##c ##h	1
+zu	zu ##g ##i ##n ##g	1
+zu	zu ##g ##e ##t ##e ##i ##l ##t	1
+zu	zu ##g ##e ##s ##e ##h ##e ##n	1
+zu	zu ##g ##e ##h ##ö ##r ##t	1
+zu	zu ##f ##r ##i ##e ##d ##e ##n ##s ##t ##e ##l ##l ##e ##n	1
+zu	zu ##f ##r ##i ##e ##d ##e ##n	1
+zu	zu ##b ##e ##r ##e ##i ##t ##e ##t	1
+subword:zu	52	621	11.942307692307692
+zw	zwölf	24
+zw	zw ##e ##i	19
+zw	zw ##a ##r	4
+zw	zw ##e ##i ##t ##e ##n	3
+zw	zw ##e ##i ##m ##a ##l	2
+zw	zw ##i ##s ##c ##h ##e ##n	1
+zw	zw ##e ##i ##t ##e ##r	1
+zw	zw ##e ##i ##t ##e	1
+zw	zw ##e ##i ##t	1
+zw	zw ##e ##i ##g ##e ##n	1
+zw	zw ##e ##i ##g ##e	1
+zw	zw ##e ##i ##f ##e ##l ##h ##a ##f ##t ##e ##m	1
+zw	zw ##a ##n ##g ##e ##n	1
+subword:zw	13	60	4.615384615384615
+vo	vo ##n	250
+vo	vo ##r	79
+vo	vo ##m	32
+vo	vo ##l ##k	21
+vo	vo ##l ##l ##m ##a ##c ##h ##t	12
+vo	vo ##l ##l ##e ##r	8
+vo	vo ##r ##r ##a ##t ##s ##t ##a ##s ##c ##h ##e	4
+vo	vo ##r ##a ##u ##s	4
+vo	vo ##l ##l	4
+vo	vo ##r ##h ##e ##r	3
+vo	vo ##r ##b ##e ##i	3
+vo	vo ##r ##a ##u ##s ##g ##e ##s ##a ##g ##t	3
+vo	vo ##r ##s ##t ##e ##h ##e ##r	2
+vo	vo ##r ##f ##a ##h ##r ##e ##n	2
+vo	vo ##r ##b ##e ##r ##e ##i ##t ##e ##n	2
+vo	vo ##r ##b ##e ##i ##k ##a ##m ##e ##n	2
+vo	vo ##r ##ü ##b ##e ##r ##g ##e ##h ##e ##n ##d ##e ##n	1
+vo	vo ##r ##ü ##b ##e ##r	1
+vo	vo ##r ##z ##u ##l ##e ##s ##e ##n	1
+vo	vo ##r ##w ##ü ##r ##f ##e	1
+vo	vo ##r ##w ##e ##i ##s ##e ##n	1
+vo	vo ##r ##s ##t ##e ##h ##e ##r ##s	1
+vo	vo ##r ##s ##p ##r ##u ##n ##g	1
+vo	vo ##r ##s ##e ##t ##z ##e ##n	1
+vo	vo ##r ##s ##e ##h ##e ##n	1
+vo	vo ##r ##s ##c ##h ##r ##i ##f ##t ##e ##n	1
+vo	vo ##r ##s ##c ##h ##r ##e ##i ##b ##t	1
+vo	vo ##r ##s ##c ##h ##l ##a ##g	1
+vo	vo ##r ##r ##a ##t ##s ##k ##a ##m ##m ##e ##r ##n	1
+vo	vo ##r ##h ##o ##f	1
+vo	vo ##r ##h ##a ##t ##t ##e	1
+vo	vo ##r ##h ##a ##n ##g	1
+vo	vo ##r ##g ##i ##n ##g	1
+vo	vo ##r ##g ##e ##s ##e ##t ##z ##t ##e ##n	1
+vo	vo ##r ##g ##e ##n ##o ##m ##m ##e ##n	1
+vo	vo ##r ##g ##e ##h ##e ##n	1
+vo	vo ##r ##g ##e ##g ##a ##n ##g ##e ##n	1
+vo	vo ##r ##f ##ü ##h ##r ##e ##n	1
+vo	vo ##r ##b ##r ##i ##n ##g ##e ##n	1
+vo	vo ##r ##b ##e ##i ##z ##o ##g	1
+vo	vo ##r ##b ##e ##i ##z ##i ##e ##h ##e ##n	1
+vo	vo ##r ##a ##u ##s ##l ##i ##e ##f ##e ##n	1
+vo	vo ##r ##a ##n	1
+vo	vo ##l ##l ##z ##o ##g ##e ##n	1
+vo	vo ##l ##l ##e ##s	1
+vo	vo ##l ##l ##e ##n ##d ##e ##t	1
+vo	vo ##l ##k ##s ##m ##e ##n ##g ##e	1
+vo	vo ##l ##k ##e ##s	1
+subword:vo	48	463	9.645833333333334
+##vo	d ##a ##vo ##n	14
+##vo	b ##e ##vo ##r	8
+##vo	sy ##n ##a ##g ##o ##g ##e ##n ##vo ##r ##s ##t ##e ##h ##e ##r	3
+##vo	h ##e ##r ##vo ##r	3
+##vo	w ##o ##vo ##n	2
+##vo	sy ##n ##a ##g ##o ##g ##e ##n ##vo ##r ##s ##t ##e ##h ##e ##r ##s	2
+##vo	b ##e ##vo ##r ##s ##t ##e ##h ##t	2
+##vo	m ##a ##c ##h ##t ##vo ##l ##l	1
+##vo	h ##e ##r ##vo ##r ##r ##a ##g ##e ##n ##d	1
+##vo	d ##a ##vo ##n ##k ##o ##m ##m ##e ##n	1
+##vo	b ##e ##vo ##r ##z ##u ##g ##e ##n	1
+subword:##vo	11	38	3.4545454545454546
+##pp	d ##o ##r ##n ##e ##n ##g ##e ##s ##t ##r ##ü ##pp	3
+##pp	k ##n ##ü ##pp ##e ##l ##n	2
+##pp	v ##e ##r ##s ##c ##h ##l ##e ##pp ##t	1
+##pp	s ##c ##h ##l ##e ##pp ##t	1
+##pp	p ##h ##i ##l ##i ##pp ##u ##s	1
+##pp	p ##h ##i ##l ##i ##pp ##i	1
+##pp	l ##i ##pp ##e ##n	1
+##pp	k ##r ##i ##pp ##e	1
+##pp	k ##n ##ü ##pp ##e ##l	1
+##pp	h ##o ##l ##z ##k ##n ##ü ##pp ##e ##l	1
+##pp	g ##r ##u ##pp ##i ##e ##r ##u ##n ##g	1
+##pp	g ##r ##u ##pp ##e ##n	1
+##pp	g ##r ##u ##pp ##e	1
+##pp	g ##e ##s ##t ##r ##ü ##pp	1
+subword:##pp	14	17	1.2142857142857142
+##üpp	d ##o ##r ##n ##e ##n ##g ##e ##s ##t ##r ##üpp	3
+##üpp	k ##n ##üpp ##e ##l ##n	2
+##üpp	k ##n ##üpp ##e ##l	1
+##üpp	h ##o ##l ##z ##k ##n ##üpp ##e ##l	1
+##üpp	g ##e ##s ##t ##r ##üpp	1
+subword:##üpp	5	8	1.6
+op	op ##f ##e ##r ##k ##a ##s ##t ##e ##n	2
+op	op ##f ##e ##r ##n	1
+op	op ##f ##e ##r ##k ##a ##s ##t ##e ##n ##s	1
+op	op ##f ##e ##r	1
+subword:op	4	5	1.25
+opf	opf ##e ##r ##k ##a ##s ##t ##e ##n	2
+opf	opf ##e ##r ##n	1
+opf	opf ##e ##r ##k ##a ##s ##t ##e ##n ##s	1
+opf	opf ##e ##r	1
+subword:opf	4	5	1.25
+##wöh	g ##e ##wöh ##n ##l ##i ##c ##h	1
+subword:##wöh	1	1	1.0
+qua	qua ##l ##e ##n	1
+qua	qua ##l	1
+qua	qua ##d ##r ##a ##n ##s	1
+subword:qua	3	3	1.0
+qual	qual ##e ##n	1
+qual	qual	1
+subword:qual	2	2	1.0
+quad	quad ##r ##a ##n ##s	1
+subword:quad	1	1	1.0
+cäs	cäs ##a ##r ##e ##a	1
+subword:cäs	1	1	1.0
+cäsa	cäsa ##r ##e ##a	1
+subword:cäsa	1	1	1.0
+lys	lys ##a ##n ##i ##a ##s	1
+subword:lys	1	1	1.0
+lysa	lysa ##n ##i ##a ##s	1
+subword:lysa	1	1	1.0
+##ch	n ##i ##ch ##t	241
+##ch	s ##i ##ch	227
+##ch	e ##u ##ch	207
+##ch	i ##ch	189
+##ch	d ##o ##ch	138
+##ch	a ##u ##ch	121
+##ch	n ##o ##ch	85
+##ch	n ##a ##ch	74
+##ch	m ##e ##n ##s ##ch ##e ##n	60
+##ch	d ##i ##ch	52
+##ch	m ##i ##ch	44
+##ch	r ##e ##i ##ch	29
+##ch	m ##e ##n ##s ##ch ##e ##n ##s ##o ##h ##n	23
+##ch	n ##i ##ch ##t ##s	22
+##ch	d ##u ##r ##ch	22
+##ch	b ##o ##t ##s ##ch ##a ##f ##t	21
+##ch	s ##ch ##o ##n	20
+##ch	m ##a ##ch ##t	20
+##ch	s ##p ##r ##a ##ch	19
+##ch	v ##e ##r ##s ##i ##ch ##e ##r ##e	18
+##ch	g ##e ##s ##ch ##e ##h ##e ##n	18
+##ch	z ##e ##i ##ch ##e ##n	16
+##ch	w ##i ##r ##k ##l ##i ##ch	15
+##ch	s ##ch ##i ##c ##k ##t ##e	15
+##ch	m ##a ##ch ##t ##e ##n	15
+##ch	m ##a ##ch ##e ##n	15
+##ch	d ##a ##n ##a ##ch	15
+##ch	g ##l ##e ##i ##ch	14
+##ch	s ##ch ##r ##i ##f ##t	13
+##ch	m ##e ##n ##s ##ch ##e ##n ##m ##e ##n ##g ##e	13
+##ch	vo ##l ##l ##m ##a ##ch ##t	12
+##ch	m ##a ##ch ##t ##e	12
+##ch	t ##i ##s ##ch	11
+##ch	s ##ch ##l ##i ##e ##ß ##l ##i ##ch	11
+##ch	p ##l ##ö ##t ##z ##l ##i ##ch	11
+##ch	g ##l ##e ##i ##ch ##n ##i ##s	10
+##ch	b ##r ##a ##ch	10
+##ch	s ##p ##r ##e ##ch ##e ##n	9
+##ch	s ##o ##l ##ch ##e	9
+##ch	s ##ch ##l ##u ##g ##e ##n	9
+##ch	n ##a ##ch ##d ##e ##m	9
+##ch	b ##r ##a ##ch ##t ##e ##n	9
+##ch	m ##e ##n ##s ##ch	8
+##ch	l ##i ##ch ##t	8
+##ch	g ##l ##ü ##c ##k ##l ##i ##ch	8
+##ch	t ##o ##ch ##t ##e ##r	7
+##ch	n ##ä ##ch ##s ##t ##e ##n	7
+##ch	n ##a ##ch ##t	7
+##ch	h ##e ##r ##r ##s ##ch ##a ##f ##t	7
+##ch	g ##e ##s ##ch ##i ##e ##h ##t	7
+##ch	g ##e ##r ##i ##ch ##t	7
+##ch	g ##e ##m ##a ##ch ##t	7
+##ch	d ##a ##ch ##t ##e ##n	7
+##ch	b ##r ##a ##ch ##t ##e	7
+##ch	a ##ch ##t	7
+##ch	w ##a ##ch ##s ##a ##m	6
+##ch	s ##u ##ch ##t ##e ##n	6
+##ch	s ##i ##ch ##e ##r	6
+##ch	s ##ch ##w ##e ##r	6
+##ch	s ##ch ##r ##i ##e	6
+##ch	g ##e ##s ##ch ##r ##i ##e ##b ##e ##n	6
+##ch	f ##r ##u ##ch ##t	6
+##ch	e ##i ##n ##f ##a ##ch	6
+##ch	b ##r ##a ##u ##ch ##t	6
+##ch	v ##e ##r ##b ##r ##e ##ch ##e ##r	5
+##ch	s ##ch ##w ##e ##i ##n ##e	5
+##ch	s ##ch ##r ##i ##e ##n	5
+##ch	s ##ch ##n ##e ##l ##l	5
+##ch	s ##ch ##i ##c ##k ##e ##n	5
+##ch	r ##e ##ch ##t	5
+##ch	m ##ä ##d ##ch ##e ##n	5
+##ch	g ##l ##e ##i ##ch ##z ##e ##i ##t ##i ##g	5
+##ch	g ##l ##e ##i ##ch ##e ##n	5
+##ch	üb ##e ##r ##r ##a ##s ##ch ##t	4
+##ch	zu ##r ##e ##ch ##t	4
+##ch	z ##a ##ch ##a ##r ##i ##a ##s	4
+##ch	w ##u ##ch ##s	4
+##ch	vo ##r ##r ##a ##t ##s ##t ##a ##s ##ch ##e	4
+##ch	v ##e ##r ##s ##ch ##w ##a ##n ##d	4
+##ch	v ##e ##r ##g ##l ##e ##i ##ch ##e ##n	4
+##ch	s ##u ##ch ##t	4
+##ch	s ##ch ##w ##a ##n ##g ##e ##r	4
+##ch	s ##ch ##u ##l ##d	4
+##ch	s ##ch ##i ##c ##k ##t ##e ##n	4
+##ch	s ##ch ##a ##r ##e ##n	4
+##ch	r ##i ##ch ##t ##e ##t	4
+##ch	r ##e ##ch ##t ##e	4
+##ch	n ##ä ##m ##l ##i ##ch	4
+##ch	n ##a ##t ##ü ##r ##l ##i ##ch	4
+##ch	j ##e ##d ##o ##ch	4
+##ch	hö ##ch ##s ##t ##e ##n	4
+##ch	h ##e ##u ##ch ##e ##l ##e ##i	4
+##ch	h ##e ##r ##r ##l ##i ##ch ##k ##e ##i ##t	4
+##ch	g ##e ##s ##i ##ch ##t	4
+##ch	g ##e ##h ##o ##r ##ch ##e ##n	4
+##ch	g ##e ##b ##r ##a ##ch ##t	4
+##ch	f ##r ##ü ##ch ##t ##e	4
+##ch	f ##i ##s ##ch ##e	4
+##ch	e ##r ##s ##ch ##r ##a ##k ##e ##n	4
+##ch	e ##n ##t ##s ##p ##r ##e ##ch ##e ##n	4
+##ch	e ##h ##e ##b ##r ##u ##ch	4
+##ch	d ##e ##u ##t ##l ##i ##ch	4
+##ch	b ##r ##a ##u ##ch ##e ##n	4
+##ch	b ##e ##r ##i ##ch ##t ##e ##t ##e ##n	4
+##ch	b ##e ##r ##i ##ch ##t ##e ##t ##e	4
+##ch	b ##e ##ch ##e ##r	4
+##ch	w ##i ##ch ##t ##i ##g ##e ##r	3
+##ch	w ##e ##l ##ch ##e ##r	3
+##ch	w ##e ##l ##ch ##e ##m	3
+##ch	w ##e ##l ##ch ##e	3
+##ch	v ##e ##r ##s ##u ##ch ##u ##n ##g	3
+##ch	v ##e ##r ##g ##l ##e ##i ##ch	3
+##ch	u ##n ##m ##ö ##g ##l ##i ##ch	3
+##ch	t ##ä ##g ##l ##i ##ch	3
+##ch	s ##o ##l ##ch	3
+##ch	s ##i ##ch ##t ##b ##a ##r	3
+##ch	s ##ch ##ä ##r ##f ##t ##e	3
+##ch	s ##ch ##w ##e ##r ##t	3
+##ch	s ##ch ##w ##e ##i ##g	3
+##ch	s ##ch ##l ##ä ##u ##ch ##e	3
+##ch	s ##ch ##l ##u ##g	3
+##ch	s ##ch ##l ##o ##s ##s	3
+##ch	s ##ch ##l ##e ##ch ##t	3
+##ch	s ##ch ##a ##u ##m	3
+##ch	s ##ch ##a ##t ##z	3
+##ch	s ##ch ##a ##r	3
+##ch	r ##i ##ch ##t ##i ##g	3
+##ch	r ##e ##ch ##t ##s	3
+##ch	r ##e ##ch ##t ##e ##n	3
+##ch	l ##e ##i ##ch ##n ##a ##m	3
+##ch	i ##n ##z ##w ##i ##s ##ch ##e ##n	3
+##ch	h ##e ##u ##ch ##l ##e ##r	3
+##ch	h ##e ##r ##r ##s ##ch ##t ##e	3
+##ch	g ##l ##e ##i ##ch ##n ##i ##s ##s ##e	3
+##ch	g ##e ##s ##ch ##l ##e ##ch ##t	3
+##ch	g ##e ##s ##ch ##i ##c ##k ##t	3
+##ch	g ##e ##s ##ch ##a ##f ##f ##e ##n	3
+##ch	g ##e ##r ##e ##ch ##t ##e ##n	3
+##ch	g ##e ##h ##o ##r ##ch ##t ##e	3
+##ch	f ##a ##l ##s ##ch ##e	3
+##ch	e ##r ##s ##ch ##r ##o ##c ##k ##e ##n	3
+##ch	e ##r ##s ##ch ##r ##e ##c ##k ##t	3
+##ch	e ##i ##g ##e ##n ##t ##l ##i ##ch	3
+##ch	b ##r ##e ##ch ##e ##n	3
+##ch	b ##e ##s ##ch ##i ##m ##p ##f ##t ##e ##n	3
+##ch	öff ##e ##n ##t ##l ##i ##ch	2
+##ch	ä ##r ##g ##e ##r ##l ##i ##ch	2
+##ch	w ##o ##h ##l ##r ##i ##e ##ch ##e ##n ##d ##e	2
+##ch	w ##o ##ch ##e	2
+##ch	w ##i ##ch ##t ##i ##g ##s ##t ##e	2
+##ch	w ##e ##l ##ch ##e ##n	2
+##ch	w ##a ##ch ##e ##n	2
+##ch	w ##a ##ch	2
+##ch	v ##i ##e ##l ##l ##e ##i ##ch ##t	2
+##ch	v ##e ##r ##s ##u ##ch ##t	2
+##ch	v ##e ##r ##s ##p ##r ##a ##ch ##e ##n	2
+##ch	v ##e ##r ##s ##ch ##l ##o ##s ##s ##e ##n	2
+##ch	v ##e ##r ##s ##ch ##l ##i ##n ##g ##e ##n	2
+##ch	v ##e ##r ##p ##a ##ch ##t ##e ##t ##e	2
+##ch	v ##e ##r ##g ##l ##e ##i ##ch ##e	2
+##ch	u ##n ##r ##e ##ch ##t	2
+##ch	u ##n ##b ##r ##a ##u ##ch ##b ##a ##r	2
+##ch	u ##m ##g ##e ##b ##r ##a ##ch ##t	2
+##ch	t ##e ##m ##p ##e ##l ##w ##a ##ch ##e	2
+##ch	t ##a ##u ##ch ##t ##e	2
+##ch	t ##a ##t ##s ##ä ##ch ##l ##i ##ch	2
+##ch	sy ##n ##a ##g ##o ##g ##e ##n ##g ##e ##r ##i ##ch ##t ##e	2
+##ch	s ##t ##r ##e ##i ##t ##g ##e ##s ##p ##r ##ä ##ch	2
+##ch	s ##p ##r ##e ##ch ##t	2
+##ch	s ##p ##r ##a ##ch ##e ##n	2
+##ch	s ##p ##e ##i ##ch ##e ##l	2
+##ch	s ##o ##l ##ch ##e ##r	2
+##ch	s ##o ##l ##ch ##e ##n	2
+##ch	s ##e ##ch ##s ##t ##e ##n	2
+##ch	s ##e ##ch ##s	2
+##ch	s ##ch ##ü ##t ##t ##e ##l ##t ##e	2
+##ch	s ##ch ##ü ##s ##s ##e ##l ##n	2
+##ch	s ##ch ##ö ##n	2
+##ch	s ##ch ##w ##i ##e ##g ##e ##r ##m ##u ##t ##t ##e ##r	2
+##ch	s ##ch ##w ##i ##e ##g ##e ##n	2
+##ch	s ##ch ##w ##e ##r ##t ##e ##r ##n	2
+##ch	s ##ch ##w ##e ##r ##t ##e ##r	2
+##ch	s ##ch ##w ##e ##r ##e	2
+##ch	s ##ch ##w ##e ##i ##n ##e ##h ##i ##r ##t ##e ##n	2
+##ch	s ##ch ##w ##a ##n ##g ##e ##r ##e	2
+##ch	s ##ch ##u ##t ##z ##l ##o ##s ##e ##r	2
+##ch	s ##ch ##u ##l ##d ##i ##g	2
+##ch	s ##ch ##r ##e ##i ##e ##n	2
+##ch	s ##ch ##r ##e ##i	2
+##ch	s ##ch ##r ##e ##c ##k ##l ##i ##ch ##e ##n	2
+##ch	s ##ch ##l ##i ##m ##m ##s ##t ##e ##n	2
+##ch	s ##ch ##l ##i ##m ##m ##e ##r	2
+##ch	s ##ch ##l ##i ##e ##f	2
+##ch	s ##ch ##l ##e ##ch ##t ##e ##r	2
+##ch	s ##ch ##l ##e ##ch ##t ##e ##n	2
+##ch	s ##ch ##i ##c ##k	2
+##ch	s ##ch ##e ##i ##n ##h ##e ##i ##l ##i ##g	2
+##ch	s ##ch ##e ##i ##n	2
+##ch	s ##ch ##e ##i ##d ##e ##n	2
+##ch	s ##ch ##a ##u ##t ##e ##n	2
+##ch	s ##ch ##a ##u ##t	2
+##ch	s ##ch ##a ##t ##t ##e ##n	2
+##ch	s ##ch ##a ##r ##f	2
+##ch	s ##ch ##a ##d ##e ##n	2
+##ch	s ##a ##ch ##e	2
+##ch	r ##i ##ch ##t ##e ##t ##e	2
+##ch	r ##i ##ch ##t ##e ##n	2
+##ch	r ##e ##i ##ch ##t ##e	2
+##ch	r ##e ##i ##ch ##e ##n	2
+##ch	r ##e ##i ##ch ##e	2
+##ch	p ##ä ##ch ##t ##e ##r ##n	2
+##ch	o ##r ##t ##s ##ch ##a ##f ##t ##e ##n	2
+##ch	o ##b ##e ##r ##g ##e ##s ##ch ##o ##s ##s	2
+##ch	n ##ä ##ch ##s ##t ##e	2
+##ch	n ##a ##ch ##r ##i ##ch ##t	2
+##ch	n ##a ##ch ##b ##a ##r ##n	2
+##ch	m ##ö ##g ##l ##i ##ch ##k ##e ##i ##t	2
+##ch	m ##ö ##g ##l ##i ##ch	2
+##ch	m ##ö ##ch ##t ##e	2
+##ch	m ##a ##n ##ch ##e ##r	2
+##ch	m ##a ##ch ##t ##h ##a ##b ##e ##r ##n	2
+##ch	l ##e ##i ##n ##e ##n ##t ##u ##ch	2
+##ch	l ##a ##ch ##t ##e ##n	2
+##ch	j ##e ##r ##i ##ch ##o	2
+##ch	h ##u ##n ##d ##e ##r ##t ##f ##a ##ch	2
+##ch	h ##o ##ch ##z ##e ##i ##t ##s ##g ##ä ##s ##t ##e	2
+##ch	h ##e ##i ##m ##l ##i ##ch	2
+##ch	g ##l ##e ##i ##ch ##t	2
+##ch	g ##e ##s ##p ##r ##o ##ch ##e ##n	2
+##ch	g ##e ##s ##ch ##m ##a ##c ##k	2
+##ch	g ##e ##s ##ch ##l ##a ##g ##e ##n	2
+##ch	g ##e ##s ##ch ##l ##a ##ch ##t ##e ##t	2
+##ch	g ##e ##s ##ch ##a ##h	2
+##ch	g ##e ##s ##ch ##a ##f ##f ##t	2
+##ch	g ##e ##r ##i ##n ##g ##g ##e ##a ##ch ##t ##e ##t ##e ##n	2
+##ch	g ##e ##r ##e ##ch ##t ##e ##r	2
+##ch	g ##e ##r ##e ##ch ##t ##e	2
+##ch	g ##e ##b ##r ##a ##u ##ch ##t ##e	2
+##ch	fü ##r ##ch ##t ##e ##t ##e ##n	2
+##ch	fü ##r ##ch ##t ##e ##n	2
+##ch	f ##u ##r ##ch ##t	2
+##ch	f ##r ##ü ##ch ##t ##e ##n	2
+##ch	f ##l ##e ##h ##e ##n ##t ##l ##i ##ch	2
+##ch	f ##i ##s ##ch ##e ##r	2
+##ch	f ##i ##s ##ch	2
+##ch	f ##e ##s ##t ##w ##o ##ch ##e	2
+##ch	f ##a ##l ##s ##ch ##a ##u ##s ##s ##a ##g ##e ##n	2
+##ch	e ##r ##t ##r ##ä ##g ##l ##i ##ch ##e ##r	2
+##ch	e ##r ##s ##ch ##l ##a ##g ##e ##n	2
+##ch	e ##r ##s ##ch ##i ##e ##n ##e ##n	2
+##ch	e ##r ##s ##ch ##i ##e ##n	2
+##ch	e ##r ##r ##e ##i ##ch ##t ##e ##n	2
+##ch	e ##n ##t ##s ##ch ##u ##l ##d ##i ##g ##e	2
+##ch	e ##i ##n ##g ##e ##s ##ch ##l ##a ##f ##e ##n	2
+##ch	e ##i ##n ##g ##e ##b ##r ##a ##ch ##t	2
+##ch	d ##u ##r ##ch ##s ##ch ##a ##u ##t ##e	2
+##ch	d ##o ##r ##n ##b ##u ##s ##ch	2
+##ch	d ##i ##e ##n ##e ##r ##s ##ch ##a ##f ##t	2
+##ch	d ##a ##ch ##t ##e ##r ##r ##a ##s ##s ##e	2
+##ch	d ##a ##ch	2
+##ch	b ##r ##a ##u ##ch ##t ##e ##n	2
+##ch	b ##r ##a ##ch ##e ##n	2
+##ch	b ##e ##w ##a ##ch ##t	2
+##ch	b ##e ##r ##i ##ch ##t ##e ##t	2
+##ch	b ##e ##ch ##e ##r ##n	2
+##ch	a ##u ##f ##r ##i ##ch ##t ##i ##g	2
+##ch	a ##n ##g ##e ##s ##p ##r ##o ##ch ##e ##n	2
+##ch	üb ##l ##i ##ch ##e	1
+##ch	üb ##l ##i ##ch	1
+##ch	üb ##e ##r ##w ##u ##ch ##e ##r ##t ##e	1
+##ch	üb ##e ##r ##s ##ch ##a ##t ##t ##e ##n	1
+##ch	üb ##e ##r ##n ##a ##ch ##t ##e ##t ##e	1
+##ch	üb ##e ##r ##n ##a ##ch ##t ##e ##n	1
+##ch	ä ##h ##n ##l ##i ##ch	1
+##ch	zw ##i ##s ##ch ##e ##n	1
+##ch	zu ##v ##e ##r ##s ##i ##ch ##t ##l ##i ##ch	1
+##ch	zu ##s ##a ##m ##m ##e ##n ##b ##r ##e ##ch ##e ##n	1
+##ch	zu ##r ##e ##ch ##t ##g ##e ##k ##o ##m ##m ##e ##n	1
+##ch	zu ##n ##i ##ch ##t ##e	1
+##ch	zu ##g ##l ##e ##i ##ch	1
+##ch	z ##o ##r ##n ##g ##e ##r ##i ##ch ##t	1
+##ch	z ##e ##r ##s ##ch ##n ##i ##t ##t ##e ##n	1
+##ch	z ##a ##ch ##ä ##u ##s	1
+##ch	w ##ü ##n ##s ##ch ##t ##e	1
+##ch	w ##ä ##ch ##s ##t	1
+##ch	w ##u ##ch ##s ##e ##n	1
+##ch	w ##o ##r ##f ##s ##ch ##a ##u ##f ##e ##l	1
+##ch	w ##o ##m ##ö ##g ##l ##i ##ch	1
+##ch	w ##o ##h ##l ##r ##i ##e ##ch ##e ##n ##d ##e ##n	1
+##ch	w ##e ##l ##ch ##e ##s	1
+##ch	w ##e ##i ##s ##m ##a ##ch ##e ##n	1
+##ch	w ##e ##i ##n ##s ##ch ##l ##ä ##u ##ch ##e	1
+##ch	w ##e ##i ##ch	1
+##ch	w ##a ##s ##ch ##u ##n ##g	1
+##ch	w ##a ##s ##ch ##e ##n	1
+##ch	w ##a ##ch ##t ##t ##u ##r ##m	1
+##ch	w ##a ##ch ##t	1
+##ch	w ##a ##ch ##s ##e ##n	1
+##ch	vo ##r ##s ##ch ##r ##i ##f ##t ##e ##n	1
+##ch	vo ##r ##s ##ch ##r ##e ##i ##b ##t	1
+##ch	vo ##r ##s ##ch ##l ##a ##g	1
+##ch	v ##i ##e ##r ##f ##a ##ch	1
+##ch	v ##e ##r ##z ##i ##ch ##t ##e ##t	1
+##ch	v ##e ##r ##w ##a ##n ##d ##t ##s ##ch ##a ##f ##t	1
+##ch	v ##e ##r ##s ##u ##ch ##t ##e ##n	1
+##ch	v ##e ##r ##s ##u ##ch ##e	1
+##ch	v ##e ##r ##s ##t ##ä ##n ##d ##l ##i ##ch	1
+##ch	v ##e ##r ##s ##p ##r ##o ##ch ##e ##n ##e	1
+##ch	v ##e ##r ##s ##p ##r ##o ##ch ##e ##n	1
+##ch	v ##e ##r ##s ##ch ##w ##e ##n ##d ##u ##n ##g	1
+##ch	v ##e ##r ##s ##ch ##l ##o ##s ##s ##e ##n ##e ##n	1
+##ch	v ##e ##r ##s ##ch ##l ##e ##pp ##t	1
+##ch	v ##e ##r ##s ##ch ##i ##e ##d ##e ##n ##s ##t ##e ##n	1
+##ch	v ##e ##r ##r ##i ##ch ##t ##e ##n	1
+##ch	v ##e ##r ##n ##i ##ch ##t ##e ##t	1
+##ch	v ##e ##r ##n ##a ##ch ##l ##ä ##s ##s ##i ##g ##e ##n	1
+##ch	v ##e ##r ##m ##i ##s ##ch ##t	1
+##ch	v ##e ##r ##h ##e ##r ##r ##l ##i ##ch ##t	1
+##ch	v ##e ##r ##g ##e ##b ##l ##i ##ch	1
+##ch	v ##e ##r ##f ##ä ##n ##g ##l ##i ##ch ##e ##n	1
+##ch	v ##e ##r ##f ##l ##u ##ch ##t	1
+##ch	v ##e ##r ##b ##r ##o ##ch ##e ##n	1
+##ch	v ##e ##r ##b ##r ##a ##ch ##t ##e ##n	1
+##ch	v ##e ##r ##a ##ch ##t ##u ##n ##g	1
+##ch	v ##e ##r ##a ##ch ##t ##e ##t	1
+##ch	u ##n ##v ##e ##r ##z ##ü ##g ##l ##i ##ch	1
+##ch	u ##n ##v ##e ##r ##s ##ch ##ä ##m ##t ##h ##e ##i ##t	1
+##ch	u ##n ##v ##e ##r ##g ##ä ##n ##g ##l ##i ##ch ##e ##n	1
+##ch	u ##n ##t ##e ##r ##r ##i ##ch ##t ##e ##t ##e	1
+##ch	u ##n ##s ##i ##ch ##t ##b ##a ##r	1
+##ch	u ##n ##s ##ch ##u ##l ##d ##i ##g	1
+##ch	u ##n ##m ##o ##r ##a ##l ##i ##s ##ch ##e ##n	1
+##ch	u ##n ##k ##e ##n ##n ##t ##l ##i ##ch	1
+##ch	u ##n ##g ##l ##a ##u ##b ##l ##i ##ch ##e ##s	1
+##ch	u ##n ##f ##r ##e ##u ##n ##d ##l ##i ##ch	1
+##ch	u ##n ##a ##u ##f ##h ##ö ##r ##l ##i ##ch	1
+##ch	u ##m ##s ##ch ##l ##o ##s ##s ##e ##n	1
+##ch	t ##u ##ch	1
+##ch	t ##r ##a ##ch ##o ##n ##i ##t ##i ##s	1
+##ch	t ##i ##s ##ch ##e	1
+##ch	t ##a ##u ##ch ##t	1
+##ch	t ##a ##u ##ch ##e ##n	1
+##ch	t ##a ##g ##e ##s ##a ##n ##b ##r ##u ##ch	1
+##ch	s ##ä ##m ##t ##l ##i ##ch ##e	1
+##ch	s ##u ##ch ##t ##e	1
+##ch	s ##u ##ch ##e ##n	1
+##ch	s ##t ##r ##i ##ch ##l ##e ##i ##n	1
+##ch	s ##t ##i ##ch	1
+##ch	s ##p ##r ##i ##ch	1
+##ch	s ##p ##r ##a ##ch ##e	1
+##ch	s ##o ##l ##ch ##e ##s	1
+##ch	s ##i ##ch ##e ##r ##h ##e ##i ##t	1
+##ch	s ##e ##u ##ch ##e ##n	1
+##ch	s ##e ##ch ##z ##i ##g- ##u ##n ##d	1
+##ch	s ##e ##ch ##z ##i ##g- ##o ##d ##e ##r	1
+##ch	s ##ch ##ü ##t ##t ##e ##n	1
+##ch	s ##ch ##ü ##t ##t ##e ##l ##t ##e ##n	1
+##ch	s ##ch ##ü ##t ##t ##e ##l ##t	1
+##ch	s ##ch ##ü ##s ##s ##e ##l	1
+##ch	s ##ch ##ü ##r ##z ##e	1
+##ch	s ##ch ##ä ##r ##f ##t	1
+##ch	s ##ch ##ä ##d ##e ##l ##s ##t ##ä ##t ##t ##e	1
+##ch	s ##ch ##ä ##d ##e ##l	1
+##ch	s ##ch ##w ##o ##r	1
+##ch	s ##ch ##w ##i ##e ##g	1
+##ch	s ##ch ##w ##e ##s ##t ##e ##r ##n	1
+##ch	s ##ch ##w ##e ##s ##t ##e ##r	1
+##ch	s ##ch ##w ##e ##r ##e ##r	1
+##ch	s ##ch ##w ##e ##r ##e ##n	1
+##ch	s ##ch ##w ##e ##i ##ß	1
+##ch	s ##ch ##w ##e ##i ##n ##e ##n	1
+##ch	s ##ch ##w ##e ##i ##g ##e ##n	1
+##ch	s ##ch ##w ##e ##f ##e ##l	1
+##ch	s ##ch ##w ##a ##m ##m	1
+##ch	s ##ch ##w ##a ##ch	1
+##ch	s ##ch ##u ##l ##t ##e ##r ##n	1
+##ch	s ##ch ##u ##f	1
+##ch	s ##ch ##r ##i ##f ##t ##w ##o ##r ##t	1
+##ch	s ##ch ##r ##e ##i ##t	1
+##ch	s ##ch ##r ##e ##c ##k ##l ##i ##ch ##e ##r	1
+##ch	s ##ch ##r ##e ##c ##k ##l ##i ##ch ##e	1
+##ch	s ##ch ##r ##e ##c ##k ##l ##i ##ch	1
+##ch	s ##ch ##r ##e ##c ##k ##e ##n	1
+##ch	s ##ch ##o ##ß	1
+##ch	s ##ch ##n ##e ##i ##d ##e ##t	1
+##ch	s ##ch ##m ##u ##t ##z	1
+##ch	s ##ch ##l ##ü ##s ##s ##e ##l	1
+##ch	s ##ch ##l ##ä ##g ##t	1
+##ch	s ##ch ##l ##ä ##f ##t	1
+##ch	s ##ch ##l ##ä ##f ##s ##t	1
+##ch	s ##ch ##l ##i ##m ##m ##e ##r ##e	1
+##ch	s ##ch ##l ##e ##pp ##t	1
+##ch	s ##ch ##l ##e ##ch ##t ##e ##m	1
+##ch	s ##ch ##l ##a ##n ##g ##e ##n ##b ##r ##u ##t	1
+##ch	s ##ch ##l ##a ##n ##g ##e ##n	1
+##ch	s ##ch ##l ##a ##n ##g ##e	1
+##ch	s ##ch ##l ##a ##f ##t	1
+##ch	s ##ch ##l ##a ##f ##e ##n ##d	1
+##ch	s ##ch ##l ##a ##f ##e ##n	1
+##ch	s ##ch ##l ##a ##ch ##t ##o ##p ##f ##e ##r	1
+##ch	s ##ch ##i ##l ##f ##r ##o ##h ##r	1
+##ch	s ##ch ##i ##k ##a ##n ##i ##e ##r ##e ##n	1
+##ch	s ##ch ##i ##c ##k ##e	1
+##ch	s ##ch ##e ##u ##s ##a ##l	1
+##ch	s ##ch ##e ##u ##n ##e ##n	1
+##ch	s ##ch ##e ##u ##n ##e	1
+##ch	s ##ch ##e ##n ##k ##t ##e	1
+##ch	s ##ch ##e ##n ##k ##e ##n	1
+##ch	s ##ch ##e ##i ##n ##e ##n	1
+##ch	s ##ch ##e ##i ##d ##u ##n ##g	1
+##ch	s ##ch ##e ##i ##d ##e ##b ##r ##i ##e ##f	1
+##ch	s ##ch ##a ##u ##t ##e	1
+##ch	s ##ch ##a ##u ##s ##p ##i ##e ##l	1
+##ch	s ##ch ##a ##f ##e	1
+##ch	s ##a ##ch ##e ##n	1
+##ch	s ##a ##b ##a ##ch ##t ##h ##a ##n ##i	1
+##ch	r ##ö ##m ##i ##s ##ch ##e ##n	1
+##ch	r ##ö ##m ##i ##s ##ch ##e ##m	1
+##ch	r ##i ##ch ##t ##e ##t ##e ##n	1
+##ch	r ##i ##ch ##t ##e ##r	1
+##ch	r ##e ##v ##a ##n ##ch ##i ##e ##r ##e ##n	1
+##ch	r ##e ##i ##ch ##t ##u ##m	1
+##ch	r ##e ##i ##ch ##e ##s	1
+##ch	r ##e ##ch ##t ##f ##e ##r ##t ##i ##g ##e ##n	1
+##ch	p ##r ##i ##e ##s ##t ##e ##r ##g ##e ##s ##ch ##l ##e ##ch ##t	1
+##ch	p ##r ##a ##ch ##t	1
+##ch	p ##f ##l ##i ##ch ##t	1
+##ch	p ##e ##r ##s ##ö ##n ##l ##i ##ch	1
+##ch	o ##f ##f ##e ##n ##s ##i ##ch ##t ##l ##i ##ch	1
+##ch	o ##ch ##s ##e ##n ##g ##e ##s ##p ##a ##n ##n ##e	1
+##ch	o ##ch ##s ##e ##n	1
+##ch	n ##i ##ch ##t ##s ##n ##u ##t ##z ##i ##g ##e ##r	1
+##ch	n ##a ##ch ##m ##i ##t ##t ##a ##g ##s	1
+##ch	n ##a ##ch ##k ##o ##m ##m ##e ##n ##s ##ch ##a ##f ##t	1
+##ch	n ##a ##ch ##h ##e ##r	1
+##ch	n ##a ##ch ##f ##o ##l ##g ##t ##e ##n	1
+##ch	n ##a ##ch ##f ##o ##l ##g ##t	1
+##ch	n ##a ##ch ##d ##r ##ü ##c ##k ##l ##i ##ch	1
+##ch	n ##a ##ch ##d ##e ##n ##k ##l ##i ##ch	1
+##ch	m ##ö ##ch ##t ##e ##s ##t	1
+##ch	m ##ö ##ch ##t ##e ##n	1
+##ch	m ##ä ##ch ##t ##i ##g ##e ##r	1
+##ch	m ##ä ##ch ##t ##i ##g ##e ##n	1
+##ch	m ##i ##t ##g ##e ##b ##r ##a ##ch ##t	1
+##ch	m ##i ##s ##s ##b ##r ##a ##u ##ch ##e ##n	1
+##ch	m ##i ##s ##ch ##t	1
+##ch	m ##e ##n ##s ##ch ##e ##n ##s ##o ##h ##n ##e ##s	1
+##ch	m ##e ##n ##s ##ch ##e ##n ##f ##i ##s ##ch ##e ##r ##n	1
+##ch	m ##a ##n ##n ##s ##ch ##a ##f ##t	1
+##ch	m ##a ##ch ##t ##vo ##l ##l	1
+##ch	m ##a ##ch ##t ##h ##a ##b ##e ##r	1
+##ch	l ##ö ##ch ##e ##r	1
+##ch	l ##o ##s ##m ##a ##ch ##t ##e ##n	1
+##ch	l ##o ##ch	1
+##ch	l ##i ##ch ##t ##s	1
+##ch	l ##e ##i ##ch ##t ##e ##r ##e ##n	1
+##ch	l ##e ##i ##ch ##t ##e ##r	1
+##ch	l ##e ##d ##e ##r ##p ##e ##i ##t ##s ##ch ##e	1
+##ch	l ##a ##ch ##e ##n ##d ##e ##n	1
+##ch	l ##a ##ch ##e ##n	1
+##ch	kö ##n ##i ##g ##s ##h ##e ##r ##r ##s ##ch ##a ##f ##t	1
+##ch	kö ##n ##i ##g ##r ##e ##i ##ch ##e	1
+##ch	kö ##n ##i ##g ##r ##e ##i ##ch	1
+##ch	k ##ü ##ch ##e ##n ##k ##r ##ä ##u ##t ##e ##r ##n	1
+##ch	k ##n ##o ##ch ##e ##n	1
+##ch	k ##n ##i ##r ##s ##ch ##t	1
+##ch	k ##l ##a ##r ##z ##u ##m ##a ##ch ##e ##n	1
+##ch	jü ##d ##i ##s ##ch ##e ##n	1
+##ch	hö ##h ##n ##i ##s ##ch	1
+##ch	h ##ü ##n ##d ##ch ##e ##n	1
+##ch	h ##u ##n ##d ##e ##r ##t ##f ##a ##ch ##e	1
+##ch	h ##o ##ch ##w ##a ##s ##s ##e ##r	1
+##ch	h ##o ##ch ##g ##e ##l ##o ##b ##t ##e ##n	1
+##ch	h ##o ##ch ##e ##r ##f ##r ##e ##u ##t	1
+##ch	h ##o ##ch	1
+##ch	h ##i ##n ##r ##i ##ch ##t ##u ##n ##g	1
+##ch	h ##i ##m ##m ##e ##l ##s ##r ##i ##ch ##t ##u ##n ##g ##e ##n	1
+##ch	h ##e ##r ##r ##s ##ch ##e ##r	1
+##ch	h ##e ##r ##r ##s ##ch ##e ##n	1
+##ch	h ##e ##r ##r ##s ##ch ##a ##f ##t ##s ##b ##e ##r ##e ##i ##ch	1
+##ch	h ##e ##r ##r ##l ##i ##ch ##e ##n	1
+##ch	h ##e ##r ##r ##l ##i ##ch ##e	1
+##ch	h ##e ##r ##g ##e ##r ##i ##ch ##t ##e ##t	1
+##ch	h ##e ##r ##e ##i ##n ##b ##r ##i ##ch ##t	1
+##ch	h ##a ##h ##n ##e ##n ##s ##ch ##r ##e ##i	1
+##ch	h ##a ##b ##s ##u ##ch ##t	1
+##ch	g ##ö ##t ##t ##l ##i ##ch ##e ##r	1
+##ch	g ##o ##t ##t ##e ##s ##f ##ü ##r ##ch ##t ##i ##g ##e ##r	1
+##ch	g ##l ##e ##i ##ch ##n ##i ##s ##s ##e ##n	1
+##ch	g ##l ##e ##i ##ch ##g ##e ##w ##i ##ch ##t	1
+##ch	g ##e ##wöh ##n ##l ##i ##ch	1
+##ch	g ##e ##w ##a ##s ##ch ##e ##n	1
+##ch	g ##e ##s ##u ##ch ##t	1
+##ch	g ##e ##s ##p ##r ##ä ##ch	1
+##ch	g ##e ##s ##i ##ch ##t ##s	1
+##ch	g ##e ##s ##ch ##w ##i ##s ##t ##e ##r	1
+##ch	g ##e ##s ##ch ##m ##ü ##c ##k ##t	1
+##ch	g ##e ##s ##ch ##l ##a ##f ##e ##n	1
+##ch	g ##e ##s ##ch ##i ##e ##d ##e ##n ##e	1
+##ch	g ##e ##s ##ch ##i ##ch ##t ##e	1
+##ch	g ##e ##s ##ch ##e ##n ##k ##t	1
+##ch	g ##e ##r ##i ##ch ##t ##s ##d ##i ##e ##n ##e ##r	1
+##ch	g ##e ##r ##i ##ch ##t ##s ##b ##a ##r ##k ##e ##i ##t	1
+##ch	g ##e ##r ##i ##ch ##t ##s	1
+##ch	g ##e ##r ##i ##ch ##t ##e ##t	1
+##ch	g ##e ##r ##e ##ch ##t ##i ##g ##k ##e ##i ##t	1
+##ch	g ##e ##r ##e ##ch ##t	1
+##ch	g ##e ##r ##e ##ch ##n ##e ##t	1
+##ch	g ##e ##m ##a ##ch ##t ##e	1
+##ch	g ##e ##l ##d ##w ##e ##ch ##s ##l ##e ##r	1
+##ch	g ##e ##b ##r ##a ##u ##ch ##t	1
+##ch	g ##e ##a ##ch ##t ##e ##t	1
+##ch	g ##a ##l ##i ##l ##ä ##i ##s ##ch ##e ##n	1
+##ch	fü ##r ##ch ##t ##e ##t	1
+##ch	fü ##r ##ch ##t ##e	1
+##ch	fü ##ch ##s ##e	1
+##ch	f ##u ##ß ##s ##ch ##e ##m ##e ##l	1
+##ch	f ##u ##r ##ch ##t ##b ##a ##r ##e	1
+##ch	f ##u ##r ##ch ##t ##b ##a ##r	1
+##ch	f ##r ##e ##u ##n ##d ##s ##ch ##a ##f ##t	1
+##ch	f ##r ##e ##i ##g ##e ##s ##p ##r ##o ##ch ##e ##n	1
+##ch	f ##o ##r ##t ##z ##u ##s ##ch ##i ##c ##k ##e ##n	1
+##ch	f ##l ##ä ##s ##ch ##ch ##e ##n ##s	1
+##ch	f ##l ##u ##ch ##e ##n	1
+##ch	f ##l ##o ##ch ##t ##e ##n	1
+##ch	f ##l ##e ##i ##s ##ch	1
+##ch	f ##i ##n ##s ##t ##e ##r ##n ##i ##s ##m ##ä ##ch ##t ##e	1
+##ch	f ##e ##u ##ch ##t ##i ##g ##k ##e ##i ##t	1
+##ch	f ##e ##i ##n ##d ##l ##i ##ch ##e ##n	1
+##ch	e ##r ##s ##ch ##r ##a ##k	1
+##ch	e ##r ##s ##ch ##e ##i ##n ##e ##n	1
+##ch	e ##r ##l ##ö ##s ##ch ##e ##n ##d ##e	1
+##ch	e ##r ##l ##i ##s ##ch ##t	1
+##ch	e ##r ##d ##s ##ch ##i ##ch ##t	1
+##ch	e ##r ##b ##s ##ch ##a ##f ##t	1
+##ch	e ##n ##t ##s ##p ##r ##i ##ch ##t	1
+##ch	e ##n ##t ##s ##ch ##u ##l ##d ##i ##g ##e ##n	1
+##ch	e ##i ##n ##s ##i ##ch ##t	1
+##ch	e ##i ##n ##s ##ch ##ä ##t ##z ##e ##n	1
+##ch	e ##i ##n ##g ##e ##s ##ch ##l ##o ##s ##s ##e ##n	1
+##ch	e ##i ##n ##g ##e ##b ##r ##o ##ch ##e ##n	1
+##ch	e ##i ##n ##b ##r ##e ##ch ##e ##n	1
+##ch	e ##i ##g ##e ##n ##s ##ch ##a ##f ##t	1
+##ch	e ##h ##r ##l ##i ##ch	1
+##ch	e ##h ##r ##f ##u ##r ##ch ##t	1
+##ch	e ##h ##e ##b ##r ##e ##ch ##e ##r	1
+##ch	d ##u ##r ##ch ##z ##o ##g	1
+##ch	d ##u ##r ##ch ##s ##ä ##u ##e ##r ##t	1
+##ch	d ##u ##r ##ch ##s ##i ##e ##b ##e ##n	1
+##ch	d ##u ##r ##ch ##k ##o ##m ##m ##e ##n	1
+##ch	d ##u ##r ##ch ##k ##a ##m ##e ##n	1
+##ch	d ##u ##r ##ch ##d ##r ##u ##n ##g ##e ##n	1
+##ch	d ##a ##ch ##t ##e ##r ##a ##s ##s ##e ##n	1
+##ch	d ##a ##ch ##t ##e	1
+##ch	b ##u ##ch	1
+##ch	b ##r ##a ##u ##ch ##s ##t	1
+##ch	b ##r ##a ##u ##ch ##b ##a ##r	1
+##ch	b ##e ##z ##e ##i ##ch ##n ##e ##t	1
+##ch	b ##e ##w ##a ##ch ##t ##e ##n	1
+##ch	b ##e ##s ##u ##ch ##t	1
+##ch	b ##e ##s ##ch ##ä ##f ##t ##i ##g ##t ##e	1
+##ch	b ##e ##s ##ch ##ä ##f ##t ##i ##g ##t	1
+##ch	b ##e ##s ##ch ##u ##l ##d ##i ##g ##u ##n ##g ##e ##n	1
+##ch	b ##e ##s ##ch ##r ##i ##e ##b ##e ##n	1
+##ch	b ##e ##s ##ch ##n ##i ##t ##t ##e ##n	1
+##ch	b ##e ##s ##ch ##n ##e ##i ##d ##u ##n ##g	1
+##ch	b ##e ##s ##ch ##l ##u ##s ##s	1
+##ch	b ##e ##s ##ch ##e ##n ##k ##t ##e	1
+##ch	b ##e ##s ##ch ##e ##n ##k ##t	1
+##ch	b ##e ##r ##i ##ch ##t ##e	1
+##ch	b ##e ##o ##b ##a ##ch ##t ##e ##t ##e ##n	1
+##ch	b ##e ##o ##b ##a ##ch ##t ##e ##t	1
+##ch	a ##u ##s ##s ##u ##ch ##t ##e ##n	1
+##ch	a ##u ##s ##s ##p ##r ##e ##ch ##e ##n	1
+##ch	a ##u ##s ##s ##ch ##a ##ch ##t ##e ##t	1
+##ch	a ##u ##s ##p ##e ##i ##t ##s ##ch ##e ##n	1
+##ch	a ##u ##s ##g ##e ##p ##e ##i ##t ##s ##ch ##t	1
+##ch	a ##u ##s ##g ##e ##m ##a ##ch ##t ##e ##n	1
+##ch	a ##u ##g ##e ##n ##l ##i ##ch ##t	1
+##ch	a ##u ##f ##s ##ch ##l ##o ##s ##s	1
+##ch	a ##u ##f ##r ##i ##ch ##t ##i ##g ##e ##m	1
+##ch	a ##u ##f ##r ##i ##ch ##t ##e ##t	1
+##ch	a ##u ##f ##g ##e ##w ##a ##ch ##s ##e ##n	1
+##ch	a ##u ##f ##g ##e ##s ##ch ##r ##i ##e ##b ##e ##n	1
+##ch	a ##s ##ch ##e	1
+##ch	a ##r ##ch ##e	1
+##ch	a ##n ##s ##p ##r ##u ##ch	1
+##ch	a ##n ##s ##ch ##u ##l ##d ##i ##g ##u ##n ##g ##e ##n	1
+##ch	a ##n ##s ##ch ##l ##i ##e ##ß ##e ##n ##d	1
+##ch	a ##n ##s ##ch ##e ##i ##n	1
+##ch	a ##n ##g ##e ##b ##r ##a ##ch ##t	1
+##ch	a ##l ##l ##m ##ä ##ch ##t ##i ##g ##e ##n	1
+##ch	a ##ch ##t ##z ##e ##h ##n	1
+##ch	a ##b ##s ##i ##ch ##t	1
+##ch	a ##b ##s ##ch ##i ##e ##d	1
+subword:##ch	595	2917	4.902521008403362
+##ck	zu ##r ##ü ##ck	24
+##ck	s ##ch ##i ##ck ##t ##e	15
+##ck	a ##u ##g ##e ##n ##b ##l ##i ##ck	11
+##ck	g ##l ##ü ##ck ##l ##i ##ch	8
+##ck	b ##l ##i ##ck ##t ##e	8
+##ck	s ##t ##ü ##ck	7
+##ck	zu ##r ##ü ##ck ##k ##a ##m	5
+##ck	s ##t ##ü ##ck ##e	5
+##ck	s ##ch ##i ##ck ##e ##n	5
+##ck	g ##e ##p ##a ##ck ##t	5
+##ck	s ##ch ##i ##ck ##t ##e ##n	4
+##ck	p ##a ##ck ##t ##e ##n	4
+##ck	zu ##r ##ü ##ck ##g ##e ##z ##o ##g ##e ##n	3
+##ck	g ##e ##s ##ch ##i ##ck ##t	3
+##ck	e ##r ##s ##ch ##r ##o ##ck ##e ##n	3
+##ck	e ##r ##s ##ch ##r ##e ##ck ##t	3
+##ck	d ##r ##ü ##ck ##t	3
+##ck	zu ##r ##ü ##ck ##k ##e ##h ##r ##e ##n	2
+##ck	w ##i ##ck ##e ##l ##t ##e	2
+##ck	w ##e ##ck ##t ##e ##n	2
+##ck	s ##t ##r ##e ##ck	2
+##ck	s ##t ##e ##ck ##t ##e	2
+##ck	s ##ch ##r ##e ##ck ##l ##i ##ch ##e ##n	2
+##ck	s ##ch ##i ##ck	2
+##ck	g ##e ##s ##ch ##m ##a ##ck	2
+##ck	e ##ck ##s ##t ##e ##i ##n	2
+##ck	b ##r ##o ##ck ##e ##n	2
+##ck	a ##u ##f ##e ##r ##w ##e ##ck ##t	2
+##ck	ä ##ck ##e ##r	1
+##ck	zu ##r ##ü ##ck ##z ##u ##k ##o ##m ##m ##e ##n	1
+##ck	zu ##r ##ü ##ck ##z ##u ##h ##o ##l ##e ##n	1
+##ck	zu ##r ##ü ##ck ##z ##u ##f ##a ##h ##r ##e ##n	1
+##ck	zu ##r ##ü ##ck ##z ##a ##h ##l ##e ##n	1
+##ck	zu ##r ##ü ##ck ##l ##a ##u ##f ##e ##n	1
+##ck	zu ##r ##ü ##ck ##k ##a ##m ##e ##n	1
+##ck	zu ##r ##ü ##ck ##g ##i ##n ##g	1
+##ck	zu ##r ##ü ##ck ##g ##e ##k ##e ##h ##r ##t	1
+##ck	zu ##r ##ü ##ck ##g ##e ##h ##e ##n	1
+##ck	zu ##r ##ü ##ck ##e ##r ##s ##t ##a ##t ##t ##e ##n	1
+##ck	zu ##r ##ü ##ck ##b ##r ##i ##n ##g ##e ##n	1
+##ck	zu ##r ##ü ##ck ##b ##e ##k ##o ##m ##m ##t	1
+##ck	zu ##r ##ü ##ck ##b ##e ##k ##o ##m ##m ##e ##n	1
+##ck	v ##e ##r ##t ##r ##o ##ck ##n ##e ##t ##e ##n	1
+##ck	v ##e ##r ##s ##t ##o ##ck ##t ##e ##n	1
+##ck	v ##e ##r ##s ##t ##e ##ck ##t	1
+##ck	t ##r ##a ##u ##e ##r ##s ##a ##ck	1
+##ck	s ##t ##o ##ck	1
+##ck	s ##p ##u ##ck ##t ##e ##n	1
+##ck	s ##ch ##r ##e ##ck ##l ##i ##ch ##e ##r	1
+##ck	s ##ch ##r ##e ##ck ##l ##i ##ch ##e	1
+##ck	s ##ch ##r ##e ##ck ##l ##i ##ch	1
+##ck	s ##ch ##r ##e ##ck ##e ##n	1
+##ck	s ##ch ##i ##ck ##e	1
+##ck	s ##a ##ck	1
+##ck	p ##i ##ck ##t ##e ##n	1
+##ck	p ##f ##l ##ü ##ck ##t	1
+##ck	p ##a ##ck ##t ##e	1
+##ck	p ##a ##ck ##t	1
+##ck	n ##a ##ch ##d ##r ##ü ##ck ##l ##i ##ch	1
+##ck	l ##o ##ck ##e ##n	1
+##ck	l ##e ##h ##m ##d ##e ##ck ##e	1
+##ck	h ##i ##n ##ü ##b ##e ##r ##b ##l ##i ##ck ##t ##e	1
+##ck	h ##i ##n ##e ##i ##n ##s ##t ##e ##ck ##t ##e	1
+##ck	h ##e ##ck	1
+##ck	h ##a ##ck	1
+##ck	g ##l ##ü ##ck	1
+##ck	g ##e ##t ##r ##o ##ck ##n ##e ##t	1
+##ck	g ##e ##s ##t ##e ##ck ##t	1
+##ck	g ##e ##s ##ch ##m ##ü ##ck ##t	1
+##ck	g ##e ##d ##r ##ü ##ck ##t ##e ##s	1
+##ck	f ##o ##r ##t ##z ##u ##s ##ch ##i ##ck ##e ##n	1
+##ck	f ##l ##i ##ck ##e ##n	1
+##ck	f ##l ##e ##ck	1
+##ck	e ##r ##w ##e ##ck ##e ##n	1
+##ck	e ##r ##s ##t ##i ##ck ##t ##e ##n	1
+##ck	e ##r ##s ##t ##i ##ck ##t ##e	1
+##ck	e ##r ##s ##t ##i ##ck ##e ##n	1
+##ck	e ##i ##n ##d ##r ##u ##ck	1
+##ck	d ##e ##ck ##t ##e ##n	1
+##ck	b ##ü ##ck ##e ##n	1
+##ck	b ##r ##o ##t ##s ##t ##ü ##ck ##e ##n	1
+##ck	b ##l ##i ##ck ##t ##e ##n	1
+##ck	b ##e ##e ##i ##n ##d ##r ##u ##ck ##t ##e	1
+##ck	b ##e ##d ##r ##ü ##ck ##t	1
+##ck	b ##e ##d ##e ##ck ##t	1
+##ck	a ##u ##f ##z ##u ##b ##l ##i ##ck ##e ##n	1
+##ck	a ##n ##z ##u ##s ##p ##u ##ck ##e ##n	1
+##ck	a ##n ##s ##t ##e ##ck ##e ##n	1
+##ck	a ##n ##s ##p ##u ##ck ##e ##n	1
+##ck	a ##n ##g ##e ##r ##ü ##ck ##t	1
+##ck	a ##ck ##e ##r	1
+subword:##ck	91	201	2.208791208791209
+##ück	zu ##r ##ück	24
+##ück	g ##l ##ück ##l ##i ##ch	8
+##ück	s ##t ##ück	7
+##ück	zu ##r ##ück ##k ##a ##m	5
+##ück	s ##t ##ück ##e	5
+##ück	zu ##r ##ück ##g ##e ##z ##o ##g ##e ##n	3
+##ück	d ##r ##ück ##t	3
+##ück	zu ##r ##ück ##k ##e ##h ##r ##e ##n	2
+##ück	zu ##r ##ück ##z ##u ##k ##o ##m ##m ##e ##n	1
+##ück	zu ##r ##ück ##z ##u ##h ##o ##l ##e ##n	1
+##ück	zu ##r ##ück ##z ##u ##f ##a ##h ##r ##e ##n	1
+##ück	zu ##r ##ück ##z ##a ##h ##l ##e ##n	1
+##ück	zu ##r ##ück ##l ##a ##u ##f ##e ##n	1
+##ück	zu ##r ##ück ##k ##a ##m ##e ##n	1
+##ück	zu ##r ##ück ##g ##i ##n ##g	1
+##ück	zu ##r ##ück ##g ##e ##k ##e ##h ##r ##t	1
+##ück	zu ##r ##ück ##g ##e ##h ##e ##n	1
+##ück	zu ##r ##ück ##e ##r ##s ##t ##a ##t ##t ##e ##n	1
+##ück	zu ##r ##ück ##b ##r ##i ##n ##g ##e ##n	1
+##ück	zu ##r ##ück ##b ##e ##k ##o ##m ##m ##t	1
+##ück	zu ##r ##ück ##b ##e ##k ##o ##m ##m ##e ##n	1
+##ück	p ##f ##l ##ück ##t	1
+##ück	n ##a ##ch ##d ##r ##ück ##l ##i ##ch	1
+##ück	g ##l ##ück	1
+##ück	g ##e ##s ##ch ##m ##ück ##t	1
+##ück	g ##e ##d ##r ##ück ##t ##e ##s	1
+##ück	b ##ück ##e ##n	1
+##ück	b ##r ##o ##t ##s ##t ##ück ##e ##n	1
+##ück	b ##e ##d ##r ##ück ##t	1
+##ück	a ##n ##g ##e ##r ##ück ##t	1
+subword:##ück	30	79	2.6333333333333333
+äck	äck ##e ##r	1
+subword:äck	1	1	1.0
+ch	n ##i ##ch ##t	241
+ch	s ##i ##ch	227
+ch	e ##u ##ch	207
+ch	i ##ch	189
+ch	d ##o ##ch	138
+ch	a ##u ##ch	121
+ch	n ##o ##ch	85
+ch	n ##a ##ch	74
+ch	m ##e ##n ##s ##ch ##e ##n	60
+ch	d ##i ##ch	52
+ch	m ##i ##ch	44
+ch	r ##e ##i ##ch	29
+ch	m ##e ##n ##s ##ch ##e ##n ##s ##o ##h ##n	23
+ch	n ##i ##ch ##t ##s	22
+ch	d ##u ##r ##ch	22
+ch	b ##o ##t ##s ##ch ##a ##f ##t	21
+ch	s ##ch ##o ##n	20
+ch	m ##a ##ch ##t	20
+ch	s ##p ##r ##a ##ch	19
+ch	v ##e ##r ##s ##i ##ch ##e ##r ##e	18
+ch	g ##e ##s ##ch ##e ##h ##e ##n	18
+ch	z ##e ##i ##ch ##e ##n	16
+ch	w ##i ##r ##k ##l ##i ##ch	15
+ch	s ##ch ##i ##ck ##t ##e	15
+ch	m ##a ##ch ##t ##e ##n	15
+ch	m ##a ##ch ##e ##n	15
+ch	d ##a ##n ##a ##ch	15
+ch	g ##l ##e ##i ##ch	14
+ch	s ##ch ##r ##i ##f ##t	13
+ch	m ##e ##n ##s ##ch ##e ##n ##m ##e ##n ##g ##e	13
+ch	vo ##l ##l ##m ##a ##ch ##t	12
+ch	m ##a ##ch ##t ##e	12
+ch	t ##i ##s ##ch	11
+ch	s ##ch ##l ##i ##e ##ß ##l ##i ##ch	11
+ch	p ##l ##ö ##t ##z ##l ##i ##ch	11
+ch	g ##l ##e ##i ##ch ##n ##i ##s	10
+ch	b ##r ##a ##ch	10
+ch	s ##p ##r ##e ##ch ##e ##n	9
+ch	s ##o ##l ##ch ##e	9
+ch	s ##ch ##l ##u ##g ##e ##n	9
+ch	n ##a ##ch ##d ##e ##m	9
+ch	b ##r ##a ##ch ##t ##e ##n	9
+ch	m ##e ##n ##s ##ch	8
+ch	l ##i ##ch ##t	8
+ch	g ##l ##ück ##l ##i ##ch	8
+ch	t ##o ##ch ##t ##e ##r	7
+ch	n ##ä ##ch ##s ##t ##e ##n	7
+ch	n ##a ##ch ##t	7
+ch	h ##e ##r ##r ##s ##ch ##a ##f ##t	7
+ch	g ##e ##s ##ch ##i ##e ##h ##t	7
+ch	g ##e ##r ##i ##ch ##t	7
+ch	g ##e ##m ##a ##ch ##t	7
+ch	d ##a ##ch ##t ##e ##n	7
+ch	b ##r ##a ##ch ##t ##e	7
+ch	a ##ch ##t	7
+ch	w ##a ##ch ##s ##a ##m	6
+ch	s ##u ##ch ##t ##e ##n	6
+ch	s ##i ##ch ##e ##r	6
+ch	s ##ch ##w ##e ##r	6
+ch	s ##ch ##r ##i ##e	6
+ch	g ##e ##s ##ch ##r ##i ##e ##b ##e ##n	6
+ch	f ##r ##u ##ch ##t	6
+ch	e ##i ##n ##f ##a ##ch	6
+ch	b ##r ##a ##u ##ch ##t	6
+ch	v ##e ##r ##b ##r ##e ##ch ##e ##r	5
+ch	s ##ch ##w ##e ##i ##n ##e	5
+ch	s ##ch ##r ##i ##e ##n	5
+ch	s ##ch ##n ##e ##l ##l	5
+ch	s ##ch ##i ##ck ##e ##n	5
+ch	r ##e ##ch ##t	5
+ch	m ##ä ##d ##ch ##e ##n	5
+ch	g ##l ##e ##i ##ch ##z ##e ##i ##t ##i ##g	5
+ch	g ##l ##e ##i ##ch ##e ##n	5
+ch	üb ##e ##r ##r ##a ##s ##ch ##t	4
+ch	zu ##r ##e ##ch ##t	4
+ch	z ##a ##ch ##a ##r ##i ##a ##s	4
+ch	w ##u ##ch ##s	4
+ch	vo ##r ##r ##a ##t ##s ##t ##a ##s ##ch ##e	4
+ch	v ##e ##r ##s ##ch ##w ##a ##n ##d	4
+ch	v ##e ##r ##g ##l ##e ##i ##ch ##e ##n	4
+ch	s ##u ##ch ##t	4
+ch	s ##ch ##w ##a ##n ##g ##e ##r	4
+ch	s ##ch ##u ##l ##d	4
+ch	s ##ch ##i ##ck ##t ##e ##n	4
+ch	s ##ch ##a ##r ##e ##n	4
+ch	r ##i ##ch ##t ##e ##t	4
+ch	r ##e ##ch ##t ##e	4
+ch	n ##ä ##m ##l ##i ##ch	4
+ch	n ##a ##t ##ü ##r ##l ##i ##ch	4
+ch	j ##e ##d ##o ##ch	4
+ch	hö ##ch ##s ##t ##e ##n	4
+ch	h ##e ##u ##ch ##e ##l ##e ##i	4
+ch	h ##e ##r ##r ##l ##i ##ch ##k ##e ##i ##t	4
+ch	g ##e ##s ##i ##ch ##t	4
+ch	g ##e ##h ##o ##r ##ch ##e ##n	4
+ch	g ##e ##b ##r ##a ##ch ##t	4
+ch	f ##r ##ü ##ch ##t ##e	4
+ch	f ##i ##s ##ch ##e	4
+ch	e ##r ##s ##ch ##r ##a ##k ##e ##n	4
+ch	e ##n ##t ##s ##p ##r ##e ##ch ##e ##n	4
+ch	e ##h ##e ##b ##r ##u ##ch	4
+ch	d ##e ##u ##t ##l ##i ##ch	4
+ch	b ##r ##a ##u ##ch ##e ##n	4
+ch	b ##e ##r ##i ##ch ##t ##e ##t ##e ##n	4
+ch	b ##e ##r ##i ##ch ##t ##e ##t ##e	4
+ch	b ##e ##ch ##e ##r	4
+ch	w ##i ##ch ##t ##i ##g ##e ##r	3
+ch	w ##e ##l ##ch ##e ##r	3
+ch	w ##e ##l ##ch ##e ##m	3
+ch	w ##e ##l ##ch ##e	3
+ch	v ##e ##r ##s ##u ##ch ##u ##n ##g	3
+ch	v ##e ##r ##g ##l ##e ##i ##ch	3
+ch	u ##n ##m ##ö ##g ##l ##i ##ch	3
+ch	t ##ä ##g ##l ##i ##ch	3
+ch	s ##o ##l ##ch	3
+ch	s ##i ##ch ##t ##b ##a ##r	3
+ch	s ##ch ##ä ##r ##f ##t ##e	3
+ch	s ##ch ##w ##e ##r ##t	3
+ch	s ##ch ##w ##e ##i ##g	3
+ch	s ##ch ##l ##ä ##u ##ch ##e	3
+ch	s ##ch ##l ##u ##g	3
+ch	s ##ch ##l ##o ##s ##s	3
+ch	s ##ch ##l ##e ##ch ##t	3
+ch	s ##ch ##a ##u ##m	3
+ch	s ##ch ##a ##t ##z	3
+ch	s ##ch ##a ##r	3
+ch	r ##i ##ch ##t ##i ##g	3
+ch	r ##e ##ch ##t ##s	3
+ch	r ##e ##ch ##t ##e ##n	3
+ch	l ##e ##i ##ch ##n ##a ##m	3
+ch	i ##n ##z ##w ##i ##s ##ch ##e ##n	3
+ch	h ##e ##u ##ch ##l ##e ##r	3
+ch	h ##e ##r ##r ##s ##ch ##t ##e	3
+ch	g ##l ##e ##i ##ch ##n ##i ##s ##s ##e	3
+ch	g ##e ##s ##ch ##l ##e ##ch ##t	3
+ch	g ##e ##s ##ch ##i ##ck ##t	3
+ch	g ##e ##s ##ch ##a ##f ##f ##e ##n	3
+ch	g ##e ##r ##e ##ch ##t ##e ##n	3
+ch	g ##e ##h ##o ##r ##ch ##t ##e	3
+ch	f ##a ##l ##s ##ch ##e	3
+ch	e ##r ##s ##ch ##r ##o ##ck ##e ##n	3
+ch	e ##r ##s ##ch ##r ##e ##ck ##t	3
+ch	e ##i ##g ##e ##n ##t ##l ##i ##ch	3
+ch	b ##r ##e ##ch ##e ##n	3
+ch	b ##e ##s ##ch ##i ##m ##p ##f ##t ##e ##n	3
+ch	öff ##e ##n ##t ##l ##i ##ch	2
+ch	ä ##r ##g ##e ##r ##l ##i ##ch	2
+ch	w ##o ##h ##l ##r ##i ##e ##ch ##e ##n ##d ##e	2
+ch	w ##o ##ch ##e	2
+ch	w ##i ##ch ##t ##i ##g ##s ##t ##e	2
+ch	w ##e ##l ##ch ##e ##n	2
+ch	w ##a ##ch ##e ##n	2
+ch	w ##a ##ch	2
+ch	v ##i ##e ##l ##l ##e ##i ##ch ##t	2
+ch	v ##e ##r ##s ##u ##ch ##t	2
+ch	v ##e ##r ##s ##p ##r ##a ##ch ##e ##n	2
+ch	v ##e ##r ##s ##ch ##l ##o ##s ##s ##e ##n	2
+ch	v ##e ##r ##s ##ch ##l ##i ##n ##g ##e ##n	2
+ch	v ##e ##r ##p ##a ##ch ##t ##e ##t ##e	2
+ch	v ##e ##r ##g ##l ##e ##i ##ch ##e	2
+ch	u ##n ##r ##e ##ch ##t	2
+ch	u ##n ##b ##r ##a ##u ##ch ##b ##a ##r	2
+ch	u ##m ##g ##e ##b ##r ##a ##ch ##t	2
+ch	t ##e ##m ##p ##e ##l ##w ##a ##ch ##e	2
+ch	t ##a ##u ##ch ##t ##e	2
+ch	t ##a ##t ##s ##ä ##ch ##l ##i ##ch	2
+ch	sy ##n ##a ##g ##o ##g ##e ##n ##g ##e ##r ##i ##ch ##t ##e	2
+ch	s ##t ##r ##e ##i ##t ##g ##e ##s ##p ##r ##ä ##ch	2
+ch	s ##p ##r ##e ##ch ##t	2
+ch	s ##p ##r ##a ##ch ##e ##n	2
+ch	s ##p ##e ##i ##ch ##e ##l	2
+ch	s ##o ##l ##ch ##e ##r	2
+ch	s ##o ##l ##ch ##e ##n	2
+ch	s ##e ##ch ##s ##t ##e ##n	2
+ch	s ##e ##ch ##s	2
+ch	s ##ch ##ü ##t ##t ##e ##l ##t ##e	2
+ch	s ##ch ##ü ##s ##s ##e ##l ##n	2
+ch	s ##ch ##ö ##n	2
+ch	s ##ch ##w ##i ##e ##g ##e ##r ##m ##u ##t ##t ##e ##r	2
+ch	s ##ch ##w ##i ##e ##g ##e ##n	2
+ch	s ##ch ##w ##e ##r ##t ##e ##r ##n	2
+ch	s ##ch ##w ##e ##r ##t ##e ##r	2
+ch	s ##ch ##w ##e ##r ##e	2
+ch	s ##ch ##w ##e ##i ##n ##e ##h ##i ##r ##t ##e ##n	2
+ch	s ##ch ##w ##a ##n ##g ##e ##r ##e	2
+ch	s ##ch ##u ##t ##z ##l ##o ##s ##e ##r	2
+ch	s ##ch ##u ##l ##d ##i ##g	2
+ch	s ##ch ##r ##e ##i ##e ##n	2
+ch	s ##ch ##r ##e ##i	2
+ch	s ##ch ##r ##e ##ck ##l ##i ##ch ##e ##n	2
+ch	s ##ch ##l ##i ##m ##m ##s ##t ##e ##n	2
+ch	s ##ch ##l ##i ##m ##m ##e ##r	2
+ch	s ##ch ##l ##i ##e ##f	2
+ch	s ##ch ##l ##e ##ch ##t ##e ##r	2
+ch	s ##ch ##l ##e ##ch ##t ##e ##n	2
+ch	s ##ch ##i ##ck	2
+ch	s ##ch ##e ##i ##n ##h ##e ##i ##l ##i ##g	2
+ch	s ##ch ##e ##i ##n	2
+ch	s ##ch ##e ##i ##d ##e ##n	2
+ch	s ##ch ##a ##u ##t ##e ##n	2
+ch	s ##ch ##a ##u ##t	2
+ch	s ##ch ##a ##t ##t ##e ##n	2
+ch	s ##ch ##a ##r ##f	2
+ch	s ##ch ##a ##d ##e ##n	2
+ch	s ##a ##ch ##e	2
+ch	r ##i ##ch ##t ##e ##t ##e	2
+ch	r ##i ##ch ##t ##e ##n	2
+ch	r ##e ##i ##ch ##t ##e	2
+ch	r ##e ##i ##ch ##e ##n	2
+ch	r ##e ##i ##ch ##e	2
+ch	p ##ä ##ch ##t ##e ##r ##n	2
+ch	o ##r ##t ##s ##ch ##a ##f ##t ##e ##n	2
+ch	o ##b ##e ##r ##g ##e ##s ##ch ##o ##s ##s	2
+ch	n ##ä ##ch ##s ##t ##e	2
+ch	n ##a ##ch ##r ##i ##ch ##t	2
+ch	n ##a ##ch ##b ##a ##r ##n	2
+ch	m ##ö ##g ##l ##i ##ch ##k ##e ##i ##t	2
+ch	m ##ö ##g ##l ##i ##ch	2
+ch	m ##ö ##ch ##t ##e	2
+ch	m ##a ##n ##ch ##e ##r	2
+ch	m ##a ##ch ##t ##h ##a ##b ##e ##r ##n	2
+ch	l ##e ##i ##n ##e ##n ##t ##u ##ch	2
+ch	l ##a ##ch ##t ##e ##n	2
+ch	j ##e ##r ##i ##ch ##o	2
+ch	h ##u ##n ##d ##e ##r ##t ##f ##a ##ch	2
+ch	h ##o ##ch ##z ##e ##i ##t ##s ##g ##ä ##s ##t ##e	2
+ch	h ##e ##i ##m ##l ##i ##ch	2
+ch	g ##l ##e ##i ##ch ##t	2
+ch	g ##e ##s ##p ##r ##o ##ch ##e ##n	2
+ch	g ##e ##s ##ch ##m ##a ##ck	2
+ch	g ##e ##s ##ch ##l ##a ##g ##e ##n	2
+ch	g ##e ##s ##ch ##l ##a ##ch ##t ##e ##t	2
+ch	g ##e ##s ##ch ##a ##h	2
+ch	g ##e ##s ##ch ##a ##f ##f ##t	2
+ch	g ##e ##r ##i ##n ##g ##g ##e ##a ##ch ##t ##e ##t ##e ##n	2
+ch	g ##e ##r ##e ##ch ##t ##e ##r	2
+ch	g ##e ##r ##e ##ch ##t ##e	2
+ch	g ##e ##b ##r ##a ##u ##ch ##t ##e	2
+ch	fü ##r ##ch ##t ##e ##t ##e ##n	2
+ch	fü ##r ##ch ##t ##e ##n	2
+ch	f ##u ##r ##ch ##t	2
+ch	f ##r ##ü ##ch ##t ##e ##n	2
+ch	f ##l ##e ##h ##e ##n ##t ##l ##i ##ch	2
+ch	f ##i ##s ##ch ##e ##r	2
+ch	f ##i ##s ##ch	2
+ch	f ##e ##s ##t ##w ##o ##ch ##e	2
+ch	f ##a ##l ##s ##ch ##a ##u ##s ##s ##a ##g ##e ##n	2
+ch	e ##r ##t ##r ##ä ##g ##l ##i ##ch ##e ##r	2
+ch	e ##r ##s ##ch ##l ##a ##g ##e ##n	2
+ch	e ##r ##s ##ch ##i ##e ##n ##e ##n	2
+ch	e ##r ##s ##ch ##i ##e ##n	2
+ch	e ##r ##r ##e ##i ##ch ##t ##e ##n	2
+ch	e ##n ##t ##s ##ch ##u ##l ##d ##i ##g ##e	2
+ch	e ##i ##n ##g ##e ##s ##ch ##l ##a ##f ##e ##n	2
+ch	e ##i ##n ##g ##e ##b ##r ##a ##ch ##t	2
+ch	d ##u ##r ##ch ##s ##ch ##a ##u ##t ##e	2
+ch	d ##o ##r ##n ##b ##u ##s ##ch	2
+ch	d ##i ##e ##n ##e ##r ##s ##ch ##a ##f ##t	2
+ch	d ##a ##ch ##t ##e ##r ##r ##a ##s ##s ##e	2
+ch	d ##a ##ch	2
+ch	b ##r ##a ##u ##ch ##t ##e ##n	2
+ch	b ##r ##a ##ch ##e ##n	2
+ch	b ##e ##w ##a ##ch ##t	2
+ch	b ##e ##r ##i ##ch ##t ##e ##t	2
+ch	b ##e ##ch ##e ##r ##n	2
+ch	a ##u ##f ##r ##i ##ch ##t ##i ##g	2
+ch	a ##n ##g ##e ##s ##p ##r ##o ##ch ##e ##n	2
+ch	üb ##l ##i ##ch ##e	1
+ch	üb ##l ##i ##ch	1
+ch	üb ##e ##r ##w ##u ##ch ##e ##r ##t ##e	1
+ch	üb ##e ##r ##s ##ch ##a ##t ##t ##e ##n	1
+ch	üb ##e ##r ##n ##a ##ch ##t ##e ##t ##e	1
+ch	üb ##e ##r ##n ##a ##ch ##t ##e ##n	1
+ch	ä ##h ##n ##l ##i ##ch	1
+ch	zw ##i ##s ##ch ##e ##n	1
+ch	zu ##v ##e ##r ##s ##i ##ch ##t ##l ##i ##ch	1
+ch	zu ##s ##a ##m ##m ##e ##n ##b ##r ##e ##ch ##e ##n	1
+ch	zu ##r ##e ##ch ##t ##g ##e ##k ##o ##m ##m ##e ##n	1
+ch	zu ##n ##i ##ch ##t ##e	1
+ch	zu ##g ##l ##e ##i ##ch	1
+ch	z ##o ##r ##n ##g ##e ##r ##i ##ch ##t	1
+ch	z ##e ##r ##s ##ch ##n ##i ##t ##t ##e ##n	1
+ch	z ##a ##ch ##ä ##u ##s	1
+ch	w ##ü ##n ##s ##ch ##t ##e	1
+ch	w ##ä ##ch ##s ##t	1
+ch	w ##u ##ch ##s ##e ##n	1
+ch	w ##o ##r ##f ##s ##ch ##a ##u ##f ##e ##l	1
+ch	w ##o ##m ##ö ##g ##l ##i ##ch	1
+ch	w ##o ##h ##l ##r ##i ##e ##ch ##e ##n ##d ##e ##n	1
+ch	w ##e ##l ##ch ##e ##s	1
+ch	w ##e ##i ##s ##m ##a ##ch ##e ##n	1
+ch	w ##e ##i ##n ##s ##ch ##l ##ä ##u ##ch ##e	1
+ch	w ##e ##i ##ch	1
+ch	w ##a ##s ##ch ##u ##n ##g	1
+ch	w ##a ##s ##ch ##e ##n	1
+ch	w ##a ##ch ##t ##t ##u ##r ##m	1
+ch	w ##a ##ch ##t	1
+ch	w ##a ##ch ##s ##e ##n	1
+ch	vo ##r ##s ##ch ##r ##i ##f ##t ##e ##n	1
+ch	vo ##r ##s ##ch ##r ##e ##i ##b ##t	1
+ch	vo ##r ##s ##ch ##l ##a ##g	1
+ch	v ##i ##e ##r ##f ##a ##ch	1
+ch	v ##e ##r ##z ##i ##ch ##t ##e ##t	1
+ch	v ##e ##r ##w ##a ##n ##d ##t ##s ##ch ##a ##f ##t	1
+ch	v ##e ##r ##s ##u ##ch ##t ##e ##n	1
+ch	v ##e ##r ##s ##u ##ch ##e	1
+ch	v ##e ##r ##s ##t ##ä ##n ##d ##l ##i ##ch	1
+ch	v ##e ##r ##s ##p ##r ##o ##ch ##e ##n ##e	1
+ch	v ##e ##r ##s ##p ##r ##o ##ch ##e ##n	1
+ch	v ##e ##r ##s ##ch ##w ##e ##n ##d ##u ##n ##g	1
+ch	v ##e ##r ##s ##ch ##l ##o ##s ##s ##e ##n ##e ##n	1
+ch	v ##e ##r ##s ##ch ##l ##e ##pp ##t	1
+ch	v ##e ##r ##s ##ch ##i ##e ##d ##e ##n ##s ##t ##e ##n	1
+ch	v ##e ##r ##r ##i ##ch ##t ##e ##n	1
+ch	v ##e ##r ##n ##i ##ch ##t ##e ##t	1
+ch	v ##e ##r ##n ##a ##ch ##l ##ä ##s ##s ##i ##g ##e ##n	1
+ch	v ##e ##r ##m ##i ##s ##ch ##t	1
+ch	v ##e ##r ##h ##e ##r ##r ##l ##i ##ch ##t	1
+ch	v ##e ##r ##g ##e ##b ##l ##i ##ch	1
+ch	v ##e ##r ##f ##ä ##n ##g ##l ##i ##ch ##e ##n	1
+ch	v ##e ##r ##f ##l ##u ##ch ##t	1
+ch	v ##e ##r ##b ##r ##o ##ch ##e ##n	1
+ch	v ##e ##r ##b ##r ##a ##ch ##t ##e ##n	1
+ch	v ##e ##r ##a ##ch ##t ##u ##n ##g	1
+ch	v ##e ##r ##a ##ch ##t ##e ##t	1
+ch	u ##n ##v ##e ##r ##z ##ü ##g ##l ##i ##ch	1
+ch	u ##n ##v ##e ##r ##s ##ch ##ä ##m ##t ##h ##e ##i ##t	1
+ch	u ##n ##v ##e ##r ##g ##ä ##n ##g ##l ##i ##ch ##e ##n	1
+ch	u ##n ##t ##e ##r ##r ##i ##ch ##t ##e ##t ##e	1
+ch	u ##n ##s ##i ##ch ##t ##b ##a ##r	1
+ch	u ##n ##s ##ch ##u ##l ##d ##i ##g	1
+ch	u ##n ##m ##o ##r ##a ##l ##i ##s ##ch ##e ##n	1
+ch	u ##n ##k ##e ##n ##n ##t ##l ##i ##ch	1
+ch	u ##n ##g ##l ##a ##u ##b ##l ##i ##ch ##e ##s	1
+ch	u ##n ##f ##r ##e ##u ##n ##d ##l ##i ##ch	1
+ch	u ##n ##a ##u ##f ##h ##ö ##r ##l ##i ##ch	1
+ch	u ##m ##s ##ch ##l ##o ##s ##s ##e ##n	1
+ch	t ##u ##ch	1
+ch	t ##r ##a ##ch ##o ##n ##i ##t ##i ##s	1
+ch	t ##i ##s ##ch ##e	1
+ch	t ##a ##u ##ch ##t	1
+ch	t ##a ##u ##ch ##e ##n	1
+ch	t ##a ##g ##e ##s ##a ##n ##b ##r ##u ##ch	1
+ch	s ##ä ##m ##t ##l ##i ##ch ##e	1
+ch	s ##u ##ch ##t ##e	1
+ch	s ##u ##ch ##e ##n	1
+ch	s ##t ##r ##i ##ch ##l ##e ##i ##n	1
+ch	s ##t ##i ##ch	1
+ch	s ##p ##r ##i ##ch	1
+ch	s ##p ##r ##a ##ch ##e	1
+ch	s ##o ##l ##ch ##e ##s	1
+ch	s ##i ##ch ##e ##r ##h ##e ##i ##t	1
+ch	s ##e ##u ##ch ##e ##n	1
+ch	s ##e ##ch ##z ##i ##g- ##u ##n ##d	1
+ch	s ##e ##ch ##z ##i ##g- ##o ##d ##e ##r	1
+ch	s ##ch ##ü ##t ##t ##e ##n	1
+ch	s ##ch ##ü ##t ##t ##e ##l ##t ##e ##n	1
+ch	s ##ch ##ü ##t ##t ##e ##l ##t	1
+ch	s ##ch ##ü ##s ##s ##e ##l	1
+ch	s ##ch ##ü ##r ##z ##e	1
+ch	s ##ch ##ä ##r ##f ##t	1
+ch	s ##ch ##ä ##d ##e ##l ##s ##t ##ä ##t ##t ##e	1
+ch	s ##ch ##ä ##d ##e ##l	1
+ch	s ##ch ##w ##o ##r	1
+ch	s ##ch ##w ##i ##e ##g	1
+ch	s ##ch ##w ##e ##s ##t ##e ##r ##n	1
+ch	s ##ch ##w ##e ##s ##t ##e ##r	1
+ch	s ##ch ##w ##e ##r ##e ##r	1
+ch	s ##ch ##w ##e ##r ##e ##n	1
+ch	s ##ch ##w ##e ##i ##ß	1
+ch	s ##ch ##w ##e ##i ##n ##e ##n	1
+ch	s ##ch ##w ##e ##i ##g ##e ##n	1
+ch	s ##ch ##w ##e ##f ##e ##l	1
+ch	s ##ch ##w ##a ##m ##m	1
+ch	s ##ch ##w ##a ##ch	1
+ch	s ##ch ##u ##l ##t ##e ##r ##n	1
+ch	s ##ch ##u ##f	1
+ch	s ##ch ##r ##i ##f ##t ##w ##o ##r ##t	1
+ch	s ##ch ##r ##e ##i ##t	1
+ch	s ##ch ##r ##e ##ck ##l ##i ##ch ##e ##r	1
+ch	s ##ch ##r ##e ##ck ##l ##i ##ch ##e	1
+ch	s ##ch ##r ##e ##ck ##l ##i ##ch	1
+ch	s ##ch ##r ##e ##ck ##e ##n	1
+ch	s ##ch ##o ##ß	1
+ch	s ##ch ##n ##e ##i ##d ##e ##t	1
+ch	s ##ch ##m ##u ##t ##z	1
+ch	s ##ch ##l ##ü ##s ##s ##e ##l	1
+ch	s ##ch ##l ##ä ##g ##t	1
+ch	s ##ch ##l ##ä ##f ##t	1
+ch	s ##ch ##l ##ä ##f ##s ##t	1
+ch	s ##ch ##l ##i ##m ##m ##e ##r ##e	1
+ch	s ##ch ##l ##e ##pp ##t	1
+ch	s ##ch ##l ##e ##ch ##t ##e ##m	1
+ch	s ##ch ##l ##a ##n ##g ##e ##n ##b ##r ##u ##t	1
+ch	s ##ch ##l ##a ##n ##g ##e ##n	1
+ch	s ##ch ##l ##a ##n ##g ##e	1
+ch	s ##ch ##l ##a ##f ##t	1
+ch	s ##ch ##l ##a ##f ##e ##n ##d	1
+ch	s ##ch ##l ##a ##f ##e ##n	1
+ch	s ##ch ##l ##a ##ch ##t ##o ##p ##f ##e ##r	1
+ch	s ##ch ##i ##l ##f ##r ##o ##h ##r	1
+ch	s ##ch ##i ##k ##a ##n ##i ##e ##r ##e ##n	1
+ch	s ##ch ##i ##ck ##e	1
+ch	s ##ch ##e ##u ##s ##a ##l	1
+ch	s ##ch ##e ##u ##n ##e ##n	1
+ch	s ##ch ##e ##u ##n ##e	1
+ch	s ##ch ##e ##n ##k ##t ##e	1
+ch	s ##ch ##e ##n ##k ##e ##n	1
+ch	s ##ch ##e ##i ##n ##e ##n	1
+ch	s ##ch ##e ##i ##d ##u ##n ##g	1
+ch	s ##ch ##e ##i ##d ##e ##b ##r ##i ##e ##f	1
+ch	s ##ch ##a ##u ##t ##e	1
+ch	s ##ch ##a ##u ##s ##p ##i ##e ##l	1
+ch	s ##ch ##a ##f ##e	1
+ch	s ##a ##ch ##e ##n	1
+ch	s ##a ##b ##a ##ch ##t ##h ##a ##n ##i	1
+ch	r ##ö ##m ##i ##s ##ch ##e ##n	1
+ch	r ##ö ##m ##i ##s ##ch ##e ##m	1
+ch	r ##i ##ch ##t ##e ##t ##e ##n	1
+ch	r ##i ##ch ##t ##e ##r	1
+ch	r ##e ##v ##a ##n ##ch ##i ##e ##r ##e ##n	1
+ch	r ##e ##i ##ch ##t ##u ##m	1
+ch	r ##e ##i ##ch ##e ##s	1
+ch	r ##e ##ch ##t ##f ##e ##r ##t ##i ##g ##e ##n	1
+ch	p ##r ##i ##e ##s ##t ##e ##r ##g ##e ##s ##ch ##l ##e ##ch ##t	1
+ch	p ##r ##a ##ch ##t	1
+ch	p ##f ##l ##i ##ch ##t	1
+ch	p ##e ##r ##s ##ö ##n ##l ##i ##ch	1
+ch	o ##f ##f ##e ##n ##s ##i ##ch ##t ##l ##i ##ch	1
+ch	o ##ch ##s ##e ##n ##g ##e ##s ##p ##a ##n ##n ##e	1
+ch	o ##ch ##s ##e ##n	1
+ch	n ##i ##ch ##t ##s ##n ##u ##t ##z ##i ##g ##e ##r	1
+ch	n ##a ##ch ##m ##i ##t ##t ##a ##g ##s	1
+ch	n ##a ##ch ##k ##o ##m ##m ##e ##n ##s ##ch ##a ##f ##t	1
+ch	n ##a ##ch ##h ##e ##r	1
+ch	n ##a ##ch ##f ##o ##l ##g ##t ##e ##n	1
+ch	n ##a ##ch ##f ##o ##l ##g ##t	1
+ch	n ##a ##ch ##d ##r ##ück ##l ##i ##ch	1
+ch	n ##a ##ch ##d ##e ##n ##k ##l ##i ##ch	1
+ch	m ##ö ##ch ##t ##e ##s ##t	1
+ch	m ##ö ##ch ##t ##e ##n	1
+ch	m ##ä ##ch ##t ##i ##g ##e ##r	1
+ch	m ##ä ##ch ##t ##i ##g ##e ##n	1
+ch	m ##i ##t ##g ##e ##b ##r ##a ##ch ##t	1
+ch	m ##i ##s ##s ##b ##r ##a ##u ##ch ##e ##n	1
+ch	m ##i ##s ##ch ##t	1
+ch	m ##e ##n ##s ##ch ##e ##n ##s ##o ##h ##n ##e ##s	1
+ch	m ##e ##n ##s ##ch ##e ##n ##f ##i ##s ##ch ##e ##r ##n	1
+ch	m ##a ##n ##n ##s ##ch ##a ##f ##t	1
+ch	m ##a ##ch ##t ##vo ##l ##l	1
+ch	m ##a ##ch ##t ##h ##a ##b ##e ##r	1
+ch	l ##ö ##ch ##e ##r	1
+ch	l ##o ##s ##m ##a ##ch ##t ##e ##n	1
+ch	l ##o ##ch	1
+ch	l ##i ##ch ##t ##s	1
+ch	l ##e ##i ##ch ##t ##e ##r ##e ##n	1
+ch	l ##e ##i ##ch ##t ##e ##r	1
+ch	l ##e ##d ##e ##r ##p ##e ##i ##t ##s ##ch ##e	1
+ch	l ##a ##ch ##e ##n ##d ##e ##n	1
+ch	l ##a ##ch ##e ##n	1
+ch	kö ##n ##i ##g ##s ##h ##e ##r ##r ##s ##ch ##a ##f ##t	1
+ch	kö ##n ##i ##g ##r ##e ##i ##ch ##e	1
+ch	kö ##n ##i ##g ##r ##e ##i ##ch	1
+ch	k ##ü ##ch ##e ##n ##k ##r ##ä ##u ##t ##e ##r ##n	1
+ch	k ##n ##o ##ch ##e ##n	1
+ch	k ##n ##i ##r ##s ##ch ##t	1
+ch	k ##l ##a ##r ##z ##u ##m ##a ##ch ##e ##n	1
+ch	jü ##d ##i ##s ##ch ##e ##n	1
+ch	hö ##h ##n ##i ##s ##ch	1
+ch	h ##ü ##n ##d ##ch ##e ##n	1
+ch	h ##u ##n ##d ##e ##r ##t ##f ##a ##ch ##e	1
+ch	h ##o ##ch ##w ##a ##s ##s ##e ##r	1
+ch	h ##o ##ch ##g ##e ##l ##o ##b ##t ##e ##n	1
+ch	h ##o ##ch ##e ##r ##f ##r ##e ##u ##t	1
+ch	h ##o ##ch	1
+ch	h ##i ##n ##r ##i ##ch ##t ##u ##n ##g	1
+ch	h ##i ##m ##m ##e ##l ##s ##r ##i ##ch ##t ##u ##n ##g ##e ##n	1
+ch	h ##e ##r ##r ##s ##ch ##e ##r	1
+ch	h ##e ##r ##r ##s ##ch ##e ##n	1
+ch	h ##e ##r ##r ##s ##ch ##a ##f ##t ##s ##b ##e ##r ##e ##i ##ch	1
+ch	h ##e ##r ##r ##l ##i ##ch ##e ##n	1
+ch	h ##e ##r ##r ##l ##i ##ch ##e	1
+ch	h ##e ##r ##g ##e ##r ##i ##ch ##t ##e ##t	1
+ch	h ##e ##r ##e ##i ##n ##b ##r ##i ##ch ##t	1
+ch	h ##a ##h ##n ##e ##n ##s ##ch ##r ##e ##i	1
+ch	h ##a ##b ##s ##u ##ch ##t	1
+ch	g ##ö ##t ##t ##l ##i ##ch ##e ##r	1
+ch	g ##o ##t ##t ##e ##s ##f ##ü ##r ##ch ##t ##i ##g ##e ##r	1
+ch	g ##l ##e ##i ##ch ##n ##i ##s ##s ##e ##n	1
+ch	g ##l ##e ##i ##ch ##g ##e ##w ##i ##ch ##t	1
+ch	g ##e ##wöh ##n ##l ##i ##ch	1
+ch	g ##e ##w ##a ##s ##ch ##e ##n	1
+ch	g ##e ##s ##u ##ch ##t	1
+ch	g ##e ##s ##p ##r ##ä ##ch	1
+ch	g ##e ##s ##i ##ch ##t ##s	1
+ch	g ##e ##s ##ch ##w ##i ##s ##t ##e ##r	1
+ch	g ##e ##s ##ch ##m ##ück ##t	1
+ch	g ##e ##s ##ch ##l ##a ##f ##e ##n	1
+ch	g ##e ##s ##ch ##i ##e ##d ##e ##n ##e	1
+ch	g ##e ##s ##ch ##i ##ch ##t ##e	1
+ch	g ##e ##s ##ch ##e ##n ##k ##t	1
+ch	g ##e ##r ##i ##ch ##t ##s ##d ##i ##e ##n ##e ##r	1
+ch	g ##e ##r ##i ##ch ##t ##s ##b ##a ##r ##k ##e ##i ##t	1
+ch	g ##e ##r ##i ##ch ##t ##s	1
+ch	g ##e ##r ##i ##ch ##t ##e ##t	1
+ch	g ##e ##r ##e ##ch ##t ##i ##g ##k ##e ##i ##t	1
+ch	g ##e ##r ##e ##ch ##t	1
+ch	g ##e ##r ##e ##ch ##n ##e ##t	1
+ch	g ##e ##m ##a ##ch ##t ##e	1
+ch	g ##e ##l ##d ##w ##e ##ch ##s ##l ##e ##r	1
+ch	g ##e ##b ##r ##a ##u ##ch ##t	1
+ch	g ##e ##a ##ch ##t ##e ##t	1
+ch	g ##a ##l ##i ##l ##ä ##i ##s ##ch ##e ##n	1
+ch	fü ##r ##ch ##t ##e ##t	1
+ch	fü ##r ##ch ##t ##e	1
+ch	fü ##ch ##s ##e	1
+ch	f ##u ##ß ##s ##ch ##e ##m ##e ##l	1
+ch	f ##u ##r ##ch ##t ##b ##a ##r ##e	1
+ch	f ##u ##r ##ch ##t ##b ##a ##r	1
+ch	f ##r ##e ##u ##n ##d ##s ##ch ##a ##f ##t	1
+ch	f ##r ##e ##i ##g ##e ##s ##p ##r ##o ##ch ##e ##n	1
+ch	f ##o ##r ##t ##z ##u ##s ##ch ##i ##ck ##e ##n	1
+ch	f ##l ##ä ##s ##ch ##ch ##e ##n ##s	1
+ch	f ##l ##u ##ch ##e ##n	1
+ch	f ##l ##o ##ch ##t ##e ##n	1
+ch	f ##l ##e ##i ##s ##ch	1
+ch	f ##i ##n ##s ##t ##e ##r ##n ##i ##s ##m ##ä ##ch ##t ##e	1
+ch	f ##e ##u ##ch ##t ##i ##g ##k ##e ##i ##t	1
+ch	f ##e ##i ##n ##d ##l ##i ##ch ##e ##n	1
+ch	e ##r ##s ##ch ##r ##a ##k	1
+ch	e ##r ##s ##ch ##e ##i ##n ##e ##n	1
+ch	e ##r ##l ##ö ##s ##ch ##e ##n ##d ##e	1
+ch	e ##r ##l ##i ##s ##ch ##t	1
+ch	e ##r ##d ##s ##ch ##i ##ch ##t	1
+ch	e ##r ##b ##s ##ch ##a ##f ##t	1
+ch	e ##n ##t ##s ##p ##r ##i ##ch ##t	1
+ch	e ##n ##t ##s ##ch ##u ##l ##d ##i ##g ##e ##n	1
+ch	e ##i ##n ##s ##i ##ch ##t	1
+ch	e ##i ##n ##s ##ch ##ä ##t ##z ##e ##n	1
+ch	e ##i ##n ##g ##e ##s ##ch ##l ##o ##s ##s ##e ##n	1
+ch	e ##i ##n ##g ##e ##b ##r ##o ##ch ##e ##n	1
+ch	e ##i ##n ##b ##r ##e ##ch ##e ##n	1
+ch	e ##i ##g ##e ##n ##s ##ch ##a ##f ##t	1
+ch	e ##h ##r ##l ##i ##ch	1
+ch	e ##h ##r ##f ##u ##r ##ch ##t	1
+ch	e ##h ##e ##b ##r ##e ##ch ##e ##r	1
+ch	d ##u ##r ##ch ##z ##o ##g	1
+ch	d ##u ##r ##ch ##s ##ä ##u ##e ##r ##t	1
+ch	d ##u ##r ##ch ##s ##i ##e ##b ##e ##n	1
+ch	d ##u ##r ##ch ##k ##o ##m ##m ##e ##n	1
+ch	d ##u ##r ##ch ##k ##a ##m ##e ##n	1
+ch	d ##u ##r ##ch ##d ##r ##u ##n ##g ##e ##n	1
+ch	d ##a ##ch ##t ##e ##r ##a ##s ##s ##e ##n	1
+ch	d ##a ##ch ##t ##e	1
+ch	ch ##r ##i ##s ##t ##u ##s	1
+ch	ch ##o ##r ##a ##z ##i ##n	1
+ch	b ##u ##ch	1
+ch	b ##r ##a ##u ##ch ##s ##t	1
+ch	b ##r ##a ##u ##ch ##b ##a ##r	1
+ch	b ##e ##z ##e ##i ##ch ##n ##e ##t	1
+ch	b ##e ##w ##a ##ch ##t ##e ##n	1
+ch	b ##e ##s ##u ##ch ##t	1
+ch	b ##e ##s ##ch ##ä ##f ##t ##i ##g ##t ##e	1
+ch	b ##e ##s ##ch ##ä ##f ##t ##i ##g ##t	1
+ch	b ##e ##s ##ch ##u ##l ##d ##i ##g ##u ##n ##g ##e ##n	1
+ch	b ##e ##s ##ch ##r ##i ##e ##b ##e ##n	1
+ch	b ##e ##s ##ch ##n ##i ##t ##t ##e ##n	1
+ch	b ##e ##s ##ch ##n ##e ##i ##d ##u ##n ##g	1
+ch	b ##e ##s ##ch ##l ##u ##s ##s	1
+ch	b ##e ##s ##ch ##e ##n ##k ##t ##e	1
+ch	b ##e ##s ##ch ##e ##n ##k ##t	1
+ch	b ##e ##r ##i ##ch ##t ##e	1
+ch	b ##e ##o ##b ##a ##ch ##t ##e ##t ##e ##n	1
+ch	b ##e ##o ##b ##a ##ch ##t ##e ##t	1
+ch	a ##u ##s ##s ##u ##ch ##t ##e ##n	1
+ch	a ##u ##s ##s ##p ##r ##e ##ch ##e ##n	1
+ch	a ##u ##s ##s ##ch ##a ##ch ##t ##e ##t	1
+ch	a ##u ##s ##p ##e ##i ##t ##s ##ch ##e ##n	1
+ch	a ##u ##s ##g ##e ##p ##e ##i ##t ##s ##ch ##t	1
+ch	a ##u ##s ##g ##e ##m ##a ##ch ##t ##e ##n	1
+ch	a ##u ##g ##e ##n ##l ##i ##ch ##t	1
+ch	a ##u ##f ##s ##ch ##l ##o ##s ##s	1
+ch	a ##u ##f ##r ##i ##ch ##t ##i ##g ##e ##m	1
+ch	a ##u ##f ##r ##i ##ch ##t ##e ##t	1
+ch	a ##u ##f ##g ##e ##w ##a ##ch ##s ##e ##n	1
+ch	a ##u ##f ##g ##e ##s ##ch ##r ##i ##e ##b ##e ##n	1
+ch	a ##s ##ch ##e	1
+ch	a ##r ##ch ##e	1
+ch	a ##n ##s ##p ##r ##u ##ch	1
+ch	a ##n ##s ##ch ##u ##l ##d ##i ##g ##u ##n ##g ##e ##n	1
+ch	a ##n ##s ##ch ##l ##i ##e ##ß ##e ##n ##d	1
+ch	a ##n ##s ##ch ##e ##i ##n	1
+ch	a ##n ##g ##e ##b ##r ##a ##ch ##t	1
+ch	a ##l ##l ##m ##ä ##ch ##t ##i ##g ##e ##n	1
+ch	a ##ch ##t ##z ##e ##h ##n	1
+ch	a ##b ##s ##i ##ch ##t	1
+ch	a ##b ##s ##ch ##i ##e ##d	1
+subword:ch	597	2919	4.889447236180905
+##ückk	zu ##r ##ückk ##a ##m	5
+##ückk	zu ##r ##ückk ##e ##h ##r ##e ##n	2
+##ückk	zu ##r ##ückk ##a ##m ##e ##n	1
+subword:##ückk	3	8	2.6666666666666665
+cho	cho ##r ##a ##z ##i ##n	1
+subword:cho	1	1	1.0
+ih	ih ##r	261
+ih	ih ##n	222
+ih	ih ##m	175
+ih	ih ##n ##e ##n	138
+ih	ih ##r ##e	35
+ih	ih ##r ##e ##n	17
+ih	ih ##r ##e ##m	8
+ih	ih ##r ##e ##r	7
+subword:ih	8	863	107.875
+##hö	g ##e ##hö ##r ##t	17
+##hö	zu ##hö ##r ##e ##r	3
+##hö	g ##r ##a ##b ##hö ##h ##l ##e	3
+##hö	g ##e ##hö ##r ##t ##e ##n	3
+##hö	g ##e ##hö ##r ##t ##e	3
+##hö	a ##u ##f ##g ##e ##hö ##r ##t	3
+##hö	m ##i ##t ##g ##e ##hö ##r ##t	2
+##hö	g ##r ##a ##b ##hö ##h ##l ##e ##n	2
+##hö	e ##r ##hö ##h ##t	2
+##hö	a ##n ##g ##e ##hö ##r ##i ##g ##e ##n	2
+##hö	zu ##hö ##r ##t ##e ##n	1
+##hö	zu ##hö ##r ##t	1
+##hö	zu ##hö ##r ##e ##r ##n	1
+##hö	zu ##g ##e ##hö ##r ##t	1
+##hö	u ##n ##a ##u ##f ##hö ##r ##l ##i ##ch	1
+##hö	r ##ä ##u ##b ##e ##r ##hö ##h ##l ##e	1
+##hö	g ##e ##hö ##r ##s ##t	1
+##hö	g ##e ##hö ##r ##e	1
+##hö	g ##e ##hö ##r	1
+##hö	g ##e ##hö ##f ##t	1
+##hö	b ##e ##hö ##r ##d ##e ##n	1
+##hö	b ##a ##u ##e ##r ##n ##hö ##f ##e ##n	1
+##hö	a ##n ##g ##e ##hö ##r ##t	1
+subword:##hö	23	53	2.3043478260869565
+bö	bö ##s ##e ##n	20
+bö	bö ##s ##e ##s	3
+bö	bö ##s ##e ##r	3
+bö	bö ##s ##e	3
+bö	bö ##s ##e ##m	1
+subword:bö	5	30	6.0
+##öß	g ##r ##öß ##t ##e	3
+##öß	g ##r ##öß ##e ##r	3
+##öß	g ##r ##öß ##e	1
+subword:##öß	3	7	2.3333333333333335
+vö	vö ##l ##l ##i ##g	4
+vö	vö ##g ##e ##l	4
+vö	vö ##l ##k ##e ##r	3
+vö	vö ##l ##k ##e ##r ##n	2
+vö	vö ##l ##l ##i ##g ##e	1
+subword:vö	5	14	2.8
+tö	tö ##t ##e ##n	6
+tö	tö ##t ##e ##t ##e ##n	3
+subword:tö	2	9	4.5
+völ	völ ##l ##i ##g	4
+völ	völ ##k ##e ##r	3
+völ	völ ##k ##e ##r ##n	2
+völ	völ ##l ##i ##g ##e	1
+subword:völ	4	10	2.5
+völk	völk ##e ##r	3
+völk	völk ##e ##r ##n	2
+subword:völk	2	5	2.5
+vög	vög ##e ##l	4
+subword:vög	1	4	4.0
+völl	völl ##i ##g	4
+völl	völl ##i ##g ##e	1
+subword:völl	2	5	2.5
+##pö	e ##m ##pö ##r ##t	4
+subword:##pö	1	4	4.0
+##mpö	e ##mpö ##r ##t	4
+subword:##mpö	1	4	4.0
+empö	empö ##r ##t	4
+subword:empö	1	4	4.0
+zuhö	zuhö ##r ##e ##r	3
+zuhö	zuhö ##r ##t ##e ##n	1
+zuhö	zuhö ##r ##t	1
+zuhö	zuhö ##r ##e ##r ##n	1
+subword:zuhö	4	6	1.5
+bös	bös ##e ##n	20
+bös	bös ##e ##s	3
+bös	bös ##e ##r	3
+bös	bös ##e	3
+bös	bös ##e ##m	1
+subword:bös	5	30	6.0
+zö	zö ##l ##l ##n ##e ##r ##n	1
+zö	zö ##g ##e ##r ##n	1
+subword:zö	2	2	1.0
+zög	zög ##e ##r ##n	1
+subword:zög	1	1	1.0
+zöl	zöl ##l ##n ##e ##r ##n	1
+subword:zöl	1	1	1.0
+zöll	zöll ##n ##e ##r ##n	1
+subword:zöll	1	1	1.0
+äh	äh ##r ##e ##n	2
+äh	äh ##n ##l ##i ##ch	1
+subword:äh	2	3	1.5
+äl	äl ##t ##e ##s ##t ##e ##n	6
+äl	g ##e ##quäl ##t	1
+subword:äl	2	7	3.5
+##ja	e ##l ##i ##ja	9
+##ja	j ##e ##s ##a ##ja	2
+##ja	r ##e ##g ##i ##e ##r ##u ##n ##g ##s ##ja ##h ##r	1
+##ja	k ##a ##ja ##f ##a ##s	1
+##ja	h ##i ##n ##a ##u ##s ##z ##u ##ja ##g ##e ##n	1
+##ja	a ##b ##i ##ja	1
+subword:##ja	6	15	2.5
+##jo	o ##s ##t ##jo ##r ##d ##a ##n ##l ##a ##n ##d	1
+subword:##jo	1	1	1.0
+##üß	g ##e ##g ##r ##üß ##t	2
+##üß	b ##e ##g ##r ##üß ##e ##n	2
+##üß	g ##r ##üß ##t ##e	1
+##üß	g ##r ##üß ##t	1
+##üß	g ##r ##üß ##e	1
+##üß	b ##e ##g ##r ##üß ##u ##n ##g ##s ##k ##u ##s ##s	1
+##üß	b ##e ##g ##r ##üß ##u ##n ##g	1
+##üß	b ##e ##g ##r ##üß ##t ##e ##n	1
+subword:##üß	8	10	1.25
+äu	äu ##ß ##e ##r ##e	2
+subword:äu	1	2	2.0
+äuß	äuß ##e ##r ##e	2
+subword:äuß	1	2	2.0
+##kü	v ##e ##r ##kü ##n ##d ##i ##g ##t ##e	3
+##kü	v ##e ##r ##kü ##n ##d ##i ##g ##t	3
+##kü	v ##e ##r ##kü ##n ##d ##i ##g ##e ##n	3
+##kü	v ##e ##r ##kü ##r ##z ##t	2
+##kü	v ##e ##r ##kü ##n ##d ##i ##g ##t ##e ##n	1
+##kü	v ##e ##r ##kü ##n ##d ##e ##t	1
+##kü	v ##e ##r ##kü ##n ##d ##e ##n	1
+##kü	e ##i ##n ##kü ##n ##f ##t ##e ##n	1
+##kü	a ##n ##g ##e ##kü ##n ##d ##i ##g ##t	1
+subword:##kü	9	16	1.7777777777777777
+ax	ax ##t	1
+subword:ax	1	1	1.0
+ex	ex ##t ##r ##a	1
+subword:ex	1	1	1.0
+##ux	l ##ux ##u ##s	1
+subword:##ux	1	1	1.0
+lux	lux ##u ##s	1
+subword:lux	1	1	1.0
+luxu	luxu ##s	1
+subword:luxu	1	1	1.0
+##xa	a ##l ##e ##xa ##n ##d ##e ##r	1
+subword:##xa	1	1	1.0
+luxus	luxus	1
+subword:luxus	1	1	1.0
+##tjo	o ##s ##tjo ##r ##d ##a ##n ##l ##a ##n ##d	1
+subword:##tjo	1	1	1.0
+##stjo	o ##stjo ##r ##d ##a ##n ##l ##a ##n ##d	1
+subword:##stjo	1	1	1.0
+ostjo	ostjo ##r ##d ##a ##n ##l ##a ##n ##d	1
+subword:ostjo	1	1	1.0
+töt	töt ##e ##n	6
+töt	töt ##e ##t ##e ##n	3
+subword:töt	2	9	4.5
+ält	ält ##e ##s ##t ##e ##n	6
+subword:ält	1	6	6.0
+ext	ext ##r ##a	1
+subword:ext	1	1	1.0
+axt	axt	1
+subword:axt	1	1	1.0
+##quält	g ##e ##quält	1
+subword:##quält	1	1	1.0
+od	od ##e ##r	36
+subword:od	1	36	36.0
+ob	ob	9
+ob	ob ##e ##r ##g ##e ##s ##ch ##o ##s ##s	2
+ob	ob ##e ##r ##s ##t ##e ##n	1
+ob	ob ##e ##r ##e ##n	1
+ob	ob ##e ##r ##d ##ä ##m ##o ##n	1
+ob	ob ##e ##n	1
+subword:ob	6	15	2.5
+oh	oh ##n ##e	7
+oh	oh ##r ##e ##n	5
+oh	oh ##r	3
+subword:oh	3	15	5.0
+of	of ##t	2
+of	of ##f ##e ##n ##b ##a ##r	2
+of	of ##f ##e ##n	2
+of	of ##f ##i ##z ##i ##e ##r ##e ##n	1
+of	of ##f ##i ##z ##i ##e ##l ##l ##e ##n	1
+of	of ##f ##e ##n ##s ##i ##ch ##t ##l ##i ##ch	1
+of	of ##f ##e ##n ##b ##a ##r ##e ##n	1
+subword:of	7	10	1.4285714285714286
+off	off ##e ##n ##b ##a ##r	2
+off	off ##e ##n	2
+off	off ##i ##z ##i ##e ##r ##e ##n	1
+off	off ##i ##z ##i ##e ##l ##l ##e ##n	1
+off	off ##e ##n ##s ##i ##ch ##t ##l ##i ##ch	1
+off	off ##e ##n ##b ##a ##r ##e ##n	1
+subword:off	6	8	1.3333333333333333
+oft	oft	2
+subword:oft	1	2	2.0
+##fü	d ##a ##fü ##r	11
+##fü	e ##r ##fü ##l ##l ##e ##n	5
+##fü	e ##r ##fü ##l ##l ##t	4
+##fü	i ##r ##r ##e ##fü ##h ##r ##t	2
+##fü	e ##r ##fü ##l ##l ##s ##t	2
+##fü	zu ##s ##a ##m ##m ##e ##n ##g ##e ##fü ##g ##t	1
+##fü	w ##o ##fü ##r	1
+##fü	w ##e ##i ##t ##e ##r ##fü ##h ##r ##e ##n	1
+##fü	vo ##r ##fü ##h ##r ##e ##n	1
+##fü	v ##e ##r ##fü ##h ##r ##u ##n ##g ##e ##n	1
+##fü	v ##e ##r ##fü ##h ##r ##t	1
+##fü	v ##e ##r ##fü ##h ##r ##e ##n	1
+##fü	m ##i ##t ##g ##e ##fü ##h ##l	1
+##fü	h ##i ##n ##a ##b ##fü ##h ##r ##t ##e	1
+##fü	g ##o ##t ##t ##e ##s ##fü ##r ##ch ##t ##i ##g ##e ##r	1
+##fü	g ##e ##fü ##h ##r ##t	1
+##fü	e ##r ##fü ##l ##l ##u ##n ##g	1
+##fü	a ##b ##fü ##h ##r ##t ##e ##n	1
+##fü	a ##b ##fü ##h ##r ##e ##n	1
+subword:##fü	19	38	2.0
+##füh	i ##r ##r ##e ##füh ##r ##t	2
+##füh	w ##e ##i ##t ##e ##r ##füh ##r ##e ##n	1
+##füh	vo ##r ##füh ##r ##e ##n	1
+##füh	v ##e ##r ##füh ##r ##u ##n ##g ##e ##n	1
+##füh	v ##e ##r ##füh ##r ##t	1
+##füh	v ##e ##r ##füh ##r ##e ##n	1
+##füh	m ##i ##t ##g ##e ##füh ##l	1
+##füh	h ##i ##n ##a ##b ##füh ##r ##t ##e	1
+##füh	g ##e ##füh ##r ##t	1
+##füh	a ##b ##füh ##r ##t ##e ##n	1
+##füh	a ##b ##füh ##r ##e ##n	1
+subword:##füh	11	12	1.0909090909090908
+##bfüh	h ##i ##n ##a ##bfüh ##r ##t ##e	1
+##bfüh	a ##bfüh ##r ##t ##e ##n	1
+##bfüh	a ##bfüh ##r ##e ##n	1
+subword:##bfüh	3	3	1.0
+abfüh	abfüh ##r ##t ##e ##n	1
+abfüh	abfüh ##r ##e ##n	1
+subword:abfüh	2	2	1.0
+##abfüh	h ##i ##n ##abfüh ##r ##t ##e	1
+subword:##abfüh	1	1	1.0
+##fül	e ##r ##fül ##l ##e ##n	5
+##fül	e ##r ##fül ##l ##t	4
+##fül	e ##r ##fül ##l ##s ##t	2
+##fül	e ##r ##fül ##l ##u ##n ##g	1
+subword:##fül	4	12	3.0
+##füll	e ##r ##füll ##e ##n	5
+##füll	e ##r ##füll ##t	4
+##füll	e ##r ##füll ##s ##t	2
+##füll	e ##r ##füll ##u ##n ##g	1
+subword:##füll	4	12	3.0
+##afü	d ##afü ##r	11
+subword:##afü	1	11	11.0
+dafü	dafü ##r	11
+subword:dafü	1	11	11.0
+##ofü	w ##ofü ##r	1
+subword:##ofü	1	1	1.0
+wofü	wofü ##r	1
+subword:wofü	1	1	1.0
+##füg	zu ##s ##a ##m ##m ##e ##n ##g ##e ##füg ##t	1
+subword:##füg	1	1	1.0
+##sfü	g ##o ##t ##t ##e ##sfü ##r ##ch ##t ##i ##g ##e ##r	1
+subword:##sfü	1	1	1.0
+##fügt	zu ##s ##a ##m ##m ##e ##n ##g ##e ##fügt	1
+subword:##fügt	1	1	1.0
+völli	völli ##g	4
+völli	völli ##g ##e	1
+subword:völli	2	5	2.5
+völlig	völlig	4
+völlig	völlig ##e	1
+subword:völlig	2	5	2.5
+##ig-	d ##r ##e ##i ##ß ##ig-	2
+##ig-	s ##e ##ch ##z ##ig- ##u ##n ##d	1
+##ig-	s ##e ##ch ##z ##ig- ##o ##d ##e ##r	1
+subword:##ig-	3	4	1.3333333333333333
+##ßig-	d ##r ##e ##i ##ßig-	2
+subword:##ßig-	1	2	2.0
+##zig-	s ##e ##ch ##zig- ##u ##n ##d	1
+##zig-	s ##e ##ch ##zig- ##o ##d ##e ##r	1
+subword:##zig-	2	2	1.0
+##chzig-	s ##e ##chzig- ##u ##n ##d	1
+##chzig-	s ##e ##chzig- ##o ##d ##e ##r	1
+subword:##chzig-	2	2	1.0
+##chzig-o	s ##e ##chzig-o ##d ##e ##r	1
+subword:##chzig-o	1	1	1.0
+##chzig-od	s ##e ##chzig-od ##e ##r	1
+subword:##chzig-od	1	1	1.0
+##chzig-u	s ##e ##chzig-u ##n ##d	1
+subword:##chzig-u	1	1	1.0
+##ißig-	d ##r ##e ##ißig-	2
+subword:##ißig-	1	2	2.0
+üppi	üppi ##g ##e	1
+subword:üppi	1	1	1.0
+üppig	üppig ##e	1
+subword:üppig	1	1	1.0
+##ückka	zu ##r ##ückka ##m	5
+##ückka	zu ##r ##ückka ##m ##e ##n	1
+subword:##ückka	2	6	3.0
+##ückkam	zu ##r ##ückkam	5
+##ückkam	zu ##r ##ückkam ##e ##n	1
+subword:##ückkam	2	6	3.0
+##pä	s ##pä ##t ##e ##r	15
+##pä	s ##pä ##t	2
+subword:##pä	2	17	8.5
+spä	spä ##t ##e ##r	15
+spä	spä ##t	2
+subword:spä	2	17	8.5
+spät	spät ##e ##r	15
+spät	spät	2
+subword:spät	2	17	8.5
+##pf	k ##o ##pf	8
+##pf	e ##m ##pf ##a ##n ##g ##e ##n	3
+##pf	b ##e ##s ##ch ##i ##m ##pf ##t ##e ##n	3
+##pf	k ##ä ##m ##pf ##t	2
+##pf	k ##u ##pf ##e ##r ##m ##ü ##n ##z ##e ##n	2
+##pf	k ##r ##ä ##m ##pf ##e ##n	2
+##pf	z ##i ##pf ##e ##l	1
+##pf	t ##r ##o ##pf ##t ##e	1
+##pf	s ##ch ##l ##a ##ch ##t ##o ##pf ##e ##r	1
+##pf	r ##u ##pf ##t ##e ##n	1
+##pf	k ##ä ##m ##pf ##e ##n	1
+##pf	k ##l ##o ##pf ##t	1
+##pf	e ##m ##pf ##i ##n ##g ##e ##n	1
+##pf	e ##m ##pf ##i ##n ##g	1
+##pf	b ##r ##a ##n ##d ##o ##pf ##e ##r	1
+##pf	a ##b ##z ##u ##r ##u ##pf ##e ##n	1
+subword:##pf	16	30	1.875
+##mpf	e ##mpf ##a ##n ##g ##e ##n	3
+##mpf	b ##e ##s ##ch ##i ##mpf ##t ##e ##n	3
+##mpf	k ##ä ##mpf ##t	2
+##mpf	k ##r ##ä ##mpf ##e ##n	2
+##mpf	k ##ä ##mpf ##e ##n	1
+##mpf	e ##mpf ##i ##n ##g ##e ##n	1
+##mpf	e ##mpf ##i ##n ##g	1
+subword:##mpf	7	13	1.8571428571428572
+##ämpf	k ##ämpf ##t	2
+##ämpf	k ##r ##ämpf ##e ##n	2
+##ämpf	k ##ämpf ##e ##n	1
+subword:##ämpf	3	5	1.6666666666666667
+kämpf	kämpf ##t	2
+kämpf	kämpf ##e ##n	1
+subword:kämpf	2	3	1.5
+##opf	k ##opf	8
+##opf	t ##r ##opf ##t ##e	1
+##opf	s ##ch ##l ##a ##ch ##t ##opf ##e ##r	1
+##opf	k ##l ##opf ##t	1
+##opf	b ##r ##a ##n ##d ##opf ##e ##r	1
+subword:##opf	5	12	2.4
+kopf	kopf	8
+subword:kopf	1	8	8.0
+empf	empf ##a ##n ##g ##e ##n	3
+empf	empf ##i ##n ##g ##e ##n	1
+empf	empf ##i ##n ##g	1
+subword:empf	3	5	1.6666666666666667
+##upf	k ##upf ##e ##r ##m ##ü ##n ##z ##e ##n	2
+##upf	r ##upf ##t ##e ##n	1
+##upf	a ##b ##z ##u ##r ##upf ##e ##n	1
+subword:##upf	3	4	1.3333333333333333
+rupf	rupf ##t ##e ##n	1
+subword:rupf	1	1	1.0
+kupf	kupf ##e ##r ##m ##ü ##n ##z ##e ##n	2
+subword:kupf	1	2	2.0
+##mpft	b ##e ##s ##ch ##i ##mpft ##e ##n	3
+subword:##mpft	1	3	3.0
+rupft	rupft ##e ##n	1
+subword:rupft	1	1	1.0
+##uf	a ##uf	202
+##uf	d ##a ##r ##a ##uf	12
+##uf	a ##uf ##e ##r ##s ##t ##e ##h ##u ##n ##g	8
+##uf	t ##ä ##uf ##e ##r	7
+##uf	t ##a ##uf ##e ##n	7
+##uf	d ##a ##r ##a ##uf ##h ##i ##n	7
+##uf	r ##uf ##e ##n	6
+##uf	a ##uf ##e ##r ##s ##t ##a ##n ##d ##e ##n	6
+##uf	a ##uf ##n ##e ##h ##m ##e ##n	5
+##uf	a ##uf ##e ##r ##s ##t ##e ##h ##e ##n	5
+##uf	t ##e ##uf ##e ##l	4
+##uf	t ##a ##uf ##e	4
+##uf	r ##uf ##t	4
+##uf	r ##uf	4
+##uf	k ##a ##uf ##e ##n	4
+##uf	a ##uf ##t ##r ##e ##t ##e ##n	4
+##uf	a ##uf ##t ##r ##a ##g	4
+##uf	k ##a ##uf ##t ##e ##n	3
+##uf	a ##uf ##g ##e ##hö ##r ##t	3
+##uf	v ##e ##r ##k ##a ##uf ##t	2
+##uf	v ##e ##r ##k ##a ##uf ##e	2
+##uf	s ##e ##uf ##z ##t ##e	2
+##uf	l ##a ##uf ##t	2
+##uf	l ##a ##uf	2
+##uf	h ##i ##n ##a ##uf	2
+##uf	g ##e ##k ##a ##uf ##t	2
+##uf	f ##e ##l ##s ##e ##n ##g ##r ##uf ##t	2
+##uf	a ##uf ##s ##t ##e ##i ##g ##e ##n	2
+##uf	a ##uf ##s ##t ##a ##n ##d	2
+##uf	a ##uf ##r ##i ##ch ##t ##i ##g	2
+##uf	a ##uf ##m ##e ##r ##k ##s ##a ##m	2
+##uf	a ##uf ##h ##i ##e ##l ##t	2
+##uf	a ##uf ##g ##e ##w ##e ##n ##d ##e ##t	2
+##uf	a ##uf ##g ##e ##t ##r ##a ##g ##e ##n	2
+##uf	a ##uf ##g ##e ##n ##o ##m ##m ##e ##n	2
+##uf	a ##uf ##g ##a ##b ##e	2
+##uf	a ##uf ##e ##r ##w ##e ##ck ##t	2
+##uf	üb ##e ##r ##l ##a ##uf ##e ##n ##d ##e ##s	1
+##uf	zu ##r ##ück ##z ##uf ##a ##h ##r ##e ##n	1
+##uf	zu ##r ##ück ##l ##a ##uf ##e ##n	1
+##uf	w ##o ##r ##f ##s ##ch ##a ##uf ##e ##l	1
+##uf	v ##e ##r ##k ##a ##uf ##t ##e ##n	1
+##uf	v ##e ##r ##k ##a ##uf ##e ##n	1
+##uf	u ##n ##a ##uf ##hö ##r ##l ##i ##ch	1
+##uf	t ##a ##u ##b ##e ##n ##v ##e ##r ##k ##ä ##uf ##e ##r	1
+##uf	s ##t ##uf ##e	1
+##uf	s ##ch ##uf	1
+##uf	r ##uf ##u ##s	1
+##uf	l ##a ##uf ##e ##n	1
+##uf	k ##a ##uf ##t ##e	1
+##uf	h ##i ##n ##a ##u ##s ##z ##uf ##a ##h ##r ##e ##n	1
+##uf	h ##e ##r ##a ##u ##s ##r ##uf ##e ##n	1
+##uf	g ##r ##uf ##t	1
+##uf	g ##e ##t ##a ##uf ##t	1
+##uf	f ##r ##e ##u ##d ##e ##n ##r ##uf ##e	1
+##uf	b ##e ##a ##uf ##t ##r ##a ##g ##t ##e	1
+##uf	a ##uf ##z ##u ##l ##e ##g ##e ##n	1
+##uf	a ##uf ##z ##u ##e ##r ##s ##t ##e ##h ##e ##n	1
+##uf	a ##uf ##z ##u ##b ##l ##i ##ck ##e ##n	1
+##uf	a ##uf ##t ##r ##a ##t	1
+##uf	a ##uf ##s ##t ##e ##h ##t	1
+##uf	a ##uf ##s ##t ##e ##h ##e ##n	1
+##uf	a ##uf ##s ##p ##i ##e ##l ##e ##n	1
+##uf	a ##uf ##s ##e ##h ##e ##n	1
+##uf	a ##uf ##s ##ch ##l ##o ##s ##s	1
+##uf	a ##uf ##s	1
+##uf	a ##uf ##r ##ü ##h ##r ##e ##r ##n	1
+##uf	a ##uf ##r ##i ##ch ##t ##i ##g ##e ##m	1
+##uf	a ##uf ##r ##i ##ch ##t ##e ##t	1
+##uf	a ##uf ##r ##e ##g ##u ##n ##g	1
+##uf	a ##uf ##n ##i ##m ##m ##t	1
+##uf	a ##uf ##h ##ä ##l ##t	1
+##uf	a ##uf ##g ##r ##a ##b ##e ##n	1
+##uf	a ##uf ##g ##e ##w ##a ##ch ##s ##e ##n	1
+##uf	a ##uf ##g ##e ##t ##r ##e ##t ##e ##n	1
+##uf	a ##uf ##g ##e ##s ##ch ##r ##i ##e ##b ##e ##n	1
+##uf	a ##uf ##g ##e ##s ##a ##m ##m ##e ##l ##t	1
+##uf	a ##uf ##g ##e ##r ##ä ##u ##m ##t	1
+##uf	a ##uf ##g ##e ##r ##e ##g ##t	1
+##uf	a ##uf ##g ##e ##h ##ä ##uf ##t	1
+##uf	a ##uf ##g ##e ##g ##a ##n ##g ##e ##n	1
+##uf	a ##uf ##e ##r ##s ##t ##a ##n ##d ##e ##n ##e ##n	1
+##uf	a ##uf ##b ##e ##w ##a ##h ##r ##t	1
+##uf	a ##uf ##b ##a ##u ##e ##n	1
+##uf	a ##u ##s ##z ##uf ##a ##h ##r ##e ##n	1
+##uf	a ##u ##s ##l ##a ##uf ##e ##n	1
+##uf	a ##n ##g ##e ##l ##a ##uf ##e ##n	1
+##uf	a ##b ##g ##e ##l ##a ##uf ##e ##n	1
+subword:##uf	88	386	4.386363636363637
+auf	auf	202
+auf	auf ##e ##r ##s ##t ##e ##h ##u ##n ##g	8
+auf	auf ##e ##r ##s ##t ##a ##n ##d ##e ##n	6
+auf	auf ##n ##e ##h ##m ##e ##n	5
+auf	auf ##e ##r ##s ##t ##e ##h ##e ##n	5
+auf	auf ##t ##r ##e ##t ##e ##n	4
+auf	auf ##t ##r ##a ##g	4
+auf	auf ##g ##e ##hö ##r ##t	3
+auf	auf ##s ##t ##e ##i ##g ##e ##n	2
+auf	auf ##s ##t ##a ##n ##d	2
+auf	auf ##r ##i ##ch ##t ##i ##g	2
+auf	auf ##m ##e ##r ##k ##s ##a ##m	2
+auf	auf ##h ##i ##e ##l ##t	2
+auf	auf ##g ##e ##w ##e ##n ##d ##e ##t	2
+auf	auf ##g ##e ##t ##r ##a ##g ##e ##n	2
+auf	auf ##g ##e ##n ##o ##m ##m ##e ##n	2
+auf	auf ##g ##a ##b ##e	2
+auf	auf ##e ##r ##w ##e ##ck ##t	2
+auf	auf ##z ##u ##l ##e ##g ##e ##n	1
+auf	auf ##z ##u ##e ##r ##s ##t ##e ##h ##e ##n	1
+auf	auf ##z ##u ##b ##l ##i ##ck ##e ##n	1
+auf	auf ##t ##r ##a ##t	1
+auf	auf ##s ##t ##e ##h ##t	1
+auf	auf ##s ##t ##e ##h ##e ##n	1
+auf	auf ##s ##p ##i ##e ##l ##e ##n	1
+auf	auf ##s ##e ##h ##e ##n	1
+auf	auf ##s ##ch ##l ##o ##s ##s	1
+auf	auf ##s	1
+auf	auf ##r ##ü ##h ##r ##e ##r ##n	1
+auf	auf ##r ##i ##ch ##t ##i ##g ##e ##m	1
+auf	auf ##r ##i ##ch ##t ##e ##t	1
+auf	auf ##r ##e ##g ##u ##n ##g	1
+auf	auf ##n ##i ##m ##m ##t	1
+auf	auf ##h ##ä ##l ##t	1
+auf	auf ##g ##r ##a ##b ##e ##n	1
+auf	auf ##g ##e ##w ##a ##ch ##s ##e ##n	1
+auf	auf ##g ##e ##t ##r ##e ##t ##e ##n	1
+auf	auf ##g ##e ##s ##ch ##r ##i ##e ##b ##e ##n	1
+auf	auf ##g ##e ##s ##a ##m ##m ##e ##l ##t	1
+auf	auf ##g ##e ##r ##ä ##u ##m ##t	1
+auf	auf ##g ##e ##r ##e ##g ##t	1
+auf	auf ##g ##e ##h ##ä ##uf ##t	1
+auf	auf ##g ##e ##g ##a ##n ##g ##e ##n	1
+auf	auf ##e ##r ##s ##t ##a ##n ##d ##e ##n ##e ##n	1
+auf	auf ##b ##e ##w ##a ##h ##r ##t	1
+auf	auf ##b ##a ##u ##e ##n	1
+subword:auf	46	285	6.195652173913044
+ruf	ruf ##e ##n	6
+ruf	ruf ##t	4
+ruf	ruf	4
+ruf	ruf ##u ##s	1
+subword:ruf	4	15	3.75
+##ufhö	u ##n ##a ##ufhö ##r ##l ##i ##ch	1
+subword:##ufhö	1	1	1.0
+##äuf	t ##äuf ##e ##r	7
+##äuf	t ##a ##u ##b ##e ##n ##v ##e ##r ##k ##äuf ##e ##r	1
+##äuf	auf ##g ##e ##h ##äuf ##t	1
+subword:##äuf	3	9	3.0
+täuf	täuf ##e ##r	7
+subword:täuf	1	7	7.0
+##käuf	t ##a ##u ##b ##e ##n ##v ##e ##r ##käuf ##e ##r	1
+subword:##käuf	1	1	1.0
+##häuf	auf ##g ##e ##häuf ##t	1
+subword:##häuf	1	1	1.0
+##aufhö	u ##n ##aufhö ##r ##l ##i ##ch	1
+subword:##aufhö	1	1	1.0
+##häuft	auf ##g ##e ##häuft	1
+subword:##häuft	1	1	1.0
+##auf	d ##a ##r ##auf	12
+##auf	t ##auf ##e ##n	7
+##auf	d ##a ##r ##auf ##h ##i ##n	7
+##auf	t ##auf ##e	4
+##auf	k ##auf ##e ##n	4
+##auf	k ##auf ##t ##e ##n	3
+##auf	v ##e ##r ##k ##auf ##t	2
+##auf	v ##e ##r ##k ##auf ##e	2
+##auf	l ##auf ##t	2
+##auf	l ##auf	2
+##auf	h ##i ##n ##auf	2
+##auf	g ##e ##k ##auf ##t	2
+##auf	üb ##e ##r ##l ##auf ##e ##n ##d ##e ##s	1
+##auf	zu ##r ##ück ##l ##auf ##e ##n	1
+##auf	w ##o ##r ##f ##s ##ch ##auf ##e ##l	1
+##auf	v ##e ##r ##k ##auf ##t ##e ##n	1
+##auf	v ##e ##r ##k ##auf ##e ##n	1
+##auf	u ##n ##aufhö ##r ##l ##i ##ch	1
+##auf	l ##auf ##e ##n	1
+##auf	k ##auf ##t ##e	1
+##auf	g ##e ##t ##auf ##t	1
+##auf	b ##e ##auf ##t ##r ##a ##g ##t ##e	1
+##auf	a ##u ##s ##l ##auf ##e ##n	1
+##auf	a ##n ##g ##e ##l ##auf ##e ##n	1
+##auf	a ##b ##g ##e ##l ##auf ##e ##n	1
+subword:##auf	25	62	2.48
+tauf	tauf ##e ##n	7
+tauf	tauf ##e	4
+subword:tauf	2	11	5.5
+##kauf	v ##e ##r ##kauf ##t	2
+##kauf	v ##e ##r ##kauf ##e	2
+##kauf	g ##e ##kauf ##t	2
+##kauf	v ##e ##r ##kauf ##t ##e ##n	1
+##kauf	v ##e ##r ##kauf ##e ##n	1
+subword:##kauf	5	8	1.6
+##zuf	zu ##r ##ück ##zuf ##a ##h ##r ##e ##n	1
+##zuf	h ##i ##n ##a ##u ##s ##zuf ##a ##h ##r ##e ##n	1
+##zuf	a ##u ##s ##zuf ##a ##h ##r ##e ##n	1
+subword:##zuf	3	3	1.0
+##ückzuf	zu ##r ##ückzuf ##a ##h ##r ##e ##n	1
+subword:##ückzuf	1	1	1.0
+kauf	kauf ##e ##n	4
+kauf	kauf ##t ##e ##n	3
+kauf	v ##e ##r ##kauf ##t	2
+kauf	v ##e ##r ##kauf ##e	2
+kauf	g ##e ##kauf ##t	2
+kauf	v ##e ##r ##kauf ##t ##e ##n	1
+kauf	v ##e ##r ##kauf ##e ##n	1
+kauf	kauf ##t ##e	1
+subword:kauf	8	16	2.0
+lauf	lauf ##t	2
+lauf	lauf	2
+lauf	lauf ##e ##n	1
+subword:lauf	3	5	1.6666666666666667
+##ufz	s ##e ##ufz ##t ##e	2
+subword:##ufz	1	2	2.0
+##aufh	d ##a ##r ##aufh ##i ##n	7
+##aufh	u ##n ##aufhö ##r ##l ##i ##ch	1
+subword:##aufh	2	8	4.0
+##zufa	h ##i ##n ##a ##u ##s ##zufa ##h ##r ##e ##n	1
+##zufa	a ##u ##s ##zufa ##h ##r ##e ##n	1
+subword:##zufa	2	2	1.0
+##zufah	h ##i ##n ##a ##u ##s ##zufah ##r ##e ##n	1
+##zufah	a ##u ##s ##zufah ##r ##e ##n	1
+subword:##zufah	2	2	1.0
+##ückzufa	zu ##r ##ückzufa ##h ##r ##e ##n	1
+subword:##ückzufa	1	1	1.0
+##ückzufah	zu ##r ##ückzufah ##r ##e ##n	1
+subword:##ückzufah	1	1	1.0
+##szufah	h ##i ##n ##a ##u ##szufah ##r ##e ##n	1
+##szufah	a ##u ##szufah ##r ##e ##n	1
+subword:##szufah	2	2	1.0
+##uszufah	h ##i ##n ##a ##uszufah ##r ##e ##n	1
+##uszufah	a ##uszufah ##r ##e ##n	1
+subword:##uszufah	2	2	1.0
+auszufah	auszufah ##r ##e ##n	1
+subword:auszufah	1	1	1.0
+##auszufah	h ##i ##n ##auszufah ##r ##e ##n	1
+subword:##auszufah	1	1	1.0
+##ufzt	s ##e ##ufzt ##e	2
+subword:##ufzt	1	2	2.0
+##impft	b ##e ##s ##ch ##impft ##e ##n	3
+subword:##impft	1	3	3.0
+##chimpft	b ##e ##s ##chimpft ##e ##n	3
+subword:##chimpft	1	3	3.0
+##schimpft	b ##e ##schimpft ##e ##n	3
+subword:##schimpft	1	3	3.0
+##aufhi	d ##a ##r ##aufhi ##n	7
+subword:##aufhi	1	7	7.0
+##ipf	z ##ipf ##e ##l	1
+subword:##ipf	1	1	1.0
+zipf	zipf ##e ##l	1
+subword:zipf	1	1	1.0
+##höh	g ##r ##a ##b ##höh ##l ##e	3
+##höh	g ##r ##a ##b ##höh ##l ##e ##n	2
+##höh	e ##r ##höh ##t	2
+##höh	r ##ä ##u ##b ##e ##r ##höh ##l ##e	1
+subword:##höh	4	8	2.0
+##bhöh	g ##r ##a ##bhöh ##l ##e	3
+##bhöh	g ##r ##a ##bhöh ##l ##e ##n	2
+subword:##bhöh	2	5	2.5
+##bhöhl	g ##r ##a ##bhöhl ##e	3
+##bhöhl	g ##r ##a ##bhöhl ##e ##n	2
+subword:##bhöhl	2	5	2.5
+##abhöhl	g ##r ##abhöhl ##e	3
+##abhöhl	g ##r ##abhöhl ##e ##n	2
+subword:##abhöhl	2	5	2.5
+##jaf	k ##a ##jaf ##a ##s	1
+subword:##jaf	1	1	1.0
+##ajaf	k ##ajaf ##a ##s	1
+subword:##ajaf	1	1	1.0
+kajaf	kajaf ##a ##s	1
+subword:kajaf	1	1	1.0
+kajafa	kajafa ##s	1
+subword:kajafa	1	1	1.0
+kajafas	kajafas	1
+subword:kajafas	1	1	1.0
+##äh	w ##äh ##r ##e ##n ##d	15
+##äh	n ##äh ##e	10
+##äh	g ##e ##l ##äh ##m ##t ##e ##n	10
+##äh	e ##r ##z ##äh ##l ##t ##e	6
+##äh	e ##r ##z ##äh ##l ##t ##e ##n	5
+##äh	a ##u ##s ##e ##r ##w ##äh ##l ##t ##e ##n	4
+##äh	k ##r ##äh ##t ##e	3
+##äh	k ##r ##äh ##t	3
+##äh	n ##äh ##e ##r	2
+##äh	e ##r ##z ##äh ##l ##e ##n	2
+##äh	z ##äh ##n ##e ##n	1
+##äh	w ##äh ##r ##e ##n ##d ##d ##e ##s ##s ##e ##n	1
+##äh	w ##äh ##l ##t ##e	1
+##äh	u ##n ##g ##e ##f ##äh ##r	1
+##äh	n ##äh ##t	1
+##äh	n ##äh ##e ##n	1
+##äh	g ##e ##z ##äh ##l ##t	1
+##äh	g ##e ##w ##äh ##l ##t	1
+##äh	g ##e ##l ##äh ##m ##t ##e	1
+##äh	g ##e ##l ##äh ##m ##t	1
+##äh	e ##r ##z ##äh ##l ##t	1
+##äh	e ##r ##n ##äh ##r ##t	1
+##äh	a ##u ##s ##e ##r ##w ##äh ##l ##t ##e ##r	1
+##äh	a ##u ##s ##e ##r ##w ##äh ##l ##t ##e	1
+subword:##äh	24	74	3.0833333333333335
+##zäh	e ##r ##zäh ##l ##t ##e	6
+##zäh	e ##r ##zäh ##l ##t ##e ##n	5
+##zäh	e ##r ##zäh ##l ##e ##n	2
+##zäh	g ##e ##zäh ##l ##t	1
+##zäh	e ##r ##zäh ##l ##t	1
+subword:##zäh	5	15	3.0
+##wäh	a ##u ##s ##e ##r ##wäh ##l ##t ##e ##n	4
+##wäh	g ##e ##wäh ##l ##t	1
+##wäh	a ##u ##s ##e ##r ##wäh ##l ##t ##e ##r	1
+##wäh	a ##u ##s ##e ##r ##wäh ##l ##t ##e	1
+subword:##wäh	4	7	1.75
+näh	näh ##e	10
+näh	näh ##e ##r	2
+näh	näh ##t	1
+näh	näh ##e ##n	1
+subword:näh	4	14	3.5
+##zähl	e ##r ##zähl ##t ##e	6
+##zähl	e ##r ##zähl ##t ##e ##n	5
+##zähl	e ##r ##zähl ##e ##n	2
+##zähl	g ##e ##zähl ##t	1
+##zähl	e ##r ##zähl ##t	1
+subword:##zähl	5	15	3.0

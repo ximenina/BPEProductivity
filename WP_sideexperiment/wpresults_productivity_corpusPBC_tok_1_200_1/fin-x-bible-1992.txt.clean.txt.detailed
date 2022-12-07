@@ -1,0 +1,1148 @@
+13	13	1
+subword:13	1	1	1.0
+--	--	30
+subword:--	1	30	30.0
+##bb	r ##a ##bb ##i	2
+##bb	r ##a ##bb ##u ##u ##n ##i	1
+##bb	b ##a ##r ##a ##bb ##a ##k ##s ##e ##n	1
+subword:##bb	3	4	1.3333333333333333
+##ff	e ##ff ##a ##t ##a	1
+subword:##ff	1	1	1.0
+eff	eff ##a ##t ##a	1
+subword:eff	1	1	1.0
+ab	ab ##r ##a ##h ##a ##m ##i ##n	4
+ab	ab ##r ##a ##h ##a ##m ##i ##l ##l ##e	1
+ab	ab ##r ##a ##h ##a ##m	1
+ab	ab ##i ##l ##e ##n ##e ##s ##s ##a	1
+ab	ab ##i ##a ##n	1
+subword:ab	5	8	1.6
+abr	abr ##a ##h ##a ##m ##i ##n	4
+abr	abr ##a ##h ##a ##m ##i ##l ##l ##e	1
+abr	abr ##a ##h ##a ##m	1
+subword:abr	3	6	2.0
+##yö	m ##yö ##s	35
+##yö	s ##yö ##d ##ä	5
+##yö	s ##yö	5
+##yö	s ##yö ##t ##ä ##v ##ä ##ä	3
+##yö	s ##yö ##k ##s ##y ##i	3
+##yö	t ##yö ##t ##ä	2
+##yö	s ##yö ##k ##ä ##ä	2
+##yö	s ##yö ##k ##s ##y ##i ##v ##ä ##t	2
+##yö	r ##yö ##s ##t ##ä ##ä	2
+##yö	m ##yö ##t ##e ##n	2
+##yö	m ##yö ##s ##k ##ä ##ä ##n	2
+##yö	v ##yö ##t ##t ##ä ##y ##t ##y ##y	1
+##yö	t ##yö ##m ##i ##e ##s	1
+##yö	s ##yö ##v ##ä ##t	1
+##yö	s ##yö ##v ##ä ##n	1
+##yö	s ##yö ##t ##t ##e	1
+##yö	s ##yö ##s ##t ##ä ##ä ##n	1
+##yö	s ##yö ##s ##t ##ä	1
+##yö	s ##yö ##m ##i ##n ##e ##n	1
+##yö	s ##yö ##k ##ö	1
+##yö	s ##yö ##k ##s ##y ##ä	1
+##yö	s ##y ##d ##ä ##n ##yö ##t ##ä	1
+##yö	r ##yö ##s ##t ##ä ##k ##ö	1
+##yö	n ##yö ##k ##y ##t ##t ##ä ##e ##n	1
+##yö	m ##yö ##n ##t ##ä ##n ##y ##t	1
+##yö	m ##yö ##h ##ä	1
+##yö	l ##yö ##n	1
+##yö	l ##yö ##d ##ä	1
+##yö	l ##yö ##d ##e ##n	1
+##yö	l ##yö	1
+##yö	l ##u ##o ##m ##i ##s ##t ##yö ##s ##t ##ä	1
+##yö	k ##e ##s ##k ##i ##yö ##l ##l ##ä	1
+##yö	h ##yö ##k ##k ##ä ##ä	1
+subword:##yö	33	85	2.5757575757575757
+myö	myö ##s	35
+myö	myö ##t ##e ##n	2
+myö	myö ##s ##k ##ä ##ä ##n	2
+myö	myö ##n ##t ##ä ##n ##y ##t	1
+myö	myö ##h ##ä	1
+subword:myö	5	41	8.2
+syö	syö ##d ##ä	5
+syö	syö	5
+syö	syö ##t ##ä ##v ##ä ##ä	3
+syö	syö ##k ##s ##y ##i	3
+syö	syö ##k ##ä ##ä	2
+syö	syö ##k ##s ##y ##i ##v ##ä ##t	2
+syö	syö ##v ##ä ##t	1
+syö	syö ##v ##ä ##n	1
+syö	syö ##t ##t ##e	1
+syö	syö ##s ##t ##ä ##ä ##n	1
+syö	syö ##s ##t ##ä	1
+syö	syö ##m ##i ##n ##e ##n	1
+syö	syö ##k ##ö	1
+syö	syö ##k ##s ##y ##ä	1
+subword:syö	14	28	2.0
+ryö	ryö ##s ##t ##ä ##ä	2
+ryö	ryö ##s ##t ##ä ##k ##ö	1
+subword:ryö	2	3	1.5
+lyö	lyö ##n	1
+lyö	lyö ##d ##ä	1
+lyö	lyö ##d ##e ##n	1
+lyö	lyö	1
+subword:lyö	4	4	1.0
+lyöd	lyöd ##ä	1
+lyöd	lyöd ##e ##n	1
+subword:lyöd	2	2	1.0
+ih	ih ##m ##i ##s ##e ##n	28
+ih	ih ##m ##i ##s ##e ##t	24
+ih	ih ##m ##i ##s ##i ##ä	16
+ih	ih ##m ##i ##s ##t ##e ##n	14
+ih	ih ##m ##i ##n ##e ##n	9
+ih	ih ##m ##i ##s ##i ##s ##t ##ä	7
+ih	ih ##m ##i ##s ##i ##l ##l ##e	3
+ih	ih ##m ##i ##s ##i ##i ##n	3
+ih	ih ##m ##i ##s ##e ##s ##t ##ä	3
+ih	ih ##m ##i ##s ##e ##l ##l ##e	3
+ih	ih ##m ##i ##s ##j ##o ##u ##k ##o ##n	2
+ih	ih ##m ##i ##s ##j ##o ##u ##k ##k ##o	2
+ih	ih ##m ##i ##s ##h ##e ##n ##k ##i	2
+ih	ih ##m ##e ##i ##s ##s ##ä ##ä ##n	2
+ih	ih ##m ##i ##s ##t ##ä	1
+ih	ih ##m ##i ##s ##k ##u ##n ##t ##a ##a	1
+ih	ih ##m ##i ##s ##e ##l ##l ##ä	1
+ih	ih ##m ##i ##s ##a ##s ##u ##m ##u ##k ##s ##e ##s ##s ##a	1
+ih	ih ##m ##e ##t ##y ##t ##t ##i	1
+ih	ih ##m ##e ##t ##t ##e ##l ##i ##v ##ä ##t	1
+ih	ih ##m ##e ##t ##t ##e ##l ##i	1
+ih	ih ##m ##e ##t ##e ##o ##n	1
+ih	ih ##m ##e ##t ##e ##l ##l ##ä	1
+ih	ih ##m ##e ##i ##t ##ä	1
+ih	ih ##a ##s ##t ##e ##l ##i ##v ##a ##t	1
+subword:ih	25	129	5.16
+ihm	ihm ##i ##s ##e ##n	28
+ihm	ihm ##i ##s ##e ##t	24
+ihm	ihm ##i ##s ##i ##ä	16
+ihm	ihm ##i ##s ##t ##e ##n	14
+ihm	ihm ##i ##n ##e ##n	9
+ihm	ihm ##i ##s ##i ##s ##t ##ä	7
+ihm	ihm ##i ##s ##i ##l ##l ##e	3
+ihm	ihm ##i ##s ##i ##i ##n	3
+ihm	ihm ##i ##s ##e ##s ##t ##ä	3
+ihm	ihm ##i ##s ##e ##l ##l ##e	3
+ihm	ihm ##i ##s ##j ##o ##u ##k ##o ##n	2
+ihm	ihm ##i ##s ##j ##o ##u ##k ##k ##o	2
+ihm	ihm ##i ##s ##h ##e ##n ##k ##i	2
+ihm	ihm ##e ##i ##s ##s ##ä ##ä ##n	2
+ihm	ihm ##i ##s ##t ##ä	1
+ihm	ihm ##i ##s ##k ##u ##n ##t ##a ##a	1
+ihm	ihm ##i ##s ##e ##l ##l ##ä	1
+ihm	ihm ##i ##s ##a ##s ##u ##m ##u ##k ##s ##e ##s ##s ##a	1
+ihm	ihm ##e ##t ##y ##t ##t ##i	1
+ihm	ihm ##e ##t ##t ##e ##l ##i ##v ##ä ##t	1
+ihm	ihm ##e ##t ##t ##e ##l ##i	1
+ihm	ihm ##e ##t ##e ##o ##n	1
+ihm	ihm ##e ##t ##e ##l ##l ##ä	1
+ihm	ihm ##e ##i ##t ##ä	1
+subword:ihm	24	128	5.333333333333333
+syöd	syöd ##ä	5
+subword:syöd	1	5	5.0
+##hd	y ##hd ##e ##s ##s ##ä	16
+##hd	t ##e ##hd ##ä	15
+##hd	t ##ä ##hd ##e ##n	12
+##hd	n ##ä ##hd ##e ##s ##s ##ä ##ä ##n	9
+##hd	m ##a ##hd ##o ##l ##l ##i ##s ##t ##a	5
+##hd	k ##a ##hd ##e ##s ##t ##a ##t ##o ##i ##s ##t ##a	5
+##hd	a ##r ##m ##a ##hd ##a	5
+##hd	t ##a ##hd ##o ##t	4
+##hd	t ##a ##hd ##o ##n	4
+##hd	l ##ä ##hd ##e ##m ##m ##e	4
+##hd	l ##ä ##hd ##e	4
+##hd	p ##u ##hd ##i ##s ##t ##a ##a	3
+##hd	n ##ä ##hd ##ä	3
+##hd	m ##a ##hd ##o ##t ##o ##n ##t ##a	3
+##hd	k ##a ##hd ##e ##n ##t ##o ##i ##s ##t ##a	3
+##hd	y ##hd ##e ##n	2
+##hd	y ##hd ##e ##k ##s ##ä ##n ##t ##e ##e ##n	2
+##hd	t ##u ##k ##a ##hd ##u ##t ##t ##i ##v ##a ##t	2
+##hd	t ##e ##r ##v ##e ##hd ##i ##t ##t ##y	2
+##hd	t ##a ##hd ##o ##t ##t ##e	2
+##hd	o ##hd ##a ##k ##k ##e ##i ##d ##e ##n	2
+##hd	n ##ä ##hd ##ä ##ä ##n	2
+##hd	n ##ä ##hd ##e ##n	2
+##hd	l ##ä ##hd ##ö ##s ##s ##ä	2
+##hd	k ##a ##hd ##e ##s ##t ##i	2
+##hd	j ##o ##hd ##a ##t ##t ##a ##a	2
+##hd	y ##hd ##i ##s ##t ##ä ##n ##y ##t	1
+##hd	y ##hd ##e ##s ##t ##ä	1
+##hd	y ##hd ##e ##n ##k ##ä ##ä ##n	1
+##hd	y ##hd ##e ##n ##k ##i ##n	1
+##hd	y ##hd ##e ##l ##l ##ä	1
+##hd	y ##hd ##e ##l ##l ##e ##t ##o ##i ##s ##t ##a	1
+##hd	y ##hd ##e ##k ##s ##ä ##s ##t ##ä ##k ##y ##m ##m ##e ##n ##e ##s ##t ##ä ##y ##hd ##e ##k ##s ##ä ##s ##t ##ä	1
+##hd	y ##hd ##e ##k ##s ##ä ##n ##n ##e ##l ##l ##ä	1
+##hd	u ##n ##o ##hd ##a	1
+##hd	t ##ä ##hd ##i ##s ##s ##ä	1
+##hd	t ##e ##r ##v ##e ##hd ##y ##s	1
+##hd	t ##e ##r ##v ##e ##hd ##i ##t ##ä ##ä ##n	1
+##hd	t ##e ##hd ##ä ##ä ##n	1
+##hd	t ##e ##hd ##ä ##k ##s ##e ##e ##n	1
+##hd	t ##e ##hd ##y ##t	1
+##hd	t ##a ##hd ##o ##t ##k ##o	1
+##hd	t ##a ##hd ##o	1
+##hd	r ##u ##u ##d ##a ##n ##l ##e ##hd ##i ##s ##t ##ä	1
+##hd	p ##u ##hd ##i ##s ##t ##u ##v ##a ##t	1
+##hd	p ##u ##hd ##i ##s ##t ##u ##m ##i ##s ##e ##s ##t ##a ##s ##i	1
+##hd	p ##u ##hd ##i ##s ##t ##u ##i ##v ##a ##t	1
+##hd	p ##u ##hd ##i ##s ##t ##a ##t ##t ##e	1
+##hd	p ##u ##hd ##a ##s ##t ##a	1
+##hd	p ##o ##hd ##i ##s ##k ##e ##l ##l ##e ##s ##s ##a ##a ##n	1
+##hd	p ##o ##hd ##i ##s ##k ##e ##l ##i ##v ##a ##t	1
+##hd	o ##hd ##a ##k ##k ##e ##i ##t ##a	1
+##hd	o ##hd ##a ##k ##k ##e ##i ##s ##i ##i ##n	1
+##hd	o ##hd ##a ##k ##k ##e ##e ##t ##k ##i ##n	1
+##hd	o ##hd ##a ##k ##k ##e ##e ##t	1
+##hd	n ##ä ##hd ##ä ##k ##s ##e ##e ##n	1
+##hd	n ##ä ##hd ##e ##s ##s ##ä ##n ##n ##e	1
+##hd	n ##u ##hd ##e ##l ##l ##a	1
+##hd	l ##ä ##hd ##i ##t ##t ##e	1
+##hd	l ##ä ##hd ##i ##n	1
+##hd	l ##ä ##hd ##e ##t ##t ##y ##ä ##ä ##n	1
+##hd	l ##ä ##hd ##e ##t ##t ##i ##i ##n	1
+##hd	l ##ä ##hd ##e ##n	1
+##hd	l ##o ##hd ##u ##t ##u ##s ##t ##a	1
+##hd	k ##o ##hd ##u ##s ##s ##a	1
+##hd	k ##o ##hd ##e ##n	1
+##hd	k ##o ##hd ##a ##n	1
+##hd	k ##o ##hd ##a ##l ##l ##e ##e ##n	1
+##hd	k ##a ##hd ##e ##n	1
+##hd	k ##a ##hd ##e ##l ##l ##e	1
+##hd	k ##a ##hd ##e ##l ##l ##a	1
+##hd	k ##a ##hd ##e ##k ##s ##a ##s	1
+##hd	k ##a ##hd ##e ##k ##s ##a ##n ##t ##o ##i ##s ##t ##a	1
+##hd	k ##a ##hd ##e ##k ##s ##a ##n ##t ##e ##n ##a	1
+##hd	j ##o ##hd ##e ##t ##a	1
+##hd	j ##o ##hd ##a ##t ##t ##a ##m ##a ##n ##a	1
+##hd	j ##o ##hd ##a	1
+##hd	h ##u ##o ##l ##e ##hd ##i ##t ##t ##e	1
+##hd	e ##r ##e ##hd ##y ##t	1
+##hd	e ##hd ##y	1
+##hd	a ##hd ##i ##s ##t ##u ##s ##t ##a	1
+##hd	a ##hd ##i ##s ##t ##u ##k ##s ##e ##s ##s ##a	1
+##hd	a ##hd ##i ##s ##t ##u ##k ##s ##e ##n	1
+##hd	a ##hd ##i ##s ##t ##i ##v ##a ##t	1
+##hd	a ##hd ##i ##n ##k ##o	1
+##hd	a ##hd ##i ##n ##g ##o ##n	1
+subword:##hd	86	177	2.058139534883721
+yhd	yhd ##e ##s ##s ##ä	16
+yhd	yhd ##e ##n	2
+yhd	yhd ##e ##k ##s ##ä ##n ##t ##e ##e ##n	2
+yhd	yhd ##i ##s ##t ##ä ##n ##y ##t	1
+yhd	yhd ##e ##s ##t ##ä	1
+yhd	yhd ##e ##n ##k ##ä ##ä ##n	1
+yhd	yhd ##e ##n ##k ##i ##n	1
+yhd	yhd ##e ##l ##l ##ä	1
+yhd	yhd ##e ##l ##l ##e ##t ##o ##i ##s ##t ##a	1
+yhd	yhd ##e ##k ##s ##ä ##s ##t ##ä ##k ##y ##m ##m ##e ##n ##e ##s ##t ##ä ##y ##hd ##e ##k ##s ##ä ##s ##t ##ä	1
+yhd	yhd ##e ##k ##s ##ä ##n ##n ##e ##l ##l ##ä	1
+subword:yhd	11	28	2.5454545454545454
+työ	työ ##t ##ä	2
+työ	työ ##m ##i ##e ##s	1
+subword:työ	2	3	1.5
+nyö	nyö ##k ##y ##t ##t ##ä ##e ##n	1
+subword:nyö	1	1	1.0
+nyök	nyök ##y ##t ##t ##ä ##e ##n	1
+subword:nyök	1	1	1.0
+nyöky	nyöky ##t ##t ##ä ##e ##n	1
+subword:nyöky	1	1	1.0
+työm	työm ##i ##e ##s	1
+subword:työm	1	1	1.0
+##öö	k ##i ##e ##l ##t ##ä ##k ##öö ##n	2
+##öö	ä ##l ##k ##öö ##n	1
+##öö	t ##y ##t ##t ##öö ##n	1
+##öö	t ##e ##h ##k ##öö ##n	1
+##öö	m ##y ##y ##k ##öö ##n	1
+subword:##öö	5	6	1.2
+##köö	k ##i ##e ##l ##t ##ä ##köö ##n	2
+##köö	ä ##l ##köö ##n	1
+##köö	t ##e ##h ##köö ##n	1
+##köö	m ##y ##y ##köö ##n	1
+subword:##köö	4	5	1.25
+yö	myö ##s	35
+yö	syöd ##ä	5
+yö	syö	5
+yö	yö ##n	3
+yö	syö ##t ##ä ##v ##ä ##ä	3
+yö	syö ##k ##s ##y ##i	3
+yö	työ ##t ##ä	2
+yö	syö ##k ##ä ##ä	2
+yö	syö ##k ##s ##y ##i ##v ##ä ##t	2
+yö	ryö ##s ##t ##ä ##ä	2
+yö	myö ##t ##e ##n	2
+yö	myö ##s ##k ##ä ##ä ##n	2
+yö	yö ##s ##i ##j ##a ##n	1
+yö	yö ##n ##ä	1
+yö	yö ##n ##s ##ä	1
+yö	v ##yö ##t ##t ##ä ##y ##t ##y ##y	1
+yö	työm ##i ##e ##s	1
+yö	syö ##v ##ä ##t	1
+yö	syö ##v ##ä ##n	1
+yö	syö ##t ##t ##e	1
+yö	syö ##s ##t ##ä ##ä ##n	1
+yö	syö ##s ##t ##ä	1
+yö	syö ##m ##i ##n ##e ##n	1
+yö	syö ##k ##ö	1
+yö	syö ##k ##s ##y ##ä	1
+yö	s ##y ##d ##ä ##n ##yö ##t ##ä	1
+yö	ryö ##s ##t ##ä ##k ##ö	1
+yö	nyöky ##t ##t ##ä ##e ##n	1
+yö	myö ##n ##t ##ä ##n ##y ##t	1
+yö	myö ##h ##ä	1
+yö	lyöd ##ä	1
+yö	lyöd ##e ##n	1
+yö	lyö ##n	1
+yö	lyö	1
+yö	l ##u ##o ##m ##i ##s ##t ##yö ##s ##t ##ä	1
+yö	k ##e ##s ##k ##i ##yö ##l ##l ##ä	1
+yö	h ##yö ##k ##k ##ä ##ä	1
+subword:yö	37	91	2.4594594594594597
+##öy	k ##öy ##h ##i ##l ##l ##e	6
+##öy	k ##öy ##h ##ä ##t	3
+##öy	k ##öy ##h ##ä	3
+##öy	p ##öy ##t ##ä ##ä ##n	2
+##öy	l ##öy ##t ##ä ##ä	2
+##öy	l ##öy ##s ##i ##v ##ä ##t	2
+##öy	l ##öy ##d ##ä ##t ##t ##e	2
+##öy	v ##i ##i ##n ##i ##k ##öy ##n ##n ##ö ##k ##s ##e ##n	1
+##öy	r ##u ##o ##k ##a ##p ##öy ##t ##ä ##ä ##n	1
+##öy	p ##öy ##t ##ä ##v ##i ##e ##r ##a ##i ##s ##t ##a	1
+##öy	p ##öy ##t ##ä ##v ##i ##e ##r ##a ##a ##t	1
+##öy	p ##öy ##d ##ä ##t	1
+##öy	p ##öy ##d ##ä ##n	1
+##öy	p ##öy ##d ##ä ##l ##l ##e	1
+##öy	l ##öy ##t ##ä ##n ##y ##t	1
+##öy	l ##öy ##t ##ä ##n ##e ##e ##t	1
+##öy	l ##öy ##t ##y ##n ##y ##t	1
+##öy	l ##öy ##d ##ä	1
+##öy	k ##öy ##s ##i ##i ##n	1
+##öy	k ##öy ##h ##i ##ä	1
+subword:##öy	20	33	1.65
+löy	löy ##t ##ä ##ä	2
+löy	löy ##s ##i ##v ##ä ##t	2
+löy	löy ##d ##ä ##t ##t ##e	2
+löy	löy ##t ##ä ##n ##y ##t	1
+löy	löy ##t ##ä ##n ##e ##e ##t	1
+löy	löy ##t ##y ##n ##y ##t	1
+löy	löy ##d ##ä	1
+subword:löy	7	10	1.4285714285714286
+##öyh	k ##öyh ##i ##l ##l ##e	6
+##öyh	k ##öyh ##ä ##t	3
+##öyh	k ##öyh ##ä	3
+##öyh	k ##öyh ##i ##ä	1
+subword:##öyh	4	13	3.25
+pöy	pöy ##t ##ä ##ä ##n	2
+pöy	pöy ##t ##ä ##v ##i ##e ##r ##a ##i ##s ##t ##a	1
+pöy	pöy ##t ##ä ##v ##i ##e ##r ##a ##a ##t	1
+pöy	pöy ##d ##ä ##t	1
+pöy	pöy ##d ##ä ##n	1
+pöy	pöy ##d ##ä ##l ##l ##e	1
+subword:pöy	6	7	1.1666666666666667
+pöyd	pöyd ##ä ##t	1
+pöyd	pöyd ##ä ##n	1
+pöyd	pöyd ##ä ##l ##l ##e	1
+subword:pöyd	3	3	1.0
+löyd	löyd ##ä ##t ##t ##e	2
+löyd	löyd ##ä	1
+subword:löyd	2	3	1.5
+köyh	köyh ##i ##l ##l ##e	6
+köyh	köyh ##ä ##t	3
+köyh	köyh ##ä	3
+köyh	köyh ##i ##ä	1
+subword:köyh	4	13	3.25
+##pöy	r ##u ##o ##k ##a ##pöy ##t ##ä ##ä ##n	1
+subword:##pöy	1	1	1.0
+köy	köyh ##i ##l ##l ##e	6
+köy	köyh ##ä ##t	3
+köy	köyh ##ä	3
+köy	köyh ##i ##ä	1
+köy	köy ##s ##i ##i ##n	1
+subword:köy	5	14	2.8
+##köy	v ##i ##i ##n ##i ##köy ##n ##n ##ö ##k ##s ##e ##n	1
+subword:##köy	1	1	1.0
+vyö	vyö ##t ##t ##ä ##y ##t ##y ##y	1
+subword:vyö	1	1	1.0
+##of	p ##r ##of ##e ##e ##t ##t ##a	8
+##of	p ##r ##of ##e ##e ##t ##t ##o ##j ##e ##n	3
+##of	p ##r ##of ##e ##t ##o ##i	2
+##of	p ##r ##of ##e ##e ##t ##t ##o ##j ##a	2
+##of	p ##r ##of ##e ##e ##t ##o ##i ##s ##t ##a	2
+##of	p ##r ##of ##e ##e ##t ##a ##t	2
+##of	p ##r ##of ##e ##e ##t ##o ##i ##l ##l ##e	1
+##of	p ##r ##of ##e ##e ##t ##a ##n ##k ##o	1
+subword:##of	8	21	2.625
+##rof	p ##rof ##e ##e ##t ##t ##a	8
+##rof	p ##rof ##e ##e ##t ##t ##o ##j ##e ##n	3
+##rof	p ##rof ##e ##t ##o ##i	2
+##rof	p ##rof ##e ##e ##t ##t ##o ##j ##a	2
+##rof	p ##rof ##e ##e ##t ##o ##i ##s ##t ##a	2
+##rof	p ##rof ##e ##e ##t ##a ##t	2
+##rof	p ##rof ##e ##e ##t ##o ##i ##l ##l ##e	1
+##rof	p ##rof ##e ##e ##t ##a ##n ##k ##o	1
+subword:##rof	8	21	2.625
+prof	prof ##e ##e ##t ##t ##a	8
+prof	prof ##e ##e ##t ##t ##o ##j ##e ##n	3
+prof	prof ##e ##t ##o ##i	2
+prof	prof ##e ##e ##t ##t ##o ##j ##a	2
+prof	prof ##e ##e ##t ##o ##i ##s ##t ##a	2
+prof	prof ##e ##e ##t ##a ##t	2
+prof	prof ##e ##e ##t ##o ##i ##l ##l ##e	1
+prof	prof ##e ##e ##t ##a ##n ##k ##o	1
+subword:prof	8	21	2.625
+##hköö	t ##e ##hköö ##n	1
+subword:##hköö	1	1	1.0
+##yköö	m ##y ##yköö ##n	1
+subword:##yköö	1	1	1.0
+##yyköö	m ##yyköö ##n	1
+subword:##yyköö	1	1	1.0
+myyköö	myyköö ##n	1
+subword:myyköö	1	1	1.0
+öl	öl ##j ##y ##m ##ä ##e ##n	2
+öl	öl ##j ##y ##m ##ä ##e ##l ##l ##e	2
+öl	öl ##j ##y ##m ##ä ##e ##k ##s ##i	2
+öl	öl ##j ##y ##m ##ä ##e ##l ##l ##ä	1
+subword:öl	4	7	1.75
+ölj	ölj ##y ##m ##ä ##e ##n	2
+ölj	ölj ##y ##m ##ä ##e ##l ##l ##e	2
+ölj	ölj ##y ##m ##ä ##e ##k ##s ##i	2
+ölj	ölj ##y ##m ##ä ##e ##l ##l ##ä	1
+subword:ölj	4	7	1.75
+öljy	öljy ##m ##ä ##e ##n	2
+öljy	öljy ##m ##ä ##e ##l ##l ##e	2
+öljy	öljy ##m ##ä ##e ##k ##s ##i	2
+öljy	öljy ##m ##ä ##e ##l ##l ##ä	1
+subword:öljy	4	7	1.75
+öljym	öljym ##ä ##e ##n	2
+öljym	öljym ##ä ##e ##l ##l ##e	2
+öljym	öljym ##ä ##e ##k ##s ##i	2
+öljym	öljym ##ä ##e ##l ##l ##ä	1
+subword:öljym	4	7	1.75
+syödä	syödä	5
+subword:syödä	1	5	5.0
+pöydä	pöydä ##t	1
+pöydä	pöydä ##n	1
+pöydä	pöydä ##l ##l ##e	1
+subword:pöydä	3	3	1.0
+öljymä	öljymä ##e ##n	2
+öljymä	öljymä ##e ##l ##l ##e	2
+öljymä	öljymä ##e ##k ##s ##i	2
+öljymä	öljymä ##e ##l ##l ##ä	1
+subword:öljymä	4	7	1.75
+löydä	löydä ##t ##t ##e	2
+löydä	löydä	1
+subword:löydä	2	3	1.5
+op	op ##e ##t ##u ##s ##l ##a ##p ##s ##e ##t	46
+op	op ##e ##t ##t ##a ##j ##a	24
+op	op ##e ##t ##t ##i	17
+op	op ##e ##t ##u ##s ##l ##a ##p ##s ##i ##l ##l ##e ##e ##n	11
+op	op ##e ##t ##u ##s ##l ##a ##p ##s ##e ##n ##s ##a	10
+op	op ##e ##t ##u ##s ##l ##a ##s ##t ##a ##a ##n	9
+op	op ##e ##t ##u ##s ##l ##a ##s ##t ##e ##n ##s ##a	7
+op	op ##e ##t ##u ##s ##l ##a ##p ##s ##i ##l ##l ##e	7
+op	op ##e ##t ##u ##s ##l ##a ##s ##t ##e ##n	5
+op	op ##e ##t ##u ##s ##l ##a ##s ##t ##a	5
+op	op ##e ##t ##u ##s ##l ##a ##p ##s ##e ##s ##i	5
+op	op ##e ##t ##u ##s ##l ##a ##p ##s ##e ##s ##t ##a	4
+op	op ##e ##t ##a ##t	3
+op	op ##p ##i ##a	2
+op	op ##e ##t ##u ##s ##l ##a ##p ##s ##i ##s ##t ##a ##a ##n	2
+op	op ##e ##t ##u ##s ##l ##a ##p ##s ##i ##l ##t ##a	2
+op	op ##e ##t ##u ##s ##l ##a ##p ##s ##i ##i ##n ##s ##a	2
+op	op ##e ##t ##u ##s ##l ##a ##p ##s ##i ##a ##s ##i	2
+op	op ##e ##t ##u ##s ##l ##a ##p ##s ##i ##a ##a ##n	2
+op	op ##e ##t ##t ##a ##j ##a ##a	2
+op	op ##e ##t ##t ##a ##e ##s ##s ##a ##a ##n	2
+op	op ##p ##i ##l ##a ##s	1
+op	op ##p ##a ##a ##n ##a ##a ##n	1
+op	op ##e ##t ##u ##s ##l ##a ##p ##s ##i ##i ##n	1
+op	op ##e ##t ##u ##s ##l ##a ##p ##s ##i ##a	1
+op	op ##e ##t ##u ##s ##l ##a ##p ##s ##e ##l ##l ##e ##e ##n	1
+op	op ##e ##t ##u ##k ##s ##e ##s ##t ##a ##a ##n	1
+op	op ##e ##t ##u ##k ##s ##e ##n ##s ##a	1
+op	op ##e ##t ##t ##a ##n ##u ##t	1
+op	op ##e ##t ##t ##a ##m ##a ##s ##s ##a	1
+op	op ##e ##t ##t ##a ##m ##a ##a ##n	1
+op	op ##e ##t ##t ##a ##j ##a ##n ##s ##a	1
+op	op ##e ##t ##t ##a ##j ##a ##l ##l ##e ##e ##n	1
+op	op ##e ##t ##t ##a ##j ##a ##a ##n ##s ##a	1
+op	op ##e ##t ##t ##a ##e ##s ##s ##a	1
+op	op ##e ##t ##t ##a ##a ##k ##s ##e ##e ##n	1
+op	op ##e ##t ##t ##a ##a	1
+op	op ##e ##t ##a	1
+subword:op	38	186	4.894736842105263
+ryös	ryös ##t ##ä ##ä	2
+ryös	ryös ##t ##ä ##k ##ö	1
+subword:ryös	2	3	1.5
+köys	köys ##i ##i ##n	1
+subword:köys	1	1	1.0
+äl	äl ##k ##ä ##ä	18
+äl	äl ##ä	7
+äl	äl ##köö ##n	1
+subword:äl	3	26	8.666666666666666
+älköö	älköö ##n	1
+subword:älköö	1	1	1.0
+älk	älk ##ä ##ä	18
+älk	älköö ##n	1
+subword:älk	2	19	9.5
+älä	älä	7
+subword:älä	1	7	7.0
+älkä	älkä ##ä	18
+subword:älkä	1	18	18.0
+älkää	älkää	18
+subword:älkää	1	18	18.0
+hyö	hyö ##k ##k ##ä ##ä	1
+subword:hyö	1	1	1.0
+hyök	hyök ##k ##ä ##ä	1
+subword:hyök	1	1	1.0
+hyökk	hyökk ##ä ##ä	1
+subword:hyökk	1	1	1.0
+hyökkä	hyökkä ##ä	1
+subword:hyökkä	1	1	1.0
+hyökkää	hyökkää	1
+subword:hyökkää	1	1	1.0
+ym	ym ##p ##ä ##r ##i ##l ##l ##e ##e ##n	4
+ym	ym ##m ##ä ##r ##t ##ä ##n ##e ##e ##t	4
+ym	ym ##p ##ä ##r ##i ##l ##l ##ä ##ä ##n	3
+ym	ym ##m ##ä ##r ##t ##ä ##m ##ä ##ä ##n	3
+ym	ym ##m ##ä ##l ##l ##ä	3
+ym	ym ##m ##ä ##l ##l ##e	3
+ym	öljymä ##e ##n	2
+ym	öljymä ##e ##l ##l ##e	2
+ym	öljymä ##e ##k ##s ##i	2
+ym	ym ##m ##ä ##r ##r ##ä	2
+ym	öljymä ##e ##l ##l ##ä	1
+ym	ym ##p ##ä ##r ##ö ##i	1
+ym	ym ##p ##ä ##r ##i ##l ##t ##ä	1
+ym	ym ##p ##ä ##r ##i ##l ##l ##ä	1
+ym	ym ##p ##ä ##r ##i ##l ##l ##e	1
+ym	ym ##p ##ä ##r ##i ##l ##e ##i ##k ##k ##a ##a ##m ##a ##a ##n	1
+ym	ym ##p ##ä ##r ##i ##l ##e ##i ##k ##a ##t ##t ##a ##v ##a	1
+ym	ym ##p ##ä ##r ##i	1
+ym	ym ##m ##ä ##r ##t ##ä ##ä	1
+ym	ym ##m ##ä ##r ##t ##ä ##m ##ä ##t ##t ##ö ##m ##i ##ä	1
+ym	ym ##m ##ä ##r ##t ##ä ##i ##s ##i ##t	1
+ym	ym ##m ##ä ##r ##r ##ä ##t ##t ##e ##h ##ä ##n	1
+ym	ym ##m ##ä ##r ##r ##y ##s ##t ##ä ##ä ##n	1
+ym	ym ##m ##ä ##r ##r ##y ##k ##s ##e ##l ##l ##ä ##ä ##n	1
+ym	ym ##m ##ä ##r ##r ##y ##k ##s ##e ##l ##l ##ä ##s ##i	1
+subword:ym	25	43	1.72
+ymp	ymp ##ä ##r ##i ##l ##l ##e ##e ##n	4
+ymp	ymp ##ä ##r ##i ##l ##l ##ä ##ä ##n	3
+ymp	ymp ##ä ##r ##ö ##i	1
+ymp	ymp ##ä ##r ##i ##l ##t ##ä	1
+ymp	ymp ##ä ##r ##i ##l ##l ##ä	1
+ymp	ymp ##ä ##r ##i ##l ##l ##e	1
+ymp	ymp ##ä ##r ##i ##l ##e ##i ##k ##k ##a ##a ##m ##a ##a ##n	1
+ymp	ymp ##ä ##r ##i ##l ##e ##i ##k ##a ##t ##t ##a ##v ##a	1
+ymp	ymp ##ä ##r ##i	1
+subword:ymp	9	14	1.5555555555555556
+ymm	ymm ##ä ##r ##t ##ä ##n ##e ##e ##t	4
+ymm	ymm ##ä ##r ##t ##ä ##m ##ä ##ä ##n	3
+ymm	ymm ##ä ##l ##l ##ä	3
+ymm	ymm ##ä ##l ##l ##e	3
+ymm	ymm ##ä ##r ##r ##ä	2
+ymm	ymm ##ä ##r ##t ##ä ##ä	1
+ymm	ymm ##ä ##r ##t ##ä ##m ##ä ##t ##t ##ö ##m ##i ##ä	1
+ymm	ymm ##ä ##r ##t ##ä ##i ##s ##i ##t	1
+ymm	ymm ##ä ##r ##r ##ä ##t ##t ##e ##h ##ä ##n	1
+ymm	ymm ##ä ##r ##r ##y ##s ##t ##ä ##ä ##n	1
+ymm	ymm ##ä ##r ##r ##y ##k ##s ##e ##l ##l ##ä ##ä ##n	1
+ymm	ymm ##ä ##r ##r ##y ##k ##s ##e ##l ##l ##ä ##s ##i	1
+subword:ymm	12	22	1.8333333333333333
+ymmä	ymmä ##r ##t ##ä ##n ##e ##e ##t	4
+ymmä	ymmä ##r ##t ##ä ##m ##ä ##ä ##n	3
+ymmä	ymmä ##l ##l ##ä	3
+ymmä	ymmä ##l ##l ##e	3
+ymmä	ymmä ##r ##r ##ä	2
+ymmä	ymmä ##r ##t ##ä ##ä	1
+ymmä	ymmä ##r ##t ##ä ##m ##ä ##t ##t ##ö ##m ##i ##ä	1
+ymmä	ymmä ##r ##t ##ä ##i ##s ##i ##t	1
+ymmä	ymmä ##r ##r ##ä ##t ##t ##e ##h ##ä ##n	1
+ymmä	ymmä ##r ##r ##y ##s ##t ##ä ##ä ##n	1
+ymmä	ymmä ##r ##r ##y ##k ##s ##e ##l ##l ##ä ##ä ##n	1
+ymmä	ymmä ##r ##r ##y ##k ##s ##e ##l ##l ##ä ##s ##i	1
+subword:ymmä	12	22	1.8333333333333333
+ymmär	ymmär ##t ##ä ##n ##e ##e ##t	4
+ymmär	ymmär ##t ##ä ##m ##ä ##ä ##n	3
+ymmär	ymmär ##r ##ä	2
+ymmär	ymmär ##t ##ä ##ä	1
+ymmär	ymmär ##t ##ä ##m ##ä ##t ##t ##ö ##m ##i ##ä	1
+ymmär	ymmär ##t ##ä ##i ##s ##i ##t	1
+ymmär	ymmär ##r ##ä ##t ##t ##e ##h ##ä ##n	1
+ymmär	ymmär ##r ##y ##s ##t ##ä ##ä ##n	1
+ymmär	ymmär ##r ##y ##k ##s ##e ##l ##l ##ä ##ä ##n	1
+ymmär	ymmär ##r ##y ##k ##s ##e ##l ##l ##ä ##s ##i	1
+subword:ymmär	10	16	1.6
+ymmärr	ymmärr ##ä	2
+ymmärr	ymmärr ##ä ##t ##t ##e ##h ##ä ##n	1
+ymmärr	ymmärr ##y ##s ##t ##ä ##ä ##n	1
+ymmärr	ymmärr ##y ##k ##s ##e ##l ##l ##ä ##ä ##n	1
+ymmärr	ymmärr ##y ##k ##s ##e ##l ##l ##ä ##s ##i	1
+subword:ymmärr	5	6	1.2
+ymmärry	ymmärry ##s ##t ##ä ##ä ##n	1
+ymmärry	ymmärry ##k ##s ##e ##l ##l ##ä ##ä ##n	1
+ymmärry	ymmärry ##k ##s ##e ##l ##l ##ä ##s ##i	1
+subword:ymmärry	3	3	1.0
+ymmärryk	ymmärryk ##s ##e ##l ##l ##ä ##ä ##n	1
+ymmärryk	ymmärryk ##s ##e ##l ##l ##ä ##s ##i	1
+subword:ymmärryk	2	2	1.0
+ymmäl	ymmäl ##l ##ä	3
+ymmäl	ymmäl ##l ##e	3
+subword:ymmäl	2	6	3.0
+ymmäll	ymmäll ##ä	3
+ymmäll	ymmäll ##e	3
+subword:ymmäll	2	6	3.0
+ympä	ympä ##r ##i ##l ##l ##e ##e ##n	4
+ympä	ympä ##r ##i ##l ##l ##ä ##ä ##n	3
+ympä	ympä ##r ##ö ##i	1
+ympä	ympä ##r ##i ##l ##t ##ä	1
+ympä	ympä ##r ##i ##l ##l ##ä	1
+ympä	ympä ##r ##i ##l ##l ##e	1
+ympä	ympä ##r ##i ##l ##e ##i ##k ##k ##a ##a ##m ##a ##a ##n	1
+ympä	ympä ##r ##i ##l ##e ##i ##k ##a ##t ##t ##a ##v ##a	1
+ympä	ympä ##r ##i	1
+subword:ympä	9	14	1.5555555555555556
+ympär	ympär ##i ##l ##l ##e ##e ##n	4
+ympär	ympär ##i ##l ##l ##ä ##ä ##n	3
+ympär	ympär ##ö ##i	1
+ympär	ympär ##i ##l ##t ##ä	1
+ympär	ympär ##i ##l ##l ##ä	1
+ympär	ympär ##i ##l ##l ##e	1
+ympär	ympär ##i ##l ##e ##i ##k ##k ##a ##a ##m ##a ##a ##n	1
+ympär	ympär ##i ##l ##e ##i ##k ##a ##t ##t ##a ##v ##a	1
+ympär	ympär ##i	1
+subword:ympär	9	14	1.5555555555555556
+ympärö	ympärö ##i	1
+subword:ympärö	1	1	1.0
+ymmärrä	ymmärrä	2
+ymmärrä	ymmärrä ##t ##t ##e ##h ##ä ##n	1
+subword:ymmärrä	2	3	1.5
+ymmärryks	ymmärryks ##e ##l ##l ##ä ##ä ##n	1
+ymmärryks	ymmärryks ##e ##l ##l ##ä ##s ##i	1
+subword:ymmärryks	2	2	1.0
+ymmärrys	ymmärrys ##t ##ä ##ä ##n	1
+subword:ymmärrys	1	1	1.0
+myös	myös	35
+myös	myös ##k ##ä ##ä ##n	2
+subword:myös	2	37	18.5
+myöh	myöh ##ä	1
+subword:myöh	1	1	1.0
+myöhä	myöhä	1
+subword:myöhä	1	1	1.0
+öl	öljymä ##e ##n	2
+öl	öljymä ##e ##l ##l ##e	2
+öl	öljymä ##e ##k ##s ##i	2
+öl	öl ##j ##y ##n	1
+öl	öl ##j ##y ##l ##l ##ä	1
+öl	öl ##j ##y ##j ##ä	1
+öl	öljymä ##e ##l ##l ##ä	1
+subword:öl	7	10	1.4285714285714286
+ölj	öljymä ##e ##n	2
+ölj	öljymä ##e ##l ##l ##e	2
+ölj	öljymä ##e ##k ##s ##i	2
+ölj	ölj ##y ##n	1
+ölj	ölj ##y ##l ##l ##ä	1
+ölj	ölj ##y ##j ##ä	1
+ölj	öljymä ##e ##l ##l ##ä	1
+subword:ölj	7	10	1.4285714285714286
+öljy	öljymä ##e ##n	2
+öljy	öljymä ##e ##l ##l ##e	2
+öljy	öljymä ##e ##k ##s ##i	2
+öljy	öljy ##n	1
+öljy	öljy ##l ##l ##ä	1
+öljy	öljy ##j ##ä	1
+öljy	öljymä ##e ##l ##l ##ä	1
+subword:öljy	7	10	1.4285714285714286
+öljyj	öljyj ##ä	1
+subword:öljyj	1	1	1.0
+öljyjä	öljyjä	1
+subword:öljyjä	1	1	1.0
+##kö	e ##t ##t ##e ##kö	10
+##kö	e ##i ##kö	6
+##kö	s ##a ##d ##a ##n ##p ##ä ##ä ##l ##l ##i ##k ##kö	4
+##kö	e ##t ##kö	4
+##kö	e ##s ##t ##ä ##kö	4
+##kö	n ##ä ##kö ##n ##s ##ä	3
+##kö	s ##a ##d ##a ##n ##p ##ä ##ä ##l ##l ##i ##kö ##n	2
+##kö	p ##e ##l ##ä ##t ##kö	2
+##kö	p ##e ##l ##ä ##s ##t ##y ##kö	2
+##kö	l ##ä ##h ##t ##e ##kö	2
+##kö	k ##i ##e ##l ##t ##ä ##köö ##n	2
+##kö	ä ##l ##köö ##n	1
+##kö	y ##h ##ä ##kö	1
+##kö	v ##i ##i ##n ##i ##köy ##n ##n ##ö ##k ##s ##e ##n	1
+##kö	syö ##kö	1
+##kö	s ##i ##i ##r ##t ##y ##kö	1
+##kö	ryös ##t ##ä ##kö	1
+##kö	p ##ä ##ä ##l ##l ##i ##kö ##i ##l ##l ##e	1
+##kö	p ##ä ##ä ##l ##l ##i ##k ##kö ##j ##e ##n	1
+##kö	p ##y ##s ##ä ##h ##t ##y ##kö	1
+##kö	p ##i ##t ##ä ##ä ##kö	1
+##kö	n ##ä ##kö ##s ##i	1
+##kö	n ##ä ##kö ##n ##i	1
+##kö	n ##ä ##kö ##i ##s ##e ##n ##ä	1
+##kö	n ##ä ##e ##t ##kö	1
+##kö	m ##i ##n ##ä ##kö	1
+##kö	m ##e ##n ##e ##m ##m ##e ##kö	1
+##kö	k ##ä ##t ##kö ##ä	1
+##kö	k ##i ##r ##i ##s ##t ##ä ##kö	1
+##kö	i ##t ##k ##e ##kö	1
+##kö	i ##s ##k ##e ##m ##m ##e ##kö	1
+##kö	h ##ä ##t ##ä ##ä ##n ##t ##y ##kö	1
+##kö	h ##ä ##n ##kö	1
+##kö	e ##t ##s ##i ##kö	1
+##kö	e ##i ##v ##ä ##t ##kö	1
+subword:##kö	35	65	1.8571428571428572
+syökö	syökö	1
+subword:syökö	1	1	1.0
+##hdö	l ##ä ##hdö ##s ##s ##ä	2
+subword:##hdö	1	2	2.0
+##ähdö	l ##ähdö ##s ##s ##ä	2
+subword:##ähdö	1	2	2.0
+lähdö	lähdö ##s ##s ##ä	2
+subword:lähdö	1	2	2.0
+lähdös	lähdös ##s ##ä	2
+subword:lähdös	1	2	2.0
+lähdöss	lähdöss ##ä	2
+subword:lähdöss	1	2	2.0
+lähdössä	lähdössä	2
+subword:lähdössä	1	2	2.0
+lö	lö ##i ##v ##ä ##t	4
+lö	löydä ##t ##t ##e	2
+lö	löy ##t ##ä ##ä	2
+lö	löy ##s ##i ##v ##ä ##t	2
+lö	lö ##i	2
+lö	löydä	1
+lö	löy ##t ##ä ##n ##y ##t	1
+lö	löy ##t ##ä ##n ##e ##e ##t	1
+lö	löy ##t ##y ##n ##y ##t	1
+subword:lö	9	16	1.7777777777777777
+##jö	v ##i ##l ##j ##e ##l ##i ##jö ##i ##d ##e ##n	2
+##jö	v ##i ##l ##j ##e ##l ##i ##jö ##i ##l ##l ##e	1
+##jö	v ##i ##i ##n ##i ##n ##v ##i ##l ##j ##e ##l ##i ##jö ##i ##l ##l ##e	1
+##jö	h ##y ##v ##ä ##n ##t ##e ##k ##i ##jö ##i ##k ##s ##i	1
+subword:##jö	4	5	1.25
+yh	yhd ##e ##s ##s ##ä	16
+yh	köyh ##i ##l ##l ##e	6
+yh	yh ##ä	4
+yh	yh ##t ##ä ##k ##k ##i ##ä	4
+yh	köyh ##ä ##t	3
+yh	köyh ##ä	3
+yh	yhd ##e ##n	2
+yh	yhd ##e ##k ##s ##ä ##n ##t ##e ##e ##n	2
+yh	yh ##t ##ä ##ä ##n	2
+yh	yhd ##i ##s ##t ##ä ##n ##y ##t	1
+yh	yhd ##e ##s ##t ##ä	1
+yh	yhd ##e ##n ##k ##ä ##ä ##n	1
+yh	yhd ##e ##n ##k ##i ##n	1
+yh	yhd ##e ##l ##l ##ä	1
+yh	yhd ##e ##l ##l ##e ##t ##o ##i ##s ##t ##a	1
+yh	yhd ##e ##k ##s ##ä ##s ##t ##ä ##k ##y ##m ##m ##e ##n ##e ##s ##t ##ä ##y ##hd ##e ##k ##s ##ä ##s ##t ##ä	1
+yh	yhd ##e ##k ##s ##ä ##n ##n ##e ##l ##l ##ä	1
+yh	yh ##ä ##kö	1
+yh	yh ##t ##ä ##k ##ä ##ä ##n	1
+yh	yh ##t ##ä	1
+yh	yh ##t ##y ##i ##v ##ä ##t	1
+yh	yh ##t ##e ##e ##n ##s ##ä	1
+yh	yh ##t ##e ##e ##n ##k ##ä ##ä ##n	1
+yh	köyh ##i ##ä	1
+subword:yh	24	57	2.375
+##pp	t ##e ##m ##pp ##e ##l ##i ##s ##s ##ä	7
+##pp	t ##a ##pp ##o ##i ##v ##a ##t	5
+##pp	h ##a ##pp ##a ##m ##a ##t ##t ##o ##m ##a ##n	4
+##pp	y ##l ##i ##p ##a ##pp ##i	3
+##pp	t ##a ##pp ##a ##v ##a ##t	3
+##pp	l ##a ##m ##pp ##u ##a	3
+##pp	y ##l ##i ##p ##a ##pp ##i ##e ##n	2
+##pp	t ##e ##m ##pp ##e ##l ##i ##ä	2
+##pp	t ##e ##m ##pp ##e ##l ##i ##v ##a ##r ##t ##i ##o ##s ##t ##o ##n	2
+##pp	t ##e ##m ##pp ##e ##l ##i ##n	2
+##pp	t ##e ##m ##pp ##e ##l ##i ##i ##n	2
+##pp	t ##a ##pp ##a ##a	2
+##pp	o ##r ##j ##a ##n ##t ##a ##pp ##u ##r ##o ##i ##s ##t ##a	2
+##pp	l ##o ##pp ##u ##a	2
+##pp	l ##o ##pp ##u	2
+##pp	l ##a ##m ##pp ##u	2
+##pp	k ##i ##m ##pp ##u ##u ##n	2
+##pp	a ##n ##o ##pp ##i	2
+##pp	y ##l ##i ##p ##a ##pp ##i ##m ##m ##e	1
+##pp	y ##l ##i ##p ##a ##pp ##e ##i ##n ##a	1
+##pp	v ##a ##i ##pp ##a ##n ##s ##a	1
+##pp	t ##e ##m ##pp ##e ##l ##i ##s ##t ##ä	1
+##pp	t ##e ##m ##pp ##e ##l ##i ##m ##u ##u ##r ##i ##n	1
+##pp	t ##e ##m ##pp ##e ##l ##i ##a ##l ##u ##e ##e ##n	1
+##pp	t ##a ##pp ##a ##a ##k ##s ##e ##e ##n	1
+##pp	r ##i ##i ##pp ##u ##m ##a ##t ##o ##n	1
+##pp	p ##u ##r ##pp ##u ##r ##a ##v ##i ##i ##t ##a ##n	1
+##pp	p ##u ##r ##pp ##u ##r ##a ##n ##p ##u ##n ##a ##i ##s ##e ##n	1
+##pp	p ##a ##pp ##i ##s ##o ##s ##a ##s ##t ##o ##o ##n	1
+##pp	p ##a ##pp ##i	1
+##pp	l ##o ##pp ##u ##u ##n	1
+##pp	k ##u ##o ##pp ##a ##a ##n	1
+##pp	k ##o ##r ##pp ##e ##j ##a	1
+##pp	k ##i ##m ##pp ##u ##u ##n ##s ##a	1
+##pp	k ##i ##m ##pp ##u ##u ##n ##n ##e	1
+##pp	h ##y ##pp ##i ##k ##ä ##ä	1
+##pp	h ##a ##pp ##a ##n ##i	1
+##pp	f ##i ##l ##i ##pp ##o ##s	1
+##pp	f ##i ##l ##i ##pp ##o ##k ##s ##e ##n	1
+subword:##pp	39	70	1.794871794871795
+##mpp	t ##e ##mpp ##e ##l ##i ##s ##s ##ä	7
+##mpp	l ##a ##mpp ##u ##a	3
+##mpp	t ##e ##mpp ##e ##l ##i ##ä	2
+##mpp	t ##e ##mpp ##e ##l ##i ##v ##a ##r ##t ##i ##o ##s ##t ##o ##n	2
+##mpp	t ##e ##mpp ##e ##l ##i ##n	2
+##mpp	t ##e ##mpp ##e ##l ##i ##i ##n	2
+##mpp	l ##a ##mpp ##u	2
+##mpp	k ##i ##mpp ##u ##u ##n	2
+##mpp	t ##e ##mpp ##e ##l ##i ##s ##t ##ä	1
+##mpp	t ##e ##mpp ##e ##l ##i ##m ##u ##u ##r ##i ##n	1
+##mpp	t ##e ##mpp ##e ##l ##i ##a ##l ##u ##e ##e ##n	1
+##mpp	k ##i ##mpp ##u ##u ##n ##s ##a	1
+##mpp	k ##i ##mpp ##u ##u ##n ##n ##e	1
+subword:##mpp	13	27	2.076923076923077
+aj	aj ##a ##n	6
+aj	aj ##a ##t ##t ##e ##l ##i ##v ##a ##t	3
+aj	aj ##a ##a	3
+aj	aj ##o ##i	2
+aj	aj ##a ##v ##a ##n	2
+aj	aj ##a ##t ##t ##e ##l ##e ##t ##t ##e	2
+aj	aj ##a ##t ##e ##l ##l ##a	2
+aj	aj ##a ##n ##u ##t	2
+aj	aj ##o ##i ##v ##a ##t	1
+aj	aj ##a ##v ##a ##t	1
+aj	aj ##a ##t ##u ##s	1
+aj	aj ##a ##t ##u ##k ##s ##e ##s ##i	1
+aj	aj ##a ##t ##t ##e ##l ##i	1
+aj	aj ##a ##t ##t ##e ##l ##e ##m ##a ##a ##n	1
+aj	aj ##a ##t ##e ##l ##l ##e ##n	1
+aj	aj ##a ##m ##a ##a ##n	1
+aj	aj ##a ##l ##l ##a ##a ##n	1
+aj	aj ##a ##i ##s ##i ##v ##a ##t	1
+aj	aj ##a ##i ##s ##i	1
+subword:aj	19	33	1.736842105263158
+ryöst	ryöst ##ä ##ä	2
+ryöst	ryöst ##ä ##kö	1
+subword:ryöst	2	3	1.5
+ryöstä	ryöstä ##ä	2
+ryöstä	ryöstä ##kö	1
+subword:ryöstä	2	3	1.5
+ryöstäkö	ryöstäkö	1
+subword:ryöstäkö	1	1	1.0
+ryöstää	ryöstää	2
+subword:ryöstää	1	2	2.0
+ymmärt	ymmärt ##ä ##n ##e ##e ##t	4
+ymmärt	ymmärt ##ä ##m ##ä ##ä ##n	3
+ymmärt	ymmärt ##ä ##ä	1
+ymmärt	ymmärt ##ä ##m ##ä ##t ##t ##ö ##m ##i ##ä	1
+ymmärt	ymmärt ##ä ##i ##s ##i ##t	1
+subword:ymmärt	5	10	2.0
+ymmärtä	ymmärtä ##n ##e ##e ##t	4
+ymmärtä	ymmärtä ##m ##ä ##ä ##n	3
+ymmärtä	ymmärtä ##ä	1
+ymmärtä	ymmärtä ##m ##ä ##t ##t ##ö ##m ##i ##ä	1
+ymmärtä	ymmärtä ##i ##s ##i ##t	1
+subword:ymmärtä	5	10	2.0
+ymmärtäm	ymmärtäm ##ä ##ä ##n	3
+ymmärtäm	ymmärtäm ##ä ##t ##t ##ö ##m ##i ##ä	1
+subword:ymmärtäm	2	4	2.0
+ymmärtämä	ymmärtämä ##ä ##n	3
+ymmärtämä	ymmärtämä ##t ##t ##ö ##m ##i ##ä	1
+subword:ymmärtämä	2	4	2.0
+ymmärtämää	ymmärtämää ##n	3
+subword:ymmärtämää	1	3	3.0
+nyökyt	nyökyt ##t ##ä ##e ##n	1
+subword:nyökyt	1	1	1.0
+nyökytt	nyökytt ##ä ##e ##n	1
+subword:nyökytt	1	1	1.0
+nyökyttä	nyökyttä ##e ##n	1
+subword:nyökyttä	1	1	1.0
+ymmärryst	ymmärryst ##ä ##ä ##n	1
+subword:ymmärryst	1	1	1.0
+ymmärrystä	ymmärrystä ##ä ##n	1
+subword:ymmärrystä	1	1	1.0
+ymmärrystää	ymmärrystää ##n	1
+subword:ymmärrystää	1	1	1.0
+työt	työt ##ä	2
+subword:työt	1	2	2.0
+työtä	työtä	2
+subword:työtä	1	2	2.0
+##pöyt	r ##u ##o ##k ##a ##pöyt ##ä ##ä ##n	1
+subword:##pöyt	1	1	1.0
+##pöytä	r ##u ##o ##k ##a ##pöytä ##ä ##n	1
+subword:##pöytä	1	1	1.0
+##pöytää	r ##u ##o ##k ##a ##pöytää ##n	1
+subword:##pöytää	1	1	1.0
+pöyt	pöyt ##ä ##ä ##n	2
+pöyt	r ##u ##o ##k ##a ##pöytää ##n	1
+pöyt	pöyt ##ä ##v ##i ##e ##r ##a ##i ##s ##t ##a	1
+pöyt	pöyt ##ä ##v ##i ##e ##r ##a ##a ##t	1
+subword:pöyt	4	5	1.25
+pöytä	pöytä ##ä ##n	2
+pöytä	r ##u ##o ##k ##a ##pöytää ##n	1
+pöytä	pöytä ##v ##i ##e ##r ##a ##i ##s ##t ##a	1
+pöytä	pöytä ##v ##i ##e ##r ##a ##a ##t	1
+subword:pöytä	4	5	1.25
+pöytäv	pöytäv ##i ##e ##r ##a ##i ##s ##t ##a	1
+pöytäv	pöytäv ##i ##e ##r ##a ##a ##t	1
+subword:pöytäv	2	2	1.0
+pöytää	pöytää ##n	2
+pöytää	r ##u ##o ##k ##a ##pöytää ##n	1
+subword:pöytää	2	3	1.5
+##töö	t ##y ##t ##töö ##n	1
+subword:##töö	1	1	1.0
+##ttöö	t ##y ##ttöö ##n	1
+subword:##ttöö	1	1	1.0
+##yttöö	t ##yttöö ##n	1
+subword:##yttöö	1	1	1.0
+tyttöö	tyttöö ##n	1
+subword:tyttöö	1	1	1.0
+vyöt	vyöt ##t ##ä ##y ##t ##y ##y	1
+subword:vyöt	1	1	1.0
+vyött	vyött ##ä ##y ##t ##y ##y	1
+subword:vyött	1	1	1.0
+vyöttä	vyöttä ##y ##t ##y ##y	1
+subword:vyöttä	1	1	1.0
+vyöttäy	vyöttäy ##t ##y ##y	1
+subword:vyöttäy	1	1	1.0
+vyöttäyt	vyöttäyt ##y ##y	1
+subword:vyöttäyt	1	1	1.0
+vyöttäyty	vyöttäyty ##y	1
+subword:vyöttäyty	1	1	1.0
+vyöttäytyy	vyöttäytyy	1
+subword:vyöttäytyy	1	1	1.0
+ymmärtämät	ymmärtämät ##t ##ö ##m ##i ##ä	1
+subword:ymmärtämät	1	1	1.0
+ymmärtämätt	ymmärtämätt ##ö ##m ##i ##ä	1
+subword:ymmärtämätt	1	1	1.0
+ymmärtämättö	ymmärtämättö ##m ##i ##ä	1
+subword:ymmärtämättö	1	1	1.0
+ymmärtämättöm	ymmärtämättöm ##i ##ä	1
+subword:ymmärtämättöm	1	1	1.0
+##äköö	k ##i ##e ##l ##t ##äköö ##n	2
+subword:##äköö	1	2	2.0
+##lköö	ä ##lköö ##n	1
+subword:##lköö	1	1	1.0
+älköö	älköö ##n	1
+subword:älköö	1	1	1.0
+##täköö	k ##i ##e ##l ##täköö ##n	2
+subword:##täköö	1	2	2.0
+##ltäköö	k ##i ##e ##ltäköö ##n	2
+subword:##ltäköö	1	2	2.0
+##ob	j ##a ##a ##k ##ob ##i ##n	12
+##ob	j ##a ##a ##k ##ob	4
+##ob	j ##a ##a ##k ##ob ##i ##l ##l ##e	1
+subword:##ob	3	17	5.666666666666667
+##kob	j ##a ##a ##kob ##i ##n	12
+##kob	j ##a ##a ##kob	4
+##kob	j ##a ##a ##kob ##i ##l ##l ##e	1
+subword:##kob	3	17	5.666666666666667
+ymmärtämään	ymmärtämään	3
+subword:ymmärtämään	1	3	3.0
+##ltäköön	k ##i ##e ##ltäköön	2
+subword:##ltäköön	1	2	2.0
+älköön	älköön	1
+subword:älköön	1	1	1.0
+älköön	älköön	1
+subword:älköön	1	1	1.0
+##köyn	v ##i ##i ##n ##i ##köyn ##n ##ö ##k ##s ##e ##n	1
+subword:##köyn	1	1	1.0
+##köynn	v ##i ##i ##n ##i ##köynn ##ö ##k ##s ##e ##n	1
+subword:##köynn	1	1	1.0
+##köynnö	v ##i ##i ##n ##i ##köynnö ##k ##s ##e ##n	1
+subword:##köynnö	1	1	1.0
+##köynnök	v ##i ##i ##n ##i ##köynnök ##s ##e ##n	1
+subword:##köynnök	1	1	1.0
+##köynnöks	v ##i ##i ##n ##i ##köynnöks ##e ##n	1
+subword:##köynnöks	1	1	1.0
+ymmärrystään	ymmärrystään	1
+subword:ymmärrystään	1	1	1.0
+##hköön	t ##e ##hköön	1
+subword:##hköön	1	1	1.0
+##pöytään	r ##u ##o ##k ##a ##pöytään	1
+subword:##pöytään	1	1	1.0
+tyttöön	tyttöön	1
+subword:tyttöön	1	1	1.0
+pöytään	pöytään	2
+pöytään	r ##u ##o ##k ##a ##pöytään	1
+subword:pöytään	2	3	1.5
+myyköön	myyköön	1
+subword:myyköön	1	1	1.0
+syök	syök ##s ##y ##i	3
+syök	syök ##ä ##ä	2
+syök	syök ##s ##y ##i ##v ##ä ##t	2
+syök	syökö	1
+syök	syök ##s ##y ##ä	1
+subword:syök	5	9	1.8
+syöks	syöks ##y ##i	3
+syöks	syöks ##y ##i ##v ##ä ##t	2
+syöks	syöks ##y ##ä	1
+subword:syöks	3	6	2.0
+syöksy	syöksy ##i	3
+syöksy	syöksy ##i ##v ##ä ##t	2
+syöksy	syöksy ##ä	1
+subword:syöksy	3	6	2.0
+syökä	syökä ##ä	2
+subword:syökä	1	2	2.0
+syökää	syökää	2
+subword:syökää	1	2	2.0
+yl	yl ##i ##p ##a ##p ##i ##t	14
+yl	yl ##l ##ä ##ä ##n	6
+yl	yl ##i ##s ##t ##i ##v ##ä ##t	5
+yl	yl ##i ##p ##a ##p ##i ##n	5
+yl	yl ##ö ##s ##n ##o ##u ##s ##e ##m ##u ##k ##s ##e ##n	4
+yl	yl ##ö ##s	3
+yl	yl ##i ##p ##a ##pp ##i	3
+yl	yl ##ä ##k ##e ##r ##r ##a ##s ##t ##a	2
+yl	yl ##l ##e	2
+yl	yl ##i ##s ##t ##ä ##ä	2
+yl	yl ##i ##s ##t ##ä ##e ##n	2
+yl	yl ##i ##p ##a ##pp ##i ##e ##n	2
+yl	yl ##i ##p ##a ##p ##e ##i ##l ##l ##e	2
+yl	yl ##ö ##s ##n ##o ##u ##s ##s ##e ##e ##t	1
+yl	yl ##ö ##s ##n ##o ##u ##s ##e ##m ##u ##k ##s ##e ##s ##s ##a	1
+yl	yl ##ä ##p ##u ##o ##l ##e ##l ##l ##a	1
+yl	yl ##t ##ä ##ä ##n	1
+yl	yl ##t ##ä	1
+yl	yl ##l ##i ##n	1
+yl	yl ##l ##e ##s ##i	1
+yl	yl ##l ##e ##e ##n	1
+yl	yl ##i ##s ##t ##ä ##n	1
+yl	yl ##i ##s ##t ##i	1
+yl	yl ##i ##s ##t ##e ##t ##y ##n	1
+yl	yl ##i ##p ##a ##pp ##i ##m ##m ##e	1
+yl	yl ##i ##p ##a ##pp ##e ##i ##n ##a	1
+yl	yl ##i ##n	1
+yl	yl ##i ##k ##i ##n	1
+yl	yl ##h ##ä ##ä ##l ##t ##ä	1
+yl	yl ##e ##n	1
+yl	yl ##e ##l ##l ##i ##s ##e ##s ##t ##i	1
+subword:yl	31	70	2.2580645161290325
+ylö	ylö ##s ##n ##o ##u ##s ##e ##m ##u ##k ##s ##e ##n	4
+ylö	ylö ##s	3
+ylö	ylö ##s ##n ##o ##u ##s ##s ##e ##e ##t	1
+ylö	ylö ##s ##n ##o ##u ##s ##e ##m ##u ##k ##s ##e ##s ##s ##a	1
+subword:ylö	4	9	2.25
+yk	yk ##s ##i	19
+yk	yk ##s ##i ##k ##ä ##ä ##n	6
+yk	yk ##s ##i ##n	5
+yk	yk ##s ##i ##n ##ä ##i ##s ##y ##y ##t ##e ##e ##n	2
+yk	ymmärryks ##e ##l ##l ##ä ##ä ##n	1
+yk	ymmärryks ##e ##l ##l ##ä ##s ##i	1
+yk	yk ##s ##i ##t ##o ##i ##s ##t ##a	1
+yk	myyköön	1
+subword:yk	8	36	4.5
+yr	yr ##i ##t ##i ##m ##m ##e	2
+yr	yr ##i ##t ##ä ##t ##t ##e	1
+yr	yr ##i ##t ##t ##ä ##e ##n	1
+yr	yr ##i ##t ##t ##i ##v ##ä ##t	1
+yr	yr ##i ##t ##t ##i	1
+subword:yr	5	6	1.2
+yks	yks ##i	19
+yks	yks ##i ##k ##ä ##ä ##n	6
+yks	yks ##i ##n	5
+yks	yks ##i ##n ##ä ##i ##s ##y ##y ##t ##e ##e ##n	2
+yks	ymmärryks ##e ##l ##l ##ä ##ä ##n	1
+yks	ymmärryks ##e ##l ##l ##ä ##s ##i	1
+yks	yks ##i ##t ##o ##i ##s ##t ##a	1
+subword:yks	7	35	5.0
+ylös	ylös ##n ##o ##u ##s ##e ##m ##u ##k ##s ##e ##n	4
+ylös	ylös	3
+ylös	ylös ##n ##o ##u ##s ##s ##e ##e ##t	1
+ylös	ylös ##n ##o ##u ##s ##e ##m ##u ##k ##s ##e ##s ##s ##a	1
+subword:ylös	4	9	2.25
+ys	ys ##t ##ä ##v ##ä ##t	1
+ys	ys ##t ##ä ##v ##ä ##n ##n ##e	1
+ys	ys ##t ##ä ##v ##ä ##n ##i	1
+ys	ys ##t ##ä ##v ##y ##y ##t ##t ##ä ##ä ##n	1
+ys	ys ##t ##ä ##v ##i ##ä ##ä ##n	1
+ys	ys ##t ##ä ##v ##i ##ä ##s ##i	1
+ys	ys ##t ##ä ##v ##i ##ä	1
+ys	ys ##t ##ä ##v ##i ##l ##l ##e ##n ##i	1
+ys	ymmärrystään	1
+ys	köys ##i ##i ##n	1
+subword:ys	10	10	1.0
+yst	yst ##ä ##v ##ä ##t	1
+yst	yst ##ä ##v ##ä ##n ##n ##e	1
+yst	yst ##ä ##v ##ä ##n ##i	1
+yst	yst ##ä ##v ##y ##y ##t ##t ##ä ##ä ##n	1
+yst	yst ##ä ##v ##i ##ä ##ä ##n	1
+yst	yst ##ä ##v ##i ##ä ##s ##i	1
+yst	yst ##ä ##v ##i ##ä	1
+yst	yst ##ä ##v ##i ##l ##l ##e ##n ##i	1
+yst	ymmärrystään	1
+subword:yst	9	9	1.0
+ystä	ystä ##v ##ä ##t	1
+ystä	ystä ##v ##ä ##n ##n ##e	1
+ystä	ystä ##v ##ä ##n ##i	1
+ystä	ystä ##v ##y ##y ##t ##t ##ä ##ä ##n	1
+ystä	ystä ##v ##i ##ä ##ä ##n	1
+ystä	ystä ##v ##i ##ä ##s ##i	1
+ystä	ystä ##v ##i ##ä	1
+ystä	ystä ##v ##i ##l ##l ##e ##n ##i	1
+ystä	ymmärrystään	1
+subword:ystä	9	9	1.0
+ystäv	ystäv ##ä ##t	1
+ystäv	ystäv ##ä ##n ##n ##e	1
+ystäv	ystäv ##ä ##n ##i	1
+ystäv	ystäv ##y ##y ##t ##t ##ä ##ä ##n	1
+ystäv	ystäv ##i ##ä ##ä ##n	1
+ystäv	ystäv ##i ##ä ##s ##i	1
+ystäv	ystäv ##i ##ä	1
+ystäv	ystäv ##i ##l ##l ##e ##n ##i	1
+subword:ystäv	8	8	1.0
+ystävy	ystävy ##y ##t ##t ##ä ##ä ##n	1
+subword:ystävy	1	1	1.0
+ystävyy	ystävyy ##t ##t ##ä ##ä ##n	1
+subword:ystävyy	1	1	1.0
+ystävyyt	ystävyyt ##t ##ä ##ä ##n	1
+subword:ystävyyt	1	1	1.0
+ystävyytt	ystävyytt ##ä ##ä ##n	1
+subword:ystävyytt	1	1	1.0
+ystävyyttä	ystävyyttä ##ä ##n	1
+subword:ystävyyttä	1	1	1.0
+ystävyyttää	ystävyyttää ##n	1
+subword:ystävyyttää	1	1	1.0
+ystävyyttään	ystävyyttään	1
+subword:ystävyyttään	1	1	1.0
+profe	profe ##e ##t ##t ##a	8
+profe	profe ##e ##t ##t ##o ##j ##e ##n	3
+profe	profe ##t ##o ##i	2
+profe	profe ##e ##t ##t ##o ##j ##a	2
+profe	profe ##e ##t ##o ##i ##s ##t ##a	2
+profe	profe ##e ##t ##a ##t	2
+profe	profe ##e ##t ##o ##i ##l ##l ##e	1
+profe	profe ##e ##t ##a ##n ##k ##o	1
+subword:profe	8	21	2.625
+##eltäköön	k ##i ##eltäköön	2
+subword:##eltäköön	1	2	2.0
+öljymäe	öljymäe ##n	2
+öljymäe	öljymäe ##l ##l ##e	2
+öljymäe	öljymäe ##k ##s ##i	2
+öljymäe	öljymäe ##l ##l ##ä	1
+subword:öljymäe	4	7	1.75
+ymmärrykse	ymmärrykse ##l ##l ##ä ##ä ##n	1
+ymmärrykse	ymmärrykse ##l ##l ##ä ##s ##i	1
+subword:ymmärrykse	2	2	1.0
+ymmärryksel	ymmärryksel ##l ##ä ##ä ##n	1
+ymmärryksel	ymmärryksel ##l ##ä ##s ##i	1
+subword:ymmärryksel	2	2	1.0
+ymmärryksell	ymmärryksell ##ä ##ä ##n	1
+ymmärryksell	ymmärryksell ##ä ##s ##i	1
+subword:ymmärryksell	2	2	1.0
+ymmärryksellä	ymmärryksellä ##ä ##n	1
+ymmärryksellä	ymmärryksellä ##s ##i	1
+subword:ymmärryksellä	2	2	1.0
+##köynnökse	v ##i ##i ##n ##i ##köynnökse ##n	1
+subword:##köynnökse	1	1	1.0
+##köynnöksen	v ##i ##i ##n ##i ##köynnöksen	1
+subword:##köynnöksen	1	1	1.0
+nyökyttäe	nyökyttäe ##n	1
+subword:nyökyttäe	1	1	1.0
+nyökyttäen	nyökyttäen	1
+subword:nyökyttäen	1	1	1.0
+##ehköön	t ##ehköön	1
+subword:##ehköön	1	1	1.0
+tehköön	tehköön	1
+subword:tehköön	1	1	1.0

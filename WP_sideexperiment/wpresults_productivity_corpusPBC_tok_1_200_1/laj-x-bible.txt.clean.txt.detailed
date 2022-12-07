@@ -1,0 +1,1294 @@
+ud	ud ##i	3
+ud	ud ##i ##g ##i	2
+subword:ud	2	5	2.5
+uc	uc ##i	1
+subword:uc	1	1	1.0
+##uf	c ##a ##l ##uf ##a	1
+subword:##uf	1	1	1.0
+##luf	c ##a ##luf ##a	1
+subword:##luf	1	1	1.0
+##aluf	c ##aluf ##a	1
+subword:##aluf	1	1	1.0
+caluf	caluf ##a	1
+subword:caluf	1	1	1.0
+calufa	calufa	1
+subword:calufa	1	1	1.0
+udi	udi	3
+udi	udi ##g ##i	2
+subword:udi	2	5	2.5
+udig	udig ##i	2
+subword:udig	1	2	2.0
+vi	vi ##n ##o	2
+subword:vi	1	2	2.0
+vin	vin ##o	2
+subword:vin	1	2	2.0
+udigi	udigi	2
+subword:udigi	1	2	2.0
+uci	uci	1
+subword:uci	1	1	1.0
+wu	wu ##n ##u	348
+wu	wu ##n	60
+wu	wu ##n ##u ##g ##i	3
+wu	wu ##m ##o	2
+wu	wu ##r ##o	1
+wu	wu ##n ##o ##w ##u	1
+wu	wu ##m ##w ##a	1
+wu	wu ##m ##o ##g ##i	1
+wu	wu ##m ##i	1
+subword:wu	9	418	46.44444444444444
+wun	wun ##u	348
+wun	wun	60
+wun	wun ##u ##g ##i	3
+wun	wun ##o ##w ##u	1
+subword:wun	4	412	103.0
+wunu	wunu	348
+wunu	wunu ##g ##i	3
+subword:wunu	2	351	175.5
+wum	wum ##o	2
+wum	wum ##w ##a	1
+wum	wum ##o ##g ##i	1
+wum	wum ##i	1
+subword:wum	4	5	1.25
+wur	wur ##o	1
+subword:wur	1	1	1.0
+en	en	403
+en	en ##t ##o	152
+en	en ##e	4
+en	en ##n ##o ##n ##o	3
+en	en ##o ##t ##o	1
+subword:en	5	563	112.6
+lu	lu ##ŋ	97
+lu	lu ##b ##e	60
+lu	lu ##b ##o	14
+lu	lu ##b ##i	9
+lu	lu ##b ##a	8
+lu	lu ##n ##y ##o	7
+lu	lu ##t ##k ##o ##t	1
+lu	lu ##t	1
+lu	lu ##m	1
+lu	lu ##c ##a ##n ##i ##a	1
+lu	lu ##b ##o ##w ##a	1
+lu	lu ##b ##i ##- ##n ##i	1
+lu	calufa	1
+subword:lu	13	202	15.538461538461538
+lub	lub ##e	60
+lub	lub ##o	14
+lub	lub ##i	9
+lub	lub ##a	8
+lub	lub ##o ##w ##a	1
+lub	lub ##i ##- ##n ##i	1
+subword:lub	6	93	15.5
+luŋ	luŋ	97
+subword:luŋ	1	97	97.0
+lw	lw ##a ##k	89
+lw	lw ##o ##r ##o	14
+lw	lw ##a ##g ##i	10
+lw	lw ##o ##ŋ ##o	7
+lw	lw ##o ##ŋ ##e	3
+lw	lw ##o ##r	3
+lw	lw ##o ##k ##o	3
+lw	lw ##o ##ŋ	2
+lw	lw ##o ##ŋ ##o ##g ##i	1
+lw	lw ##o ##ŋ ##i	1
+lw	lw ##o ##r ##e	1
+lw	lw ##o ##n ##o ##g ##i	1
+lw	lw ##i ##t ##g ##i	1
+lw	lw ##i ##t ##e	1
+lw	lw ##i ##t	1
+lw	lw ##i ##n ##y	1
+subword:lw	16	139	8.6875
+lun	lun ##y ##o	7
+subword:lun	1	7	7.0
+luny	luny ##o	7
+subword:luny	1	7	7.0
+lut	lut ##k ##o ##t	1
+lut	lut	1
+subword:lut	2	2	1.0
+luc	luc ##a ##n ##i ##a	1
+subword:luc	1	1	1.0
+lum	lum	1
+subword:lum	1	1	1.0
+lutk	lutk ##o ##t	1
+subword:lutk	1	1	1.0
+luca	luca ##n ##i ##a	1
+subword:luca	1	1	1.0
+lucan	lucan ##i ##a	1
+subword:lucan	1	1	1.0
+lucani	lucani ##a	1
+subword:lucani	1	1	1.0
+lucania	lucania	1
+subword:lucania	1	1	1.0
+##ju	o ##ju ##d ##a ##y ##a	7
+##ju	o ##ju ##k ##o	4
+##ju	o ##ju ##k ##o ##g ##i	3
+##ju	o ##ju ##k ##e	3
+##ju	i ##ju ##k ##e	2
+##ju	t ##e ##ju ##k ##e	1
+subword:##ju	6	20	3.3333333333333335
+##juk	o ##juk ##o	4
+##juk	o ##juk ##o ##g ##i	3
+##juk	o ##juk ##e	3
+##juk	i ##juk ##e	2
+##juk	t ##e ##juk ##e	1
+subword:##juk	5	13	2.6
+##jud	o ##jud ##a ##y ##a	7
+subword:##jud	1	7	7.0
+ojud	ojud ##a ##y ##a	7
+subword:ojud	1	7	7.0
+ojuk	ojuk ##o	4
+ojuk	ojuk ##o ##g ##i	3
+ojuk	ojuk ##e	3
+subword:ojuk	3	10	3.3333333333333335
+ijuk	ijuk ##e	2
+subword:ijuk	1	2	2.0
+ojuda	ojuda ##y ##a	7
+subword:ojuda	1	7	7.0
+ojuday	ojuday ##a	7
+subword:ojuday	1	7	7.0
+ojudaya	ojudaya	7
+subword:ojudaya	1	7	7.0
+##cu	y ##e ##cu	241
+##cu	d ##u ##cu	90
+##cu	o ##cu ##ŋ	26
+##cu	c ##u ##cu ##t ##t ##o ##n ##o	14
+##cu	y ##o ##m ##cu ##n ##y	5
+##cu	e ##cu ##b ##a ##n	5
+##cu	i ##cu ##ŋ	3
+##cu	o ##cu ##r	2
+##cu	n ##w ##a ##ŋ ##cu ##n ##y ##g ##i	2
+##cu	n ##u ##cu	2
+##cu	c ##u ##t ##o ##cu ##t ##o	2
+##cu	a ##cu ##r	2
+##cu	w ##a ##ŋ ##cu ##n ##y	1
+##cu	w ##a ##n ##cu ##n ##y ##g ##i	1
+##cu	o ##cu ##t ##o	1
+##cu	n ##w ##a ##ŋ ##cu ##n ##y ##w ##u	1
+##cu	c ##u ##ŋ ##o ##cu ##ŋ ##o ##- ##n ##i	1
+##cu	c ##u ##cu ##t ##t ##o	1
+##cu	c ##u ##cu ##t	1
+##cu	a ##cu ##ŋ	1
+subword:##cu	20	402	20.1
+##ucu	d ##ucu	90
+##ucu	c ##ucu ##t ##t ##o ##n ##o	14
+##ucu	n ##ucu	2
+##ucu	c ##ucu ##t ##t ##o	1
+##ucu	c ##ucu ##t	1
+subword:##ucu	5	108	21.6
+ducu	ducu	90
+subword:ducu	1	90	90.0
+cucu	cucu ##t ##t ##o ##n ##o	14
+cucu	cucu ##t ##t ##o	1
+cucu	cucu ##t	1
+subword:cucu	3	16	5.333333333333333
+nucu	nucu	2
+subword:nucu	1	2	2.0
+cucut	cucut ##t ##o ##n ##o	14
+cucut	cucut ##t ##o	1
+cucut	cucut	1
+subword:cucut	3	16	5.333333333333333
+cucutt	cucutt ##o ##n ##o	14
+cucutt	cucutt ##o	1
+subword:cucutt	2	15	7.5
+##-n	k ##a ##r ##e ##-n ##o ##n ##o	13
+##-n	k ##i ##t ##e ##-n ##o ##n ##o	6
+##-n	j ##o ##-n ##u	6
+##-n	n ##i ##n ##o ##-n ##o ##n ##o	4
+##-n	l ##o ##-n ##i	4
+##-n	j ##o ##-n ##i	4
+##-n	d ##a ##n ##o ##-n ##u	4
+##-n	c ##a ##a ##-n ##o ##n ##o	4
+##-n	l ##o ##-n ##u	3
+##-n	k ##e ##d ##e ##-n ##i	3
+##-n	k ##a ##r ##e ##-n ##u	3
+##-n	k ##a ##r ##e ##-n ##i	3
+##-n	b ##o ##m ##a ##-n ##o ##n ##o	3
+##-n	t ##i ##n ##-n ##i	2
+##-n	o ##g ##u ##d ##a ##-n ##i ##e	2
+##-n	k ##o ##m ##e ##-n ##o ##n ##o	2
+##-n	j ##o ##-n ##o ##n ##o	2
+##-n	j ##a ##m ##i ##-n ##o ##g ##o	2
+##-n	i ##y ##e ##-n ##i	2
+##-n	e ##l ##e ##y ##o ##-n ##o ##n ##o	2
+##-n	d ##a ##n ##-n ##i	2
+##-n	a ##r ##y ##o ##-n ##u	2
+##-n	ŋ ##a ##-n ##o ##n ##o	1
+##-n	ŋ ##o ##-n ##o	1
+##-n	w ##o ##t ##w ##u ##-n ##i	1
+##-n	w ##o ##d ##a ##-n ##i	1
+##-n	w ##i ##n ##y ##e ##-n ##i ##e	1
+##-n	p ##i ##r ##i ##-n ##u	1
+##-n	p ##i ##r ##e ##-n ##i	1
+##-n	p ##i ##o ##p ##i ##o ##-n ##o ##n ##o	1
+##-n	p ##a ##c ##o ##-n ##u	1
+##-n	p ##a ##c ##o ##-n ##o ##n ##o	1
+##-n	o ##t ##o ##-n ##u	1
+##-n	o ##t ##i ##m ##e ##r ##e ##-n ##u	1
+##-n	o ##m ##i ##r ##o ##-n ##o ##n ##o	1
+##-n	o ##k ##o ##-n ##i	1
+##-n	o ##b ##a ##ŋ ##a ##-n ##i ##e	1
+##-n	n ##i ##n ##o ##-n ##u	1
+##-n	m ##a ##n ##-n ##i	1
+##-n	lub ##i ##-n ##i	1
+##-n	l ##o ##b ##o ##-n ##o ##n ##o	1
+##-n	l ##o ##-n ##o ##n ##o	1
+##-n	l ##o ##-n ##i ##e	1
+##-n	k ##o ##p ##p ##e ##r ##e ##-n ##o ##n ##o	1
+##-n	k ##a ##t ##o ##-n ##o ##n ##o	1
+##-n	k ##a ##r ##e ##-n ##a ##c ##a	1
+##-n	k ##a ##b ##e ##d ##o ##n ##o ##-n ##o	1
+##-n	i ##y ##o ##-n ##u	1
+##-n	i ##k ##o ##b ##o ##-n ##u	1
+##-n	i ##k ##o ##b ##o ##-n ##o ##n ##o	1
+##-n	i ##c ##e ##n ##o ##-n ##i	1
+##-n	g ##i ##n ##n ##o ##r ##o ##-n ##i	1
+##-n	g ##i ##n ##-n ##i	1
+##-n	d ##y ##e ##l ##l ##e ##-n ##u	1
+##-n	d ##w ##o ##n ##-n ##u	1
+##-n	d ##a ##n ##-n ##u	1
+##-n	d ##a ##k ##o ##-n ##o ##n ##o	1
+##-n	d ##a ##-n ##u	1
+##-n	c ##u ##ŋ ##o ##cu ##ŋ ##o ##-n ##i	1
+##-n	c ##o ##-n ##u	1
+##-n	b ##o ##ŋ ##e ##-n ##u	1
+##-n	b ##a ##ŋ ##g ##i ##-n ##i	1
+##-n	a ##ŋ ##o ##-n ##i ##e	1
+##-n	a ##w ##o ##b ##i ##-n ##u	1
+##-n	a ##t ##i ##n ##o ##-n ##i	1
+##-n	a ##t ##i ##n ##-n ##o ##n ##o	1
+##-n	a ##t ##i ##n ##-n ##i	1
+##-n	a ##r ##e ##c ##o ##-n ##u	1
+##-n	a ##r ##a ##- ##o ##c ##o ##r ##o ##-n ##i	1
+##-n	a ##m ##i ##r ##o ##-n ##u	1
+##-n	a ##m ##i ##r ##o ##-n ##o ##n ##o	1
+##-n	a ##l ##o ##n ##y ##o ##-n ##o ##n ##o	1
+##-n	a ##l ##o ##g ##i ##-n ##i	1
+subword:##-n	73	129	1.7671232876712328
+##-c	o ##p ##w ##o ##n ##y ##-c ##i ##k	22
+##-c	o ##p ##w ##o ##n ##y ##-c ##i ##k ##k ##o ##g ##o	2
+##-c	a ##p ##w ##o ##n ##y ##-c ##i ##k	2
+##-c	t ##w ##e ##e ##-c ##i	1
+##-c	o ##r ##a ##-c ##o ##r ##o	1
+##-c	o ##p ##w ##o ##n ##y ##-c ##i ##k ##g ##i	1
+##-c	a ##p ##w ##o ##n ##y ##-c ##i ##k ##k ##o ##r ##o	1
+subword:##-c	7	30	4.285714285714286
+##y-c	o ##p ##w ##o ##n ##y-c ##i ##k	22
+##y-c	o ##p ##w ##o ##n ##y-c ##i ##k ##k ##o ##g ##o	2
+##y-c	a ##p ##w ##o ##n ##y-c ##i ##k	2
+##y-c	o ##p ##w ##o ##n ##y-c ##i ##k ##g ##i	1
+##y-c	a ##p ##w ##o ##n ##y-c ##i ##k ##k ##o ##r ##o	1
+subword:##y-c	5	28	5.6
+##ny-c	o ##p ##w ##o ##ny-c ##i ##k	22
+##ny-c	o ##p ##w ##o ##ny-c ##i ##k ##k ##o ##g ##o	2
+##ny-c	a ##p ##w ##o ##ny-c ##i ##k	2
+##ny-c	o ##p ##w ##o ##ny-c ##i ##k ##g ##i	1
+##ny-c	a ##p ##w ##o ##ny-c ##i ##k ##k ##o ##r ##o	1
+subword:##ny-c	5	28	5.6
+##-nu	j ##o ##-nu	6
+##-nu	d ##a ##n ##o ##-nu	4
+##-nu	l ##o ##-nu	3
+##-nu	k ##a ##r ##e ##-nu	3
+##-nu	a ##r ##y ##o ##-nu	2
+##-nu	p ##i ##r ##i ##-nu	1
+##-nu	p ##a ##c ##o ##-nu	1
+##-nu	o ##t ##o ##-nu	1
+##-nu	o ##t ##i ##m ##e ##r ##e ##-nu	1
+##-nu	n ##i ##n ##o ##-nu	1
+##-nu	i ##y ##o ##-nu	1
+##-nu	i ##k ##o ##b ##o ##-nu	1
+##-nu	d ##y ##e ##l ##l ##e ##-nu	1
+##-nu	d ##w ##o ##n ##-nu	1
+##-nu	d ##a ##n ##-nu	1
+##-nu	d ##a ##-nu	1
+##-nu	c ##o ##-nu	1
+##-nu	b ##o ##ŋ ##e ##-nu	1
+##-nu	a ##w ##o ##b ##i ##-nu	1
+##-nu	a ##r ##e ##c ##o ##-nu	1
+##-nu	a ##m ##i ##r ##o ##-nu	1
+subword:##-nu	21	34	1.619047619047619
+##ny-ci	o ##p ##w ##o ##ny-ci ##k	22
+##ny-ci	o ##p ##w ##o ##ny-ci ##k ##k ##o ##g ##o	2
+##ny-ci	a ##p ##w ##o ##ny-ci ##k	2
+##ny-ci	o ##p ##w ##o ##ny-ci ##k ##g ##i	1
+##ny-ci	a ##p ##w ##o ##ny-ci ##k ##k ##o ##r ##o	1
+subword:##ny-ci	5	28	5.6
+##ny-cik	o ##p ##w ##o ##ny-cik	22
+##ny-cik	o ##p ##w ##o ##ny-cik ##k ##o ##g ##o	2
+##ny-cik	a ##p ##w ##o ##ny-cik	2
+##ny-cik	o ##p ##w ##o ##ny-cik ##g ##i	1
+##ny-cik	a ##p ##w ##o ##ny-cik ##k ##o ##r ##o	1
+subword:##ny-cik	5	28	5.6
+##-g	p ##i ##i ##-g ##u	2
+##-g	o ##b ##a ##l ##o ##-g ##u	2
+##-g	k ##e ##d ##g ##i ##-g ##u	1
+##-g	k ##e ##d ##e ##-g ##u	1
+##-g	c ##e ##n ##e ##-g ##u	1
+##-g	a ##t ##i ##n ##o ##-g ##u	1
+subword:##-g	6	8	1.3333333333333333
+##-gu	p ##i ##i ##-gu	2
+##-gu	o ##b ##a ##l ##o ##-gu	2
+##-gu	k ##e ##d ##g ##i ##-gu	1
+##-gu	k ##e ##d ##e ##-gu	1
+##-gu	c ##e ##n ##e ##-gu	1
+##-gu	a ##t ##i ##n ##o ##-gu	1
+subword:##-gu	6	8	1.3333333333333333
+##p-	k ##o ##p- ##p ##u	4
+##p-	c ##a ##r ##o ##k ##o ##p- ##p ##i	2
+subword:##p-	2	6	3.0
+##p-p	k ##o ##p-p ##u	4
+##p-p	c ##a ##r ##o ##k ##o ##p-p ##i	2
+subword:##p-p	2	6	3.0
+##p-pu	k ##o ##p-pu	4
+subword:##p-pu	1	4	4.0
+##p-pi	c ##a ##r ##o ##k ##o ##p-pi	2
+subword:##p-pi	1	2	2.0
+##-l	a ##c ##e ##l ##-l ##u	3
+##-l	a ##l ##e ##-l ##i ##m	2
+##-l	j ##a ##l ##-l ##i	1
+##-l	b ##a ##l ##-l ##i	1
+subword:##-l	4	7	1.75
+##l-l	a ##c ##e ##l-l ##u	3
+##l-l	j ##a ##l-l ##i	1
+##l-l	b ##a ##l-l ##i	1
+subword:##l-l	3	5	1.6666666666666667
+##l-lu	a ##c ##e ##l-lu	3
+subword:##l-lu	1	3	3.0
+##al-l	j ##al-l ##i	1
+##al-l	b ##al-l ##i	1
+subword:##al-l	2	2	1.0
+jal-l	jal-l ##i	1
+subword:jal-l	1	1	1.0
+bal-l	bal-l ##i	1
+subword:bal-l	1	1	1.0
+##-li	a ##l ##e ##-li ##m	2
+subword:##-li	1	2	2.0
+##-lim	a ##l ##e ##-lim	2
+subword:##-lim	1	2	2.0
+bal-li	bal-li	1
+subword:bal-li	1	1	1.0
+jal-li	jal-li	1
+subword:jal-li	1	1	1.0
+##wu	a ##k ##o ##b ##b ##i ##wu	32
+##wu	o ##wu ##r ##o	23
+##wu	b ##a ##ŋ ##wu	13
+##wu	k ##e ##n ##wu	10
+##wu	a ##k ##i ##n ##a ##wu	10
+##wu	c ##u ##n ##y ##wu	9
+##wu	k ##e ##d ##wu	8
+##wu	p ##a ##p ##a ##wu	5
+##wu	m ##i ##y ##o ##wu	5
+##wu	k ##o ##m ##wu	5
+##wu	p ##i ##r ##wu	4
+##wu	n ##y ##u ##t ##t ##i ##wu	4
+##wu	k ##o ##b ##b ##i ##wu	4
+##wu	i ##y ##e ##e ##wu	4
+##wu	a ##wu ##r ##a	4
+##wu	y ##i ##wu	3
+##wu	w ##i ##wu	3
+##wu	w ##a ##d ##wu	3
+##wu	p ##e ##n ##y ##o ##wu	3
+##wu	o ##wu ##m ##o	3
+##wu	o ##c ##i ##k ##o ##wu	3
+##wu	g ##i ##wu	3
+##wu	b ##a ##l ##wu	3
+##wu	a ##wu	3
+##wu	a ##t ##i ##t ##t ##i ##wu	3
+##wu	ŋ ##o ##l ##l ##i ##wu	2
+##wu	t ##i ##t ##t ##i ##wu	2
+##wu	t ##i ##m ##wu	2
+##wu	t ##i ##m ##o ##wu	2
+##wu	t ##e ##r ##o ##wu	2
+##wu	r ##w ##e ##n ##y ##wu	2
+##wu	p ##w ##o ##y ##o ##wu	2
+##wu	p ##i ##m ##m ##i ##wu	2
+##wu	o ##wu ##m ##e ##r ##e	2
+##wu	o ##t ##u ##r ##wu	2
+##wu	o ##t ##e ##r ##o ##wu	2
+##wu	o ##m ##i ##o ##wu	2
+##wu	o ##k ##w ##o ##r ##wu	2
+##wu	o ##j ##o ##l ##o ##wu	2
+##wu	n ##y ##i ##n ##wu	2
+##wu	n ##e ##k ##o ##wu	2
+##wu	m ##e ##wu	2
+##wu	l ##o ##o ##wu	2
+##wu	k ##w ##o ##wu	2
+##wu	k ##u ##c ##wu	2
+##wu	k ##e ##l ##o ##wu	2
+##wu	i ##t ##i ##n ##o ##wu	2
+##wu	d ##a ##g ##wu	2
+##wu	d ##a ##g ##o ##wu	2
+##wu	c ##u ##l ##l ##i ##wu	2
+##wu	b ##a ##t ##i ##j ##a ##wu	2
+##wu	y ##i ##t ##wu	1
+##wu	y ##a ##b ##b ##i ##wu	1
+##wu	wun ##o ##wu	1
+##wu	w ##o ##t ##wu ##-n ##i	1
+##wu	w ##i ##n ##y ##o ##wu	1
+##wu	w ##a ##ŋ ##wu	1
+##wu	t ##y ##e ##n ##wu	1
+##wu	t ##w ##e ##y ##o ##wu	1
+##wu	t ##a ##m ##wu	1
+##wu	r ##u ##k ##o ##wu	1
+##wu	r ##o ##m ##wu	1
+##wu	p ##w ##o ##d ##o ##wu	1
+##wu	p ##o ##r ##r ##i ##wu	1
+##wu	o ##ŋ ##a ##l ##o ##wu	1
+##wu	o ##wu ##r ##o ##g ##i	1
+##wu	o ##wu ##r ##e	1
+##wu	o ##wu ##m ##o ##g ##i	1
+##wu	o ##w ##o ##t ##e ##wu	1
+##wu	o ##w ##i ##n ##y ##o ##wu	1
+##wu	o ##t ##i ##t ##t ##i ##wu	1
+##wu	o ##t ##i ##n ##o ##wu	1
+##wu	o ##t ##e ##l ##l ##i ##wu	1
+##wu	o ##r ##y ##e ##m ##o ##wu	1
+##wu	o ##r ##u ##k ##o ##wu	1
+##wu	o ##r ##e ##m ##o ##wu	1
+##wu	o ##p ##e ##n ##y ##o ##wu	1
+##wu	o ##n ##y ##w ##a ##l ##wu	1
+##wu	o ##m ##i ##wu	1
+##wu	o ##m ##e ##g ##o ##wu	1
+##wu	o ##k ##w ##e ##n ##y ##o ##r ##o ##wu	1
+##wu	o ##k ##o ##b ##b ##i ##wu	1
+##wu	o ##g ##a ##t ##i ##wu	1
+##wu	o ##c ##o ##y ##i ##wu	1
+##wu	o ##c ##a ##r ##a ##wu	1
+##wu	n ##y ##i ##m ##wu	1
+##wu	n ##w ##a ##ŋ ##cu ##n ##y ##wu	1
+##wu	m ##o ##t ##wu	1
+##wu	m ##a ##r ##o ##wu	1
+##wu	m ##a ##k ##o ##wu	1
+##wu	l ##o ##k ##o ##wu	1
+##wu	l ##a ##k ##o ##r ##o ##wu	1
+##wu	k ##w ##e ##r ##o ##wu	1
+##wu	k ##w ##a ##r ##i ##wu	1
+##wu	k ##i ##t ##e ##wu	1
+##wu	k ##a ##r ##e ##wu	1
+##wu	j ##o ##l ##o ##wu	1
+##wu	j ##a ##m ##i ##wu	1
+##wu	i ##wu ##r	1
+##wu	i ##k ##o ##m ##wu	1
+##wu	i ##k ##o ##k ##o ##m ##wu	1
+##wu	g ##e ##n ##wu	1
+##wu	g ##a ##m ##wu	1
+##wu	d ##o ##g ##wu	1
+##wu	c ##i ##ŋ ##wu	1
+##wu	c ##a ##ŋ ##o ##wu	1
+##wu	b ##w ##o ##y ##i ##wu	1
+##wu	a ##wu ##m ##a	1
+##wu	a ##t ##i ##m ##m ##i ##wu	1
+##wu	a ##t ##i ##c ##wu	1
+##wu	a ##p ##e ##n ##y ##o ##wu	1
+##wu	a ##o ##r ##o ##wu	1
+##wu	a ##m ##i ##o ##wu	1
+##wu	a ##k ##w ##o ##r ##wu	1
+##wu	a ##c ##w ##a ##o ##wu	1
+##wu	a ##c ##i ##k ##o ##wu	1
+##wu	a ##b ##a ##t ##i ##j ##a ##wu	1
+subword:##wu	117	288	2.4615384615384617
+wumw	wumw ##a	1
+subword:wumw	1	1	1.0
+wumwa	wumwa	1
+subword:wumwa	1	1	1.0
+rw	rw ##o ##t	43
+rw	rw ##o ##ŋ ##e	4
+rw	rw ##o ##d ##e	3
+rw	rw ##e ##n ##y ##wu	2
+rw	rw ##e ##n ##y ##o	2
+rw	rw ##o ##t ##t ##a	1
+rw	rw ##o	1
+rw	rw ##a ##t ##t ##e	1
+subword:rw	8	57	7.125
+gi	gi ##n	389
+gi	gi ##n ##n ##o ##r ##o	23
+gi	gi ##r ##i	18
+gi	gi ##r ##e	16
+gi	gi ##r ##a	6
+gi	gi ##n ##n ##o ##n ##o	5
+gi	gi ##g ##i	4
+gi	gi ##wu	3
+gi	gi ##w ##a	3
+gi	gi ##k	3
+gi	udigi	2
+gi	gi ##- ##b ##u ##t ##o	2
+gi	gi ##n ##n ##o ##r ##o ##-n ##i	1
+gi	gi ##n ##-n ##i	1
+gi	gi ##e	1
+gi	gi ##b ##u ##t ##o	1
+gi	gi ##- ##b ##u ##t ##o ##n ##i	1
+gi	gi ##- ##b ##e ##d ##o	1
+gi	gi ##- ##a	1
+subword:gi	19	481	25.31578947368421
+gi-	gi- ##b ##u ##t ##o	2
+gi-	gi- ##b ##u ##t ##o ##n ##i	1
+gi-	gi- ##b ##e ##d ##o	1
+gi-	gi- ##a	1
+subword:gi-	4	5	1.25
+gi-b	gi-b ##u ##t ##o	2
+gi-b	gi-b ##u ##t ##o ##n ##i	1
+gi-b	gi-b ##e ##d ##o	1
+subword:gi-b	3	4	1.3333333333333333
+gi-bu	gi-bu ##t ##o	2
+gi-bu	gi-bu ##t ##o ##n ##i	1
+subword:gi-bu	2	3	1.5
+gi-but	gi-but ##o	2
+gi-but	gi-but ##o ##n ##i	1
+subword:gi-but	2	3	1.5
+gin	gin	389
+gin	gin ##n ##o ##r ##o	23
+gin	gin ##n ##o ##n ##o	5
+gin	gin ##n ##o ##r ##o ##-n ##i	1
+gin	gin ##-n ##i	1
+subword:gin	5	419	83.8
+gir	gir ##i	18
+gir	gir ##e	16
+gir	gir ##a	6
+subword:gir	3	40	13.333333333333334
+giwu	giwu	3
+subword:giwu	1	3	3.0
+gig	gig ##i	4
+subword:gig	1	4	4.0
+giw	giwu	3
+giw	giw ##a	3
+subword:giw	2	6	3.0
+gik	gik	3
+subword:gik	1	3	3.0
+gib	gib ##u ##t ##o	1
+subword:gib	1	1	1.0
+gibu	gibu ##t ##o	1
+subword:gibu	1	1	1.0
+gibut	gibut ##o	1
+subword:gibut	1	1	1.0
+gigi	gigi	4
+subword:gigi	1	4	4.0
+giwa	giwa	3
+subword:giwa	1	3	3.0
+gi-a	gi-a	1
+subword:gi-a	1	1	1.0
+gw	gw ##o ##k ##e ##r ##e	9
+gw	gw ##e ##n ##o	8
+gw	gw ##e ##ŋ	4
+gw	gw ##o ##k ##e	3
+gw	gw ##o ##k ##o	2
+gw	gw ##o ##g ##i	2
+gw	gw ##i ##c	2
+gw	gw ##e ##ŋ ##e	2
+gw	gw ##e ##t ##o	1
+gw	gw ##a ##t ##a	1
+subword:gw	10	34	3.4
+gu	gu ##r ##e	5
+gu	gu ##l ##u	4
+gu	gu ##d ##o	3
+gu	p ##i ##i ##-gu	2
+gu	o ##b ##a ##l ##o ##-gu	2
+gu	gu ##m	2
+gu	gu ##d ##e	2
+gu	k ##e ##d ##g ##i ##-gu	1
+gu	k ##e ##d ##e ##-gu	1
+gu	gu ##r ##o	1
+gu	gu ##l	1
+gu	c ##e ##n ##e ##-gu	1
+gu	a ##t ##i ##n ##o ##-gu	1
+subword:gu	13	26	2.0
+gul	gul ##u	4
+gul	gul	1
+subword:gul	2	5	2.5
+gulu	gulu	4
+subword:gulu	1	4	4.0
+gud	gud ##o	3
+gud	gud ##e	2
+subword:gud	2	5	2.5
+gur	gur ##e	5
+gur	gur ##o	1
+subword:gur	2	6	3.0
+gum	gum	2
+subword:gum	1	2	2.0
+ru	ru	16
+ru	ru ##k ##o	6
+ru	ru ##k ##k ##e ##r ##e	4
+ru	ru ##m ##o	3
+ru	ru ##p ##o	1
+ru	ru ##k ##o ##wu	1
+ru	ru ##k ##e	1
+ru	ru ##k	1
+ru	ru ##b ##o	1
+subword:ru	9	34	3.7777777777777777
+ruk	ruk ##o	6
+ruk	ruk ##k ##e ##r ##e	4
+ruk	ruk ##o ##wu	1
+ruk	ruk ##e	1
+ruk	ruk	1
+subword:ruk	5	13	2.6
+rukk	rukk ##e ##r ##e	4
+subword:rukk	1	4	4.0
+cu	y ##e ##cu	241
+cu	ducu	90
+cu	o ##cu ##ŋ	26
+cu	cu ##n ##y	23
+cu	cucutt ##o ##n ##o	14
+cu	cu ##ŋ	14
+cu	cu ##n ##y ##e	11
+cu	cu ##n ##y ##g ##i	10
+cu	cu ##n ##y ##wu	9
+cu	y ##o ##m ##cu ##n ##y	5
+cu	e ##cu ##b ##a ##n	5
+cu	cu ##n ##y ##a	5
+cu	cu ##n ##y ##i	4
+cu	cu ##k ##a	4
+cu	i ##cu ##ŋ	3
+cu	cu ##l ##e ##m ##a ##n	3
+cu	o ##cu ##r	2
+cu	nucu	2
+cu	n ##w ##a ##ŋ ##cu ##n ##y ##g ##i	2
+cu	cu ##t ##o ##cu ##t ##o	2
+cu	cu ##t ##o	2
+cu	cu ##l ##o	2
+cu	cu ##l ##l ##i ##wu	2
+cu	cu ##l ##l ##e	2
+cu	cu ##l ##i	2
+cu	cu ##k	2
+cu	a ##cu ##r	2
+cu	w ##a ##ŋ ##cu ##n ##y	1
+cu	w ##a ##n ##cu ##n ##y ##g ##i	1
+cu	o ##cu ##t ##o	1
+cu	n ##w ##a ##ŋ ##cu ##n ##y ##wu	1
+cu	cucutt ##o	1
+cu	cucut	1
+cu	cu ##ŋ ##o ##cu ##ŋ ##o ##-n ##i	1
+cu	cu ##ŋ ##e	1
+cu	cu ##n ##y ##w ##a	1
+cu	cu ##l ##g ##i	1
+cu	cu ##l ##e	1
+cu	cu ##k ##o	1
+cu	a ##cu ##ŋ	1
+subword:cu	40	502	12.55
+cun	cun ##y	23
+cun	cun ##y ##e	11
+cun	cun ##y ##g ##i	10
+cun	cun ##y ##wu	9
+cun	cun ##y ##a	5
+cun	cun ##y ##i	4
+cun	cun ##y ##w ##a	1
+subword:cun	7	63	9.0
+cuny	cuny	23
+cuny	cuny ##e	11
+cuny	cuny ##g ##i	10
+cuny	cuny ##wu	9
+cuny	cuny ##a	5
+cuny	cuny ##i	4
+cuny	cuny ##w ##a	1
+subword:cuny	7	63	9.0
+cunywu	cunywu	9
+subword:cunywu	1	9	9.0
+cul	cul ##e ##m ##a ##n	3
+cul	cul ##o	2
+cul	cul ##l ##i ##wu	2
+cul	cul ##l ##e	2
+cul	cul ##i	2
+cul	cul ##g ##i	1
+cul	cul ##e	1
+subword:cul	7	13	1.8571428571428572
+cuŋ	cuŋ	14
+cuŋ	cuŋ ##o ##cu ##ŋ ##o ##-n ##i	1
+cuŋ	cuŋ ##e	1
+subword:cuŋ	3	16	5.333333333333333
+cuk	cuk ##a	4
+cuk	cuk	2
+cuk	cuk ##o	1
+subword:cuk	3	7	2.3333333333333335
+cut	cucutt ##o ##n ##o	14
+cut	cut ##o ##cu ##t ##o	2
+cut	cut ##o	2
+cut	cucutt ##o	1
+cut	cucut	1
+subword:cut	5	20	4.0
+cull	cull ##i ##wu	2
+cull	cull ##e	2
+subword:cull	2	4	2.0
+cunyg	cunyg ##i	10
+subword:cunyg	1	10	10.0
+cunygi	cunygi	10
+subword:cunygi	1	10	10.0
+ku	ku ##n	193
+ku	ku ##r	88
+ku	ku ##n ##o	32
+ku	ku ##c	10
+ku	ku ##r ##o	3
+ku	ku ##m ##o	3
+ku	ku ##r ##e ##n ##e	2
+ku	ku ##l ##o	2
+ku	ku ##c ##wu	2
+ku	ku ##r ##e	1
+ku	ku ##n ##y ##o	1
+ku	ku ##m	1
+ku	ku ##d ##i	1
+subword:ku	13	339	26.076923076923077
+kun	kun	193
+kun	kun ##o	32
+kun	kun ##y ##o	1
+subword:kun	3	226	75.33333333333333
+kur	kur	88
+kur	kur ##o	3
+kur	kur ##e ##n ##e	2
+kur	kur ##e	1
+subword:kur	4	94	23.5
+kuc	kuc	10
+kuc	kuc ##wu	2
+subword:kuc	2	12	6.0
+kucwu	kucwu	2
+subword:kucwu	1	2	2.0
+kum	kum ##o	3
+kum	kum	1
+subword:kum	2	4	2.0
+kul	kul ##o	2
+subword:kul	1	2	2.0
+kud	kud ##i	1
+subword:kud	1	1	1.0
+kudi	kudi	1
+subword:kudi	1	1	1.0
+tu	tu ##ŋ	33
+tu	tu ##n ##o	19
+tu	tu ##t ##u ##m ##i ##a	10
+tu	tu ##m	8
+tu	tu ##r ##o	5
+tu	tu ##r ##g ##i	4
+tu	tu ##c ##o	4
+tu	tu ##n	3
+tu	tu ##ŋ ##ŋ ##i	2
+tu	tu ##ŋ ##e	2
+tu	tu ##r	2
+tu	tu ##c ##i	2
+tu	tu	2
+tu	tu ##w ##a	1
+tu	tu ##t ##u ##n	1
+tu	tu ##t	1
+tu	tu ##r ##u	1
+subword:tu	17	100	5.882352941176471
+tuŋ	tuŋ	33
+tuŋ	tuŋ ##ŋ ##i	2
+tuŋ	tuŋ ##e	2
+subword:tuŋ	3	37	12.333333333333334
+ni	ni	754
+ni	ni ##n ##o	48
+ni	ni ##ŋ ##o	14
+ni	ni ##n ##o ##-n ##o ##n ##o	4
+ni	ni ##a ##ŋ	4
+ni	ni ##n ##e ##v ##e	2
+ni	ni ##y ##e	1
+ni	ni ##n ##o ##n ##o ##n ##o	1
+ni	ni ##n ##o ##n ##o	1
+ni	ni ##n ##o ##-nu	1
+ni	ni ##a ##ŋ ##ŋ ##e ##r ##e	1
+ni	ni ##a ##ŋ ##o ##g ##i	1
+ni	lucania	1
+subword:ni	13	833	64.07692307692308
+ny	ny ##i ##m	34
+ny	cuny	23
+ny	o ##p ##w ##o ##ny-cik	22
+ny	ny ##i ##ŋ ##e	16
+ny	cuny ##e	11
+ny	cunygi	10
+ny	cunywu	9
+ny	ny ##u ##t ##o	8
+ny	ny ##i ##ŋ ##a	8
+ny	ny ##a ##k ##o	8
+ny	ny ##i ##ŋ	7
+ny	ny ##i ##m ##e	7
+ny	ny ##i ##g ##e	7
+ny	luny ##o	7
+ny	ny ##i ##ŋ ##i	5
+ny	cuny ##a	5
+ny	ny ##u ##t ##t ##i ##wu	4
+ny	ny ##o ##m ##e ##r ##e	4
+ny	ny ##i ##m ##g ##i	4
+ny	ny ##i ##g ##g ##i	4
+ny	ny ##i ##g	4
+ny	cuny ##i	4
+ny	ny ##o ##n ##o	3
+ny	ny ##o ##m ##o	3
+ny	ny ##o ##m	3
+ny	ny ##i ##m ##i	3
+ny	ny ##a ##r ##i	3
+ny	o ##p ##w ##o ##ny-cik ##k ##o ##g ##o	2
+ny	ny ##w ##a ##l ##o	2
+ny	ny ##u ##t ##t ##e	2
+ny	ny ##i ##n ##wu	2
+ny	ny ##e ##r ##o	2
+ny	ny ##e ##n	2
+ny	ny ##a ##r ##a	2
+ny	ny ##a ##k	2
+ny	a ##p ##w ##o ##ny-cik	2
+ny	o ##p ##w ##o ##ny-cik ##g ##i	1
+ny	ny ##u ##t ##t ##i ##g ##i	1
+ny	ny ##o ##ŋ ##o	1
+ny	ny ##o ##n ##n ##e	1
+ny	ny ##i ##m ##wu	1
+ny	ny ##i ##m ##a	1
+ny	ny ##i ##g ##i	1
+ny	ny ##e ##n ##y ##e	1
+ny	ny ##a ##r ##e	1
+ny	ny ##a ##p	1
+ny	ny ##a ##k ##a	1
+ny	cuny ##w ##a	1
+ny	a ##p ##w ##o ##ny-cik ##k ##o ##r ##o	1
+subword:ny	49	257	5.244897959183674
+nyu	nyu ##t ##o	8
+nyu	nyu ##t ##t ##i ##wu	4
+nyu	nyu ##t ##t ##e	2
+nyu	nyu ##t ##t ##i ##g ##i	1
+subword:nyu	4	15	3.75
+nyut	nyut ##o	8
+nyut	nyut ##t ##i ##wu	4
+nyut	nyut ##t ##e	2
+nyut	nyut ##t ##i ##g ##i	1
+subword:nyut	4	15	3.75
+nyutt	nyutt ##i ##wu	4
+nyutt	nyutt ##e	2
+nyutt	nyutt ##i ##g ##i	1
+subword:nyutt	3	7	2.3333333333333335
+nw	nw ##a ##ŋ	26
+nw	nw ##o ##ŋ ##o	25
+nw	nw ##a ##ŋ ##cu ##n ##y ##g ##i	2
+nw	nw ##o ##ŋ ##e	1
+nw	nw ##a ##ŋ ##cu ##n ##y ##wu	1
+subword:nw	5	55	11.0
+nyi	nyi ##m	34
+nyi	nyi ##ŋ ##e	16
+nyi	nyi ##ŋ ##a	8
+nyi	nyi ##ŋ	7
+nyi	nyi ##m ##e	7
+nyi	nyi ##g ##e	7
+nyi	nyi ##ŋ ##i	5
+nyi	nyi ##m ##g ##i	4
+nyi	nyi ##g ##g ##i	4
+nyi	nyi ##g	4
+nyi	nyi ##m ##i	3
+nyi	nyi ##n ##wu	2
+nyi	nyi ##m ##wu	1
+nyi	nyi ##m ##a	1
+nyi	nyi ##g ##i	1
+subword:nyi	15	104	6.933333333333334
+nyiŋ	nyiŋ ##e	16
+nyiŋ	nyiŋ ##a	8
+nyiŋ	nyiŋ	7
+nyiŋ	nyiŋ ##i	5
+subword:nyiŋ	4	36	9.0
+nyim	nyim	34
+nyim	nyim ##e	7
+nyim	nyim ##g ##i	4
+nyim	nyim ##i	3
+nyim	nyim ##wu	1
+nyim	nyim ##a	1
+subword:nyim	6	50	8.333333333333334
+nyig	nyig ##e	7
+nyig	nyig ##g ##i	4
+nyig	nyig	4
+nyig	nyig ##i	1
+subword:nyig	4	16	4.0
+nyin	nyin ##wu	2
+subword:nyin	1	2	2.0
+nyinwu	nyinwu	2
+subword:nyinwu	1	2	2.0
+nyigg	nyigg ##i	4
+subword:nyigg	1	4	4.0
+nyiggi	nyiggi	4
+subword:nyiggi	1	4	4.0
+nyutti	nyutti ##wu	4
+nyutti	nyutti ##g ##i	1
+subword:nyutti	2	5	2.5
+nyuttiwu	nyuttiwu	4
+subword:nyuttiwu	1	4	4.0
+nyuttig	nyuttig ##i	1
+subword:nyuttig	1	1	1.0
+nyuttigi	nyuttigi	1
+subword:nyuttigi	1	1	1.0
+##vi	l ##e ##vi	4
+subword:##vi	1	4	4.0
+##gi	k ##e ##n ##gi	39
+##gi	o ##k ##o ##b ##b ##i ##gi	38
+##gi	k ##o ##b ##b ##i ##gi	36
+##gi	a ##k ##i ##n ##a ##gi	33
+##gi	c ##e ##g ##gi	26
+##gi	b ##a ##ŋ ##gi	24
+##gi	o ##p ##e ##n ##y ##o ##gi	19
+##gi	m ##a ##gi	19
+##gi	k ##e ##d ##gi	17
+##gi	d ##o ##g ##gi	16
+##gi	k ##o ##m ##gi	13
+##gi	p ##e ##n ##y ##o ##gi	10
+##gi	lw ##a ##gi	10
+##gi	o ##m ##i ##o ##gi	9
+##gi	w ##a ##ŋ ##gi	8
+##gi	m ##e ##gi	8
+##gi	a ##gi ##k ##k ##i	8
+##gi	k ##i ##t ##e ##gi	7
+##gi	o ##m ##a ##k ##o ##gi	6
+##gi	o ##l ##o ##o ##gi	6
+##gi	o ##n ##w ##o ##ŋ ##o ##gi	5
+##gi	o ##d ##o ##k ##k ##i ##gi	5
+##gi	m ##i ##y ##o ##gi	5
+##gi	c ##i ##k ##o ##gi	5
+##gi	y ##i ##gi	4
+##gi	w ##i ##gi	4
+##gi	w ##a ##d ##gi	4
+##gi	tu ##r ##gi	4
+##gi	t ##a ##m ##gi	4
+##gi	p ##w ##o ##n ##y ##o ##gi	4
+##gi	o ##p ##w ##o ##n ##y ##o ##gi	4
+##gi	o ##c ##i ##k ##o ##gi	4
+##gi	nyim ##gi	4
+##gi	l ##o ##y ##o ##gi	4
+##gi	b ##w ##o ##y ##i ##gi	4
+##gi	b ##o ##ŋ ##ŋ ##i ##gi	4
+##gi	wunu ##gi	3
+##gi	t ##i ##t ##t ##i ##gi	3
+##gi	t ##i ##m ##o ##gi	3
+##gi	ojuk ##o ##gi	3
+##gi	o ##n ##e ##n ##o ##gi	3
+##gi	k ##a ##c ##o ##k ##e ##r ##e ##gi	3
+##gi	i ##y ##e ##e ##gi	3
+##gi	y ##i ##t ##gi	2
+##gi	t ##y ##e ##k ##o ##gi	2
+##gi	t ##o ##o ##gi	2
+##gi	t ##i ##m ##gi	2
+##gi	t ##e ##r ##o ##gi	2
+##gi	o ##y ##e ##gi	2
+##gi	o ##t ##e ##r ##o ##gi	2
+##gi	o ##r ##a ##b ##b ##i ##gi	2
+##gi	o ##p ##o ##r ##r ##i ##gi	2
+##gi	o ##o ##r ##o ##gi	2
+##gi	o ##n ##y ##w ##a ##l ##gi	2
+##gi	o ##l ##w ##o ##ŋ ##o ##gi	2
+##gi	o ##k ##w ##a ##n ##o ##gi	2
+##gi	o ##c ##w ##a ##n ##o ##gi	2
+##gi	o ##c ##i ##r ##o ##gi	2
+##gi	o ##c ##e ##r ##o ##gi	2
+##gi	o ##c ##a ##ŋ ##o ##gi	2
+##gi	nw ##a ##ŋ ##cu ##n ##y ##gi	2
+##gi	n ##e ##k ##o ##gi	2
+##gi	m ##u ##l ##gi	2
+##gi	m ##o ##t ##gi	2
+##gi	l ##o ##o ##gi	2
+##gi	k ##o ##p ##gi	2
+##gi	k ##o ##n ##y ##o ##gi	2
+##gi	j ##u ##k ##o ##gi	2
+##gi	i ##g ##e ##ŋ ##gi	2
+##gi	gw ##o ##gi	2
+##gi	c ##o ##g ##gi	2
+##gi	c ##i ##ŋ ##gi	2
+##gi	c ##e ##g ##gi ##c ##e ##g ##gi	2
+##gi	y ##o ##r ##gi	1
+##gi	y ##e ##d ##e ##gi	1
+##gi	wum ##o ##gi	1
+##gi	w ##o ##t ##gi	1
+##gi	w ##i ##l ##gi	1
+##gi	w ##e ##gi	1
+##gi	w ##a ##n ##cu ##n ##y ##gi	1
+##gi	t ##y ##e ##k ##gi	1
+##gi	t ##w ##e ##r ##gi	1
+##gi	r ##y ##e ##m ##o ##gi	1
+##gi	r ##y ##e ##m ##gi	1
+##gi	r ##y ##e ##k ##o ##gi	1
+##gi	p ##o ##k ##k ##i ##gi	1
+##gi	p ##i ##t ##o ##gi	1
+##gi	p ##a ##c ##o ##gi	1
+##gi	o ##y ##e ##r ##o ##gi	1
+##gi	o ##wu ##r ##o ##gi	1
+##gi	o ##wu ##m ##o ##gi	1
+##gi	o ##w ##o ##t ##e ##gi	1
+##gi	o ##w ##i ##n ##y ##o ##gi	1
+##gi	o ##w ##e ##k ##o ##gi	1
+##gi	o ##t ##o ##n ##gi	1
+##gi	o ##t ##i ##ŋ ##o ##gi	1
+##gi	o ##t ##gi	1
+##gi	o ##r ##o ##gi	1
+##gi	o ##p ##w ##o ##ny-cik ##gi	1
+##gi	o ##n ##o ##k ##o ##gi	1
+##gi	o ##m ##e ##g ##o ##gi	1
+##gi	o ##l ##o ##c ##gi	1
+##gi	o ##k ##w ##e ##n ##y ##o ##r ##o ##gi	1
+##gi	o ##k ##o ##n ##y ##o ##gi	1
+##gi	o ##k ##e ##l ##o ##gi	1
+##gi	o ##j ##o ##l ##o ##gi	1
+##gi	o ##gi ##t ##o	1
+##gi	o ##g ##u ##r ##o ##gi	1
+##gi	o ##g ##o ##n ##n ##y ##i ##gi	1
+##gi	o ##d ##o ##n ##e ##gi	1
+##gi	o ##c ##w ##e ##o ##gi	1
+##gi	o ##b ##o ##l ##l ##i ##gi	1
+##gi	o ##b ##i ##t ##o ##gi	1
+##gi	ni ##a ##ŋ ##o ##gi	1
+##gi	n ##e ##n ##o ##gi	1
+##gi	n ##e ##k ##gi	1
+##gi	m ##i ##u ##gi	1
+##gi	m ##i ##gi	1
+##gi	m ##a ##r ##o ##gi	1
+##gi	lw ##o ##ŋ ##o ##gi	1
+##gi	lw ##o ##n ##o ##gi	1
+##gi	lw ##i ##t ##gi	1
+##gi	l ##i ##m ##gi	1
+##gi	l ##i ##b ##o ##gi	1
+##gi	l ##e ##b ##gi	1
+##gi	l ##a ##ŋ ##e ##t ##gi	1
+##gi	l ##a ##r ##o ##gi	1
+##gi	k ##w ##a ##r ##i ##gi	1
+##gi	k ##w ##a ##n ##y ##o ##gi	1
+##gi	k ##o ##r ##gi	1
+##gi	k ##o ##n ##y ##gi	1
+##gi	k ##e ##l ##gi	1
+##gi	k ##e ##d ##gi ##-gu	1
+##gi	k ##a ##r ##e ##gi	1
+##gi	j ##a ##m ##i ##gi	1
+##gi	i ##t ##i ##t ##t ##i ##gi	1
+##gi	i ##t ##i ##n ##o ##gi	1
+##gi	i ##o ##b ##o ##gi	1
+##gi	i ##n ##e ##k ##gi	1
+##gi	i ##l ##u ##b ##u ##gi	1
+##gi	i ##l ##u ##b ##gi	1
+##gi	i ##gi	1
+##gi	g ##o ##r ##o ##g ##o ##r ##o ##gi	1
+##gi	g ##o ##n ##n ##y ##i ##gi	1
+##gi	g ##o ##b ##a ##gi	1
+##gi	e ##c ##a ##n ##o ##gi	1
+##gi	e ##b ##a ##t ##i ##j ##a ##gi	1
+##gi	d ##o ##k ##k ##i ##gi	1
+##gi	d ##o ##gi	1
+##gi	d ##i ##y ##o ##gi	1
+##gi	d ##i ##o ##gi	1
+##gi	cul ##gi	1
+##gi	c ##o ##ŋ ##gi	1
+##gi	c ##i ##k ##gi	1
+##gi	c ##a ##ŋ ##o ##gi	1
+##gi	c ##a ##n ##o ##gi	1
+##gi	c ##a ##m ##gi	1
+##gi	b ##w ##o ##y ##o ##gi	1
+##gi	b ##w ##o ##o ##gi	1
+##gi	b ##a ##ŋ ##gi ##-n ##i	1
+##gi	b ##a ##t ##a ##k ##i ##n ##o ##gi	1
+##gi	b ##a ##l ##gi	1
+##gi	a ##t ##i ##c ##gi	1
+##gi	a ##t ##e ##l ##l ##i ##gi	1
+##gi	a ##l ##o ##o ##gi	1
+##gi	a ##l ##o ##gi ##-n ##i	1
+##gi	a ##gi ##t ##a	1
+##gi	a ##gi ##l ##i	1
+##gi	a ##d ##w ##o ##ŋ ##gi	1
+##gi	a ##c ##w ##a ##o ##gi	1
+##gi	a ##c ##e ##g ##gi	1
+subword:##gi	171	599	3.502923976608187
+##gi-gu	k ##e ##d ##gi-gu	1
+subword:##gi-gu	1	1	1.0
+##dgi-gu	k ##e ##dgi-gu	1
+subword:##dgi-gu	1	1	1.0
+culgi	culgi	1
+subword:culgi	1	1	1.0
+##ggi	c ##e ##ggi	26
+##ggi	d ##o ##ggi	16
+##ggi	c ##o ##ggi	2
+##ggi	c ##e ##ggi ##c ##e ##ggi	2
+##ggi	a ##c ##e ##ggi	1
+subword:##ggi	5	47	9.4
+nyimgi	nyimgi	4
+subword:nyimgi	1	4	4.0
+culli	culli ##wu	2
+subword:culli	1	2	2.0
+culliwu	culliwu	2
+subword:culliwu	1	2	2.0
+##-ci	t ##w ##e ##e ##-ci	1
+subword:##-ci	1	1	1.0
+##a-c	o ##r ##a-c ##o ##r ##o	1
+subword:##a-c	1	1	1.0
+##ra-c	o ##ra-c ##o ##r ##o	1
+subword:##ra-c	1	1	1.0
+ora-c	ora-c ##o ##r ##o	1
+subword:ora-c	1	1	1.0
+pi	pi ##e ##n	137
+pi	pi	95
+pi	pi ##n ##y	78
+pi	pi ##ŋ ##o	26
+pi	pi ##r ##e	16
+pi	pi ##l ##a ##t ##o	15
+pi	pi ##i	13
+pi	pi ##r ##wu	4
+pi	pi ##r ##a	3
+pi	pi ##g	3
+pi	pi ##t ##o	2
+pi	pi ##r ##i	2
+pi	pi ##o ##p ##i ##o	2
+pi	pi ##o	2
+pi	pi ##n ##o	2
+pi	pi ##m ##m ##i ##wu	2
+pi	pi ##k ##e ##r ##e	2
+pi	pi ##i ##-gu	2
+pi	pi ##d ##o	2
+pi	pi ##d ##e	2
+pi	c ##a ##r ##o ##k ##o ##p-pi	2
+pi	pi ##t ##o ##gi	1
+pi	pi ##r ##w ##a	1
+pi	pi ##r ##i ##-nu	1
+pi	pi ##r ##e ##-n ##i	1
+pi	pi ##o ##p ##i ##o ##-n ##o ##n ##o	1
+pi	pi ##l ##i ##p ##o	1
+pi	pi ##l ##i ##p ##i	1
+pi	pi ##k ##o	1
+pi	pi ##k	1
+pi	pi ##g ##e	1
+subword:pi	31	422	13.612903225806452
+giri	giri	18
+subword:giri	1	18	18.0
+##-ni	l ##o ##-ni	4
+##-ni	j ##o ##-ni	4
+##-ni	k ##e ##d ##e ##-ni	3
+##-ni	k ##a ##r ##e ##-ni	3
+##-ni	t ##i ##n ##-ni	2
+##-ni	o ##g ##u ##d ##a ##-ni ##e	2
+##-ni	i ##y ##e ##-ni	2
+##-ni	d ##a ##n ##-ni	2
+##-ni	w ##o ##t ##wu ##-ni	1
+##-ni	w ##o ##d ##a ##-ni	1
+##-ni	w ##i ##n ##y ##e ##-ni ##e	1
+##-ni	pi ##r ##e ##-ni	1
+##-ni	o ##k ##o ##-ni	1
+##-ni	o ##b ##a ##ŋ ##a ##-ni ##e	1
+##-ni	m ##a ##n ##-ni	1
+##-ni	lub ##i ##-ni	1
+##-ni	l ##o ##-ni ##e	1
+##-ni	i ##c ##e ##n ##o ##-ni	1
+##-ni	gin ##n ##o ##r ##o ##-ni	1
+##-ni	gin ##-ni	1
+##-ni	cuŋ ##o ##cu ##ŋ ##o ##-ni	1
+##-ni	b ##a ##ŋ ##gi ##-ni	1
+##-ni	a ##ŋ ##o ##-ni ##e	1
+##-ni	a ##t ##i ##n ##o ##-ni	1
+##-ni	a ##t ##i ##n ##-ni	1
+##-ni	a ##r ##a ##- ##o ##c ##o ##r ##o ##-ni	1
+##-ni	a ##l ##o ##gi ##-ni	1
+subword:##-ni	27	41	1.5185185185185186
+##gu	o ##gu ##r ##e	5
+##gu	m ##a ##gu	4
+##gu	o ##gu ##r ##o	3
+##gu	o ##gu ##d ##o	2
+##gu	o ##gu ##d ##a ##-ni ##e	2
+##gu	o ##gu ##r ##o ##gi	1
+##gu	o ##gu ##d ##a	1
+##gu	m ##a ##t ##e ##gu ##l ##a	1
+##gu	i ##gu ##d ##o	1
+##gu	e ##gu ##d ##o	1
+##gu	a ##gu ##r ##a	1
+subword:##gu	11	22	2.0
+egu	egu ##d ##o	1
+subword:egu	1	1	1.0
+egud	egud ##o	1
+subword:egud	1	1	1.0
+ogu	ogu ##r ##e	5
+ogu	ogu ##r ##o	3
+ogu	ogu ##d ##o	2
+ogu	ogu ##d ##a ##-ni ##e	2
+ogu	ogu ##r ##o ##gi	1
+ogu	ogu ##d ##a	1
+subword:ogu	6	14	2.3333333333333335
+ogur	ogur ##e	5
+ogur	ogur ##o	3
+ogur	ogur ##o ##gi	1
+subword:ogur	3	9	3.0
+ogud	ogud ##o	2
+ogud	ogud ##a ##-ni ##e	2
+ogud	ogud ##a	1
+subword:ogud	3	5	1.6666666666666667
+lwa	lwa ##k	89
+lwa	lwa ##gi	10
+subword:lwa	2	99	49.5
+lwak	lwak	89
+subword:lwak	1	89	89.0
+lwagi	lwagi	10
+subword:lwagi	1	10	10.0
+ecu	ecu ##b ##a ##n	5
+subword:ecu	1	5	5.0
+ecub	ecub ##a ##n	5
+subword:ecub	1	5	5.0
+ecuba	ecuba ##n	5
+subword:ecuba	1	5	5.0
+ecuban	ecuban	5
+subword:ecuban	1	5	5.0
+ec	ec ##i ##p ##a ##n	16
+ec	ecuban	5
+ec	ec ##a ##ŋ	1
+ec	ec ##a ##n ##o ##gi	1
+ec	ec ##a ##n	1
+subword:ec	5	24	4.8
+eci	eci ##p ##a ##n	16
+subword:eci	1	16	16.0
+ecip	ecip ##a ##n	16
+subword:ecip	1	16	16.0
+ecipa	ecipa ##n	16
+subword:ecipa	1	16	16.0
+ecipan	ecipan	16
+subword:ecipan	1	16	16.0
+eca	eca ##ŋ	1
+eca	eca ##n ##o ##gi	1
+eca	eca ##n	1
+subword:eca	3	3	1.0
+ecaŋ	ecaŋ	1
+subword:ecaŋ	1	1	1.0
+ecan	ecan ##o ##gi	1
+ecan	ecan	1
+subword:ecan	2	2	1.0
+ek	ek ##a	27
+ek	ek ##w ##e	2
+ek	ek ##w ##a ##ŋ	1
+ek	ek ##o ##b ##o	1
+ek	ek ##e ##t	1
+subword:ek	5	32	6.4
+eka	eka	27
+subword:eka	1	27	27.0
+ekw	ekw ##e	2
+ekw	ekw ##a ##ŋ	1
+subword:ekw	2	3	1.5
+el	el ##i ##a	9
+el	el ##o ##i	2
+el	el ##i ##c ##a ##b ##e ##t	2
+el	el ##e ##y ##o ##-n ##o ##n ##o	2
+el	el ##u ##b	1
+subword:el	5	16	3.2
+eli	eli ##a	9
+eli	eli ##c ##a ##b ##e ##t	2
+subword:eli	2	11	5.5
+elu	elu ##b	1
+subword:elu	1	1	1.0
+elub	elub	1
+subword:elub	1	1	1.0
+elic	elic ##a ##b ##e ##t	2
+subword:elic	1	2	2.0
+elia	elia	9
+subword:elia	1	9	9.0
+elica	elica ##b ##e ##t	2
+subword:elica	1	2	2.0
+elicab	elicab ##e ##t	2
+subword:elicab	1	2	2.0
+er	er ##o	15
+er	er ##u ##p ##e	6
+er	er ##y ##o ##ŋ ##e ##t	2
+er	er ##y ##e ##m ##o	1
+er	er ##r ##e	1
+subword:er	5	25	5.0
+eru	eru ##p ##e	6
+subword:eru	1	6	6.0
+erup	erup ##e	6
+subword:erup	1	6	6.0
+eg	eg ##e ##n ##o	2
+eg	egud ##o	1
+eg	eg ##a ##n ##a ##k ##i ##n ##o	1
+subword:eg	3	4	1.3333333333333333
+eb	eb ##i ##n ##o	5
+eb	eb ##e ##d	3
+eb	eb ##a ##t ##i ##j ##a ##gi	1
+subword:eb	3	9	3.0
+ebi	ebi ##n ##o	5
+subword:ebi	1	5	5.0
+ebin	ebin ##o	5
+subword:ebin	1	5	5.0
+ep	ep ##y ##e ##l ##o	1
+ep	ep ##e ##t	1
+ep	ep ##a ##t ##a	1
+subword:ep	3	3	1.0
+epy	epy ##e ##l ##o	1
+subword:epy	1	1	1.0

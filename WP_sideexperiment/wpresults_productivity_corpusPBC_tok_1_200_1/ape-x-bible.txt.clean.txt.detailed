@@ -1,0 +1,3437 @@
+99	99 ##- ##p ##o ##l ##e ##i ##c ##h	1
+subword:99	1	1	1.0
+12	12 ##- ##p ##o ##l ##e ##i ##m	12
+12	12 ##- ##p ##o ##l ##e ##i ##c ##h	3
+12	12 ##- ##p ##o ##l ##e ##i ##g	2
+12	12 ##- ##p ##o ##l ##e ##i ##p ##u	1
+12	12 ##- ##k ##i ##l ##o ##k	1
+12	12	1
+subword:12	6	20	3.3333333333333335
+11	11 ##- ##p ##o ##l ##e ##i ##m	2
+11	11	1
+subword:11	2	3	1.5
+15	15 ##- ##p ##o ##l ##e ##i ##c ##h	1
+subword:15	1	1	1.0
+18	18 ##- ##p ##o ##l ##e ##i ##c ##h	1
+subword:18	1	1	1.0
+10	10 ##- ##p ##o ##l ##e ##i ##l ##u ##b	3
+10	10 ##0 ##- ##p ##o ##l ##e ##i ##t ##u	2
+10	10 ##- ##p ##o ##l ##e ##i ##m	2
+10	10 ##0 ##- ##p ##o ##l ##e ##i ##m	1
+10	10 ##0 ##- ##p ##o ##l ##e ##i ##b	1
+10	10 ##0	1
+10	10 ##- ##p ##o ##l ##e ##i ##c ##h	1
+subword:10	7	11	1.5714285714285714
+20	20	4
+20	20 ##0	2
+20	20 ##0 ##0 ##- ##p ##o ##l ##e ##i ##g ##u ##h	1
+subword:20	3	7	2.3333333333333335
+100	100 ##- ##p ##o ##l ##e ##i ##t ##u	2
+100	100 ##- ##p ##o ##l ##e ##i ##m	1
+100	100 ##- ##p ##o ##l ##e ##i ##b	1
+100	100	1
+subword:100	4	5	1.25
+200	200	2
+200	200 ##0 ##- ##p ##o ##l ##e ##i ##g ##u ##h	1
+subword:200	2	3	1.5
+##00	4 ##00 ##0 ##- ##p ##o ##l ##e ##i ##c ##h	2
+##00	5 ##00 ##0 ##- ##p ##o ##l ##e ##i ##c ##h	1
+##00	5 ##00 ##0	1
+subword:##00	3	4	1.3333333333333333
+400	400 ##0 ##- ##p ##o ##l ##e ##i ##c ##h	2
+subword:400	1	2	2.0
+500	500 ##0 ##- ##p ##o ##l ##e ##i ##c ##h	1
+500	500 ##0	1
+subword:500	2	2	1.0
+4000	4000 ##- ##p ##o ##l ##e ##i ##c ##h	2
+subword:4000	1	2	2.0
+5000	5000 ##- ##p ##o ##l ##e ##i ##c ##h	1
+5000	5000	1
+subword:5000	2	2	1.0
+60	60 ##- ##p ##o ##l ##e ##i ##t ##u	2
+subword:60	1	2	2.0
+2000	2000 ##- ##p ##o ##l ##e ##i ##g ##u ##h	1
+subword:2000	1	1	1.0
+50	50 ##- ##p ##o ##l ##e ##i ##c ##h	2
+50	5000 ##- ##p ##o ##l ##e ##i ##c ##h	1
+50	5000	1
+subword:50	3	4	1.3333333333333333
+30	30 ##- ##p ##o ##l ##e ##i ##t ##u	2
+subword:30	1	2	2.0
+4-	4- ##p ##o ##l ##e ##i ##m	2
+4-	4- ##p ##o ##l ##e ##i ##h	1
+subword:4-	2	3	1.5
+30-	30- ##p ##o ##l ##e ##i ##t ##u	2
+subword:30-	1	2	2.0
+60-	60- ##p ##o ##l ##e ##i ##t ##u	2
+subword:60-	1	2	2.0
+2000-	2000- ##p ##o ##l ##e ##i ##g ##u ##h	1
+subword:2000-	1	1	1.0
+10-	10- ##p ##o ##l ##e ##i ##l ##u ##b	3
+10-	10- ##p ##o ##l ##e ##i ##m	2
+10-	10- ##p ##o ##l ##e ##i ##c ##h	1
+subword:10-	3	6	2.0
+7-	7- ##p ##o ##l ##e ##i ##m	4
+7-	7- ##p ##o ##l ##e ##i ##t ##u	3
+7-	7- ##p ##o ##l ##e ##i ##c ##h	3
+7-	7- ##p ##o ##l ##e ##i ##h	2
+7-	7- ##p ##o ##l ##e ##i ##g	2
+subword:7-	5	14	2.8
+4000-	4000- ##p ##o ##l ##e ##i ##c ##h	2
+subword:4000-	1	2	2.0
+5-	5- ##p ##o ##l ##e ##i ##t ##u	4
+5-	5- ##p ##o ##l ##e ##i ##l ##u ##b	1
+5-	5- ##p ##o ##l ##e ##i ##c ##h	1
+subword:5-	3	6	2.0
+6-	6- ##p ##o ##l ##e ##i ##h	2
+6-	6- ##p ##o ##l ##e ##i ##b	2
+subword:6-	2	4	2.0
+8-	8- ##p ##o ##l ##e ##i ##h	3
+subword:8-	1	3	3.0
+15-	15- ##p ##o ##l ##e ##i ##c ##h	1
+subword:15-	1	1	1.0
+50-	50- ##p ##o ##l ##e ##i ##c ##h	2
+subword:50-	1	2	2.0
+18-	18- ##p ##o ##l ##e ##i ##c ##h	1
+subword:18-	1	1	1.0
+99-	99- ##p ##o ##l ##e ##i ##c ##h	1
+subword:99-	1	1	1.0
+12-	12- ##p ##o ##l ##e ##i ##m	12
+12-	12- ##p ##o ##l ##e ##i ##c ##h	3
+12-	12- ##p ##o ##l ##e ##i ##g	2
+12-	12- ##p ##o ##l ##e ##i ##p ##u	1
+12-	12- ##k ##i ##l ##o ##k	1
+subword:12-	5	19	3.8
+100-	100- ##p ##o ##l ##e ##i ##t ##u	2
+100-	100- ##p ##o ##l ##e ##i ##m	1
+100-	100- ##p ##o ##l ##e ##i ##b	1
+subword:100-	3	4	1.3333333333333333
+3-	3- ##p ##o ##l ##e ##i ##m	2
+3-	3- ##p ##o ##l ##e ##i ##h	2
+3-	3- ##p ##o ##l ##e ##i ##y ##u	1
+3-	3- ##p ##o ##l ##e ##i ##n ##y ##u	1
+3-	3- ##k ##i ##l ##o ##k	1
+subword:3-	5	7	1.4
+11-	11- ##p ##o ##l ##e ##i ##m	2
+subword:11-	1	2	2.0
+5000-	5000- ##p ##o ##l ##e ##i ##c ##h	1
+subword:5000-	1	1	1.0
+of	of ##a	5
+of	of ##a ##m ##u	3
+of	of ##a ##m ##e ##c ##h	2
+of	of ##a ##m ##a ##t ##u	2
+subword:of	4	12	3.0
+4-p	4-p ##o ##l ##e ##i ##m	2
+4-p	4-p ##o ##l ##e ##i ##h	1
+subword:4-p	2	3	1.5
+30-p	30-p ##o ##l ##e ##i ##t ##u	2
+subword:30-p	1	2	2.0
+60-p	60-p ##o ##l ##e ##i ##t ##u	2
+subword:60-p	1	2	2.0
+100-p	100-p ##o ##l ##e ##i ##t ##u	2
+100-p	100-p ##o ##l ##e ##i ##m	1
+100-p	100-p ##o ##l ##e ##i ##b	1
+subword:100-p	3	4	1.3333333333333333
+2000-p	2000-p ##o ##l ##e ##i ##g ##u ##h	1
+subword:2000-p	1	1	1.0
+10-p	10-p ##o ##l ##e ##i ##l ##u ##b	3
+10-p	10-p ##o ##l ##e ##i ##m	2
+10-p	10-p ##o ##l ##e ##i ##c ##h	1
+subword:10-p	3	6	2.0
+7-p	7-p ##o ##l ##e ##i ##m	4
+7-p	7-p ##o ##l ##e ##i ##t ##u	3
+7-p	7-p ##o ##l ##e ##i ##c ##h	3
+7-p	7-p ##o ##l ##e ##i ##h	2
+7-p	7-p ##o ##l ##e ##i ##g	2
+subword:7-p	5	14	2.8
+4000-p	4000-p ##o ##l ##e ##i ##c ##h	2
+subword:4000-p	1	2	2.0
+5-p	5-p ##o ##l ##e ##i ##t ##u	4
+5-p	5-p ##o ##l ##e ##i ##l ##u ##b	1
+5-p	5-p ##o ##l ##e ##i ##c ##h	1
+subword:5-p	3	6	2.0
+5000-p	5000-p ##o ##l ##e ##i ##c ##h	1
+subword:5000-p	1	1	1.0
+6-p	6-p ##o ##l ##e ##i ##h	2
+6-p	6-p ##o ##l ##e ##i ##b	2
+subword:6-p	2	4	2.0
+11-p	11-p ##o ##l ##e ##i ##m	2
+subword:11-p	1	2	2.0
+8-p	8-p ##o ##l ##e ##i ##h	3
+subword:8-p	1	3	3.0
+15-p	15-p ##o ##l ##e ##i ##c ##h	1
+subword:15-p	1	1	1.0
+50-p	50-p ##o ##l ##e ##i ##c ##h	2
+subword:50-p	1	2	2.0
+18-p	18-p ##o ##l ##e ##i ##c ##h	1
+subword:18-p	1	1	1.0
+99-p	99-p ##o ##l ##e ##i ##c ##h	1
+subword:99-p	1	1	1.0
+pr	pr ##i ##s	39
+pr	pr ##o ##v ##i ##n ##s	26
+pr	pr ##o ##f ##e ##t	23
+pr	pr ##o ##f ##e ##t ##i ##n	2
+pr	pr ##o ##f ##e ##t ##i ##b ##a ##l	2
+subword:pr	5	92	18.4
+12-p	12-p ##o ##l ##e ##i ##m	12
+12-p	12-p ##o ##l ##e ##i ##c ##h	3
+12-p	12-p ##o ##l ##e ##i ##g	2
+12-p	12-p ##o ##l ##e ##i ##p ##u	1
+subword:12-p	4	18	4.5
+3-p	3-p ##o ##l ##e ##i ##m	2
+3-p	3-p ##o ##l ##e ##i ##h	2
+3-p	3-p ##o ##l ##e ##i ##y ##u	1
+3-p	3-p ##o ##l ##e ##i ##n ##y ##u	1
+subword:3-p	4	6	1.5
+fr	fr ##i	3
+subword:fr	1	3	3.0
+4-po	4-po ##l ##e ##i ##m	2
+4-po	4-po ##l ##e ##i ##h	1
+subword:4-po	2	3	1.5
+30-po	30-po ##l ##e ##i ##t ##u	2
+subword:30-po	1	2	2.0
+60-po	60-po ##l ##e ##i ##t ##u	2
+subword:60-po	1	2	2.0
+100-po	100-po ##l ##e ##i ##t ##u	2
+100-po	100-po ##l ##e ##i ##m	1
+100-po	100-po ##l ##e ##i ##b	1
+subword:100-po	3	4	1.3333333333333333
+12-po	12-po ##l ##e ##i ##m	12
+12-po	12-po ##l ##e ##i ##c ##h	3
+12-po	12-po ##l ##e ##i ##g	2
+12-po	12-po ##l ##e ##i ##p ##u	1
+subword:12-po	4	18	4.5
+2000-po	2000-po ##l ##e ##i ##g ##u ##h	1
+subword:2000-po	1	1	1.0
+10-po	10-po ##l ##e ##i ##l ##u ##b	3
+10-po	10-po ##l ##e ##i ##m	2
+10-po	10-po ##l ##e ##i ##c ##h	1
+subword:10-po	3	6	2.0
+3-po	3-po ##l ##e ##i ##m	2
+3-po	3-po ##l ##e ##i ##h	2
+3-po	3-po ##l ##e ##i ##y ##u	1
+3-po	3-po ##l ##e ##i ##n ##y ##u	1
+subword:3-po	4	6	1.5
+7-po	7-po ##l ##e ##i ##m	4
+7-po	7-po ##l ##e ##i ##t ##u	3
+7-po	7-po ##l ##e ##i ##c ##h	3
+7-po	7-po ##l ##e ##i ##h	2
+7-po	7-po ##l ##e ##i ##g	2
+subword:7-po	5	14	2.8
+4000-po	4000-po ##l ##e ##i ##c ##h	2
+subword:4000-po	1	2	2.0
+5-po	5-po ##l ##e ##i ##t ##u	4
+5-po	5-po ##l ##e ##i ##l ##u ##b	1
+5-po	5-po ##l ##e ##i ##c ##h	1
+subword:5-po	3	6	2.0
+5000-po	5000-po ##l ##e ##i ##c ##h	1
+subword:5000-po	1	1	1.0
+6-po	6-po ##l ##e ##i ##h	2
+6-po	6-po ##l ##e ##i ##b	2
+subword:6-po	2	4	2.0
+11-po	11-po ##l ##e ##i ##m	2
+subword:11-po	1	2	2.0
+8-po	8-po ##l ##e ##i ##h	3
+subword:8-po	1	3	3.0
+15-po	15-po ##l ##e ##i ##c ##h	1
+subword:15-po	1	1	1.0
+50-po	50-po ##l ##e ##i ##c ##h	2
+subword:50-po	1	2	2.0
+18-po	18-po ##l ##e ##i ##c ##h	1
+subword:18-po	1	1	1.0
+99-po	99-po ##l ##e ##i ##c ##h	1
+subword:99-po	1	1	1.0
+ip	ip ##a ##k	505
+ip	ip ##a ##k ##i ##c ##h	21
+ip	ip ##a ##k ##i ##n	15
+ip	ip ##a ##k ##i ##l ##u ##h	15
+ip	ip ##e	14
+ip	ip ##a ##k ##i ##n ##u	8
+ip	ip ##a ##k ##i ##s	6
+ip	ip ##e ##m ##u	3
+ip	ip ##a ##k ##i ##p	3
+ip	ip ##l ##u ##k	2
+ip	ip ##a ##k ##i ##m	2
+ip	ip ##a ##k ##i ##l ##u ##b	2
+ip	ip ##a ##k ##i ##g ##a ##s	2
+ip	ip ##a ##k ##i ##b ##u ##l	2
+ip	ip ##a ##k ##i ##b ##a ##l	2
+ip	ip ##a ##k ##i ##g ##u	1
+ip	ip ##a ##k ##i ##g	1
+ip	ip ##a ##k ##i ##c ##h ##i	1
+ip	ip ##a ##k ##i ##b ##u	1
+ip	ip ##a ##k ##i ##b	1
+subword:ip	20	607	30.35
+ij	ij ##i ##g ##u ##l	1
+subword:ij	1	1	1.0
+##ch	e ##l ##p ##e ##ch	400
+##ch	e ##ch ##e ##ch	339
+##ch	e ##ch ##u ##d ##a ##k	246
+##ch	e ##n ##e ##ch	145
+##ch	e ##ch ##e ##b ##u ##k	114
+##ch	w ##o ##l ##o ##b ##a ##i ##ch ##i	105
+##ch	n ##a ##k ##l ##i ##p ##e ##ch	90
+##ch	a ##n ##a ##n ##i ##ch	65
+##ch	k ##a ##k ##w ##i ##ch	61
+##ch	s ##k ##u ##l ##u ##m ##e ##ch	58
+##ch	k ##i ##p ##a ##i ##ch ##i	44
+##ch	b ##a ##t ##o ##w ##i ##ch	28
+##ch	e ##n ##e ##ch ##i	27
+##ch	n ##a ##w ##i ##ch	26
+##ch	c ##h ##u ##w ##i ##ch	24
+##ch	a ##t ##i ##ch	24
+##ch	ip ##a ##k ##i ##ch	21
+##ch	m ##i ##ch ##i ##n	18
+##ch	e ##ch ##e ##ch ##i ##n	18
+##ch	e ##ch ##e ##ch ##i ##ch	15
+##ch	d ##u ##k ##w ##e ##ch ##u ##k	15
+##ch	p ##u ##d ##u ##k ##e ##m ##e ##ch	14
+##ch	h ##w ##o ##n ##e ##ch ##l ##u ##k ##e ##ch	14
+##ch	m ##a ##m ##e ##ch ##i ##ch	13
+##ch	h ##a ##w ##i ##ch	13
+##ch	d ##o ##d ##o ##g ##o ##w ##i ##ch	13
+##ch	p ##u ##k ##e ##ch	12
+##ch	n ##a ##t ##u ##l ##i ##ch	12
+##ch	e ##ch ##e ##ch ##i ##m	12
+##ch	y ##o ##w ##e ##ch ##i	11
+##ch	y ##e ##g ##e ##ch ##i ##w ##e ##l ##u ##h	11
+##ch	n ##u ##w ##i ##ch	11
+##ch	c ##h ##o ##k ##w ##i ##ch ##i	11
+##ch	n ##y ##u ##g ##i ##p ##e ##ch	10
+##ch	h ##a ##k ##l ##i ##p ##e ##ch	10
+##ch	e ##l ##g ##e ##i ##ch	10
+##ch	e ##ch ##e ##ch ##i ##n ##u	10
+##ch	c ##h ##u ##d ##u ##k ##e ##m ##e ##ch	10
+##ch	c ##h ##a ##w ##i ##ch	10
+##ch	b ##a ##p ##t ##a ##i ##s ##u ##m ##e ##ch	10
+##ch	y ##o ##p ##i ##ch ##i	9
+##ch	y ##e ##k ##i ##ch	9
+##ch	e ##ch ##e ##ch ##i ##g	9
+##ch	y ##o ##p ##i ##ch	8
+##ch	w ##a ##k ##e ##ch ##i	8
+##ch	p ##u ##g ##i ##p ##e ##ch	8
+##ch	p ##a ##d ##u ##k ##e ##m ##e ##ch	8
+##ch	n ##u ##n ##e ##k ##u ##m ##e ##ch	8
+##ch	n ##u ##n ##e ##k ##e ##ch	8
+##ch	n ##a ##s ##a ##l ##i ##k ##e ##ch	8
+##ch	p ##u ##w ##i ##ch	7
+##ch	n ##u ##k ##e ##ch	7
+##ch	h ##u ##d ##u ##k ##e ##m ##e ##ch	7
+##ch	e ##ch ##e ##ch ##i ##p	7
+##ch	e ##ch ##e ##ch ##i ##l ##u ##h	7
+##ch	c ##h ##u ##k ##l ##i ##p ##e ##ch	7
+##ch	c ##h ##a ##g ##i ##p ##e ##ch	7
+##ch	a ##n ##a ##n ##i ##ch ##i	7
+##ch	w ##i ##ch ##a ##p	6
+##ch	s ##a ##ch ##i ##ch	6
+##ch	s ##a ##ch ##i	6
+##ch	p ##u ##g ##a ##k ##a ##m ##e ##ch	6
+##ch	p ##a ##g ##i ##p ##e ##ch	6
+##ch	o ##w ##a ##ch ##i ##ch	6
+##ch	n ##y ##a ##k ##i ##ch	6
+##ch	n ##u ##k ##l ##i ##p ##e ##ch	6
+##ch	n ##e ##ch ##u ##h	6
+##ch	m ##i ##ch ##i ##ch	6
+##ch	h ##w ##o ##n ##e ##ch ##l ##u ##k ##a ##m	6
+##ch	g ##w ##o ##d ##i ##ch	6
+##ch	c ##h ##a ##d ##u ##k ##e ##m ##e ##ch	6
+##ch	c ##h ##a ##ch ##a ##h	6
+##ch	p ##u ##g ##i ##p ##e ##ch ##e ##n	5
+##ch	n ##y ##i ##h ##i ##h ##i ##ch ##i ##n ##u	5
+##ch	n ##y ##a ##g ##i ##p ##e ##ch	5
+##ch	n ##u ##g ##a ##b ##e ##y ##e ##ch	5
+##ch	h ##o ##w ##e ##ch ##i ##k	5
+##ch	h ##a ##g ##i ##p ##e ##ch	5
+##ch	e ##ch ##e ##ch ##i ##l ##u ##b	5
+##ch	e ##ch ##a ##h	5
+##ch	d ##u ##g ##o ##l ##e ##ch	5
+##ch	c ##h ##u ##g ##i ##p ##e ##ch ##e ##n	5
+##ch	c ##h ##i ##ch ##u ##k ##n ##i ##g	5
+##ch	c ##h ##i ##ch ##a ##h	5
+##ch	c ##h ##a ##g ##i ##p ##e ##ch ##e ##n	5
+##ch	a ##n ##a ##d ##u ##k ##e ##m ##e ##ch	5
+##ch	s ##e ##ch ##u ##k ##e ##ch ##i	4
+##ch	s ##e ##ch ##u ##k ##a ##n ##a ##l ##i	4
+##ch	p ##u ##k ##l ##i ##p ##e ##ch	4
+##ch	p ##i ##ch ##a ##h	4
+##ch	n ##y ##u ##k ##l ##i ##p ##e ##ch	4
+##ch	n ##y ##u ##g ##i ##p ##e ##ch ##e	4
+##ch	n ##y ##i ##h ##i ##h ##i ##ch ##i ##m	4
+##ch	n ##e ##ch ##a ##l ##a ##k ##u ##k	4
+##ch	n ##a ##s ##o ##l ##i ##k ##e ##ch	4
+##ch	n ##a ##k ##l ##i ##p ##e ##ch ##u ##k	4
+##ch	k ##i ##p ##a ##i ##ch ##i ##m ##u	4
+##ch	i ##k ##l ##i ##p ##e ##ch	4
+##ch	i ##h ##e ##ch ##u ##m ##a ##l ##i	4
+##ch	i ##h ##e ##ch	4
+##ch	h ##w ##o ##n ##e ##ch ##l ##u ##k ##a ##n ##u	4
+##ch	h ##e ##ch ##u ##h	4
+##ch	c ##h ##u ##t ##a ##l ##i ##ch	4
+##ch	c ##h ##o ##w ##e ##ch ##i ##k	4
+##ch	c ##h ##o ##w ##a ##ch ##a ##b ##a ##l	4
+##ch	c ##h ##e ##n ##e ##k ##e ##ch	4
+##ch	c ##h ##a ##k ##l ##i ##p ##e ##ch	4
+##ch	w ##a ##w ##i ##ch	3
+##ch	s ##e ##n ##e ##k ##e ##ch ##i	3
+##ch	p ##u ##n ##a ##t ##u ##l ##i ##ch	3
+##ch	p ##e ##ch ##a ##l ##a ##k ##u ##k	3
+##ch	o ##w ##o ##w ##i ##ch	3
+##ch	o ##k ##w ##o ##k ##i ##ch	3
+##ch	n ##y ##u ##w ##i ##ch	3
+##ch	n ##y ##i ##ch ##a ##l ##a ##k ##u ##k	3
+##ch	n ##y ##a ##d ##u ##k ##e ##m ##e ##ch	3
+##ch	n ##u ##n ##o ##l ##a ##w ##e ##ch	3
+##ch	n ##u ##g ##i ##p ##e ##ch	3
+##ch	n ##u ##d ##u ##k ##e ##m ##e ##ch	3
+##ch	n ##o ##w ##e ##m ##e ##y ##e ##ch	3
+##ch	n ##e ##b ##e ##ch ##i	3
+##ch	n ##a ##t ##u ##k ##e ##m ##e ##ch ##u ##k	3
+##ch	n ##a ##n ##e ##ch	3
+##ch	n ##a ##g ##a ##k ##a ##m ##e ##ch	3
+##ch	n ##a ##d ##u ##k ##e ##m ##e ##ch	3
+##ch	m ##e ##i ##ch ##i	3
+##ch	m ##e ##ch	3
+##ch	m ##a ##d ##u ##k ##e ##m ##e ##ch	3
+##ch	l ##u ##k ##a ##u ##t ##u ##m ##e ##ch	3
+##ch	k ##w ##e ##ch ##u ##h	3
+##ch	i ##k ##e ##ch	3
+##ch	h ##u ##w ##e ##ch ##i ##k ##a ##n ##u	3
+##ch	h ##u ##n ##i ##ch	3
+##ch	h ##u ##k ##l ##i ##p ##e ##ch	3
+##ch	h ##o ##w ##a ##ch ##a ##n ##u	3
+##ch	h ##e ##n ##e ##ch ##i ##ch ##i ##l ##a ##k	3
+##ch	h ##a ##n ##e ##ch	3
+##ch	e ##l ##p ##e ##ch ##i ##n	3
+##ch	d ##u ##l ##d ##u ##l ##i ##ch ##i	3
+##ch	c ##h ##u ##w ##i ##ch ##u ##k	3
+##ch	c ##h ##u ##w ##e ##ch ##i ##k ##e ##ch	3
+##ch	c ##h ##u ##n ##e ##k ##u ##m ##e ##ch	3
+##ch	c ##h ##u ##g ##i ##p ##e ##ch	3
+##ch	c ##h ##e ##ch ##a ##l ##a ##k ##u ##k	3
+##ch	c ##h ##e ##ch	3
+##ch	b ##i ##e ##ch	3
+##ch	a ##m ##a ##m ##i ##ch	3
+##ch	7-po ##l ##e ##i ##ch	3
+##ch	12-po ##l ##e ##i ##ch	3
+##ch	y ##o ##w ##e ##l ##u ##h ##i ##ch ##i	2
+##ch	y ##e ##ch ##a ##l ##a ##k ##u ##k	2
+##ch	y ##a ##t ##u ##l ##i ##ch	2
+##ch	y ##a ##m ##e ##ch	2
+##ch	y ##a ##k ##l ##i ##p ##e ##ch	2
+##ch	y ##a ##g ##i ##p ##e ##ch ##e ##n	2
+##ch	y ##a ##d ##u ##k ##e ##m ##e ##ch	2
+##ch	w ##i ##ch ##u ##s ##i ##l	2
+##ch	w ##a ##k ##e ##ch	2
+##ch	t ##u ##k ##w ##a ##h ##e ##p ##o ##m ##e ##ch	2
+##ch	s ##u ##n ##e ##k ##e ##ch	2
+##ch	s ##e ##ch ##u ##k ##e ##p ##u	2
+##ch	s ##a ##ch	2
+##ch	p ##u ##w ##e ##ch ##i ##k ##e	2
+##ch	p ##u ##g ##i ##p ##e ##ch ##a ##n ##u	2
+##ch	p ##u ##g ##a ##k ##o ##m ##e ##ch	2
+##ch	p ##o ##p ##e ##ch	2
+##ch	p ##o ##k ##w ##a ##ch ##i ##h ##e ##n	2
+##ch	p ##i ##ch ##u ##h	2
+##ch	p ##e ##ch ##u ##h	2
+##ch	p ##e ##ch ##l ##u ##k	2
+##ch	p ##a ##t ##u ##l ##i ##ch ##e ##ch	2
+##ch	of ##a ##m ##e ##ch	2
+##ch	o ##w ##i ##ch ##i ##b ##a ##l ##- ##i ##t ##a ##l ##i	2
+##ch	o ##h ##w ##a ##k ##i ##ch	2
+##ch	n ##y ##u ##w ##i ##ch ##e ##p ##u	2
+##ch	n ##y ##u ##k ##l ##i ##p ##e ##ch ##u ##k	2
+##ch	n ##y ##u ##k ##a ##w ##e ##ch	2
+##ch	n ##y ##i ##h ##i ##h ##i ##ch ##i ##ch	2
+##ch	n ##y ##a ##k ##l ##i ##p ##e ##ch	2
+##ch	n ##u ##w ##o ##l ##e ##h ##e ##ch	2
+##ch	n ##u ##w ##e ##m ##e ##y ##e ##ch	2
+##ch	n ##u ##n ##e ##m ##e ##ch	2
+##ch	n ##u ##k ##u ##m ##e ##ch ##i	2
+##ch	n ##u ##k ##e ##p ##e ##y ##e ##ch	2
+##ch	n ##u ##g ##a ##k ##o ##m ##e ##ch	2
+##ch	n ##u ##g ##a ##k ##a ##m ##e ##ch	2
+##ch	n ##o ##w ##a ##ch ##a ##t ##u	2
+##ch	n ##o ##w ##a ##ch ##a ##k	2
+##ch	n ##i ##ch ##a ##k ##a ##m ##u	2
+##ch	n ##e ##ch ##l ##e ##h ##a ##n ##u	2
+##ch	n ##e ##b ##e ##m ##e ##ch	2
+##ch	n ##a ##n ##a ##g ##l ##a ##h ##e ##ch	2
+##ch	n ##a ##l ##u ##h ##i ##ch	2
+##ch	n ##a ##k ##l ##i ##p ##a ##m ##u ##m ##e ##ch	2
+##ch	n ##a ##h ##e ##ch	2
+##ch	n ##a ##g ##i ##p ##e ##ch	2
+##ch	m ##e ##y ##a ##l ##u ##h ##i ##ch	2
+##ch	m ##e ##ch ##l ##u ##k	2
+##ch	m ##a ##g ##i ##p ##e ##ch ##e ##n ##y ##u	2
+##ch	l ##e ##ch ##u ##k ##a ##l ##u ##m	2
+##ch	k ##w ##a ##w ##i ##ch	2
+##ch	k ##i ##p ##a ##ch ##i	2
+##ch	i ##ch ##a ##l ##u ##h	2
+##ch	h ##w ##a ##k ##i ##h ##e ##ch	2
+##ch	h ##u ##w ##i ##ch	2
+##ch	h ##u ##w ##e ##ch ##i ##k ##e	2
+##ch	h ##u ##n ##e ##k ##e ##ch	2
+##ch	h ##o ##w ##o ##l ##e ##ch ##a ##t ##u	2
+##ch	h ##o ##w ##e ##ch ##i ##k ##a ##n ##u	2
+##ch	h ##e ##ch ##l ##u ##k	2
+##ch	h ##e ##ch	2
+##ch	h ##a ##t ##u ##l ##i ##ch ##e ##ch	2
+##ch	h ##a ##h ##e ##ch	2
+##ch	h ##a ##g ##i ##p ##e ##ch ##a ##n ##u	2
+##ch	g ##n ##u ##w ##i ##ch ##u ##k	2
+##ch	g ##a ##p ##e ##n ##y ##i ##ch	2
+##ch	e ##n ##y ##e ##n ##y ##i ##ch	2
+##ch	e ##ch ##u ##d ##a ##k ##m ##a ##l ##i	2
+##ch	e ##ch ##e ##ch ##i ##u	2
+##ch	e ##ch ##e ##ch ##i ##s	2
+##ch	e ##ch ##e ##ch ##i ##b ##u ##l	2
+##ch	c ##h ##u ##w ##i ##ch ##u ##m ##a ##l ##i	2
+##ch	c ##h ##u ##w ##a ##ch ##e ##n	2
+##ch	c ##h ##u ##t ##u ##p ##e ##ch	2
+##ch	c ##h ##u ##n ##e ##k ##e ##ch	2
+##ch	c ##h ##u ##m ##n ##e ##k ##u ##m ##e ##ch	2
+##ch	c ##h ##u ##k ##e ##ch	2
+##ch	c ##h ##u ##g ##a ##k ##o ##m ##e ##ch	2
+##ch	c ##h ##i ##ch ##a ##l ##a ##k ##u ##k	2
+##ch	c ##h ##i ##ch ##a ##l ##a ##b ##a ##l	2
+##ch	c ##h ##e ##n ##e ##ch ##u ##b ##u ##k	2
+##ch	c ##h ##e ##ch ##u ##k ##a ##l ##i ##ch	2
+##ch	c ##h ##a ##p ##e ##n ##y ##i ##ch	2
+##ch	c ##h ##a ##g ##i ##p ##e ##ch ##a ##n ##u	2
+##ch	b ##u ##l ##k ##w ##o ##l ##e ##ch	2
+##ch	a ##t ##a ##p ##i ##ch ##i	2
+##ch	a ##p ##a ##k ##i ##ch	2
+##ch	a ##n ##y ##u ##n ##e ##k ##e ##ch	2
+##ch	a ##n ##i ##n ##e ##i ##ch	2
+##ch	a ##m ##n ##a ##b ##i ##ch	2
+##ch	a ##k ##w ##o ##w ##a ##ch ##a ##b ##a ##l	2
+##ch	a ##k ##w ##a ##d ##u ##k ##e ##m ##e ##ch	2
+##ch	a ##d ##u ##k ##w ##e ##ch ##u ##k	2
+##ch	a ##d ##u ##k ##a ##h ##i ##ch	2
+##ch	a ##ch ##e ##n ##e ##h ##i ##l ##a ##u	2
+##ch	a ##ch ##a ##p ##e	2
+##ch	50-po ##l ##e ##i ##ch	2
+##ch	4000-po ##l ##e ##i ##ch	2
+##ch	y ##o ##w ##e ##ch	1
+##ch	y ##o ##p ##i ##y ##o ##p ##i ##ch ##i	1
+##ch	y ##o ##p ##i ##ch ##i ##m ##u	1
+##ch	y ##o ##n ##o ##g ##w ##a ##t ##e ##ch	1
+##ch	y ##o ##n ##o ##g ##l ##a ##h ##e ##ch	1
+##ch	y ##o ##l ##o ##g ##i ##ch	1
+##ch	y ##e ##y ##a ##i ##s ##e ##ch	1
+##ch	y ##e ##ch ##l ##e ##h ##e ##n	1
+##ch	y ##a ##n ##a ##l ##a ##w ##e ##ch	1
+##ch	y ##a ##l ##u ##g ##w ##i ##ch	1
+##ch	y ##a ##k ##l ##i ##p ##e ##p ##a ##m ##e ##ch	1
+##ch	y ##a ##b ##i ##l ##o ##m ##e ##ch	1
+##ch	w ##u ##s ##a ##l ##i ##k ##- ##e ##n ##y ##o ##m ##e ##ch	1
+##ch	w ##o ##l ##i ##g ##u ##n ##e ##ch ##i	1
+##ch	w ##o ##l ##a ##b ##a ##i ##ch ##i	1
+##ch	w ##o ##b ##l ##e ##ch	1
+##ch	w ##i ##ch ##u ##s ##i ##l ##i	1
+##ch	w ##a ##t ##u ##l ##i ##ch ##u	1
+##ch	w ##a ##t ##u ##l ##i ##ch	1
+##ch	w ##a ##n ##a ##m ##e ##ch	1
+##ch	w ##a ##l ##u ##b ##i ##ch	1
+##ch	w ##a ##g ##i ##p ##e ##ch	1
+##ch	w ##a ##b ##u ##l ##i ##ch	1
+##ch	t ##u ##t ##u ##b ##i ##ch	1
+##ch	s ##u ##n ##o ##n ##u ##g ##e ##y ##e ##ch	1
+##ch	s ##o ##g ##u ##g ##a ##k ##o ##y ##e ##ch ##i	1
+##ch	s ##o ##g ##u ##g ##a ##k ##e ##y ##e ##ch ##i	1
+##ch	s ##k ##u ##l ##u ##m ##u ##m ##e ##ch	1
+##ch	s ##e ##n ##e ##k ##e ##ch	1
+##ch	s ##e ##ch ##u ##k ##a ##n ##u	1
+##ch	s ##e ##ch ##u ##k	1
+##ch	s ##a ##w ##i ##ch	1
+##ch	s ##a ##n ##a ##b ##e ##ch ##u ##k	1
+##ch	p ##u ##w ##e ##ch ##i ##k ##a ##n ##u	1
+##ch	p ##u ##t ##u ##l ##i ##ch ##a ##b ##a ##l	1
+##ch	p ##u ##t ##u ##l ##i ##ch	1
+##ch	p ##u ##t ##i ##m ##e ##ch	1
+##ch	p ##u ##n ##o ##l ##u ##k ##e ##ch	1
+##ch	p ##u ##n ##e ##k ##u ##m ##e ##ch	1
+##ch	p ##u ##n ##e ##k ##e ##ch	1
+##ch	p ##u ##l ##i ##k ##w ##e ##ch	1
+##ch	p ##u ##l ##a ##w ##e ##ch ##i	1
+##ch	p ##u ##k ##w ##a ##ch ##i ##h ##e ##n	1
+##ch	p ##u ##k ##l ##i ##p ##e ##ch ##- ##u ##m ##e ##n	1
+##ch	p ##u ##k ##e ##ch ##e ##ch	1
+##ch	p ##u ##h ##w ##e ##ch	1
+##ch	p ##u ##g ##w ##a ##t ##e ##ch	1
+##ch	p ##u ##g ##u ##d ##u ##p ##e ##ch ##u ##k	1
+##ch	p ##u ##g ##i ##p ##e ##ch ##e ##ch	1
+##ch	p ##u ##g ##i ##p ##e ##ch ##a ##m	1
+##ch	p ##u ##b ##e ##y ##e ##n ##y ##u ##m ##e ##ch	1
+##ch	p ##u ##b ##e ##ch ##u ##k ##a ##p ##u	1
+##ch	p ##o ##w ##e ##m ##e ##y ##e ##ch	1
+##ch	p ##o ##k ##w ##e ##ch ##i ##h ##e ##n	1
+##ch	p ##o ##k ##w ##e ##ch ##i ##h	1
+##ch	p ##i ##y ##o ##m ##e ##ch	1
+##ch	p ##i ##ch ##a ##k ##o ##m ##e ##m ##u	1
+##ch	p ##i ##ch ##a ##k ##o ##m ##e	1
+##ch	p ##e ##y ##a ##g ##w ##l ##e ##p ##e ##ch	1
+##ch	p ##e ##n ##e ##h ##i ##l ##a ##u ##m ##e ##ch	1
+##ch	p ##e ##n ##e ##ch ##i ##ch ##i ##l ##a ##k	1
+##ch	p ##e ##k ##e ##ch ##u ##m ##a ##g ##u ##k	1
+##ch	p ##e ##k ##e ##ch ##u ##k	1
+##ch	p ##e ##ch	1
+##ch	p ##a ##t ##u ##l ##i ##ch	1
+##ch	p ##a ##s ##a ##l ##i ##k ##- ##a ##n ##a ##m ##e ##ch	1
+##ch	p ##a ##n ##o ##h ##w ##e ##ch	1
+##ch	p ##a ##n ##a ##l ##u ##k ##e ##ch	1
+##ch	p ##a ##n ##a ##k ##l ##i ##p ##a ##m ##u ##m ##e ##ch	1
+##ch	p ##a ##l ##a ##w ##e ##ch	1
+##ch	p ##a ##k ##l ##i ##p ##e ##ch	1
+##ch	p ##a ##g ##a ##h ##u ##m ##e ##ch ##u ##k	1
+##ch	p ##a ##ch ##a ##h	1
+##ch	o ##k ##w ##o ##k ##i ##ch ##i	1
+##ch	o ##k ##w ##a ##k ##i ##ch	1
+##ch	n ##y ##u ##w ##i ##ch ##e ##n ##y ##u	1
+##ch	n ##y ##u ##w ##i ##ch ##a ##n ##u	1
+##ch	n ##y ##u ##t ##u ##l ##i ##ch	1
+##ch	n ##y ##u ##t ##o ##g ##l ##o ##m ##e ##ch	1
+##ch	n ##y ##u ##n ##e ##k ##e ##ch	1
+##ch	n ##y ##u ##n ##e ##k ##- ##a ##g ##u ##n ##m ##e ##ch	1
+##ch	n ##y ##u ##l ##a ##w ##e ##ch	1
+##ch	n ##y ##u ##g ##l ##e ##m ##e ##ch	1
+##ch	n ##y ##u ##g ##l ##a ##k ##u ##m ##e ##ch	1
+##ch	n ##y ##u ##b ##e ##y ##e ##ch ##- ##u ##m ##e ##n ##y ##a ##l ##i	1
+##ch	n ##y ##u ##b ##e ##ch ##u ##k ##e ##n	1
+##ch	n ##y ##o ##n ##o ##k ##w ##a ##l ##m ##e ##ch	1
+##ch	n ##y ##o ##k ##w ##a ##l ##m ##e ##ch ##- ##u ##m ##o ##h ##w ##a ##g ##u ##k	1
+##ch	n ##y ##o ##b ##e ##ch ##u ##k ##u ##m ##o ##m	1
+##ch	n ##y ##o ##b ##e ##ch ##u ##k	1
+##ch	n ##y ##i ##y ##a ##i ##s ##- ##e ##ch ##u ##m ##o ##h ##u	1
+##ch	n ##y ##i ##h ##i ##h ##i ##ch ##i ##w ##e	1
+##ch	n ##y ##i ##h ##i ##h ##i ##ch ##i ##h	1
+##ch	n ##y ##i ##h ##i ##h ##i ##ch ##i ##b ##a ##l ##i	1
+##ch	n ##y ##i ##h ##i ##h ##i ##ch ##i ##- ##n ##a ##m ##u	1
+##ch	n ##y ##i ##h ##i ##h ##i ##ch ##i ##- ##n ##a ##m ##e ##p ##a ##m ##u	1
+##ch	n ##y ##i ##ch ##u ##k ##o ##l ##i ##n ##y ##u	1
+##ch	n ##y ##i ##ch ##a ##g ##i ##y ##a ##p ##u	1
+##ch	n ##y ##e ##n ##e ##ch ##u ##b ##u ##k ##u ##k	1
+##ch	n ##y ##e ##ch ##o ##l ##o ##k ##u ##k	1
+##ch	n ##y ##e ##ch ##a ##p ##a ##k ##a ##p ##u	1
+##ch	n ##y ##e ##ch ##a ##l ##u ##k ##u ##k	1
+##ch	n ##y ##a ##w ##i ##ch ##o ##k	1
+##ch	n ##y ##a ##w ##i ##ch ##a ##n ##u	1
+##ch	n ##y ##a ##w ##i ##ch	1
+##ch	n ##y ##a ##t ##u ##l ##i ##ch	1
+##ch	n ##y ##a ##s ##a ##l ##i ##k ##e ##ch	1
+##ch	n ##y ##a ##p ##e ##n ##y ##i ##ch	1
+##ch	n ##y ##a ##n ##a ##b ##e ##ch ##u ##k ##u ##m ##o ##m	1
+##ch	n ##y ##a ##n ##a ##b ##e ##ch ##u ##k ##- ##u ##m ##e ##p ##u	1
+##ch	n ##y ##a ##k ##l ##i ##e ##ch	1
+##ch	n ##y ##a ##k ##i ##ch ##i	1
+##ch	n ##u ##w ##i ##ch ##a ##t ##a ##l ##i	1
+##ch	n ##u ##w ##i ##ch ##a ##h ##l ##e ##p ##u	1
+##ch	n ##u ##w ##e ##ch ##i ##k ##u ##k	1
+##ch	n ##u ##w ##a ##ch ##e ##p ##u	1
+##ch	n ##u ##w ##a ##ch ##a ##g ##a ##s	1
+##ch	n ##u ##t ##u ##l ##i ##ch ##e ##n ##y ##u ##k	1
+##ch	n ##u ##t ##u ##l ##i ##ch	1
+##ch	n ##u ##t ##u ##k ##e ##m ##e ##ch ##u ##k	1
+##ch	n ##u ##n ##o ##h ##w ##e ##ch	1
+##ch	n ##u ##n ##o ##b ##e ##ch ##u ##k	1
+##ch	n ##u ##m ##u ##n ##a ##h ##i ##ch	1
+##ch	n ##u ##m ##n ##e ##k ##e ##ch ##u ##k	1
+##ch	n ##u ##k ##w ##e ##ch ##i ##h	1
+##ch	n ##u ##k ##w ##a ##ch ##i ##h ##e ##p ##a ##m ##u	1
+##ch	n ##u ##k ##w ##a ##ch ##i ##h ##a ##n ##u	1
+##ch	n ##u ##k ##a ##w ##e ##ch	1
+##ch	n ##u ##k ##a ##g ##e ##ch	1
+##ch	n ##u ##g ##a ##ch	1
+##ch	n ##u ##g ##a ##b ##e ##m ##e ##ch	1
+##ch	n ##u ##d ##a ##l ##e ##ch	1
+##ch	n ##u ##b ##e ##y ##e ##ch ##u ##m ##e ##p ##u	1
+##ch	n ##o ##w ##e ##ch ##i ##k ##o ##k	1
+##ch	n ##o ##w ##e ##ch ##i ##k ##e ##ch	1
+##ch	n ##o ##w ##a ##ch ##a ##b ##a ##l	1
+##ch	n ##o ##k ##w ##e ##ch ##i ##h	1
+##ch	n ##o ##k ##w ##a ##ch ##i ##h	1
+##ch	n ##o ##k ##o ##g ##e ##ch	1
+##ch	n ##i ##y ##a ##i ##s ##e ##ch	1
+##ch	n ##i ##ch ##l ##e ##k ##e ##ch	1
+##ch	n ##i ##ch ##i ##ch ##e ##h ##a ##t ##u	1
+##ch	n ##i ##ch ##a ##l ##a ##k ##u ##k	1
+##ch	n ##i ##ch ##a ##k ##a ##m ##e ##p ##u	1
+##ch	n ##i ##ch ##a ##h	1
+##ch	n ##e ##y ##a ##t ##e ##ch	1
+##ch	n ##e ##n ##e ##k ##u ##m ##e ##ch	1
+##ch	n ##e ##n ##e ##k ##e ##ch	1
+##ch	n ##e ##n ##e ##h ##i ##l ##a ##u ##m ##e ##ch	1
+##ch	n ##e ##m ##n ##e ##k ##e ##ch	1
+##ch	n ##e ##k ##e ##ch	1
+##ch	n ##e ##h ##i ##y ##a ##h ##e ##ch ##u ##k	1
+##ch	n ##e ##ch ##o ##p ##o ##m	1
+##ch	n ##e ##ch ##a ##s ##a ##t ##u	1
+##ch	n ##e ##ch ##a ##k ##o ##m ##e ##ch	1
+##ch	n ##e ##ch	1
+##ch	n ##e ##b ##e ##ch ##u ##m ##a ##l ##i	1
+##ch	n ##e ##b ##e ##ch ##i ##m ##u	1
+##ch	n ##a ##w ##i ##ch ##a ##n ##u	1
+##ch	n ##a ##w ##i ##ch ##a ##h ##l ##e ##ch	1
+##ch	n ##a ##t ##a ##l ##i ##h ##a ##b ##o ##m ##e ##ch	1
+##ch	n ##a ##s ##o ##l ##i ##k ##- ##a ##n ##a ##m ##e ##ch	1
+##ch	n ##a ##p ##l ##u ##k ##e ##ch	1
+##ch	n ##a ##n ##a ##l ##k ##e ##ch	1
+##ch	n ##a ##l ##a ##w ##e ##ch	1
+##ch	n ##a ##k ##w ##a ##ch ##i ##h	1
+##ch	n ##a ##k ##l ##i ##p ##e ##ch ##e ##n ##y ##i	1
+##ch	n ##a ##k ##l ##i ##p ##e ##ch ##e ##n	1
+##ch	n ##a ##k ##a ##w ##e ##ch	1
+##ch	n ##a ##k ##a ##g ##e ##ch	1
+##ch	n ##a ##h ##w ##e ##ch	1
+##ch	n ##a ##g ##i ##p ##e ##ch ##a ##m	1
+##ch	n ##a ##g ##i ##l ##a ##p ##e ##ch	1
+##ch	n ##a ##g ##a ##b ##e ##y ##e ##ch	1
+##ch	n ##a ##ch	1
+##ch	n ##a ##b ##e ##s ##i ##ch	1
+##ch	m ##u ##w ##a ##ch ##e ##ch	1
+##ch	m ##u ##t ##a ##l ##u ##m ##e ##ch ##i	1
+##ch	m ##u ##g ##i ##p ##e ##ch	1
+##ch	m ##u ##g ##a ##k ##o ##m ##e ##ch	1
+##ch	m ##u ##g ##a ##b ##e ##y ##e ##ch	1
+##ch	m ##u ##d ##u ##k ##e ##m ##e ##ch	1
+##ch	m ##u ##b ##e ##m ##e ##ch	1
+##ch	m ##e ##y ##o ##l ##u ##h ##i ##ch	1
+##ch	m ##e ##ch ##e ##ch	1
+##ch	m ##a ##w ##i ##ch	1
+##ch	m ##a ##p ##i ##l ##i ##ch	1
+##ch	m ##a ##l ##i ##k ##w ##e ##ch ##o ##k	1
+##ch	m ##a ##k ##w ##n ##i ##ch	1
+##ch	m ##a ##h ##i ##ch	1
+##ch	m ##a ##g ##u ##d ##u ##p ##e ##ch ##o ##k	1
+##ch	m ##a ##ch ##u ##b ##i ##g ##u ##h	1
+##ch	l ##o ##h ##u ##m ##e ##ch	1
+##ch	l ##e ##n ##e ##k ##e ##ch	1
+##ch	l ##e ##ch ##u ##k ##o ##l ##u ##m	1
+##ch	k ##w ##o ##n ##e ##k ##u ##m ##e ##ch	1
+##ch	k ##w ##e ##ch ##u ##k	1
+##ch	k ##w ##e ##ch	1
+##ch	k ##w ##a ##s ##u ##h ##e ##ch	1
+##ch	k ##w ##a ##n ##a ##m ##e ##ch	1
+##ch	k ##w ##a ##k ##l ##i ##p ##e ##ch	1
+##ch	k ##w ##a ##d ##u ##k ##e ##m ##e ##ch	1
+##ch	ip ##a ##k ##i ##ch ##i	1
+##ch	i ##y ##a ##i ##s ##e ##ch	1
+##ch	i ##t ##u ##l ##i ##ch	1
+##ch	i ##n ##e ##k ##u ##m ##e ##ch	1
+##ch	i ##k ##w ##e ##k ##ch ##i ##h ##- ##u ##m ##a ##n ##u	1
+##ch	i ##k ##w ##e ##ch ##i ##h ##e ##ch	1
+##ch	i ##k ##e ##ch ##u ##k	1
+##ch	i ##g ##i ##p ##e ##ch ##e ##n ##y ##u	1
+##ch	i ##g ##i ##l ##a ##p ##e ##ch ##- ##a ##n ##a ##l ##u ##l ##i	1
+##ch	i ##d ##u ##k ##e ##m ##e ##ch	1
+##ch	i ##ch ##u ##h	1
+##ch	i ##ch ##a ##k ##a ##m ##e ##ch	1
+##ch	i ##ch ##a ##h	1
+##ch	i ##b ##e ##y ##e ##ch ##u ##m ##e ##n	1
+##ch	h ##w ##u ##s ##a ##g ##u ##n ##m ##e ##ch	1
+##ch	h ##w ##u ##n ##e ##ch ##l ##u ##k ##e ##p ##u	1
+##ch	h ##w ##u ##k ##i ##h ##e ##ch	1
+##ch	h ##w ##o ##n ##e ##ch ##l ##u ##k ##o ##u	1
+##ch	h ##w ##o ##n ##e ##ch ##l ##u ##k ##- ##e ##p ##a ##m ##u	1
+##ch	h ##w ##o ##n ##e ##ch ##l ##u ##k ##- ##a ##n ##a ##m ##u	1
+##ch	h ##w ##e ##ch ##u ##h	1
+##ch	h ##w ##e ##ch ##a ##l ##a ##k ##u ##k	1
+##ch	h ##u ##w ##e ##ch ##i ##k ##e ##ch	1
+##ch	h ##u ##w ##e ##ch ##i ##k ##a ##n ##o ##m ##u	1
+##ch	h ##u ##w ##e ##ch ##i ##k	1
+##ch	h ##u ##n ##e ##k ##u ##m ##e ##ch	1
+##ch	h ##u ##n ##a ##k ##u ##m ##e ##ch ##u	1
+##ch	h ##u ##g ##i ##p ##e ##ch	1
+##ch	h ##u ##b ##i ##l ##o ##m ##e ##ch	1
+##ch	h ##o ##w ##e ##ch ##i ##k ##u ##k	1
+##ch	h ##o ##w ##a ##y ##a ##k ##u ##m ##e ##ch	1
+##ch	h ##o ##w ##a ##ch ##a ##k	1
+##ch	h ##o ##w ##a ##ch ##a ##b ##a ##l	1
+##ch	h ##o ##k ##w ##a ##ch ##i ##h ##e ##n	1
+##ch	h ##o ##k ##e ##ch ##a ##n ##u	1
+##ch	h ##l ##e ##ch ##a ##l ##a ##k ##u ##k	1
+##ch	h ##i ##y ##a ##i ##s ##o ##s ##u ##m ##e ##ch	1
+##ch	h ##i ##ch ##a ##l ##a ##k ##e ##ch	1
+##ch	h ##i ##ch ##a ##k ##a ##m ##u	1
+##ch	h ##i ##ch ##a ##k ##a ##m ##a ##n ##u	1
+##ch	h ##i ##ch ##a ##k ##a ##m ##a ##- ##n ##a ##m ##u	1
+##ch	h ##e ##n ##e ##y ##o ##g ##o ##m ##e ##ch	1
+##ch	h ##e ##n ##e ##k ##e ##ch	1
+##ch	h ##e ##n ##e ##ch ##l ##e ##- ##p ##a ##l ##u ##l ##i	1
+##ch	h ##e ##k ##e ##ch	1
+##ch	h ##e ##ch ##o ##p ##o ##k ##a ##n ##u	1
+##ch	h ##e ##ch ##o ##p ##e ##n	1
+##ch	h ##e ##ch ##e ##b ##u ##k ##u ##k	1
+##ch	h ##e ##ch ##e ##b ##u ##k	1
+##ch	h ##a ##t ##u ##l ##i ##ch	1
+##ch	h ##a ##t ##u ##k ##w ##a ##ch ##i ##h	1
+##ch	h ##a ##t ##u ##k ##e ##m ##e ##ch ##u ##k	1
+##ch	h ##a ##n ##i ##ch	1
+##ch	h ##a ##l ##o ##g ##e ##ch	1
+##ch	h ##a ##l ##a ##g ##e ##ch	1
+##ch	h ##a ##k ##w ##u ##m ##e ##ch	1
+##ch	h ##a ##k ##l ##i ##p ##e ##ch ##u ##k	1
+##ch	h ##a ##k ##l ##i ##p ##e ##ch ##- ##e ##n ##y ##i	1
+##ch	h ##a ##g ##i ##p ##e ##ch ##e ##n	1
+##ch	h ##a ##g ##a ##k ##a ##m ##e ##ch	1
+##ch	h ##a ##g ##a ##b ##e ##y ##e ##ch	1
+##ch	h ##a ##d ##a ##l ##e ##ch	1
+##ch	h ##a ##ch ##a ##h ##u ##k	1
+##ch	h ##a ##b ##i ##l ##o ##m ##e ##ch	1
+##ch	g ##w ##i ##l ##e ##ch	1
+##ch	g ##w ##i ##ch ##a ##h	1
+##ch	g ##w ##e ##ch ##u ##h	1
+##ch	g ##w ##e ##ch ##a ##l ##a ##k ##u ##k	1
+##ch	g ##u ##l ##d ##u ##g ##o ##l ##e ##ch	1
+##ch	g ##n ##e ##ch ##a ##l ##a ##k ##u ##k	1
+##ch	g ##a ##ch	1
+##ch	e ##l ##p ##e ##ch ##i ##m	1
+##ch	e ##ch ##u ##g ##u ##h	1
+##ch	e ##ch ##e ##ch ##i ##w ##e	1
+##ch	e ##ch ##e ##ch ##i ##t ##u	1
+##ch	e ##ch ##e ##ch ##i ##t ##o ##m ##u	1
+##ch	e ##ch ##e ##ch ##i ##n ##y ##u	1
+##ch	e ##ch ##e ##ch ##i ##k	1
+##ch	e ##ch ##e ##ch ##i ##h	1
+##ch	e ##ch ##e ##ch ##i ##g ##u	1
+##ch	e ##ch ##e ##ch ##i ##b ##u	1
+##ch	e ##ch ##e ##ch ##i ##b ##a ##l	1
+##ch	d ##u ##d ##u ##g ##i ##ch ##i ##ch	1
+##ch	d ##o ##u ##m ##e ##i ##ch ##i	1
+##ch	d ##o ##u ##m ##e ##i ##ch	1
+##ch	d ##a ##k ##i ##ch ##i ##m ##u	1
+##ch	c ##h ##u ##w ##e ##ch ##i ##k ##e ##p ##u	1
+##ch	c ##h ##u ##w ##a ##ch ##a ##k	1
+##ch	c ##h ##u ##t ##u ##l ##i ##ch ##e ##ch	1
+##ch	c ##h ##u ##t ##u ##l ##i ##ch	1
+##ch	c ##h ##u ##s ##u ##h ##w ##- ##e ##ch ##a ##n ##a ##m ##u	1
+##ch	c ##h ##u ##s ##a ##g ##u ##n ##m ##e ##ch	1
+##ch	c ##h ##u ##p ##e ##n ##y ##i ##ch	1
+##ch	c ##h ##u ##n ##u ##g ##o ##m ##e ##ch	1
+##ch	c ##h ##u ##n ##e ##- ##ch ##i ##ch ##i ##l ##a ##k	1
+##ch	c ##h ##u ##m ##a ##k ##w ##i ##e ##ch ##e ##p	1
+##ch	c ##h ##u ##l ##i ##k ##w ##e ##ch ##o ##n ##u	1
+##ch	c ##h ##u ##l ##i ##h ##i ##- ##ch ##u ##l ##i ##h	1
+##ch	c ##h ##u ##l ##a ##w ##e ##ch	1
+##ch	c ##h ##u ##k ##e ##p ##e ##y ##e ##ch	1
+##ch	c ##h ##u ##g ##i ##l ##a ##p ##e ##ch	1
+##ch	c ##h ##u ##d ##a ##l ##e ##h ##e ##ch	1
+##ch	c ##h ##u ##b ##l ##e ##y ##e ##ch	1
+##ch	c ##h ##u ##b ##e ##y ##e ##ch ##- ##u ##m ##e ##p ##a ##l ##u ##l ##i	1
+##ch	c ##h ##u ##b ##e ##y ##e ##ch ##- ##u ##m ##e ##p ##a ##l ##i	1
+##ch	c ##h ##o ##w ##e ##ch ##i ##k ##e ##n	1
+##ch	c ##h ##o ##w ##e ##ch ##i ##k ##a ##n ##u	1
+##ch	c ##h ##o ##n ##o ##k ##w ##a ##l ##m ##e ##ch	1
+##ch	c ##h ##o ##n ##o ##b ##e ##ch ##u ##k	1
+##ch	c ##h ##o ##k ##w ##i ##ch ##i ##m ##u	1
+##ch	c ##h ##i ##y ##a ##i ##s ##e ##ch	1
+##ch	c ##h ##i ##ch ##u ##h	1
+##ch	c ##h ##i ##ch ##o ##p ##o ##k ##a ##n ##u	1
+##ch	c ##h ##i ##ch ##o ##b ##u ##l	1
+##ch	c ##h ##i ##ch ##l ##o ##k ##u ##h	1
+##ch	c ##h ##i ##ch ##l ##e ##k ##e ##ch	1
+##ch	c ##h ##i ##ch ##i ##ch ##e ##h ##o ##g	1
+##ch	c ##h ##i ##ch ##e ##h ##u ##k	1
+##ch	c ##h ##i ##ch ##a ##l ##a ##k ##a ##n ##u	1
+##ch	c ##h ##i ##ch ##a ##k ##a ##m ##a ##n ##u	1
+##ch	c ##h ##e ##ch ##u ##h	1
+##ch	c ##h ##e ##ch ##u ##b ##u ##k	1
+##ch	c ##h ##a ##t ##u ##l ##i ##ch	1
+##ch	c ##h ##a ##t ##a ##l ##i ##ch	1
+##ch	c ##h ##a ##n ##u ##g ##o ##m ##e ##ch	1
+##ch	c ##h ##a ##n ##o ##w ##e ##ch	1
+##ch	c ##h ##a ##n ##a ##d ##a ##l ##e ##ch	1
+##ch	c ##h ##a ##l ##i ##k ##w ##e ##ch ##a ##t ##u	1
+##ch	c ##h ##a ##l ##a ##w ##e ##ch ##u ##m ##a ##l ##i	1
+##ch	c ##h ##a ##l ##a ##w ##e ##ch	1
+##ch	c ##h ##a ##ch ##i ##p	1
+##ch	c ##h ##a ##ch ##i	1
+##ch	b ##u ##k ##e ##y ##e ##ch ##u ##k	1
+##ch	b ##o ##s ##u ##m ##e ##ch	1
+##ch	b ##l ##u ##w ##i ##ch ##u ##k	1
+##ch	b ##l ##u ##p ##l ##u ##k ##e ##ch ##o ##p	1
+##ch	b ##l ##u ##p ##l ##u ##k ##e ##ch	1
+##ch	b ##l ##e ##ch ##a ##g ##i ##- ##y ##e ##ch ##u ##k	1
+##ch	b ##l ##a ##k ##u ##s ##u ##m ##e ##ch ##u ##k	1
+##ch	b ##l ##a ##ch	1
+##ch	b ##i ##l ##i ##p ##u ##m ##e ##ch	1
+##ch	b ##e ##ch ##o ##l ##a ##k ##u ##k	1
+##ch	b ##e ##ch ##i ##s	1
+##ch	b ##a ##w ##o ##g ##e ##i ##ch	1
+##ch	b ##a ##t ##o ##w ##i ##ch ##i ##ch	1
+##ch	b ##a ##i ##t ##a ##k ##u ##m ##e ##ch	1
+##ch	a ##y ##a ##g ##i ##p ##e ##ch ##e ##n	1
+##ch	a ##p ##e ##ch ##u ##h	1
+##ch	a ##p ##a ##w ##i ##ch	1
+##ch	a ##p ##a ##n ##a ##l ##a ##w ##e ##ch	1
+##ch	a ##n ##y ##u ##k ##a ##g ##e ##ch	1
+##ch	a ##n ##o ##n ##o ##g ##l ##a ##h ##e ##ch	1
+##ch	a ##n ##a ##g ##u ##n ##i ##ch	1
+##ch	a ##g ##w ##a ##w ##i ##ch	1
+##ch	a ##d ##u ##k ##w ##e ##ch ##u ##k ##u ##k	1
+##ch	a ##d ##u ##k ##i ##ch ##i	1
+##ch	a ##ch ##e ##n ##e ##k	1
+##ch	a ##ch ##e ##k ##e ##n ##y ##u ##k	1
+##ch	a ##ch ##a ##g ##i ##t ##o ##m	1
+##ch	a ##ch ##a ##g ##i ##t ##a ##t ##u	1
+##ch	99-po ##l ##e ##i ##ch	1
+##ch	5000-po ##l ##e ##i ##ch	1
+##ch	5-po ##l ##e ##i ##ch	1
+##ch	18-po ##l ##e ##i ##ch	1
+##ch	15-po ##l ##e ##i ##ch	1
+##ch	10-po ##l ##e ##i ##ch	1
+subword:##ch	616	3169	5.14448051948052
+ch	e ##l ##p ##e ##ch	400
+ch	e ##ch ##e ##ch	339
+ch	e ##ch ##u ##d ##a ##k	246
+ch	ch ##o ##p ##u ##k	195
+ch	ch ##a ##p ##e	155
+ch	e ##n ##e ##ch	145
+ch	e ##ch ##e ##b ##u ##k	114
+ch	w ##o ##l ##o ##b ##a ##i ##ch ##i	105
+ch	ch ##a ##k ##l ##i	94
+ch	n ##a ##k ##l ##i ##p ##e ##ch	90
+ch	ch ##a ##n ##a ##t ##i ##m ##a ##g ##u ##k	70
+ch	a ##n ##a ##n ##i ##ch	65
+ch	k ##a ##k ##w ##i ##ch	61
+ch	ch ##e ##n ##e ##k	61
+ch	ch ##a ##n ##a ##k	60
+ch	s ##k ##u ##l ##u ##m ##e ##ch	58
+ch	ch ##u ##p ##e	56
+ch	ch ##u ##n ##e ##k	54
+ch	ch ##a ##n ##u ##b ##u	49
+ch	k ##i ##p ##a ##i ##ch ##i	44
+ch	ch ##u ##n ##a ##k	43
+ch	ch ##a ##n ##a ##k ##i	38
+ch	ch ##u ##n ##u	34
+ch	ch ##e ##m ##n ##e ##k	28
+ch	b ##a ##t ##o ##w ##i ##ch	28
+ch	e ##n ##e ##ch ##i	27
+ch	ch ##u ##n ##a ##t ##i ##m ##a ##g ##u ##k	27
+ch	n ##a ##w ##i ##ch	26
+ch	ch ##u ##k ##l ##i	25
+ch	ch ##u ##w ##i ##ch	24
+ch	a ##t ##i ##ch	24
+ch	ch ##a ##t ##o ##g ##l ##u	22
+ch	ip ##a ##k ##i ##ch	21
+ch	ch ##e ##y ##o ##t ##u	21
+ch	ch ##u ##n ##u ##b ##u	20
+ch	ch ##a ##n ##u	19
+ch	m ##i ##ch ##i ##n	18
+ch	e ##ch ##e ##ch ##i ##n	18
+ch	ch ##a ##p ##e ##m ##u	18
+ch	ch ##u ##t ##o ##g ##l ##u	17
+ch	ch ##a ##t ##i ##k	17
+ch	ch ##a ##g ##a ##k	17
+ch	ch ##u ##m ##n ##e ##k	16
+ch	ch ##e ##y ##a ##g ##w ##l ##e ##h	16
+ch	e ##ch ##e ##ch ##i ##ch	15
+ch	d ##u ##k ##w ##e ##ch ##u ##k	15
+ch	ch ##u ##l ##k ##w ##i ##p	15
+ch	p ##u ##d ##u ##k ##e ##m ##e ##ch	14
+ch	h ##w ##o ##n ##e ##ch ##l ##u ##k ##e ##ch	14
+ch	m ##a ##m ##e ##ch ##i ##ch	13
+ch	h ##a ##w ##i ##ch	13
+ch	d ##o ##d ##o ##g ##o ##w ##i ##ch	13
+ch	ch ##u ##l ##p ##a ##k	13
+ch	ch ##u ##g ##a ##k	13
+ch	p ##u ##k ##e ##ch	12
+ch	n ##a ##t ##u ##l ##i ##ch	12
+ch	e ##ch ##e ##ch ##i ##m	12
+ch	ch ##u ##n ##a ##k ##i	12
+ch	ch ##a ##w ##a ##k	12
+ch	y ##o ##w ##e ##ch ##i	11
+ch	y ##e ##g ##e ##ch ##i ##w ##e ##l ##u ##h	11
+ch	n ##u ##w ##i ##ch	11
+ch	ch ##u ##k ##a ##n ##u	11
+ch	ch ##o ##k ##w ##i ##ch ##i	11
+ch	ch ##e ##n ##e ##k ##e ##n	11
+ch	n ##y ##u ##g ##i ##p ##e ##ch	10
+ch	h ##a ##k ##l ##i ##p ##e ##ch	10
+ch	e ##l ##g ##e ##i ##ch	10
+ch	e ##ch ##e ##ch ##i ##n ##u	10
+ch	ch ##u ##n ##a ##m ##u	10
+ch	ch ##u ##d ##u ##k ##e ##m ##e ##ch	10
+ch	ch ##a ##w ##i ##ch	10
+ch	b ##a ##p ##t ##a ##i ##s ##u ##m ##e ##ch	10
+ch	y ##o ##p ##i ##ch ##i	9
+ch	y ##e ##k ##i ##ch	9
+ch	e ##ch ##e ##ch ##i ##g	9
+ch	ch ##u ##t ##i ##k	9
+ch	ch ##u ##t ##a ##n ##a ##m ##u	9
+ch	ch ##a ##l ##h ##w ##a ##s	9
+ch	ch ##a ##k ##u ##s	9
+ch	y ##o ##p ##i ##ch	8
+ch	w ##a ##k ##e ##ch ##i	8
+ch	p ##u ##g ##i ##p ##e ##ch	8
+ch	p ##a ##d ##u ##k ##e ##m ##e ##ch	8
+ch	n ##u ##n ##e ##k ##u ##m ##e ##ch	8
+ch	n ##u ##n ##e ##k ##e ##ch	8
+ch	n ##a ##s ##a ##l ##i ##k ##e ##ch	8
+ch	ch ##u ##h ##w ##e ##p ##u	8
+ch	ch ##u ##d ##u ##k ##e ##m ##u	8
+ch	ch ##a ##t ##u ##l ##u ##n ##u	8
+ch	ch ##a ##n ##a ##k ##i ##m ##u	8
+ch	p ##u ##w ##i ##ch	7
+ch	n ##u ##k ##e ##ch	7
+ch	h ##u ##d ##u ##k ##e ##m ##e ##ch	7
+ch	e ##ch ##e ##ch ##i ##p	7
+ch	e ##ch ##e ##ch ##i ##l ##u ##h	7
+ch	ch ##u ##k ##l ##i ##p ##e ##ch	7
+ch	ch ##o ##h ##w ##a ##l ##u	7
+ch	ch ##i ##t ##a ##k	7
+ch	ch ##a ##t ##u ##k	7
+ch	ch ##a ##g ##i ##p ##e ##ch	7
+ch	ch ##a ##g ##a ##k ##a ##n ##a ##l ##i	7
+ch	a ##n ##a ##n ##i ##ch ##i	7
+ch	w ##i ##ch ##a ##p	6
+ch	s ##a ##ch ##i ##ch	6
+ch	s ##a ##ch ##i	6
+ch	p ##u ##g ##a ##k ##a ##m ##e ##ch	6
+ch	p ##a ##g ##i ##p ##e ##ch	6
+ch	o ##w ##a ##ch ##i ##ch	6
+ch	n ##y ##a ##k ##i ##ch	6
+ch	n ##u ##k ##l ##i ##p ##e ##ch	6
+ch	n ##e ##ch ##u ##h	6
+ch	m ##i ##ch ##i ##ch	6
+ch	h ##w ##o ##n ##e ##ch ##l ##u ##k ##a ##m	6
+ch	g ##w ##o ##d ##i ##ch	6
+ch	ch ##u ##n ##e ##k ##e ##n	6
+ch	ch ##u ##n ##e ##h ##i ##l ##a ##u	6
+ch	ch ##u ##n ##a ##d ##i ##y ##a ##g ##u ##l ##m ##u	6
+ch	ch ##u ##l ##h ##w ##a ##s	6
+ch	ch ##u ##l ##a ##u	6
+ch	ch ##a ##t ##u ##k ##e ##m ##a ##g ##u ##k	6
+ch	ch ##a ##n ##a ##m ##u	6
+ch	ch ##a ##i ##t ##a ##k	6
+ch	ch ##a ##d ##u ##k ##e ##m ##e ##ch	6
+ch	ch ##a ##ch ##a ##h	6
+ch	p ##u ##g ##i ##p ##e ##ch ##e ##n	5
+ch	n ##y ##i ##h ##i ##h ##i ##ch ##i ##n ##u	5
+ch	n ##y ##a ##g ##i ##p ##e ##ch	5
+ch	n ##u ##g ##a ##b ##e ##y ##e ##ch	5
+ch	h ##o ##w ##e ##ch ##i ##k	5
+ch	h ##a ##g ##i ##p ##e ##ch	5
+ch	e ##ch ##e ##ch ##i ##l ##u ##b	5
+ch	e ##ch ##a ##h	5
+ch	d ##u ##g ##o ##l ##e ##ch	5
+ch	ch ##u ##t ##a ##n ##a ##m ##a ##l ##i	5
+ch	ch ##u ##s ##u ##h	5
+ch	ch ##u ##k ##i ##h	5
+ch	ch ##u ##k ##e ##n ##y ##u ##k	5
+ch	ch ##u ##g ##i ##p ##e ##ch ##e ##n	5
+ch	ch ##o ##k ##w ##i ##n ##y ##i	5
+ch	ch ##o ##k ##u ##n ##a ##l ##i	5
+ch	ch ##i ##ch ##u ##k ##n ##i ##g	5
+ch	ch ##i ##ch ##a ##h	5
+ch	ch ##e ##m ##n ##e ##k ##e ##n	5
+ch	ch ##e	5
+ch	ch ##a ##u ##t ##u	5
+ch	ch ##a ##n ##a ##s ##u ##p ##a ##m ##u	5
+ch	ch ##a ##n ##a ##h ##w ##a ##g ##a ##g ##u ##n	5
+ch	ch ##a ##l ##a ##h ##e	5
+ch	ch ##a ##k ##w ##u	5
+ch	ch ##a ##k ##l ##i ##p ##u	5
+ch	ch ##a ##h ##w ##e ##n	5
+ch	ch ##a ##g ##i ##p ##e ##ch ##e ##n	5
+ch	ch ##a ##b ##o	5
+ch	a ##n ##a ##d ##u ##k ##e ##m ##e ##ch	5
+ch	s ##e ##ch ##u ##k ##e ##ch ##i	4
+ch	s ##e ##ch ##u ##k ##a ##n ##a ##l ##i	4
+ch	p ##u ##k ##l ##i ##p ##e ##ch	4
+ch	p ##i ##ch ##a ##h	4
+ch	n ##y ##u ##k ##l ##i ##p ##e ##ch	4
+ch	n ##y ##u ##g ##i ##p ##e ##ch ##e	4
+ch	n ##y ##i ##h ##i ##h ##i ##ch ##i ##m	4
+ch	n ##e ##ch ##a ##l ##a ##k ##u ##k	4
+ch	n ##a ##s ##o ##l ##i ##k ##e ##ch	4
+ch	n ##a ##k ##l ##i ##p ##e ##ch ##u ##k	4
+ch	k ##i ##p ##a ##i ##ch ##i ##m ##u	4
+ch	i ##k ##l ##i ##p ##e ##ch	4
+ch	i ##h ##e ##ch ##u ##m ##a ##l ##i	4
+ch	i ##h ##e ##ch	4
+ch	h ##w ##o ##n ##e ##ch ##l ##u ##k ##a ##n ##u	4
+ch	h ##e ##ch ##u ##h	4
+ch	ch ##u ##w ##a ##k	4
+ch	ch ##u ##t ##u ##l ##u ##m	4
+ch	ch ##u ##t ##u ##l ##i ##p ##u	4
+ch	ch ##u ##t ##u ##k	4
+ch	ch ##u ##t ##a ##l ##i ##ch	4
+ch	ch ##u ##n ##e ##k ##e ##p ##u	4
+ch	ch ##u ##l ##a ##w ##e ##p ##u	4
+ch	ch ##u ##k ##e ##p ##u	4
+ch	ch ##u ##h ##w ##e ##n	4
+ch	ch ##u ##b ##o	4
+ch	ch ##o ##w ##e ##ch ##i ##k	4
+ch	ch ##o ##w ##a ##ch ##a ##b ##a ##l	4
+ch	ch ##o ##t ##o ##w ##e ##h	4
+ch	ch ##o ##k ##u ##l ##u ##b ##i	4
+ch	ch ##o ##k ##u ##h ##w ##i	4
+ch	ch ##o ##k ##u	4
+ch	ch ##o ##g ##a ##l ##i ##h ##w ##i ##h ##i	4
+ch	ch ##i ##y ##a ##g ##w ##l ##e ##h	4
+ch	ch ##i ##t ##a ##k ##i ##m ##u	4
+ch	ch ##i ##t ##a ##k ##i	4
+ch	ch ##e ##t ##e ##m ##u	4
+ch	ch ##e ##n ##e ##k ##e ##ch	4
+ch	ch ##e ##m ##n ##e ##k ##a ##n ##u	4
+ch	ch ##a ##t ##u ##k ##e ##m ##a ##n ##a ##g ##u ##k	4
+ch	ch ##a ##t ##a ##g ##l ##a ##l ##i	4
+ch	ch ##a ##p ##e ##n ##y ##u ##n ##a ##l ##i	4
+ch	ch ##a ##l ##i ##k	4
+ch	ch ##a ##l ##h ##w ##a ##s ##u ##k	4
+ch	ch ##a ##l ##a ##w ##a ##l ##i	4
+ch	ch ##a ##k ##u ##s ##u ##k	4
+ch	ch ##a ##k ##l ##i ##p ##e ##ch	4
+ch	ch ##a ##k ##l ##i ##p ##a ##n ##u	4
+ch	ch ##a ##k ##l ##i ##p ##a ##n ##a ##m ##u	4
+ch	ch ##a ##k ##a ##n ##u	4
+ch	ch ##a ##b ##i ##h	4
+ch	w ##a ##w ##i ##ch	3
+ch	s ##e ##n ##e ##k ##e ##ch ##i	3
+ch	p ##u ##n ##a ##t ##u ##l ##i ##ch	3
+ch	p ##e ##ch ##a ##l ##a ##k ##u ##k	3
+ch	o ##w ##o ##w ##i ##ch	3
+ch	o ##k ##w ##o ##k ##i ##ch	3
+ch	n ##y ##u ##w ##i ##ch	3
+ch	n ##y ##i ##ch ##a ##l ##a ##k ##u ##k	3
+ch	n ##y ##a ##d ##u ##k ##e ##m ##e ##ch	3
+ch	n ##u ##n ##o ##l ##a ##w ##e ##ch	3
+ch	n ##u ##g ##i ##p ##e ##ch	3
+ch	n ##u ##d ##u ##k ##e ##m ##e ##ch	3
+ch	n ##o ##w ##e ##m ##e ##y ##e ##ch	3
+ch	n ##e ##b ##e ##ch ##i	3
+ch	n ##a ##t ##u ##k ##e ##m ##e ##ch ##u ##k	3
+ch	n ##a ##n ##e ##ch	3
+ch	n ##a ##g ##a ##k ##a ##m ##e ##ch	3
+ch	n ##a ##d ##u ##k ##e ##m ##e ##ch	3
+ch	m ##e ##i ##ch ##i	3
+ch	m ##e ##ch	3
+ch	m ##a ##d ##u ##k ##e ##m ##e ##ch	3
+ch	l ##u ##k ##a ##u ##t ##u ##m ##e ##ch	3
+ch	k ##w ##e ##ch ##u ##h	3
+ch	i ##k ##e ##ch	3
+ch	h ##u ##w ##e ##ch ##i ##k ##a ##n ##u	3
+ch	h ##u ##n ##i ##ch	3
+ch	h ##u ##k ##l ##i ##p ##e ##ch	3
+ch	h ##o ##w ##a ##ch ##a ##n ##u	3
+ch	h ##e ##n ##e ##ch ##i ##ch ##i ##l ##a ##k	3
+ch	h ##a ##n ##e ##ch	3
+ch	e ##l ##p ##e ##ch ##i ##n	3
+ch	d ##u ##l ##d ##u ##l ##i ##ch ##i	3
+ch	ch ##u ##w ##o ##k	3
+ch	ch ##u ##w ##i ##ch ##u ##k	3
+ch	ch ##u ##w ##e ##ch ##i ##k ##e ##ch	3
+ch	ch ##u ##t ##u ##l ##i ##n ##y ##u	3
+ch	ch ##u ##t ##u ##k ##e ##m ##a ##g ##u ##k	3
+ch	ch ##u ##t ##o ##g ##l ##o ##m ##u	3
+ch	ch ##u ##s ##a ##k	3
+ch	ch ##u ##n ##e ##n ##e ##m ##u	3
+ch	ch ##u ##n ##e ##k ##u ##m ##e ##ch	3
+ch	ch ##u ##l ##i ##k ##u ##k	3
+ch	ch ##u ##l ##a ##w ##e ##p ##a ##m ##u	3
+ch	ch ##u ##l ##a ##w ##a ##n ##u	3
+ch	ch ##u ##k ##u ##s	3
+ch	ch ##u ##k ##l ##i ##p ##u	3
+ch	ch ##u ##g ##i ##p ##e ##ch	3
+ch	ch ##u ##d ##i ##e ##p	3
+ch	ch ##u ##b ##i ##l ##a ##k	3
+ch	ch ##o ##l ##u	3
+ch	ch ##o ##h ##w ##a ##l ##a ##n ##a ##m ##u	3
+ch	ch ##o ##h ##w ##a ##l ##a ##m	3
+ch	ch ##i ##h ##a ##h	3
+ch	ch ##e ##p ##u	3
+ch	ch ##e ##n ##e ##y ##a ##g ##w ##l ##e ##h	3
+ch	ch ##e ##n ##e ##k ##a ##n ##u	3
+ch	ch ##e ##n ##e ##h ##i ##l ##a ##u	3
+ch	ch ##e ##i ##l ##u ##k	3
+ch	ch ##e ##ch ##a ##l ##a ##k ##u ##k	3
+ch	ch ##e ##ch	3
+ch	ch ##a ##u	3
+ch	ch ##a ##t ##u ##l ##u ##n ##a ##m ##u	3
+ch	ch ##a ##t ##u ##h	3
+ch	ch ##a ##t ##o ##g ##l ##o ##m ##a ##n ##u	3
+ch	ch ##a ##t ##a ##n ##a ##m ##u	3
+ch	ch ##a ##s ##u ##h	3
+ch	ch ##a ##s ##a ##l ##i ##k ##a ##n ##u	3
+ch	ch ##a ##p ##e ##i ##k	3
+ch	ch ##a ##n ##a ##m ##a ##n ##u	3
+ch	ch ##a ##n ##a ##m ##a ##l ##i	3
+ch	ch ##a ##n ##a ##k ##u ##k	3
+ch	ch ##a ##k ##a ##m ##u	3
+ch	ch ##a ##g ##a ##k ##o ##m ##u	3
+ch	b ##i ##e ##ch	3
+ch	a ##m ##a ##m ##i ##ch	3
+ch	7-po ##l ##e ##i ##ch	3
+ch	12-po ##l ##e ##i ##ch	3
+ch	y ##o ##w ##e ##l ##u ##h ##i ##ch ##i	2
+ch	y ##e ##ch ##a ##l ##a ##k ##u ##k	2
+ch	y ##a ##t ##u ##l ##i ##ch	2
+ch	y ##a ##m ##e ##ch	2
+ch	y ##a ##k ##l ##i ##p ##e ##ch	2
+ch	y ##a ##g ##i ##p ##e ##ch ##e ##n	2
+ch	y ##a ##d ##u ##k ##e ##m ##e ##ch	2
+ch	w ##i ##ch ##u ##s ##i ##l	2
+ch	w ##a ##k ##e ##ch	2
+ch	t ##u ##k ##w ##a ##h ##e ##p ##o ##m ##e ##ch	2
+ch	s ##u ##n ##e ##k ##e ##ch	2
+ch	s ##e ##ch ##u ##k ##e ##p ##u	2
+ch	s ##a ##ch	2
+ch	p ##u ##w ##e ##ch ##i ##k ##e	2
+ch	p ##u ##g ##i ##p ##e ##ch ##a ##n ##u	2
+ch	p ##u ##g ##a ##k ##o ##m ##e ##ch	2
+ch	p ##o ##p ##e ##ch	2
+ch	p ##o ##k ##w ##a ##ch ##i ##h ##e ##n	2
+ch	p ##i ##ch ##u ##h	2
+ch	p ##e ##ch ##u ##h	2
+ch	p ##e ##ch ##l ##u ##k	2
+ch	p ##a ##t ##u ##l ##i ##ch ##e ##ch	2
+ch	of ##a ##m ##e ##ch	2
+ch	o ##w ##i ##ch ##i ##b ##a ##l ##- ##i ##t ##a ##l ##i	2
+ch	o ##h ##w ##a ##k ##i ##ch	2
+ch	n ##y ##u ##w ##i ##ch ##e ##p ##u	2
+ch	n ##y ##u ##k ##l ##i ##p ##e ##ch ##u ##k	2
+ch	n ##y ##u ##k ##a ##w ##e ##ch	2
+ch	n ##y ##i ##h ##i ##h ##i ##ch ##i ##ch	2
+ch	n ##y ##a ##k ##l ##i ##p ##e ##ch	2
+ch	n ##u ##w ##o ##l ##e ##h ##e ##ch	2
+ch	n ##u ##w ##e ##m ##e ##y ##e ##ch	2
+ch	n ##u ##n ##e ##m ##e ##ch	2
+ch	n ##u ##k ##u ##m ##e ##ch ##i	2
+ch	n ##u ##k ##e ##p ##e ##y ##e ##ch	2
+ch	n ##u ##g ##a ##k ##o ##m ##e ##ch	2
+ch	n ##u ##g ##a ##k ##a ##m ##e ##ch	2
+ch	n ##o ##w ##a ##ch ##a ##t ##u	2
+ch	n ##o ##w ##a ##ch ##a ##k	2
+ch	n ##i ##ch ##a ##k ##a ##m ##u	2
+ch	n ##e ##ch ##l ##e ##h ##a ##n ##u	2
+ch	n ##e ##b ##e ##m ##e ##ch	2
+ch	n ##a ##n ##a ##g ##l ##a ##h ##e ##ch	2
+ch	n ##a ##l ##u ##h ##i ##ch	2
+ch	n ##a ##k ##l ##i ##p ##a ##m ##u ##m ##e ##ch	2
+ch	n ##a ##h ##e ##ch	2
+ch	n ##a ##g ##i ##p ##e ##ch	2
+ch	m ##e ##y ##a ##l ##u ##h ##i ##ch	2
+ch	m ##e ##ch ##l ##u ##k	2
+ch	m ##a ##g ##i ##p ##e ##ch ##e ##n ##y ##u	2
+ch	l ##e ##ch ##u ##k ##a ##l ##u ##m	2
+ch	k ##w ##a ##w ##i ##ch	2
+ch	k ##i ##p ##a ##ch ##i	2
+ch	i ##ch ##a ##l ##u ##h	2
+ch	h ##w ##a ##k ##i ##h ##e ##ch	2
+ch	h ##u ##w ##i ##ch	2
+ch	h ##u ##w ##e ##ch ##i ##k ##e	2
+ch	h ##u ##n ##e ##k ##e ##ch	2
+ch	h ##o ##w ##o ##l ##e ##ch ##a ##t ##u	2
+ch	h ##o ##w ##e ##ch ##i ##k ##a ##n ##u	2
+ch	h ##e ##ch ##l ##u ##k	2
+ch	h ##e ##ch	2
+ch	h ##a ##t ##u ##l ##i ##ch ##e ##ch	2
+ch	h ##a ##h ##e ##ch	2
+ch	h ##a ##g ##i ##p ##e ##ch ##a ##n ##u	2
+ch	g ##n ##u ##w ##i ##ch ##u ##k	2
+ch	g ##a ##p ##e ##n ##y ##i ##ch	2
+ch	e ##n ##y ##e ##n ##y ##i ##ch	2
+ch	e ##ch ##u ##d ##a ##k ##m ##a ##l ##i	2
+ch	e ##ch ##e ##ch ##i ##u	2
+ch	e ##ch ##e ##ch ##i ##s	2
+ch	e ##ch ##e ##ch ##i ##b ##u ##l	2
+ch	ch ##u ##w ##i ##ch ##u ##m ##a ##l ##i	2
+ch	ch ##u ##w ##a ##ch ##e ##n	2
+ch	ch ##u ##t ##u ##p ##e ##ch	2
+ch	ch ##u ##t ##u ##l ##i ##p ##a ##g ##u ##k	2
+ch	ch ##u ##t ##u ##h	2
+ch	ch ##u ##t ##o ##g ##l ##a ##l ##u ##l ##i	2
+ch	ch ##u ##s ##o ##h	2
+ch	ch ##u ##p ##e ##m ##u	2
+ch	ch ##u ##p ##e ##i ##k	2
+ch	ch ##u ##n ##o ##s ##u ##p ##u	2
+ch	ch ##u ##n ##o ##k ##w ##a ##l ##m ##u	2
+ch	ch ##u ##n ##e ##k ##u ##m ##e ##p ##u	2
+ch	ch ##u ##n ##e ##k ##e ##ch	2
+ch	ch ##u ##n ##a ##t ##i ##m ##u	2
+ch	ch ##u ##n ##a ##m ##a ##l ##i	2
+ch	ch ##u ##n ##a ##k ##u ##m ##a ##l ##i	2
+ch	ch ##u ##n ##a ##h ##u ##l ##i	2
+ch	ch ##u ##m ##n ##e ##k ##u ##m ##e ##ch	2
+ch	ch ##u ##l ##i ##k	2
+ch	ch ##u ##l ##e ##y ##e ##p ##u	2
+ch	ch ##u ##l ##a ##w ##a ##l ##i	2
+ch	ch ##u ##l ##a ##l ##i	2
+ch	ch ##u ##k ##u ##k ##w ##i ##h ##e ##n	2
+ch	ch ##u ##k ##n ##i ##l	2
+ch	ch ##u ##k ##n ##i ##g ##u ##n	2
+ch	ch ##u ##k ##n ##i ##b	2
+ch	ch ##u ##k ##l ##i ##p ##e ##p ##u	2
+ch	ch ##u ##k ##e ##p ##a ##m ##u	2
+ch	ch ##u ##k ##e ##p ##a ##g ##u ##k	2
+ch	ch ##u ##k ##e ##n ##y ##u	2
+ch	ch ##u ##k ##e ##ch	2
+ch	ch ##u ##k ##e	2
+ch	ch ##u ##h ##w ##a ##l ##a ##n ##u	2
+ch	ch ##u ##g ##o ##u ##l	2
+ch	ch ##u ##g ##l ##u ##k	2
+ch	ch ##u ##g ##a ##k ##o ##m ##u	2
+ch	ch ##u ##g ##a ##k ##o ##m ##e ##ch	2
+ch	ch ##u ##d ##u ##k ##e ##m ##e ##n	2
+ch	ch ##u ##d ##i	2
+ch	ch ##u ##b ##i ##h	2
+ch	ch ##u ##b ##e ##m ##e ##n ##y ##u	2
+ch	ch ##o ##n ##u	2
+ch	ch ##o ##n ##o ##k ##w ##a ##l ##m ##u	2
+ch	ch ##o ##m ##l ##a ##l ##i	2
+ch	ch ##o ##m ##e ##g ##u ##h ##w ##i ##y ##u	2
+ch	ch ##o ##m	2
+ch	ch ##o ##k ##u ##w ##e ##m ##u	2
+ch	ch ##o ##k ##u ##b ##a ##l ##i	2
+ch	ch ##o ##h ##w ##a ##l ##o ##k	2
+ch	ch ##o ##g ##a ##l ##i ##h ##w ##i ##h	2
+ch	ch ##i ##l ##u ##k	2
+ch	ch ##i ##ch ##a ##l ##a ##k ##u ##k	2
+ch	ch ##i ##ch ##a ##l ##a ##b ##a ##l	2
+ch	ch ##e ##y ##a ##t ##e ##n	2
+ch	ch ##e ##y ##a ##k ##a ##s ##u ##n ##u	2
+ch	ch ##e ##n ##e ##k ##u ##m ##a ##n ##u	2
+ch	ch ##e ##n ##e ##h ##i ##l ##a ##u ##m ##u	2
+ch	ch ##e ##n ##e ##h ##i ##l ##a ##u ##m ##e ##n	2
+ch	ch ##e ##n ##e ##h ##i ##l ##a ##u ##- ##m ##a ##n ##u	2
+ch	ch ##e ##n ##e ##ch ##u ##b ##u ##k	2
+ch	ch ##e ##k ##e ##p ##u	2
+ch	ch ##e ##i ##l	2
+ch	ch ##e ##ch ##u ##k ##a ##l ##i ##ch	2
+ch	ch ##a ##t ##u ##l ##u ##k	2
+ch	ch ##a ##t ##u ##l ##u ##g ##u ##n	2
+ch	ch ##a ##t ##u ##k ##e ##m ##e ##n ##y ##u ##k	2
+ch	ch ##a ##t ##o ##g ##l ##e ##n	2
+ch	ch ##a ##t ##a ##l	2
+ch	ch ##a ##s ##a ##l ##i ##k ##a ##n ##a ##m ##u	2
+ch	ch ##a ##s ##a ##h ##u ##l	2
+ch	ch ##a ##p ##e ##n ##y ##u ##n ##u	2
+ch	ch ##a ##p ##e ##n ##y ##u ##k	2
+ch	ch ##a ##p ##e ##n ##y ##i ##ch	2
+ch	ch ##a ##n ##o ##s ##u ##p ##u	2
+ch	ch ##a ##n ##o ##s ##o ##n ##u ##k ##e ##h	2
+ch	ch ##a ##n ##o ##h ##w ##a ##g ##a ##g ##u ##n	2
+ch	ch ##a ##n ##a ##l ##a ##k	2
+ch	ch ##a ##n ##a ##b ##u ##k	2
+ch	ch ##a ##l ##a ##g ##u ##n	2
+ch	ch ##a ##k ##l ##i ##e ##n	2
+ch	ch ##a ##k ##a ##n ##a ##g ##u ##k	2
+ch	ch ##a ##k ##a ##m ##o ##m ##u	2
+ch	ch ##a ##k ##a ##m ##a ##m ##u	2
+ch	ch ##a ##h ##w ##a ##n ##u	2
+ch	ch ##a ##h ##a ##n ##u	2
+ch	ch ##a ##g ##l ##u ##k ##i	2
+ch	ch ##a ##g ##i ##p ##e ##ch ##a ##n ##u	2
+ch	ch ##a ##g ##i ##m ##a ##n ##a ##l ##u ##l ##i	2
+ch	ch ##a ##b ##i ##l ##a ##k	2
+ch	ch ##a ##b ##i ##h ##u ##k	2
+ch	ch ##a ##b ##a ##h	2
+ch	b ##u ##l ##k ##w ##o ##l ##e ##ch	2
+ch	a ##t ##a ##p ##i ##ch ##i	2
+ch	a ##p ##a ##k ##i ##ch	2
+ch	a ##n ##y ##u ##n ##e ##k ##e ##ch	2
+ch	a ##n ##i ##n ##e ##i ##ch	2
+ch	a ##m ##n ##a ##b ##i ##ch	2
+ch	a ##k ##w ##o ##w ##a ##ch ##a ##b ##a ##l	2
+ch	a ##k ##w ##a ##d ##u ##k ##e ##m ##e ##ch	2
+ch	a ##d ##u ##k ##w ##e ##ch ##u ##k	2
+ch	a ##d ##u ##k ##a ##h ##i ##ch	2
+ch	a ##ch ##e ##n ##e ##h ##i ##l ##a ##u	2
+ch	a ##ch ##a ##p ##e	2
+ch	50-po ##l ##e ##i ##ch	2
+ch	4000-po ##l ##e ##i ##ch	2
+ch	y ##o ##w ##e ##ch	1
+ch	y ##o ##p ##i ##y ##o ##p ##i ##ch ##i	1
+ch	y ##o ##p ##i ##ch ##i ##m ##u	1
+ch	y ##o ##n ##o ##g ##w ##a ##t ##e ##ch	1
+ch	y ##o ##n ##o ##g ##l ##a ##h ##e ##ch	1
+ch	y ##o ##l ##o ##g ##i ##ch	1
+ch	y ##e ##y ##a ##i ##s ##e ##ch	1
+ch	y ##e ##ch ##l ##e ##h ##e ##n	1
+ch	y ##a ##n ##a ##l ##a ##w ##e ##ch	1
+ch	y ##a ##l ##u ##g ##w ##i ##ch	1
+ch	y ##a ##k ##l ##i ##p ##e ##p ##a ##m ##e ##ch	1
+ch	y ##a ##b ##i ##l ##o ##m ##e ##ch	1
+ch	w ##u ##s ##a ##l ##i ##k ##- ##e ##n ##y ##o ##m ##e ##ch	1
+ch	w ##o ##l ##i ##g ##u ##n ##e ##ch ##i	1
+ch	w ##o ##l ##a ##b ##a ##i ##ch ##i	1
+ch	w ##o ##b ##l ##e ##ch	1
+ch	w ##i ##ch ##u ##s ##i ##l ##i	1
+ch	w ##a ##t ##u ##l ##i ##ch ##u	1
+ch	w ##a ##t ##u ##l ##i ##ch	1
+ch	w ##a ##n ##a ##m ##e ##ch	1
+ch	w ##a ##l ##u ##b ##i ##ch	1
+ch	w ##a ##g ##i ##p ##e ##ch	1
+ch	w ##a ##b ##u ##l ##i ##ch	1
+ch	t ##u ##t ##u ##b ##i ##ch	1
+ch	s ##u ##n ##o ##n ##u ##g ##e ##y ##e ##ch	1
+ch	s ##o ##g ##u ##g ##a ##k ##o ##y ##e ##ch ##i	1
+ch	s ##o ##g ##u ##g ##a ##k ##e ##y ##e ##ch ##i	1
+ch	s ##k ##u ##l ##u ##m ##u ##m ##e ##ch	1
+ch	s ##e ##n ##e ##k ##e ##ch	1
+ch	s ##e ##ch ##u ##k ##a ##n ##u	1
+ch	s ##e ##ch ##u ##k	1
+ch	s ##a ##w ##i ##ch	1
+ch	s ##a ##n ##a ##b ##e ##ch ##u ##k	1
+ch	p ##u ##w ##e ##ch ##i ##k ##a ##n ##u	1
+ch	p ##u ##t ##u ##l ##i ##ch ##a ##b ##a ##l	1
+ch	p ##u ##t ##u ##l ##i ##ch	1
+ch	p ##u ##t ##i ##m ##e ##ch	1
+ch	p ##u ##n ##o ##l ##u ##k ##e ##ch	1
+ch	p ##u ##n ##e ##k ##u ##m ##e ##ch	1
+ch	p ##u ##n ##e ##k ##e ##ch	1
+ch	p ##u ##l ##i ##k ##w ##e ##ch	1
+ch	p ##u ##l ##a ##w ##e ##ch ##i	1
+ch	p ##u ##k ##w ##a ##ch ##i ##h ##e ##n	1
+ch	p ##u ##k ##l ##i ##p ##e ##ch ##- ##u ##m ##e ##n	1
+ch	p ##u ##k ##e ##ch ##e ##ch	1
+ch	p ##u ##h ##w ##e ##ch	1
+ch	p ##u ##g ##w ##a ##t ##e ##ch	1
+ch	p ##u ##g ##u ##d ##u ##p ##e ##ch ##u ##k	1
+ch	p ##u ##g ##i ##p ##e ##ch ##e ##ch	1
+ch	p ##u ##g ##i ##p ##e ##ch ##a ##m	1
+ch	p ##u ##b ##e ##y ##e ##n ##y ##u ##m ##e ##ch	1
+ch	p ##u ##b ##e ##ch ##u ##k ##a ##p ##u	1
+ch	p ##o ##w ##e ##m ##e ##y ##e ##ch	1
+ch	p ##o ##k ##w ##e ##ch ##i ##h ##e ##n	1
+ch	p ##o ##k ##w ##e ##ch ##i ##h	1
+ch	p ##i ##y ##o ##m ##e ##ch	1
+ch	p ##i ##ch ##a ##k ##o ##m ##e ##m ##u	1
+ch	p ##i ##ch ##a ##k ##o ##m ##e	1
+ch	p ##e ##y ##a ##g ##w ##l ##e ##p ##e ##ch	1
+ch	p ##e ##n ##e ##h ##i ##l ##a ##u ##m ##e ##ch	1
+ch	p ##e ##n ##e ##ch ##i ##ch ##i ##l ##a ##k	1
+ch	p ##e ##k ##e ##ch ##u ##m ##a ##g ##u ##k	1
+ch	p ##e ##k ##e ##ch ##u ##k	1
+ch	p ##e ##ch	1
+ch	p ##a ##t ##u ##l ##i ##ch	1
+ch	p ##a ##s ##a ##l ##i ##k ##- ##a ##n ##a ##m ##e ##ch	1
+ch	p ##a ##n ##o ##h ##w ##e ##ch	1
+ch	p ##a ##n ##a ##l ##u ##k ##e ##ch	1
+ch	p ##a ##n ##a ##k ##l ##i ##p ##a ##m ##u ##m ##e ##ch	1
+ch	p ##a ##l ##a ##w ##e ##ch	1
+ch	p ##a ##k ##l ##i ##p ##e ##ch	1
+ch	p ##a ##g ##a ##h ##u ##m ##e ##ch ##u ##k	1
+ch	p ##a ##ch ##a ##h	1
+ch	o ##k ##w ##o ##k ##i ##ch ##i	1
+ch	o ##k ##w ##a ##k ##i ##ch	1
+ch	n ##y ##u ##w ##i ##ch ##e ##n ##y ##u	1
+ch	n ##y ##u ##w ##i ##ch ##a ##n ##u	1
+ch	n ##y ##u ##t ##u ##l ##i ##ch	1
+ch	n ##y ##u ##t ##o ##g ##l ##o ##m ##e ##ch	1
+ch	n ##y ##u ##n ##e ##k ##e ##ch	1
+ch	n ##y ##u ##n ##e ##k ##- ##a ##g ##u ##n ##m ##e ##ch	1
+ch	n ##y ##u ##l ##a ##w ##e ##ch	1
+ch	n ##y ##u ##g ##l ##e ##m ##e ##ch	1
+ch	n ##y ##u ##g ##l ##a ##k ##u ##m ##e ##ch	1
+ch	n ##y ##u ##b ##e ##y ##e ##ch ##- ##u ##m ##e ##n ##y ##a ##l ##i	1
+ch	n ##y ##u ##b ##e ##ch ##u ##k ##e ##n	1
+ch	n ##y ##o ##n ##o ##k ##w ##a ##l ##m ##e ##ch	1
+ch	n ##y ##o ##k ##w ##a ##l ##m ##e ##ch ##- ##u ##m ##o ##h ##w ##a ##g ##u ##k	1
+ch	n ##y ##o ##b ##e ##ch ##u ##k ##u ##m ##o ##m	1
+ch	n ##y ##o ##b ##e ##ch ##u ##k	1
+ch	n ##y ##i ##y ##a ##i ##s ##- ##e ##ch ##u ##m ##o ##h ##u	1
+ch	n ##y ##i ##h ##i ##h ##i ##ch ##i ##w ##e	1
+ch	n ##y ##i ##h ##i ##h ##i ##ch ##i ##h	1
+ch	n ##y ##i ##h ##i ##h ##i ##ch ##i ##b ##a ##l ##i	1
+ch	n ##y ##i ##h ##i ##h ##i ##ch ##i ##- ##n ##a ##m ##u	1
+ch	n ##y ##i ##h ##i ##h ##i ##ch ##i ##- ##n ##a ##m ##e ##p ##a ##m ##u	1
+ch	n ##y ##i ##ch ##u ##k ##o ##l ##i ##n ##y ##u	1
+ch	n ##y ##i ##ch ##a ##g ##i ##y ##a ##p ##u	1
+ch	n ##y ##e ##n ##e ##ch ##u ##b ##u ##k ##u ##k	1
+ch	n ##y ##e ##ch ##o ##l ##o ##k ##u ##k	1
+ch	n ##y ##e ##ch ##a ##p ##a ##k ##a ##p ##u	1
+ch	n ##y ##e ##ch ##a ##l ##u ##k ##u ##k	1
+ch	n ##y ##a ##w ##i ##ch ##o ##k	1
+ch	n ##y ##a ##w ##i ##ch ##a ##n ##u	1
+ch	n ##y ##a ##w ##i ##ch	1
+ch	n ##y ##a ##t ##u ##l ##i ##ch	1
+ch	n ##y ##a ##s ##a ##l ##i ##k ##e ##ch	1
+ch	n ##y ##a ##p ##e ##n ##y ##i ##ch	1
+ch	n ##y ##a ##n ##a ##b ##e ##ch ##u ##k ##u ##m ##o ##m	1
+ch	n ##y ##a ##n ##a ##b ##e ##ch ##u ##k ##- ##u ##m ##e ##p ##u	1
+ch	n ##y ##a ##k ##l ##i ##e ##ch	1
+ch	n ##y ##a ##k ##i ##ch ##i	1
+ch	n ##u ##w ##i ##ch ##a ##t ##a ##l ##i	1
+ch	n ##u ##w ##i ##ch ##a ##h ##l ##e ##p ##u	1
+ch	n ##u ##w ##e ##ch ##i ##k ##u ##k	1
+ch	n ##u ##w ##a ##ch ##e ##p ##u	1
+ch	n ##u ##w ##a ##ch ##a ##g ##a ##s	1
+ch	n ##u ##t ##u ##l ##i ##ch ##e ##n ##y ##u ##k	1
+ch	n ##u ##t ##u ##l ##i ##ch	1
+ch	n ##u ##t ##u ##k ##e ##m ##e ##ch ##u ##k	1
+ch	n ##u ##n ##o ##h ##w ##e ##ch	1
+ch	n ##u ##n ##o ##b ##e ##ch ##u ##k	1
+ch	n ##u ##m ##u ##n ##a ##h ##i ##ch	1
+ch	n ##u ##m ##n ##e ##k ##e ##ch ##u ##k	1
+ch	n ##u ##k ##w ##e ##ch ##i ##h	1
+ch	n ##u ##k ##w ##a ##ch ##i ##h ##e ##p ##a ##m ##u	1
+ch	n ##u ##k ##w ##a ##ch ##i ##h ##a ##n ##u	1
+ch	n ##u ##k ##a ##w ##e ##ch	1
+ch	n ##u ##k ##a ##g ##e ##ch	1
+ch	n ##u ##g ##a ##ch	1
+ch	n ##u ##g ##a ##b ##e ##m ##e ##ch	1
+ch	n ##u ##d ##a ##l ##e ##ch	1
+ch	n ##u ##b ##e ##y ##e ##ch ##u ##m ##e ##p ##u	1
+ch	n ##o ##w ##e ##ch ##i ##k ##o ##k	1
+ch	n ##o ##w ##e ##ch ##i ##k ##e ##ch	1
+ch	n ##o ##w ##a ##ch ##a ##b ##a ##l	1
+ch	n ##o ##k ##w ##e ##ch ##i ##h	1
+ch	n ##o ##k ##w ##a ##ch ##i ##h	1
+ch	n ##o ##k ##o ##g ##e ##ch	1
+ch	n ##i ##y ##a ##i ##s ##e ##ch	1
+ch	n ##i ##ch ##l ##e ##k ##e ##ch	1
+ch	n ##i ##ch ##i ##ch ##e ##h ##a ##t ##u	1
+ch	n ##i ##ch ##a ##l ##a ##k ##u ##k	1
+ch	n ##i ##ch ##a ##k ##a ##m ##e ##p ##u	1
+ch	n ##i ##ch ##a ##h	1
+ch	n ##e ##y ##a ##t ##e ##ch	1
+ch	n ##e ##n ##e ##k ##u ##m ##e ##ch	1
+ch	n ##e ##n ##e ##k ##e ##ch	1
+ch	n ##e ##n ##e ##h ##i ##l ##a ##u ##m ##e ##ch	1
+ch	n ##e ##m ##n ##e ##k ##e ##ch	1
+ch	n ##e ##k ##e ##ch	1
+ch	n ##e ##h ##i ##y ##a ##h ##e ##ch ##u ##k	1
+ch	n ##e ##ch ##o ##p ##o ##m	1
+ch	n ##e ##ch ##a ##s ##a ##t ##u	1
+ch	n ##e ##ch ##a ##k ##o ##m ##e ##ch	1
+ch	n ##e ##ch	1
+ch	n ##e ##b ##e ##ch ##u ##m ##a ##l ##i	1
+ch	n ##e ##b ##e ##ch ##i ##m ##u	1
+ch	n ##a ##w ##i ##ch ##a ##n ##u	1
+ch	n ##a ##w ##i ##ch ##a ##h ##l ##e ##ch	1
+ch	n ##a ##t ##a ##l ##i ##h ##a ##b ##o ##m ##e ##ch	1
+ch	n ##a ##s ##o ##l ##i ##k ##- ##a ##n ##a ##m ##e ##ch	1
+ch	n ##a ##p ##l ##u ##k ##e ##ch	1
+ch	n ##a ##n ##a ##l ##k ##e ##ch	1
+ch	n ##a ##l ##a ##w ##e ##ch	1
+ch	n ##a ##k ##w ##a ##ch ##i ##h	1
+ch	n ##a ##k ##l ##i ##p ##e ##ch ##e ##n ##y ##i	1
+ch	n ##a ##k ##l ##i ##p ##e ##ch ##e ##n	1
+ch	n ##a ##k ##a ##w ##e ##ch	1
+ch	n ##a ##k ##a ##g ##e ##ch	1
+ch	n ##a ##h ##w ##e ##ch	1
+ch	n ##a ##g ##i ##p ##e ##ch ##a ##m	1
+ch	n ##a ##g ##i ##l ##a ##p ##e ##ch	1
+ch	n ##a ##g ##a ##b ##e ##y ##e ##ch	1
+ch	n ##a ##ch	1
+ch	n ##a ##b ##e ##s ##i ##ch	1
+ch	m ##u ##w ##a ##ch ##e ##ch	1
+ch	m ##u ##t ##a ##l ##u ##m ##e ##ch ##i	1
+ch	m ##u ##g ##i ##p ##e ##ch	1
+ch	m ##u ##g ##a ##k ##o ##m ##e ##ch	1
+ch	m ##u ##g ##a ##b ##e ##y ##e ##ch	1
+ch	m ##u ##d ##u ##k ##e ##m ##e ##ch	1
+ch	m ##u ##b ##e ##m ##e ##ch	1
+ch	m ##e ##y ##o ##l ##u ##h ##i ##ch	1
+ch	m ##e ##ch ##e ##ch	1
+ch	m ##a ##w ##i ##ch	1
+ch	m ##a ##p ##i ##l ##i ##ch	1
+ch	m ##a ##l ##i ##k ##w ##e ##ch ##o ##k	1
+ch	m ##a ##k ##w ##n ##i ##ch	1
+ch	m ##a ##h ##i ##ch	1
+ch	m ##a ##g ##u ##d ##u ##p ##e ##ch ##o ##k	1
+ch	m ##a ##ch ##u ##b ##i ##g ##u ##h	1
+ch	l ##o ##h ##u ##m ##e ##ch	1
+ch	l ##e ##n ##e ##k ##e ##ch	1
+ch	l ##e ##ch ##u ##k ##o ##l ##u ##m	1
+ch	k ##w ##o ##n ##e ##k ##u ##m ##e ##ch	1
+ch	k ##w ##e ##ch ##u ##k	1
+ch	k ##w ##e ##ch	1
+ch	k ##w ##a ##s ##u ##h ##e ##ch	1
+ch	k ##w ##a ##n ##a ##m ##e ##ch	1
+ch	k ##w ##a ##k ##l ##i ##p ##e ##ch	1
+ch	k ##w ##a ##d ##u ##k ##e ##m ##e ##ch	1
+ch	ip ##a ##k ##i ##ch ##i	1
+ch	i ##y ##a ##i ##s ##e ##ch	1
+ch	i ##t ##u ##l ##i ##ch	1
+ch	i ##n ##e ##k ##u ##m ##e ##ch	1
+ch	i ##k ##w ##e ##k ##ch ##i ##h ##- ##u ##m ##a ##n ##u	1
+ch	i ##k ##w ##e ##ch ##i ##h ##e ##ch	1
+ch	i ##k ##e ##ch ##u ##k	1
+ch	i ##g ##i ##p ##e ##ch ##e ##n ##y ##u	1
+ch	i ##g ##i ##l ##a ##p ##e ##ch ##- ##a ##n ##a ##l ##u ##l ##i	1
+ch	i ##d ##u ##k ##e ##m ##e ##ch	1
+ch	i ##ch ##u ##h	1
+ch	i ##ch ##a ##k ##a ##m ##e ##ch	1
+ch	i ##ch ##a ##h	1
+ch	i ##b ##e ##y ##e ##ch ##u ##m ##e ##n	1
+ch	h ##w ##u ##s ##a ##g ##u ##n ##m ##e ##ch	1
+ch	h ##w ##u ##n ##e ##ch ##l ##u ##k ##e ##p ##u	1
+ch	h ##w ##u ##k ##i ##h ##e ##ch	1
+ch	h ##w ##o ##n ##e ##ch ##l ##u ##k ##o ##u	1
+ch	h ##w ##o ##n ##e ##ch ##l ##u ##k ##- ##e ##p ##a ##m ##u	1
+ch	h ##w ##o ##n ##e ##ch ##l ##u ##k ##- ##a ##n ##a ##m ##u	1
+ch	h ##w ##e ##ch ##u ##h	1
+ch	h ##w ##e ##ch ##a ##l ##a ##k ##u ##k	1
+ch	h ##u ##w ##e ##ch ##i ##k ##e ##ch	1
+ch	h ##u ##w ##e ##ch ##i ##k ##a ##n ##o ##m ##u	1
+ch	h ##u ##w ##e ##ch ##i ##k	1
+ch	h ##u ##n ##e ##k ##u ##m ##e ##ch	1
+ch	h ##u ##n ##a ##k ##u ##m ##e ##ch ##u	1
+ch	h ##u ##g ##i ##p ##e ##ch	1
+ch	h ##u ##b ##i ##l ##o ##m ##e ##ch	1
+ch	h ##o ##w ##e ##ch ##i ##k ##u ##k	1
+ch	h ##o ##w ##a ##y ##a ##k ##u ##m ##e ##ch	1
+ch	h ##o ##w ##a ##ch ##a ##k	1
+ch	h ##o ##w ##a ##ch ##a ##b ##a ##l	1
+ch	h ##o ##k ##w ##a ##ch ##i ##h ##e ##n	1
+ch	h ##o ##k ##e ##ch ##a ##n ##u	1
+ch	h ##l ##e ##ch ##a ##l ##a ##k ##u ##k	1
+ch	h ##i ##y ##a ##i ##s ##o ##s ##u ##m ##e ##ch	1
+ch	h ##i ##ch ##a ##l ##a ##k ##e ##ch	1
+ch	h ##i ##ch ##a ##k ##a ##m ##u	1
+ch	h ##i ##ch ##a ##k ##a ##m ##a ##n ##u	1
+ch	h ##i ##ch ##a ##k ##a ##m ##a ##- ##n ##a ##m ##u	1
+ch	h ##e ##n ##e ##y ##o ##g ##o ##m ##e ##ch	1
+ch	h ##e ##n ##e ##k ##e ##ch	1
+ch	h ##e ##n ##e ##ch ##l ##e ##- ##p ##a ##l ##u ##l ##i	1
+ch	h ##e ##k ##e ##ch	1
+ch	h ##e ##ch ##o ##p ##o ##k ##a ##n ##u	1
+ch	h ##e ##ch ##o ##p ##e ##n	1
+ch	h ##e ##ch ##e ##b ##u ##k ##u ##k	1
+ch	h ##e ##ch ##e ##b ##u ##k	1
+ch	h ##a ##t ##u ##l ##i ##ch	1
+ch	h ##a ##t ##u ##k ##w ##a ##ch ##i ##h	1
+ch	h ##a ##t ##u ##k ##e ##m ##e ##ch ##u ##k	1
+ch	h ##a ##n ##i ##ch	1
+ch	h ##a ##l ##o ##g ##e ##ch	1
+ch	h ##a ##l ##a ##g ##e ##ch	1
+ch	h ##a ##k ##w ##u ##m ##e ##ch	1
+ch	h ##a ##k ##l ##i ##p ##e ##ch ##u ##k	1
+ch	h ##a ##k ##l ##i ##p ##e ##ch ##- ##e ##n ##y ##i	1
+ch	h ##a ##g ##i ##p ##e ##ch ##e ##n	1
+ch	h ##a ##g ##a ##k ##a ##m ##e ##ch	1
+ch	h ##a ##g ##a ##b ##e ##y ##e ##ch	1
+ch	h ##a ##d ##a ##l ##e ##ch	1
+ch	h ##a ##ch ##a ##h ##u ##k	1
+ch	h ##a ##b ##i ##l ##o ##m ##e ##ch	1
+ch	g ##w ##i ##l ##e ##ch	1
+ch	g ##w ##i ##ch ##a ##h	1
+ch	g ##w ##e ##ch ##u ##h	1
+ch	g ##w ##e ##ch ##a ##l ##a ##k ##u ##k	1
+ch	g ##u ##l ##d ##u ##g ##o ##l ##e ##ch	1
+ch	g ##n ##e ##ch ##a ##l ##a ##k ##u ##k	1
+ch	g ##a ##ch	1
+ch	e ##l ##p ##e ##ch ##i ##m	1
+ch	e ##ch ##u ##g ##u ##h	1
+ch	e ##ch ##e ##ch ##i ##w ##e	1
+ch	e ##ch ##e ##ch ##i ##t ##u	1
+ch	e ##ch ##e ##ch ##i ##t ##o ##m ##u	1
+ch	e ##ch ##e ##ch ##i ##n ##y ##u	1
+ch	e ##ch ##e ##ch ##i ##k	1
+ch	e ##ch ##e ##ch ##i ##h	1
+ch	e ##ch ##e ##ch ##i ##g ##u	1
+ch	e ##ch ##e ##ch ##i ##b ##u	1
+ch	e ##ch ##e ##ch ##i ##b ##a ##l	1
+ch	d ##u ##d ##u ##g ##i ##ch ##i ##ch	1
+ch	d ##o ##u ##m ##e ##i ##ch ##i	1
+ch	d ##o ##u ##m ##e ##i ##ch	1
+ch	d ##a ##k ##i ##ch ##i ##m ##u	1
+ch	ch ##u ##w ##o ##l ##u ##b ##u ##l	1
+ch	ch ##u ##w ##e ##ch ##i ##k ##e ##p ##u	1
+ch	ch ##u ##w ##a ##ch ##a ##k	1
+ch	ch ##u ##t ##u ##l ##u ##n ##u	1
+ch	ch ##u ##t ##u ##l ##u ##k ##w ##e ##n ##y ##u ##k	1
+ch	ch ##u ##t ##u ##l ##u ##g ##u ##n	1
+ch	ch ##u ##t ##u ##l ##i ##p ##a ##m ##u	1
+ch	ch ##u ##t ##u ##l ##i ##n	1
+ch	ch ##u ##t ##u ##l ##i ##ch ##e ##ch	1
+ch	ch ##u ##t ##u ##l ##i ##ch	1
+ch	ch ##u ##t ##u ##k ##w ##l ##u ##n ##u	1
+ch	ch ##u ##t ##u ##k ##e ##- ##m ##a ##n ##a ##g ##u ##k	1
+ch	ch ##u ##t ##o ##g ##l ##o ##m ##a ##n ##a ##- ##l ##u ##l ##i	1
+ch	ch ##u ##t ##o ##g ##l ##o ##l ##u ##l ##i	1
+ch	ch ##u ##t ##o ##g ##l ##a ##m ##a ##n ##u	1
+ch	ch ##u ##t ##a ##h	1
+ch	ch ##u ##s ##u ##s ##u ##h ##w ##a ##n ##u	1
+ch	ch ##u ##s ##u ##h ##w ##- ##e ##ch ##a ##n ##a ##m ##u	1
+ch	ch ##u ##s ##u ##h ##w	1
+ch	ch ##u ##s ##o ##l ##i ##k ##- ##a ##n ##a ##l ##u ##l ##i	1
+ch	ch ##u ##s ##i ##m	1
+ch	ch ##u ##s ##a ##l ##i ##k ##e ##m ##u	1
+ch	ch ##u ##s ##a ##l ##i ##k ##a ##n ##u	1
+ch	ch ##u ##s ##a ##h ##u ##l	1
+ch	ch ##u ##s ##a ##g ##u ##n ##m ##u	1
+ch	ch ##u ##s ##a ##g ##u ##n ##m ##e ##ch	1
+ch	ch ##u ##s	1
+ch	ch ##u ##p ##e ##n ##y ##i ##ch	1
+ch	ch ##u ##p	1
+ch	ch ##u ##n ##u ##g ##o ##m ##e ##m ##u	1
+ch	ch ##u ##n ##u ##g ##o ##m ##e ##ch	1
+ch	ch ##u ##n ##u ##g ##o ##m ##e	1
+ch	ch ##u ##n ##u ##g ##a ##m ##u	1
+ch	ch ##u ##n ##u ##g ##a ##m ##a ##m	1
+ch	ch ##u ##n ##o ##t ##u ##k ##i	1
+ch	ch ##u ##n ##o ##s ##u ##h	1
+ch	ch ##u ##n ##o ##m	1
+ch	ch ##u ##n ##o ##k ##w ##n ##u ##m ##u	1
+ch	ch ##u ##n ##o ##k ##w ##n ##u ##m ##e ##p ##u	1
+ch	ch ##u ##n ##o ##k ##w ##n ##u ##m ##e ##m ##u	1
+ch	ch ##u ##n ##o ##g ##u ##g ##l ##e ##p ##u	1
+ch	ch ##u ##n ##e ##p ##u	1
+ch	ch ##u ##n ##e ##n ##e ##k	1
+ch	ch ##u ##n ##e ##m ##o ##m	1
+ch	ch ##u ##n ##e ##m ##e ##p ##u	1
+ch	ch ##u ##n ##e ##m ##e	1
+ch	ch ##u ##n ##e ##m ##a ##n ##u	1
+ch	ch ##u ##n ##e ##k ##e ##n ##y ##u	1
+ch	ch ##u ##n ##e ##k ##a ##m	1
+ch	ch ##u ##n ##e ##- ##ch ##i ##ch ##i ##l ##a ##k	1
+ch	ch ##u ##n ##a ##t ##u ##k ##e ##n ##y ##u	1
+ch	ch ##u ##n ##a ##m ##n ##e ##k	1
+ch	ch ##u ##n ##a ##k ##u ##k	1
+ch	ch ##u ##n ##a ##h ##w ##o ##n ##u	1
+ch	ch ##u ##n ##a ##h ##w ##a ##n ##u	1
+ch	ch ##u ##m ##n ##e ##k ##o ##m	1
+ch	ch ##u ##m ##n ##e ##k ##e ##p ##u	1
+ch	ch ##u ##m ##n ##e ##k ##e ##n	1
+ch	ch ##u ##m ##n ##e ##k ##a ##n ##u	1
+ch	ch ##u ##m ##a ##k ##w ##i ##e ##ch ##e ##p	1
+ch	ch ##u ##l ##k ##w ##i ##p ##i ##n ##u	1
+ch	ch ##u ##l ##i ##k ##w ##e ##ch ##o ##n ##u	1
+ch	ch ##u ##l ##i ##h ##i ##- ##ch ##u ##l ##i ##h	1
+ch	ch ##u ##l ##e ##h	1
+ch	ch ##u ##l ##a ##w ##e ##ch	1
+ch	ch ##u ##l ##a ##w ##e	1
+ch	ch ##u ##k ##w ##l ##u ##p ##u	1
+ch	ch ##u ##k ##u ##t ##u ##k	1
+ch	ch ##u ##k ##u ##s ##u ##m ##e ##n ##y ##u	1
+ch	ch ##u ##k ##u ##s ##u ##m ##a ##n ##u	1
+ch	ch ##u ##k ##u ##m ##o ##p ##u	1
+ch	ch ##u ##k ##u	1
+ch	ch ##u ##k ##o ##k	1
+ch	ch ##u ##k ##n ##i ##t ##u	1
+ch	ch ##u ##k ##n ##i ##t ##o ##m ##u	1
+ch	ch ##u ##k ##n ##i ##p ##o ##m ##u	1
+ch	ch ##u ##k ##n ##i ##n ##u	1
+ch	ch ##u ##k ##n ##i ##l ##u ##h	1
+ch	ch ##u ##k ##n ##i ##h ##w	1
+ch	ch ##u ##k ##l ##i ##y ##a ##n ##a ##l ##u ##l ##i	1
+ch	ch ##u ##k ##l ##i ##w ##a ##k ##e ##p ##u	1
+ch	ch ##u ##k ##l ##i ##p ##a ##p ##a ##m ##u	1
+ch	ch ##u ##k ##l ##i ##p ##a ##n ##u	1
+ch	ch ##u ##k ##i ##h ##o ##h ##w ##u	1
+ch	ch ##u ##k ##e ##p ##e ##y ##e ##ch	1
+ch	ch ##u ##k ##e ##i ##k	1
+ch	ch ##u ##k ##e ##g ##e ##p ##u	1
+ch	ch ##u ##h ##w ##e	1
+ch	ch ##u ##h ##w ##a ##l ##e ##p ##u	1
+ch	ch ##u ##h ##w ##a ##l ##e ##p ##a ##m ##u	1
+ch	ch ##u ##h ##w ##a ##l ##e ##n ##y ##a ##m ##u	1
+ch	ch ##u ##h ##i ##y ##a ##k ##u ##k	1
+ch	ch ##u ##g ##i ##n ##o ##h ##w ##a ##h	1
+ch	ch ##u ##g ##i ##n ##a ##h ##w ##a ##h	1
+ch	ch ##u ##g ##i ##m ##e ##h ##u ##m ##e ##p ##u	1
+ch	ch ##u ##g ##i ##m ##a ##h	1
+ch	ch ##u ##g ##i ##l ##a ##p ##u	1
+ch	ch ##u ##g ##i ##l ##a ##p ##e ##ch	1
+ch	ch ##u ##g ##a ##k ##o ##m ##e ##m ##u	1
+ch	ch ##u ##g ##a ##k ##a ##m ##u	1
+ch	ch ##u ##d ##u ##k ##e ##m ##o ##g ##u ##n	1
+ch	ch ##u ##d ##i ##y ##e ##p	1
+ch	ch ##u ##d ##a ##l ##e ##h ##e ##ch	1
+ch	ch ##u ##b ##u ##k ##u ##m ##a ##n ##u	1
+ch	ch ##u ##b ##u ##k ##i ##g	1
+ch	ch ##u ##b ##o ##s ##u ##s ##i ##h	1
+ch	ch ##u ##b ##o ##l ##u ##n ##i ##k	1
+ch	ch ##u ##b ##l ##e ##y ##e ##ch	1
+ch	ch ##u ##b ##l ##a ##m ##a ##n ##u	1
+ch	ch ##u ##b ##i ##l ##a ##m ##u	1
+ch	ch ##u ##b ##i ##h ##u ##k	1
+ch	ch ##u ##b ##e ##y ##e ##ch ##- ##u ##m ##e ##p ##a ##l ##u ##l ##i	1
+ch	ch ##u ##b ##e ##y ##e ##ch ##- ##u ##m ##e ##p ##a ##l ##i	1
+ch	ch ##o ##w ##i ##m ##a ##n ##u	1
+ch	ch ##o ##w ##e ##m ##u	1
+ch	ch ##o ##w ##e ##ch ##i ##k ##e ##n	1
+ch	ch ##o ##w ##e ##ch ##i ##k ##a ##n ##u	1
+ch	ch ##o ##w ##a ##l	1
+ch	ch ##o ##u ##l	1
+ch	ch ##o ##t ##o ##h ##l ##u ##- ##e ##n ##y ##a ##g ##u ##k	1
+ch	ch ##o ##p ##u	1
+ch	ch ##o ##n ##o ##w ##a ##n ##u ##h ##u ##k	1
+ch	ch ##o ##n ##o ##k ##w ##a ##l ##m ##e ##ch	1
+ch	ch ##o ##n ##o ##k ##a ##l ##m ##u	1
+ch	ch ##o ##n ##o ##b ##e ##ch ##u ##k	1
+ch	ch ##o ##k ##w ##i ##n ##a ##l ##i	1
+ch	ch ##o ##k ##w ##i ##h ##i	1
+ch	ch ##o ##k ##w ##i ##ch ##i ##m ##u	1
+ch	ch ##o ##k ##u ##t ##a ##l ##i	1
+ch	ch ##o ##k ##u ##s ##i	1
+ch	ch ##o ##k ##u ##n ##u	1
+ch	ch ##o ##k ##u ##n ##o ##m ##u	1
+ch	ch ##o ##k ##u ##k ##w ##i	1
+ch	ch ##o ##k ##u ##g ##u ##n ##i	1
+ch	ch ##o ##k ##u ##g ##u ##n	1
+ch	ch ##o ##k ##u ##b ##u ##l	1
+ch	ch ##o ##k ##o ##n ##e ##y ##e ##n	1
+ch	ch ##o ##k ##o ##g ##o ##s	1
+ch	ch ##o ##k ##e ##p ##a ##g ##u ##k	1
+ch	ch ##o ##h ##w ##a ##l ##o ##g ##u ##n	1
+ch	ch ##o ##h ##w ##a ##l ##o ##b ##u ##l	1
+ch	ch ##o ##h ##w ##a ##l ##e ##n	1
+ch	ch ##o ##h ##w ##a ##l ##a ##n ##u	1
+ch	ch ##o ##h ##w ##a ##l ##a ##g ##u ##n	1
+ch	ch ##o ##h ##w ##a ##l ##a ##g ##u ##k	1
+ch	ch ##o ##h ##w ##a ##l ##a ##b ##u ##l	1
+ch	ch ##o ##h ##u ##l ##i	1
+ch	ch ##o ##g ##w ##a ##t ##u	1
+ch	ch ##o ##g ##w ##a ##t ##a ##n ##u	1
+ch	ch ##o ##g ##o ##s ##u ##b ##u ##k	1
+ch	ch ##o ##g ##a ##l ##i ##k ##o ##g	1
+ch	ch ##o ##g ##a ##l ##i ##k	1
+ch	ch ##o ##b ##u ##k ##u ##m ##a ##n ##u	1
+ch	ch ##o ##b ##l ##e ##l ##i	1
+ch	ch ##o ##b ##e ##y ##a ##g ##u ##n ##m ##u	1
+ch	ch ##i ##y ##o ##t ##u ##k	1
+ch	ch ##i ##y ##o ##t ##u	1
+ch	ch ##i ##y ##a ##t ##a ##k	1
+ch	ch ##i ##y ##a ##i ##s ##e ##ch	1
+ch	ch ##i ##y ##a ##i ##s	1
+ch	ch ##i ##y ##a ##g ##w ##l ##e ##h ##u ##m ##e ##n	1
+ch	ch ##i ##t ##a ##k ##u ##m ##a ##l ##i	1
+ch	ch ##i ##p ##a ##h	1
+ch	ch ##i ##n ##y ##u ##b ##u ##k ##- ##u ##m ##a ##n ##a ##l ##u ##l ##i	1
+ch	ch ##i ##n ##y ##u ##b ##u ##k	1
+ch	ch ##i ##j ##a ##h ##e ##p ##u	1
+ch	ch ##i ##h ##l ##a ##l ##u ##l ##i	1
+ch	ch ##i ##h ##a ##h ##i ##m	1
+ch	ch ##i ##h ##a ##h ##i ##g ##a ##s	1
+ch	ch ##i ##h ##a ##h ##- ##i ##n ##y ##u ##m ##u	1
+ch	ch ##i ##ch ##u ##h	1
+ch	ch ##i ##ch ##o ##p ##o ##k ##a ##n ##u	1
+ch	ch ##i ##ch ##o ##b ##u ##l	1
+ch	ch ##i ##ch ##l ##o ##k ##u ##h	1
+ch	ch ##i ##ch ##l ##e ##k ##e ##ch	1
+ch	ch ##i ##ch ##i ##ch ##e ##h ##o ##g	1
+ch	ch ##i ##ch ##e ##h ##u ##k	1
+ch	ch ##i ##ch ##a ##l ##a ##k ##a ##n ##u	1
+ch	ch ##i ##ch ##a ##k ##a ##m ##a ##n ##u	1
+ch	ch ##e ##y ##o ##t ##u ##w ##i	1
+ch	ch ##e ##y ##o ##m ##a ##g ##u ##k	1
+ch	ch ##e ##y ##a ##g ##w ##l ##e ##h ##i	1
+ch	ch ##e ##n ##y ##e ##m ##u	1
+ch	ch ##e ##n ##e ##y ##a ##g ##a ##m ##u	1
+ch	ch ##e ##n ##e ##n ##e ##m ##u	1
+ch	ch ##e ##n ##e ##k ##o ##l	1
+ch	ch ##e ##n ##e ##k ##o ##h	1
+ch	ch ##e ##n ##e ##k ##e ##n ##y ##u ##m ##e	1
+ch	ch ##e ##n ##e ##k ##a ##s	1
+ch	ch ##e ##n ##e ##k ##a ##l	1
+ch	ch ##e ##n ##e ##k ##a ##g ##u ##n	1
+ch	ch ##e ##n ##e ##h ##i ##l ##a ##u ##- ##m ##o ##n ##u	1
+ch	ch ##e ##n	1
+ch	ch ##e ##l ##e ##h	1
+ch	ch ##e ##k ##e ##n ##y ##u ##k	1
+ch	ch ##e ##k ##e	1
+ch	ch ##e ##i ##l ##m ##u	1
+ch	ch ##e ##i ##h	1
+ch	ch ##e ##g ##l ##e ##m ##u	1
+ch	ch ##e ##ch ##u ##h	1
+ch	ch ##e ##ch ##u ##b ##u ##k	1
+ch	ch ##a ##w ##o ##l ##u ##h	1
+ch	ch ##a ##u ##t ##u ##b ##a ##l	1
+ch	ch ##a ##u ##l ##i ##m ##a ##n ##u	1
+ch	ch ##a ##t ##u ##l ##u ##m	1
+ch	ch ##a ##t ##u ##l ##u ##g ##u ##n ##m ##a ##n ##u	1
+ch	ch ##a ##t ##u ##l ##i ##n	1
+ch	ch ##a ##t ##u ##l ##i ##ch	1
+ch	ch ##a ##t ##u ##k ##e ##m ##e ##i ##k	1
+ch	ch ##a ##t ##o ##g ##l ##u ##l ##i	1
+ch	ch ##a ##t ##o ##g ##l ##o ##m ##u	1
+ch	ch ##a ##t ##o ##g ##l ##o ##l ##u ##l ##i	1
+ch	ch ##a ##t ##o ##g ##l ##a ##m ##u	1
+ch	ch ##a ##t ##l ##u ##g ##u ##h	1
+ch	ch ##a ##t ##i ##w ##e ##m ##u	1
+ch	ch ##a ##t ##i ##m ##e ##n ##y ##u	1
+ch	ch ##a ##t ##i ##k ##u	1
+ch	ch ##a ##t ##a ##n ##a ##m ##o ##m ##u	1
+ch	ch ##a ##t ##a ##l ##i ##p ##u	1
+ch	ch ##a ##t ##a ##l ##i ##n	1
+ch	ch ##a ##t ##a ##l ##i ##ch	1
+ch	ch ##a ##t ##a ##h	1
+ch	ch ##a ##t ##a ##g ##l ##a ##g ##u ##k	1
+ch	ch ##a ##s ##u ##s ##u ##h ##w ##a ##n ##u	1
+ch	ch ##a ##s ##u ##h ##w ##i	1
+ch	ch ##a ##s ##u	1
+ch	ch ##a ##s ##o ##l ##i ##k ##a ##n ##u	1
+ch	ch ##a ##s ##a ##l ##i ##k ##o ##m	1
+ch	ch ##a ##p ##e ##n ##y ##u ##n ##- ##a ##l ##u ##l ##i	1
+ch	ch ##a ##p ##e ##m ##a ##l ##u ##l ##i	1
+ch	ch ##a ##p ##e ##l ##i	1
+ch	ch ##a ##p ##e ##g ##u	1
+ch	ch ##a ##n ##u ##g ##o ##m ##u	1
+ch	ch ##a ##n ##u ##g ##o ##m ##e ##ch	1
+ch	ch ##a ##n ##o ##w ##e ##ch	1
+ch	ch ##a ##n ##o ##k	1
+ch	ch ##a ##n ##o ##b ##i ##l ##a ##k ##u ##k	1
+ch	ch ##a ##n ##e	1
+ch	ch ##a ##n ##a ##t ##i ##m ##u	1
+ch	ch ##a ##n ##a ##s ##o ##n ##u ##k ##e ##h	1
+ch	ch ##a ##n ##a ##s ##o ##l ##i ##k ##a ##g ##a ##s	1
+ch	ch ##a ##n ##a ##s ##a ##h ##u ##m ##a ##l ##i	1
+ch	ch ##a ##n ##a ##s ##a ##h ##i	1
+ch	ch ##a ##n ##a ##n ##u	1
+ch	ch ##a ##n ##a ##m ##a ##m	1
+ch	ch ##a ##n ##a ##l ##u	1
+ch	ch ##a ##n ##a ##l ##t ##o ##m ##u	1
+ch	ch ##a ##n ##a ##k ##u	1
+ch	ch ##a ##n ##a ##g ##u ##k	1
+ch	ch ##a ##n ##a ##d ##a ##l ##e ##ch	1
+ch	ch ##a ##l ##o ##g	1
+ch	ch ##a ##l ##i ##k ##w ##e ##ch ##a ##t ##u	1
+ch	ch ##a ##l ##i ##k ##i	1
+ch	ch ##a ##l ##i ##h ##i	1
+ch	ch ##a ##l ##i ##h	1
+ch	ch ##a ##l ##a ##w ##o ##n ##u	1
+ch	ch ##a ##l ##a ##w ##e ##ch ##u ##m ##a ##l ##i	1
+ch	ch ##a ##l ##a ##w ##e ##ch	1
+ch	ch ##a ##l ##a ##w ##a ##n ##u	1
+ch	ch ##a ##l ##a ##w ##a ##n ##a ##l ##i	1
+ch	ch ##a ##l ##a ##u	1
+ch	ch ##a ##l ##a ##t ##u	1
+ch	ch ##a ##l ##a ##b ##u ##k ##u ##k	1
+ch	ch ##a ##k ##w ##u ##s ##u ##m ##e	1
+ch	ch ##a ##k ##u ##s ##u ##m ##e ##p ##u	1
+ch	ch ##a ##k ##u ##s ##o ##m ##i	1
+ch	ch ##a ##k ##l ##i ##y ##u ##k	1
+ch	ch ##a ##k ##l ##i ##y ##a ##n ##a ##m ##u	1
+ch	ch ##a ##k ##l ##i ##w ##a ##k ##a ##n ##u	1
+ch	ch ##a ##k ##l ##i ##p ##e ##p ##u	1
+ch	ch ##a ##k ##l ##i ##p ##a ##m	1
+ch	ch ##a ##k ##l ##i ##m ##u	1
+ch	ch ##a ##k ##i ##h	1
+ch	ch ##a ##k ##a ##n ##e ##y ##e ##n	1
+ch	ch ##a ##k ##a ##m ##e ##t ##a ##m ##u	1
+ch	ch ##a ##k ##a ##m ##e ##h ##a ##h ##- ##i ##n ##y ##u ##m ##u	1
+ch	ch ##a ##k ##a ##g ##a ##s	1
+ch	ch ##a ##g ##u ##h	1
+ch	ch ##a ##g ##o ##u ##l	1
+ch	ch ##a ##g ##i ##n ##o ##h ##w ##a ##t ##u	1
+ch	ch ##a ##g ##i ##m ##o ##m	1
+ch	ch ##a ##g ##i ##m ##e ##h ##u ##m ##o ##m	1
+ch	ch ##a ##g ##i ##m ##e ##h	1
+ch	ch ##a ##g ##a ##l ##i ##h ##w ##i ##h	1
+ch	ch ##a ##g ##a ##k ##o ##m ##e ##- ##p ##a ##l ##u ##l ##i	1
+ch	ch ##a ##g ##a ##h	1
+ch	ch ##a ##g ##a ##b ##e ##y ##o ##m	1
+ch	ch ##a ##d ##u ##k ##e ##m ##e ##n	1
+ch	ch ##a ##d ##i ##y ##a ##l ##u ##h ##u ##k	1
+ch	ch ##a ##d ##a ##l ##e ##h ##o ##g ##u ##h	1
+ch	ch ##a ##ch ##i ##p	1
+ch	ch ##a ##ch ##i	1
+ch	ch ##a ##b ##i ##h ##i	1
+ch	ch ##a ##b ##a ##s ##u ##s ##a ##h	1
+ch	b ##u ##k ##e ##y ##e ##ch ##u ##k	1
+ch	b ##o ##s ##u ##m ##e ##ch	1
+ch	b ##l ##u ##w ##i ##ch ##u ##k	1
+ch	b ##l ##u ##p ##l ##u ##k ##e ##ch ##o ##p	1
+ch	b ##l ##u ##p ##l ##u ##k ##e ##ch	1
+ch	b ##l ##e ##ch ##a ##g ##i ##- ##y ##e ##ch ##u ##k	1
+ch	b ##l ##a ##k ##u ##s ##u ##m ##e ##ch ##u ##k	1
+ch	b ##l ##a ##ch	1
+ch	b ##i ##l ##i ##p ##u ##m ##e ##ch	1
+ch	b ##e ##ch ##o ##l ##a ##k ##u ##k	1
+ch	b ##e ##ch ##i ##s	1
+ch	b ##a ##w ##o ##g ##e ##i ##ch	1
+ch	b ##a ##t ##o ##w ##i ##ch ##i ##ch	1
+ch	b ##a ##i ##t ##a ##k ##u ##m ##e ##ch	1
+ch	a ##y ##a ##g ##i ##p ##e ##ch ##e ##n	1
+ch	a ##p ##e ##ch ##u ##h	1
+ch	a ##p ##a ##w ##i ##ch	1
+ch	a ##p ##a ##n ##a ##l ##a ##w ##e ##ch	1
+ch	a ##n ##y ##u ##k ##a ##g ##e ##ch	1
+ch	a ##n ##o ##n ##o ##g ##l ##a ##h ##e ##ch	1
+ch	a ##n ##a ##g ##u ##n ##i ##ch	1
+ch	a ##g ##w ##a ##w ##i ##ch	1
+ch	a ##d ##u ##k ##w ##e ##ch ##u ##k ##u ##k	1
+ch	a ##d ##u ##k ##i ##ch ##i	1
+ch	a ##ch ##e ##n ##e ##k	1
+ch	a ##ch ##e ##k ##e ##n ##y ##u ##k	1
+ch	a ##ch ##a ##g ##i ##t ##o ##m	1
+ch	a ##ch ##a ##g ##i ##t ##a ##t ##u	1
+ch	99-po ##l ##e ##i ##ch	1
+ch	5000-po ##l ##e ##i ##ch	1
+ch	5-po ##l ##e ##i ##ch	1
+ch	18-po ##l ##e ##i ##ch	1
+ch	15-po ##l ##e ##i ##ch	1
+ch	10-po ##l ##e ##i ##ch	1
+subword:ch	1076	5291	4.91728624535316
+do	do ##u ##k	1439
+do	do ##d ##o ##g ##o ##w ##i ##n ##u	16
+do	do ##d ##o ##g ##o ##w ##i ##ch	13
+do	do ##k ##t ##a	9
+do	do ##d ##o ##g ##o ##w ##i ##n ##y ##i	9
+do	do ##d ##o ##g ##o ##w ##i ##n ##a ##l ##i	8
+do	do ##d ##o ##g ##o ##w ##i ##n	7
+do	do ##d ##o ##g ##o ##w ##i ##m	7
+do	do ##u ##m ##e ##i ##p ##a ##l ##i	6
+do	do ##n ##k ##i	6
+do	do ##d ##o ##g ##o ##w ##i ##w ##e ##l ##i	5
+do	do ##u ##m ##e ##i ##h	3
+do	do ##d ##o ##g ##o ##w ##i ##w ##e	3
+do	do ##d ##o ##g ##o ##w ##i ##p ##u	3
+do	do ##d ##o ##g ##o ##w ##i ##p ##a ##m ##u	3
+do	do ##d ##o ##g ##o ##w ##i ##n ##a ##m ##u	3
+do	do ##m ##a ##n ##y ##u	2
+do	do ##u ##m ##e ##p ##a ##l ##i	1
+do	do ##u ##m ##e ##i ##p ##a ##l ##i ##m ##u	1
+do	do ##u ##m ##e ##i ##ch ##i	1
+do	do ##u ##m ##e ##i ##ch	1
+do	do ##n ##k ##i ##h ##a ##s	1
+do	do ##d ##o ##g ##w ##i ##n ##u	1
+do	do ##d ##o ##g ##o ##w ##i ##n ##y ##a ##m ##u	1
+do	do ##d ##o ##g ##o ##w ##i ##l ##u ##h	1
+do	do ##d ##o ##g ##o ##w ##i ##k	1
+do	do ##d ##o ##g ##o ##w ##i ##g ##a ##s	1
+do	do ##d ##o ##g ##o ##w ##i ##b ##a ##l ##i	1
+do	do ##d ##o ##g ##o ##w ##i ##- ##n ##a ##l ##i ##m ##u	1
+subword:do	29	1554	53.58620689655172
+##of	pr ##of ##e ##t	23
+##of	pr ##of ##e ##t ##i ##n	2
+##of	pr ##of ##e ##t ##i ##b ##a ##l	2
+subword:##of	3	27	9.0
+prof	prof ##e ##t	23
+prof	prof ##e ##t ##i ##n	2
+prof	prof ##e ##t ##i ##b ##a ##l	2
+subword:prof	3	27	9.0
+go	go ##d	437
+go	go ##l ##g ##o ##t ##a	1
+subword:go	2	438	219.0
+god	god	437
+subword:god	1	437	437.0
+lo	lo	76
+lo	lo ##g ##u ##h	40
+lo	lo ##w ##a ##g	33
+lo	lo ##h	30
+lo	lo ##g ##u ##l	21
+lo	lo ##u ##g ##u ##n	12
+lo	lo ##w ##a ##s	7
+lo	lo ##u ##b ##a ##m ##u	5
+lo	lo ##h ##u ##m ##e ##p ##u	5
+lo	lo ##u ##b ##o ##m ##u	3
+lo	lo ##u ##b ##a ##l ##i	3
+lo	lo ##t	3
+lo	lo ##b ##i ##k	3
+lo	lo ##w ##i ##h ##i	2
+lo	lo ##u ##l ##o ##u ##n ##y ##i	2
+lo	lo ##u ##g ##u ##n ##i ##l ##u ##b	2
+lo	lo ##u ##g ##u ##n ##i ##b ##u ##l	2
+lo	lo ##t ##u ##m ##u	2
+lo	lo ##u ##t ##a ##l ##i	1
+lo	lo ##u ##n ##a ##l ##i	1
+lo	lo ##u ##h ##i	1
+lo	lo ##m ##b ##o	1
+lo	lo ##h ##u ##m ##e ##p ##a ##m ##u	1
+lo	lo ##h ##u ##m ##e ##ch	1
+lo	lo ##h ##u ##m ##a ##n ##u	1
+lo	lo ##h ##u ##m ##a ##n ##a ##m ##u	1
+lo	lo ##g ##u ##h ##w	1
+lo	lo ##g ##o ##s	1
+subword:lo	28	261	9.321428571428571
+kr	kr ##a ##i ##s	19
+kr	kr ##u ##s ##e	16
+kr	kr ##u ##s ##e ##m ##u	1
+kr	kr ##i ##s ##t ##e ##n	1
+subword:kr	4	37	9.25
+kw	kw ##a ##p ##e	18
+kw	kw ##a ##n ##a ##k ##i	17
+kw	kw ##o ##t	13
+kw	kw ##a ##l ##i	13
+kw	kw ##a ##n ##u ##b ##u	12
+kw	kw ##a ##l ##o ##w ##i	12
+kw	kw ##a ##i ##t ##a ##k	11
+kw	kw ##a ##n ##u	10
+kw	kw ##a ##n ##a ##k	8
+kw	kw ##a ##k ##l ##i	8
+kw	kw ##o ##n ##e ##k	6
+kw	kw ##o ##t ##o ##g	5
+kw	kw ##a ##g ##a ##k	5
+kw	kw ##o ##m ##n ##e ##k	4
+kw	kw ##a ##k ##u ##s	4
+kw	kw ##o ##l ##a ##l ##i	3
+kw	kw ##e ##ch ##u ##h	3
+kw	kw ##a ##t ##u ##l ##u ##n ##u	3
+kw	kw ##a ##t ##i ##k	3
+kw	kw ##a ##k ##l ##i ##p ##a ##n ##u	3
+kw	kw ##a ##b ##i ##h	3
+kw	kw ##o ##n ##e ##k ##e ##n	2
+kw	kw ##o ##n ##e ##h ##i ##l ##a ##u	2
+kw	kw ##i ##t ##a ##k ##i	2
+kw	kw ##e ##n ##y ##u ##k ##u ##l	2
+kw	kw ##a ##w ##i ##ch	2
+kw	kw ##a ##u ##t ##u	2
+kw	kw ##a ##t ##a ##n ##a ##m ##u	2
+kw	kw ##a ##t ##a ##l	2
+kw	kw ##a ##p ##e ##l ##i	2
+kw	kw ##a ##l ##a ##l ##i	2
+kw	kw ##a ##k ##l ##i ##p ##u	2
+kw	kw ##a ##g ##a ##b ##a ##l	2
+kw	kw ##u ##n ##u ##b ##u	1
+kw	kw ##u ##n ##o ##h ##w ##o ##p	1
+kw	kw ##u ##n ##e	1
+kw	kw ##u ##n ##a ##k	1
+kw	kw ##u ##l ##a ##u	1
+kw	kw ##u ##k ##u ##s ##u ##k	1
+kw	kw ##u ##k ##l ##i	1
+kw	kw ##u ##g ##a ##k	1
+kw	kw ##o ##u ##h	1
+kw	kw ##o ##t ##u ##m ##e ##p ##u	1
+kw	kw ##o ##t ##u ##m ##e ##p ##a ##m ##u	1
+kw	kw ##o ##t ##u ##m ##a ##n ##u	1
+kw	kw ##o ##t ##u ##m ##a ##n ##a ##m ##e ##n	1
+kw	kw ##o ##s ##u ##h ##u ##l	1
+kw	kw ##o ##n ##o ##h ##w ##a ##l ##a ##m ##u	1
+kw	kw ##o ##n ##e ##k ##u ##m ##e ##ch	1
+kw	kw ##o ##n ##e ##k ##u ##m ##e	1
+kw	kw ##o ##n ##e ##k ##u ##m ##a ##n ##u	1
+kw	kw ##o ##m ##n ##e ##k ##e ##h	1
+kw	kw ##o ##l ##e ##h	1
+kw	kw ##o ##k ##e ##n ##y ##u	1
+kw	kw ##o ##h ##u ##l	1
+kw	kw ##o ##d ##u ##k	1
+kw	kw ##i ##y ##o ##t ##u ##m ##a ##n ##u	1
+kw	kw ##i ##t ##a ##k	1
+kw	kw ##i ##n	1
+kw	kw ##i ##g ##a ##n ##i ##k ##i ##b	1
+kw	kw ##i ##g ##a ##n ##i	1
+kw	kw ##e ##y ##a ##t ##u	1
+kw	kw ##e ##n ##y ##a ##l ##a ##l ##i	1
+kw	kw ##e ##ch ##u ##k	1
+kw	kw ##e ##ch	1
+kw	kw ##a ##w ##o ##l ##u ##l	1
+kw	kw ##a ##u ##t ##u ##s	1
+kw	kw ##a ##u ##t ##u ##k	1
+kw	kw ##a ##u ##t ##u ##b ##a ##l	1
+kw	kw ##a ##t ##u ##t ##e ##h ##e ##n	1
+kw	kw ##a ##t ##u ##l ##u ##n ##o ##g ##u ##k	1
+kw	kw ##a ##t ##u ##l ##u ##n ##a ##m ##u	1
+kw	kw ##a ##t ##u ##l ##u ##m	1
+kw	kw ##a ##t ##o ##g ##l ##o ##m ##u	1
+kw	kw ##a ##t ##a ##k ##u	1
+kw	kw ##a ##s ##u ##s ##u ##h ##w	1
+kw	kw ##a ##s ##u ##s ##u ##h	1
+kw	kw ##a ##s ##u ##h ##w ##i	1
+kw	kw ##a ##s ##u ##h ##e ##ch	1
+kw	kw ##a ##s ##u ##h	1
+kw	kw ##a ##p ##e ##m ##u	1
+kw	kw ##a ##n ##u ##b ##l ##e ##h ##u ##k	1
+kw	kw ##a ##n ##a ##p ##l ##i ##k	1
+kw	kw ##a ##n ##a ##m ##u	1
+kw	kw ##a ##n ##a ##m ##e ##ch	1
+kw	kw ##a ##l ##o ##w ##i ##o ##m ##i	1
+kw	kw ##a ##l ##m ##a ##m	1
+kw	kw ##a ##l ##i ##k	1
+kw	kw ##a ##l ##a ##h ##e	1
+kw	kw ##a ##k ##u ##s ##- ##u ##m ##e ##p ##a ##g ##u ##k	1
+kw	kw ##a ##k ##u	1
+kw	kw ##a ##k ##l ##i ##p ##e ##n	1
+kw	kw ##a ##k ##l ##i ##p ##e ##ch	1
+kw	kw ##a ##k ##l ##i ##p ##a ##n ##a ##m ##u	1
+kw	kw ##a ##k ##l ##i ##p ##a ##m	1
+kw	kw ##a ##k ##i ##h ##u ##k	1
+kw	kw ##a ##h ##w ##a ##l	1
+kw	kw ##a ##h ##o ##g ##a ##g ##u ##n	1
+kw	kw ##a ##g ##o ##b ##o ##l	1
+kw	kw ##a ##g ##i ##m ##a ##l ##i	1
+kw	kw ##a ##g ##i ##k ##u ##k	1
+kw	kw ##a ##d ##u ##k ##e ##m ##e ##ch	1
+kw	kw ##a ##b ##l ##o	1
+subword:kw	103	258	2.504854368932039
+gw	gw ##o ##d ##i ##ch	6
+gw	gw ##a ##n ##u ##b ##u	3
+gw	gw ##a ##n ##a ##k ##o ##k	3
+gw	gw ##a ##n ##a ##k ##i	3
+gw	gw ##a ##k ##u ##s	3
+gw	gw ##u ##n ##u	2
+gw	gw ##i ##t ##a ##k	2
+gw	gw ##a ##u	2
+gw	gw ##a ##p ##e	2
+gw	gw ##a ##g ##l ##u ##k	2
+gw	gw ##u ##n ##a ##k ##i	1
+gw	gw ##u ##n ##a ##k	1
+gw	gw ##u ##g ##l ##u ##k ##u ##k	1
+gw	gw ##u ##g ##a ##k ##a ##m ##u	1
+gw	gw ##o ##t ##u ##k ##w ##l ##e ##m ##u	1
+gw	gw ##o ##n ##e ##k	1
+gw	gw ##o ##d ##u ##s	1
+gw	gw ##o ##d ##u ##b ##a ##l	1
+gw	gw ##o ##d ##i ##n	1
+gw	gw ##o ##d ##i ##h	1
+gw	gw ##i ##l ##e ##ch	1
+gw	gw ##i ##l	1
+gw	gw ##i ##ch ##a ##h	1
+gw	gw ##e ##y ##o ##h ##o ##l ##- ##u ##n ##a ##l ##u ##l ##i	1
+gw	gw ##e ##y ##a ##t ##u	1
+gw	gw ##e ##ch ##u ##h	1
+gw	gw ##e ##ch ##a ##l ##a ##k ##u ##k	1
+gw	gw ##a ##w ##a ##k	1
+gw	gw ##a ##n ##u	1
+gw	gw ##a ##n ##a ##k	1
+gw	gw ##a ##l ##i ##k	1
+gw	gw ##a ##k ##i ##h ##i	1
+gw	gw ##a ##g ##a ##k	1
+subword:gw	33	51	1.5454545454545454
+br	br ##e ##t	31
+subword:br	1	31	31.0
+ko	ko ##b ##i	330
+ko	ko ##n ##t ##r ##a ##k	3
+ko	ko ##r ##a ##s ##i ##n	2
+ko	ko ##w ##m ##n ##e ##k	1
+ko	ko ##l ##o ##h ##u ##k	1
+subword:ko	5	337	67.4
+kob	kob ##i	330
+subword:kob	1	330	330.0
+kor	kor ##a ##s ##i ##n	2
+subword:kor	1	2	2.0
+mo	mo ##n ##e ##k ##e ##n	148
+mo	mo ##u ##l	114
+mo	mo ##s ##e ##s	20
+mo	mo ##u ##l ##a ##l ##u ##l ##i	8
+mo	mo ##u ##l ##a ##m ##u	6
+mo	mo ##l ##u ##b	6
+mo	mo ##n ##o ##k ##e ##n	5
+mo	mo ##n ##e ##k	5
+mo	mo ##l ##o ##m ##a ##g ##u ##k	3
+mo	mo ##n ##k ##e ##n	2
+mo	mo ##l ##o ##m ##u	2
+mo	mo ##u ##l ##o ##m ##o ##m	1
+mo	mo ##u ##l ##e ##i ##h	1
+mo	mo ##u ##l ##a ##- ##m ##a ##n ##a ##l ##u ##l ##i	1
+mo	mo ##n ##u	1
+mo	mo ##n ##o ##k ##a ##n ##u	1
+mo	mo ##n ##e ##h ##i ##l ##a ##u ##m ##a ##n ##u	1
+mo	mo ##n ##a ##h ##w ##a ##l ##u	1
+mo	mo ##l ##u	1
+mo	mo ##k ##u	1
+mo	mo ##g ##u ##h	1
+mo	mo ##d ##u ##p ##i ##t ##o ##m ##u	1
+mo	mo ##d ##u ##p ##i ##t ##a ##m ##u	1
+mo	mo ##d ##u ##p ##i ##t ##a ##- ##m ##a ##l ##u ##l ##i	1
+subword:mo	24	332	13.833333333333334
+pro	pro ##v ##i ##n ##s	26
+pro	prof ##e ##t	23
+pro	prof ##e ##t ##i ##n	2
+pro	prof ##e ##t ##i ##b ##a ##l	2
+subword:pro	4	53	13.25
+prov	prov ##i ##n ##s	26
+subword:prov	1	26	26.0
+kow	kow ##m ##n ##e ##k	1
+subword:kow	1	1	1.0
+kowm	kowm ##n ##e ##k	1
+subword:kowm	1	1	1.0
+bre	bre ##t	31
+subword:bre	1	31	31.0
+bret	bret	31
+subword:bret	1	31	31.0
+profe	profe ##t	23
+profe	profe ##t ##i ##n	2
+profe	profe ##t ##i ##b ##a ##l	2
+subword:profe	3	27	9.0
+profet	profet	23
+profet	profet ##i ##n	2
+profet	profet ##i ##b ##a ##l	2
+subword:profet	3	27	9.0
+ow	ow ##o	23
+ow	ow ##o ##t ##u	20
+ow	ow ##a ##n ##i ##n ##u	7
+ow	ow ##a ##h ##l ##i ##m	7
+ow	ow ##a ##ch ##i ##ch	6
+ow	ow ##o ##w ##i ##ch	3
+ow	ow ##o ##b ##u ##k	3
+ow	ow ##o ##w ##i ##g	2
+ow	ow ##o ##t ##o ##g	2
+ow	ow ##i ##ch ##i ##b ##a ##l ##- ##i ##t ##a ##l ##i	2
+ow	ow ##a ##t ##a ##u	1
+ow	kowm ##n ##e ##k	1
+subword:ow	12	77	6.416666666666667
+owo	owo	23
+owo	owo ##t ##u	20
+owo	owo ##w ##i ##ch	3
+owo	owo ##b ##u ##k	3
+owo	owo ##w ##i ##g	2
+owo	owo ##t ##o ##g	2
+subword:owo	6	53	8.833333333333334
+owot	owot ##u	20
+owot	owot ##o ##g	2
+subword:owot	2	22	11.0
+ny	ny ##a ##k	258
+ny	ny ##u ##l ##t ##a ##b	110
+ny	ny ##u ##m ##n ##a ##h	83
+ny	ny ##a ##k ##l ##i	54
+ny	ny ##u ##m ##n ##e ##h	51
+ny	ny ##i ##h	48
+ny	ny ##u ##k ##l ##i	38
+ny	ny ##u ##n ##e ##k	35
+ny	ny ##u ##n ##a ##k	32
+ny	ny ##a ##n ##u ##b ##u	32
+ny	ny ##a ##p ##e	27
+ny	ny ##e ##t ##e ##m ##u	24
+ny	ny ##u ##t ##o ##g ##l ##u	23
+ny	ny ##a ##k ##i ##n	20
+ny	ny ##e ##n ##e ##k	19
+ny	ny ##u ##p ##e	17
+ny	ny ##a ##k ##i ##h	17
+ny	ny ##u ##n ##u ##b ##u	16
+ny	ny ##e ##i ##l ##e ##n	16
+ny	ny ##a ##n ##a ##t ##i ##m ##a ##g ##u ##k	16
+ny	ny ##a ##n ##a ##k	15
+ny	ny ##a ##k ##l ##i ##m ##u	15
+ny	ny ##a ##t ##o ##g ##l ##u	14
+ny	ny ##u ##n ##a ##t ##i ##m ##a ##g ##u ##k	12
+ny	ny ##u ##n ##a ##m ##u	10
+ny	ny ##u ##g ##i ##p ##e ##ch	10
+ny	ny ##a ##k ##i ##m	10
+ny	ny ##u ##l ##u ##b	9
+ny	ny ##u ##k ##i ##h	8
+ny	ny ##i ##l ##u ##m ##a ##n ##u	8
+ny	ny ##a ##n ##u	8
+ny	ny ##a ##n ##a ##k ##i	8
+ny	ny ##u ##t ##o ##g ##l ##o ##m ##u	7
+ny	ny ##u ##t ##a ##n ##a ##m ##u	7
+ny	ny ##e ##n ##e ##k ##a ##n ##a ##l ##i	7
+ny	ny ##u ##k ##l ##i ##p ##u	6
+ny	ny ##e ##n ##e ##k ##a ##n ##u	6
+ny	ny ##a ##k ##i ##t ##u	6
+ny	ny ##a ##k ##i ##ch	6
+ny	ny ##u ##n ##a ##k ##i	5
+ny	ny ##u ##l ##a ##u	5
+ny	ny ##o ##w ##e ##y ##e ##h	5
+ny	ny ##i ##t ##a ##k	5
+ny	ny ##i ##h ##i ##h ##i ##ch ##i ##n ##u	5
+ny	ny ##a ##t ##o ##g ##l ##a ##l ##u ##l ##i	5
+ny	ny ##a ##k ##l ##i ##e ##n	5
+ny	ny ##a ##k ##i ##k	5
+ny	ny ##a ##g ##i ##p ##e ##ch	5
+ny	ny ##u ##n ##u	4
+ny	ny ##u ##k ##l ##i ##p ##e ##ch	4
+ny	ny ##u ##g ##l ##u ##k	4
+ny	ny ##u ##g ##i ##p ##e ##ch ##e	4
+ny	ny ##u ##d ##u ##k ##e ##m ##u	4
+ny	ny ##i ##h ##i ##h ##i ##ch ##i ##m	4
+ny	ny ##e ##y ##o ##t ##u	4
+ny	ny ##e ##y ##a ##g ##w ##l ##e ##h ##i	4
+ny	ny ##a ##t ##i ##k	4
+ny	ny ##a ##n ##a ##m ##a ##l ##i	4
+ny	ny ##a ##k ##i ##n ##u	4
+ny	ny ##u ##w ##i ##ch	3
+ny	ny ##u ##w ##a ##k	3
+ny	ny ##u ##t ##u ##k ##e ##m ##a ##g ##u ##k	3
+ny	ny ##u ##s ##u ##h	3
+ny	ny ##u ##l ##i ##k	3
+ny	ny ##u ##k ##a ##n ##u	3
+ny	ny ##u ##h ##u ##l	3
+ny	ny ##u ##h ##e ##m ##u	3
+ny	ny ##u ##h ##e ##m ##e ##n	3
+ny	ny ##i ##n ##y ##i ##g ##l ##e ##n	3
+ny	ny ##i ##n ##y ##e ##m ##u	3
+ny	ny ##i ##ch ##a ##l ##a ##k ##u ##k	3
+ny	ny ##e ##n ##e ##k ##e ##n	3
+ny	ny ##e ##k ##e	3
+ny	ny ##a ##p ##e ##n ##y ##u ##n ##u	3
+ny	ny ##a ##n ##a ##k ##u ##k	3
+ny	ny ##a ##l ##i ##k	3
+ny	ny ##a ##k ##l ##i ##p ##o ##k	3
+ny	ny ##a ##k ##i ##s	3
+ny	ny ##a ##k ##i ##h ##w	3
+ny	ny ##a ##g ##a ##k ##o ##m ##e	3
+ny	ny ##a ##g ##a ##k ##a ##m ##a ##n ##u	3
+ny	ny ##a ##d ##u ##k ##e ##m ##e ##ch	3
+ny	ny ##u ##w ##i ##ch ##e ##p ##u	2
+ny	ny ##u ##t ##u ##k	2
+ny	ny ##u ##t ##o ##g ##l ##o ##- ##m ##e ##p ##a ##m ##u	2
+ny	ny ##u ##t ##i ##k	2
+ny	ny ##u ##t ##a ##u	2
+ny	ny ##u ##t ##a ##n ##a ##m ##a ##l ##i	2
+ny	ny ##u ##s ##a ##l ##i ##k ##e ##p ##u	2
+ny	ny ##u ##s ##a ##h	2
+ny	ny ##u ##p ##e ##n ##y ##i ##p ##u	2
+ny	ny ##u ##p ##e ##m ##u	2
+ny	ny ##u ##p ##e ##i ##k	2
+ny	ny ##u ##p ##a ##k ##w ##i ##l ##e ##n	2
+ny	ny ##u ##n ##o ##h ##w ##e ##n	2
+ny	ny ##u ##n ##e ##k ##u ##m ##e ##n ##y ##u	2
+ny	ny ##u ##n ##e ##k ##u ##k	2
+ny	ny ##u ##n ##e ##k ##e ##n	2
+ny	ny ##u ##n ##e ##k ##e	2
+ny	ny ##u ##n ##e ##k ##a ##p ##u	2
+ny	ny ##u ##n ##a ##h ##u ##l ##i	2
+ny	ny ##u ##m ##n ##e ##k	2
+ny	ny ##u ##m ##n ##a ##h ##i ##n ##u	2
+ny	ny ##u ##l ##g ##u	2
+ny	ny ##u ##l ##g ##o ##m ##u	2
+ny	ny ##u ##l ##b ##i ##a ##h	2
+ny	ny ##u ##l ##a ##w ##a ##l ##i	2
+ny	ny ##u ##k ##w ##l ##e ##y ##e ##n ##y ##u ##k	2
+ny	ny ##u ##k ##u	2
+ny	ny ##u ##k ##l ##o ##p ##o ##p	2
+ny	ny ##u ##k ##l ##i ##p ##e ##ch ##u ##k	2
+ny	ny ##u ##k ##l ##a ##p ##a ##p	2
+ny	ny ##u ##k ##e ##n	2
+ny	ny ##u ##k ##a ##w ##e ##ch	2
+ny	ny ##u ##h ##w ##a ##l ##u	2
+ny	ny ##u ##g ##l ##a ##k	2
+ny	ny ##u ##g ##i ##m ##u	2
+ny	ny ##u ##g ##a ##k	2
+ny	ny ##u ##g ##a ##b ##e ##y ##e	2
+ny	ny ##u ##b ##i ##h ##i	2
+ny	ny ##o ##p ##u	2
+ny	ny ##o ##h ##w ##a ##l ##e	2
+ny	ny ##i ##y ##a ##i ##s ##a ##b ##a ##l	2
+ny	ny ##i ##y ##a ##g ##w ##l ##e ##h	2
+ny	ny ##i ##n ##y ##u ##k ##u ##l	2
+ny	ny ##i ##l ##u ##m ##u	2
+ny	ny ##i ##h ##i ##h ##i ##ch ##i ##ch	2
+ny	ny ##e ##n ##e ##h ##i ##l ##a ##u	2
+ny	ny ##e ##k ##e ##y ##e ##n ##y ##u ##k	2
+ny	ny ##a ##t ##u ##k ##e ##m ##o ##k ##u ##k	2
+ny	ny ##a ##t ##u ##k ##e ##m ##a ##n ##a ##g ##u ##k	2
+ny	ny ##a ##t ##o ##g ##l ##o ##l ##u ##l ##i	2
+ny	ny ##a ##s ##u ##s ##u ##h ##w ##e ##i ##k	2
+ny	ny ##a ##p ##e ##l ##i	2
+ny	ny ##a ##n ##y ##u	2
+ny	ny ##a ##n ##y ##i	2
+ny	ny ##a ##n ##o ##k ##w ##n ##u ##m ##u	2
+ny	ny ##a ##n ##a ##m ##u	2
+ny	ny ##a ##l ##h ##w ##a ##s ##u ##k	2
+ny	ny ##a ##k ##l ##i ##p ##e ##ch	2
+ny	ny ##a ##k ##i ##p	2
+ny	ny ##a ##k ##i ##b ##u ##l	2
+ny	ny ##a ##i ##t ##a ##k	2
+ny	ny ##a ##b ##i ##h ##i	2
+ny	ny ##a	2
+ny	ny ##u ##w ##i ##ch ##e ##n ##y ##u	1
+ny	ny ##u ##w ##i ##ch ##a ##n ##u	1
+ny	ny ##u ##t ##u ##l ##i ##n ##y ##u	1
+ny	ny ##u ##t ##u ##l ##i ##ch	1
+ny	ny ##u ##t ##u ##k ##e ##m ##a ##n ##a ##g ##u ##k	1
+ny	ny ##u ##t ##o ##g ##l ##o ##m ##e ##ch	1
+ny	ny ##u ##t ##o ##g ##l ##o ##l ##u ##l ##i	1
+ny	ny ##u ##t ##o ##g ##l ##o ##l ##i	1
+ny	ny ##u ##t ##i ##m ##u	1
+ny	ny ##u ##t ##a ##l ##k ##e ##h	1
+ny	ny ##u ##t ##a ##l ##i ##h	1
+ny	ny ##u ##p ##e ##m ##e ##n ##y ##o ##m ##u	1
+ny	ny ##u ##p ##e ##m ##e ##n	1
+ny	ny ##u ##p ##e ##m ##a ##l ##i	1
+ny	ny ##u ##n ##o ##t ##u ##k	1
+ny	ny ##u ##n ##o ##k ##w ##n ##u ##m ##u	1
+ny	ny ##u ##n ##o ##k ##w ##n ##u	1
+ny	ny ##u ##n ##o ##h ##w ##a ##t ##u	1
+ny	ny ##u ##n ##e ##k ##u ##m ##o ##h ##u	1
+ny	ny ##u ##n ##e ##k ##e ##p ##u	1
+ny	ny ##u ##n ##e ##k ##e ##n ##y ##u	1
+ny	ny ##u ##n ##e ##k ##e ##ch	1
+ny	ny ##u ##n ##e ##k ##a ##t ##u	1
+ny	ny ##u ##n ##e ##k ##a ##n ##a ##g ##u ##k	1
+ny	ny ##u ##n ##e ##k ##a ##l	1
+ny	ny ##u ##n ##e ##k ##- ##a ##g ##u ##n ##m ##e ##ch	1
+ny	ny ##u ##n ##e	1
+ny	ny ##u ##n ##a ##t ##u ##l ##i ##n ##y ##u	1
+ny	ny ##u ##n ##a ##t ##a ##b ##l ##i ##g	1
+ny	ny ##u ##n ##a ##p ##l ##i ##k ##e	1
+ny	ny ##u ##n ##a ##n ##u	1
+ny	ny ##u ##n ##a ##l ##e ##h	1
+ny	ny ##u ##n ##a ##l ##a ##u	1
+ny	ny ##u ##n ##a ##l ##a ##l ##i	1
+ny	ny ##u ##n ##a ##l ##a ##k	1
+ny	ny ##u ##n ##a ##k ##u ##k	1
+ny	ny ##u ##n ##a ##h ##w ##a ##s	1
+ny	ny ##u ##n ##a ##h ##u ##l	1
+ny	ny ##u ##m ##n ##e ##k ##o ##h ##u	1
+ny	ny ##u ##m ##n ##e ##k ##a ##n ##u	1
+ny	ny ##u ##m ##e ##b	1
+ny	ny ##u ##l ##u ##g ##a ##m ##u	1
+ny	ny ##u ##l ##e ##h	1
+ny	ny ##u ##l ##a ##w ##e ##n ##y ##u	1
+ny	ny ##u ##l ##a ##w ##e ##n	1
+ny	ny ##u ##l ##a ##w ##e ##ch	1
+ny	ny ##u ##l ##a ##t ##u	1
+ny	ny ##u ##l ##a ##l ##i	1
+ny	ny ##u ##k ##u ##s	1
+ny	ny ##u ##k ##l ##i ##p ##e ##n ##y ##u	1
+ny	ny ##u ##k ##l ##i ##p ##e	1
+ny	ny ##u ##k ##l ##i ##p ##a ##m	1
+ny	ny ##u ##k ##l ##i ##m ##u	1
+ny	ny ##u ##k ##e ##n ##y ##u ##k	1
+ny	ny ##u ##k ##e	1
+ny	ny ##u ##k ##a ##g ##a ##s	1
+ny	ny ##u ##k ##a ##g ##a ##p ##u	1
+ny	ny ##u ##h ##w ##a ##l ##e ##n ##y ##a ##m ##u	1
+ny	ny ##u ##h ##w ##a ##l ##e ##n	1
+ny	ny ##u ##h ##i ##y ##a ##t ##i ##k	1
+ny	ny ##u ##g ##w ##a ##t ##u	1
+ny	ny ##u ##g ##n ##a ##h	1
+ny	ny ##u ##g ##l ##e ##m ##e ##ch	1
+ny	ny ##u ##g ##l ##a ##k ##u ##m ##e ##ch	1
+ny	ny ##u ##g ##a ##m ##u	1
+ny	ny ##u ##g ##a ##k ##u ##k	1
+ny	ny ##u ##g ##a ##k ##o ##m ##o ##h ##u	1
+ny	ny ##u ##g ##a ##k ##o ##m ##e	1
+ny	ny ##u ##g ##a ##k ##a ##m ##u	1
+ny	ny ##u ##g ##a ##k ##a ##m ##a ##n ##u	1
+ny	ny ##u ##g ##a ##k ##- ##u ##m ##e ##p ##a ##g ##u ##k	1
+ny	ny ##u ##g ##a ##b ##e ##y ##o ##k	1
+ny	ny ##u ##g ##a ##b ##e ##y ##e ##p ##u	1
+ny	ny ##u ##g ##a ##b ##e ##y ##a ##n ##a ##m ##u	1
+ny	ny ##u ##d ##u ##k ##e ##m ##e ##n	1
+ny	ny ##u ##d ##u ##k ##e ##m ##e	1
+ny	ny ##u ##d ##a ##l ##e ##h	1
+ny	ny ##u ##b ##u ##k ##u ##m ##a ##n ##y ##u	1
+ny	ny ##u ##b ##o	1
+ny	ny ##u ##b ##l ##e ##y ##e ##n	1
+ny	ny ##u ##b ##e ##y ##e ##ch ##- ##u ##m ##e ##n ##y ##a ##l ##i	1
+ny	ny ##u ##b ##e ##m ##o ##m	1
+ny	ny ##u ##b ##e ##ch ##u ##k ##e ##n	1
+ny	ny ##u ##b ##a ##l ##e ##m ##u ##m ##e	1
+ny	ny ##o ##u ##l	1
+ny	ny ##o ##t ##u ##h ##i ##y ##a ##h ##i	1
+ny	ny ##o ##n ##o ##k ##w ##a ##l ##m ##e ##ch	1
+ny	ny ##o ##n ##o ##h ##w ##a ##l ##u	1
+ny	ny ##o ##n ##a ##h ##w ##a ##l ##u	1
+ny	ny ##o ##k ##w ##a ##l ##m ##e ##ch ##- ##u ##m ##o ##h ##w ##a ##g ##u ##k	1
+ny	ny ##o ##h ##w ##a ##l ##u	1
+ny	ny ##o ##h ##w	1
+ny	ny ##o ##h ##u ##l	1
+ny	ny ##o ##h ##i ##y ##a ##t ##i ##- ##m ##e ##p ##a ##m ##u	1
+ny	ny ##o ##b ##e ##y ##e ##n ##u ##m ##e	1
+ny	ny ##o ##b ##e ##ch ##u ##k ##u ##m ##o ##m	1
+ny	ny ##o ##b ##e ##ch ##u ##k	1
+ny	ny ##i ##y ##a ##i ##s ##- ##e ##ch ##u ##m ##o ##h ##u	1
+ny	ny ##i ##h ##i ##h ##i ##ch ##i ##w ##e	1
+ny	ny ##i ##h ##i ##h ##i ##ch ##i ##h	1
+ny	ny ##i ##h ##i ##h ##i ##ch ##i ##b ##a ##l ##i	1
+ny	ny ##i ##h ##i ##h ##i ##ch ##i ##- ##n ##a ##m ##u	1
+ny	ny ##i ##h ##i ##h ##i ##ch ##i ##- ##n ##a ##m ##e ##p ##a ##m ##u	1
+ny	ny ##i ##ch ##u ##k ##o ##l ##i ##n ##y ##u	1
+ny	ny ##i ##ch ##a ##g ##i ##y ##a ##p ##u	1
+ny	ny ##e ##y ##a ##g ##w ##l ##e ##h ##e ##n	1
+ny	ny ##e ##t ##e ##m ##a ##g ##u ##k	1
+ny	ny ##e ##p ##a ##h ##u ##l	1
+ny	ny ##e ##n ##y ##a ##n ##a ##m ##u	1
+ny	ny ##e ##n ##e ##m ##e	1
+ny	ny ##e ##n ##e ##k ##u ##m ##e	1
+ny	ny ##e ##n ##e ##k ##o ##k	1
+ny	ny ##e ##n ##e ##k ##a ##n ##a ##l ##u ##l ##i	1
+ny	ny ##e ##n ##e ##ch ##u ##b ##u ##k ##u ##k	1
+ny	ny ##e ##k ##e ##n ##y ##u	1
+ny	ny ##e ##ch ##o ##l ##o ##k ##u ##k	1
+ny	ny ##e ##ch ##a ##p ##a ##k ##a ##p ##u	1
+ny	ny ##e ##ch ##a ##l ##u ##k ##u ##k	1
+ny	ny ##a ##w ##i ##ch ##o ##k	1
+ny	ny ##a ##w ##i ##ch ##a ##n ##u	1
+ny	ny ##a ##w ##i ##ch	1
+ny	ny ##a ##t ##u ##l ##u ##k	1
+ny	ny ##a ##t ##u ##l ##u ##g ##u ##n	1
+ny	ny ##a ##t ##u ##l ##i ##ch	1
+ny	ny ##a ##t ##u ##k ##e ##m ##e ##i ##k	1
+ny	ny ##a ##t ##u ##k ##e ##m ##a ##g ##u ##k	1
+ny	ny ##a ##t ##o ##g ##l ##o ##m ##u	1
+ny	ny ##a ##t ##o ##g ##l ##o ##m ##o ##m	1
+ny	ny ##a ##t ##o ##g ##l ##o ##m ##o ##k	1
+ny	ny ##a ##t ##o ##g ##l ##o ##m ##a ##n ##u	1
+ny	ny ##a ##t ##o ##g ##l ##o ##l ##i	1
+ny	ny ##a ##t ##i ##k ##u ##k	1
+ny	ny ##a ##t ##a ##n ##u ##h	1
+ny	ny ##a ##t ##a ##n ##a ##m ##a ##l ##i	1
+ny	ny ##a ##s ##u ##s ##u ##h ##e ##h ##u ##k	1
+ny	ny ##a ##s ##u ##s ##u ##h	1
+ny	ny ##a ##s ##a ##l ##i ##k ##e ##ch	1
+ny	ny ##a ##p ##e ##n ##y ##u ##n ##a ##l ##i	1
+ny	ny ##a ##p ##e ##n ##y ##u ##k	1
+ny	ny ##a ##p ##e ##n ##y ##i ##ch	1
+ny	ny ##a ##p ##e ##m ##u	1
+ny	ny ##a ##n ##a ##n ##u	1
+ny	ny ##a ##n ##a ##m ##a ##n ##a ##m ##u	1
+ny	ny ##a ##n ##a ##b ##e ##ch ##u ##k ##u ##m ##o ##m	1
+ny	ny ##a ##n ##a ##b ##e ##ch ##u ##k ##- ##u ##m ##e ##p ##u	1
+ny	ny ##a ##l ##t ##o ##m ##u	1
+ny	ny ##a ##l ##t ##o	1
+ny	ny ##a ##l ##m ##a ##l ##i	1
+ny	ny ##a ##l ##h ##w ##o ##s	1
+ny	ny ##a ##l ##a ##w ##a ##n ##u	1
+ny	ny ##a ##l ##a ##w ##a ##l ##i	1
+ny	ny ##a ##l ##a ##u	1
+ny	ny ##a ##k ##u ##s	1
+ny	ny ##a ##k ##l ##i ##y ##e ##n	1
+ny	ny ##a ##k ##l ##i ##p ##o ##k ##e ##n ##y ##i	1
+ny	ny ##a ##k ##l ##i ##p ##e ##p ##a ##m ##u	1
+ny	ny ##a ##k ##l ##i ##p ##e ##n ##y ##u	1
+ny	ny ##a ##k ##l ##i ##p ##e ##n	1
+ny	ny ##a ##k ##l ##i ##p ##a ##p ##u	1
+ny	ny ##a ##k ##l ##i ##p ##a ##n ##u	1
+ny	ny ##a ##k ##l ##i ##e ##ch	1
+ny	ny ##a ##k ##i ##h ##u ##m ##a ##g ##u ##k	1
+ny	ny ##a ##k ##i ##h ##e	1
+ny	ny ##a ##k ##i ##h ##a ##n ##u	1
+ny	ny ##a ##k ##i ##g ##u	1
+ny	ny ##a ##k ##i ##ch ##i	1
+ny	ny ##a ##k ##i ##b ##a ##l	1
+ny	ny ##a ##k ##a ##m	1
+ny	ny ##a ##h ##u	1
+ny	ny ##a ##g ##l ##u ##k ##i	1
+ny	ny ##a ##g ##l ##u ##k	1
+ny	ny ##a ##g ##i ##m ##o ##g ##u	1
+ny	ny ##a ##g ##i ##l ##a ##p ##u	1
+ny	ny ##a ##g ##a ##k ##u ##k	1
+ny	ny ##a ##g ##a ##k ##o ##m ##e ##m ##u	1
+ny	ny ##a ##g ##a ##k ##a ##m ##u	1
+ny	ny ##a ##g ##a ##k ##a ##l ##i	1
+ny	ny ##a ##g ##a ##k	1
+ny	ny ##a ##d ##u ##k ##e ##m ##e ##n	1
+subword:ny	324	1571	4.848765432098766
+ef	ef ##a ##t ##a	2
+subword:ef	1	2	2.0
+##tf	b ##e ##tf ##a ##s ##i	2
+subword:##tf	1	2	2.0
+##etf	b ##etf ##a ##s ##i	2
+subword:##etf	1	2	2.0
+betf	betf ##a ##s ##i	2
+subword:betf	1	2	2.0
+um	um ##u	1231
+um	um ##b ##e ##n ##a ##b	8
+um	um ##b ##e ##n	1
+um	um ##a ##l ##u ##l ##i	1
+subword:um	4	1241	310.25
+4-pol	4-pol ##e ##i ##m	2
+4-pol	4-pol ##e ##i ##h	1
+subword:4-pol	2	3	1.5
+4-pole	4-pole ##i ##m	2
+4-pole	4-pole ##i ##h	1
+subword:4-pole	2	3	1.5
+30-pol	30-pol ##e ##i ##t ##u	2
+subword:30-pol	1	2	2.0
+30-pole	30-pole ##i ##t ##u	2
+subword:30-pole	1	2	2.0
+60-pol	60-pol ##e ##i ##t ##u	2
+subword:60-pol	1	2	2.0
+60-pole	60-pole ##i ##t ##u	2
+subword:60-pole	1	2	2.0
+100-pol	100-pol ##e ##i ##t ##u	2
+100-pol	100-pol ##e ##i ##m	1
+100-pol	100-pol ##e ##i ##b	1
+subword:100-pol	3	4	1.3333333333333333
+100-pole	100-pole ##i ##t ##u	2
+100-pole	100-pole ##i ##m	1
+100-pole	100-pole ##i ##b	1
+subword:100-pole	3	4	1.3333333333333333
+12-pol	12-pol ##e ##i ##m	12
+12-pol	12-pol ##e ##i ##ch	3
+12-pol	12-pol ##e ##i ##g	2
+12-pol	12-pol ##e ##i ##p ##u	1
+subword:12-pol	4	18	4.5
+12-pole	12-pole ##i ##m	12
+12-pole	12-pole ##i ##ch	3
+12-pole	12-pole ##i ##g	2
+12-pole	12-pole ##i ##p ##u	1
+subword:12-pole	4	18	4.5
+2000-pol	2000-pol ##e ##i ##g ##u ##h	1
+subword:2000-pol	1	1	1.0
+2000-pole	2000-pole ##i ##g ##u ##h	1
+subword:2000-pole	1	1	1.0
+10-pol	10-pol ##e ##i ##l ##u ##b	3
+10-pol	10-pol ##e ##i ##m	2
+10-pol	10-pol ##e ##i ##ch	1
+subword:10-pol	3	6	2.0
+10-pole	10-pole ##i ##l ##u ##b	3
+10-pole	10-pole ##i ##m	2
+10-pole	10-pole ##i ##ch	1
+subword:10-pole	3	6	2.0
+3-pol	3-pol ##e ##i ##m	2
+3-pol	3-pol ##e ##i ##h	2
+3-pol	3-pol ##e ##i ##y ##u	1
+3-pol	3-pol ##e ##i ##n ##y ##u	1
+subword:3-pol	4	6	1.5
+3-pole	3-pole ##i ##m	2
+3-pole	3-pole ##i ##h	2
+3-pole	3-pole ##i ##y ##u	1
+3-pole	3-pole ##i ##n ##y ##u	1
+subword:3-pole	4	6	1.5
+7-pol	7-pol ##e ##i ##m	4
+7-pol	7-pol ##e ##i ##t ##u	3
+7-pol	7-pol ##e ##i ##ch	3
+7-pol	7-pol ##e ##i ##h	2
+7-pol	7-pol ##e ##i ##g	2
+subword:7-pol	5	14	2.8
+7-pole	7-pole ##i ##m	4
+7-pole	7-pole ##i ##t ##u	3
+7-pole	7-pole ##i ##ch	3
+7-pole	7-pole ##i ##h	2
+7-pole	7-pole ##i ##g	2
+subword:7-pole	5	14	2.8
+4000-pol	4000-pol ##e ##i ##ch	2
+subword:4000-pol	1	2	2.0
+4000-pole	4000-pole ##i ##ch	2
+subword:4000-pole	1	2	2.0
+5-pol	5-pol ##e ##i ##t ##u	4
+5-pol	5-pol ##e ##i ##l ##u ##b	1
+5-pol	5-pol ##e ##i ##ch	1
+subword:5-pol	3	6	2.0
+5-pole	5-pole ##i ##t ##u	4
+5-pole	5-pole ##i ##l ##u ##b	1
+5-pole	5-pole ##i ##ch	1
+subword:5-pole	3	6	2.0
+5000-pol	5000-pol ##e ##i ##ch	1
+subword:5000-pol	1	1	1.0
+5000-pole	5000-pole ##i ##ch	1
+subword:5000-pole	1	1	1.0
+6-pol	6-pol ##e ##i ##h	2
+6-pol	6-pol ##e ##i ##b	2
+subword:6-pol	2	4	2.0
+6-pole	6-pole ##i ##h	2
+6-pole	6-pole ##i ##b	2
+subword:6-pole	2	4	2.0
+gol	gol ##g ##o ##t ##a	1
+subword:gol	1	1	1.0
+golg	golg ##o ##t ##a	1
+subword:golg	1	1	1.0
+golgo	golgo ##t ##a	1
+subword:golgo	1	1	1.0
+golgot	golgot ##a	1
+subword:golgot	1	1	1.0
+11-pol	11-pol ##e ##i ##m	2
+subword:11-pol	1	2	2.0
+11-pole	11-pole ##i ##m	2
+subword:11-pole	1	2	2.0
+8-pol	8-pol ##e ##i ##h	3
+subword:8-pol	1	3	3.0
+8-pole	8-pole ##i ##h	3
+subword:8-pole	1	3	3.0
+15-pol	15-pol ##e ##i ##ch	1
+subword:15-pol	1	1	1.0
+15-pole	15-pole ##i ##ch	1
+subword:15-pole	1	1	1.0
+50-pol	50-pol ##e ##i ##ch	2
+subword:50-pol	1	2	2.0
+50-pole	50-pole ##i ##ch	2
+subword:50-pole	1	2	2.0
+18-pol	18-pol ##e ##i ##ch	1
+subword:18-pol	1	1	1.0
+18-pole	18-pole ##i ##ch	1
+subword:18-pole	1	1	1.0
+99-pol	99-pol ##e ##i ##ch	1
+subword:99-pol	1	1	1.0
+99-pole	99-pole ##i ##ch	1
+subword:99-pole	1	1	1.0
+owow	owow ##i ##ch	3
+owow	owow ##i ##g	2
+subword:owow	2	5	2.5
+low	low ##a ##g	33
+low	low ##a ##s	7
+low	low ##i ##h ##i	2
+subword:low	3	42	14.0
+log	log ##u ##h	40
+log	log ##u ##l	21
+log	log ##u ##h ##w	1
+log	log ##o ##s	1
+subword:log	4	63	15.75
+loh	loh	30
+loh	loh ##u ##m ##e ##p ##u	5
+loh	loh ##u ##m ##e ##p ##a ##m ##u	1
+loh	loh ##u ##m ##e ##ch	1
+loh	loh ##u ##m ##a ##n ##u	1
+loh	loh ##u ##m ##a ##n ##a ##m ##u	1
+subword:loh	6	39	6.5
+kowmn	kowmn ##e ##k	1
+subword:kowmn	1	1	1.0
+kowmne	kowmne ##k	1
+subword:kowmne	1	1	1.0
+yo	yo ##w ##e ##n ##y ##i	109
+yo	yo ##p ##i ##n ##y ##i	86
+yo	yo ##w ##e ##n ##y ##i ##m ##u	11
+yo	yo ##w ##e ##ch ##i	11
+yo	yo ##w ##e ##l ##u ##h	9
+yo	yo ##p ##u ##g ##u ##n ##m ##u	9
+yo	yo ##p ##i ##ch ##i	9
+yo	yo ##p ##u ##n ##u	8
+yo	yo ##p ##i ##ch	8
+yo	yo ##l ##o ##g ##i ##m ##u	8
+yo	yo ##w ##i	7
+yo	yo ##h ##w ##l ##e ##g ##u ##h	7
+yo	yo ##u ##s	6
+yo	yo ##p ##u ##l ##i	6
+yo	yo ##p ##i ##n ##y ##u	5
+yo	yo ##l ##o ##g ##i	5
+yo	yo ##w ##e ##h ##w	4
+yo	yo ##p ##u ##n ##a ##l ##i	4
+yo	yo ##p ##u ##k	4
+yo	yo ##p ##u ##h ##i	4
+yo	yo ##p ##u ##b ##i	4
+yo	yo ##w ##e ##s	3
+yo	yo ##w ##e ##b ##u ##l ##i	3
+yo	yo ##p ##u ##y ##o ##p ##u ##n ##a ##l ##i	3
+yo	yo ##p ##u ##w ##e ##l ##i ##m ##u	3
+yo	yo ##p ##u ##s	3
+yo	yo ##p ##u ##n ##a ##m ##u	3
+yo	yo ##p ##u ##b ##a ##l ##i	3
+yo	yo ##p ##i ##n ##y ##i ##m ##u	3
+yo	yo ##p ##i ##n ##y ##a ##l ##i	3
+yo	yo ##m ##o ##t ##o ##k ##w ##e ##h ##- ##i ##g ##u ##n	3
+yo	yo ##m ##o ##t ##o ##k ##w ##e ##h	3
+yo	yo ##k ##w ##a ##t ##u	3
+yo	yo ##w ##e ##p ##a ##l ##i	2
+yo	yo ##w ##e ##p	2
+yo	yo ##w ##e ##n	2
+yo	yo ##w ##e ##m ##i	2
+yo	yo ##w ##e ##l ##u ##h ##i ##ch ##i	2
+yo	yo ##w ##e ##g	2
+yo	yo ##p ##u ##n ##a ##l ##i ##m ##u	2
+yo	yo ##p ##u ##m ##i	2
+yo	yo ##p ##u ##l ##u ##h	2
+yo	yo ##p ##i ##p ##i	2
+yo	yo ##p ##i ##n	2
+yo	yo ##b ##e ##l ##u	2
+yo	yo ##w ##e ##w ##e ##l ##i	1
+yo	yo ##w ##e ##p ##i	1
+yo	yo ##w ##e ##p ##a ##l ##i ##m ##u	1
+yo	yo ##w ##e ##n ##y ##a ##l ##i	1
+yo	yo ##w ##e ##n ##a ##l ##i	1
+yo	yo ##w ##e ##m	1
+yo	yo ##w ##e ##h ##i	1
+yo	yo ##w ##e ##ch	1
+yo	yo ##w ##e ##b ##a ##l ##i	1
+yo	yo ##w ##a ##t ##o ##g	1
+yo	yo ##p ##u ##y ##o ##p ##u ##l ##u ##h	1
+yo	yo ##p ##u ##t ##u	1
+yo	yo ##p ##u ##s ##i	1
+yo	yo ##p ##u ##m	1
+yo	yo ##p ##u ##h ##w	1
+yo	yo ##p ##u ##h	1
+yo	yo ##p ##i ##y ##o ##p ##i ##n ##a ##l ##i	1
+yo	yo ##p ##i ##y ##o ##p ##i ##ch ##i	1
+yo	yo ##p ##i ##h ##i	1
+yo	yo ##p ##i ##ch ##i ##m ##u	1
+yo	yo ##n ##o ##h ##u ##l	1
+yo	yo ##n ##o ##g ##w ##a ##t ##e ##ch	1
+yo	yo ##n ##o ##g ##l ##a ##h ##e ##ch	1
+yo	yo ##m ##o ##t ##o ##k ##w ##e ##h ##i ##l ##u ##h	1
+yo	yo ##m ##o ##t ##o ##k ##w ##e ##h ##i ##b	1
+yo	yo ##m ##o ##t ##o ##g	1
+yo	yo ##m ##a ##g ##u	1
+yo	yo ##l ##o ##g ##i ##n ##u	1
+yo	yo ##l ##o ##g ##i ##ch	1
+yo	yo ##k ##w ##a ##t ##a ##m ##u	1
+yo	yo ##k ##e ##n ##y ##u	1
+yo	yo ##h ##w ##l ##e ##g ##u ##l	1
+yo	yo ##h ##u ##l	1
+yo	yo ##h ##l ##e ##g ##u ##h ##w	1
+yo	yo ##b ##u ##s	1
+subword:yo	80	419	5.2375
+yow	yow ##e ##n ##y ##i	109
+yow	yow ##e ##n ##y ##i ##m ##u	11
+yow	yow ##e ##ch ##i	11
+yow	yow ##e ##l ##u ##h	9
+yow	yow ##i	7
+yow	yow ##e ##h ##w	4
+yow	yow ##e ##s	3
+yow	yow ##e ##b ##u ##l ##i	3
+yow	yow ##e ##p ##a ##l ##i	2
+yow	yow ##e ##p	2
+yow	yow ##e ##n	2
+yow	yow ##e ##m ##i	2
+yow	yow ##e ##l ##u ##h ##i ##ch ##i	2
+yow	yow ##e ##g	2
+yow	yow ##e ##w ##e ##l ##i	1
+yow	yow ##e ##p ##i	1
+yow	yow ##e ##p ##a ##l ##i ##m ##u	1
+yow	yow ##e ##n ##y ##a ##l ##i	1
+yow	yow ##e ##n ##a ##l ##i	1
+yow	yow ##e ##m	1
+yow	yow ##e ##h ##i	1
+yow	yow ##e ##ch	1
+yow	yow ##e ##b ##a ##l ##i	1
+yow	yow ##a ##t ##o ##g	1
+subword:yow	24	179	7.458333333333333
+yop	yop ##i ##n ##y ##i	86
+yop	yop ##u ##g ##u ##n ##m ##u	9
+yop	yop ##i ##ch ##i	9
+yop	yop ##u ##n ##u	8
+yop	yop ##i ##ch	8
+yop	yop ##u ##l ##i	6
+yop	yop ##i ##n ##y ##u	5
+yop	yop ##u ##n ##a ##l ##i	4
+yop	yop ##u ##k	4
+yop	yop ##u ##h ##i	4
+yop	yop ##u ##b ##i	4
+yop	yop ##u ##y ##o ##p ##u ##n ##a ##l ##i	3
+yop	yop ##u ##w ##e ##l ##i ##m ##u	3
+yop	yop ##u ##s	3
+yop	yop ##u ##n ##a ##m ##u	3
+yop	yop ##u ##b ##a ##l ##i	3
+yop	yop ##i ##n ##y ##i ##m ##u	3
+yop	yop ##i ##n ##y ##a ##l ##i	3
+yop	yop ##u ##n ##a ##l ##i ##m ##u	2
+yop	yop ##u ##m ##i	2
+yop	yop ##u ##l ##u ##h	2
+yop	yop ##i ##p ##i	2
+yop	yop ##i ##n	2
+yop	yop ##u ##y ##o ##p ##u ##l ##u ##h	1
+yop	yop ##u ##t ##u	1
+yop	yop ##u ##s ##i	1
+yop	yop ##u ##m	1
+yop	yop ##u ##h ##w	1
+yop	yop ##u ##h	1
+yop	yop ##i ##y ##o ##p ##i ##n ##a ##l ##i	1
+yop	yop ##i ##y ##o ##p ##i ##ch ##i	1
+yop	yop ##i ##h ##i	1
+yop	yop ##i ##ch ##i ##m ##u	1
+subword:yop	33	188	5.696969696969697
+yowe	yowe ##n ##y ##i	109
+yowe	yowe ##n ##y ##i ##m ##u	11
+yowe	yowe ##ch ##i	11
+yowe	yowe ##l ##u ##h	9
+yowe	yowe ##h ##w	4
+yowe	yowe ##s	3
+yowe	yowe ##b ##u ##l ##i	3
+yowe	yowe ##p ##a ##l ##i	2
+yowe	yowe ##p	2
+yowe	yowe ##n	2
+yowe	yowe ##m ##i	2
+yowe	yowe ##l ##u ##h ##i ##ch ##i	2
+yowe	yowe ##g	2
+yowe	yowe ##w ##e ##l ##i	1
+yowe	yowe ##p ##i	1
+yowe	yowe ##p ##a ##l ##i ##m ##u	1
+yowe	yowe ##n ##y ##a ##l ##i	1
+yowe	yowe ##n ##a ##l ##i	1
+yowe	yowe ##m	1
+yowe	yowe ##h ##i	1
+yowe	yowe ##ch	1
+yowe	yowe ##b ##a ##l ##i	1
+subword:yowe	22	171	7.7727272727272725
+##hw	n ##o ##hw ##a ##l ##u	21
+##hw	s ##i ##s ##a ##hw	16
+##hw	n ##u ##n ##o ##hw ##e ##n	13
+##hw	a ##p ##a ##hw	12
+##hw	h ##u ##l ##u ##p ##i ##hw	11
+##hw	y ##e ##g ##e ##n ##y ##i ##hw	10
+##hw	n ##a ##hw ##a ##l ##u	10
+##hw	ch ##a ##l ##hw ##a ##s	9
+##hw	ch ##u ##hw ##e ##p ##u	8
+##hw	yo ##hw ##l ##e ##g ##u ##h	7
+##hw	o ##n ##o ##hw	7
+##hw	o ##hw ##a ##k	7
+##hw	h ##u ##hw ##a ##n ##u	7
+##hw	ch ##o ##hw ##a ##l ##u	7
+##hw	ch ##u ##l ##hw ##a ##s	6
+##hw	a ##n ##a ##n ##i ##hw	6
+##hw	h ##a ##hw ##a ##n ##u	5
+##hw	ch ##a ##n ##a ##hw ##a ##g ##a ##g ##u ##n	5
+##hw	ch ##a ##hw ##e ##n	5
+##hw	yowe ##hw	4
+##hw	y ##e ##k ##i ##hw	4
+##hw	p ##u ##hw ##e	4
+##hw	o ##hw ##u ##d ##a ##k	4
+##hw	i ##hw ##a ##l ##u	4
+##hw	ch ##u ##hw ##e ##n	4
+##hw	ch ##o ##k ##u ##hw ##i	4
+##hw	ch ##o ##g ##a ##l ##i ##hw ##i ##h ##i	4
+##hw	ch ##a ##l ##hw ##a ##s ##u ##k	4
+##hw	w ##o ##l ##o ##b ##a ##i ##g ##u ##hw ##i	3
+##hw	ny ##a ##k ##i ##hw	3
+##hw	n ##a ##hw	3
+##hw	n ##a ##d ##u ##hw	3
+##hw	ch ##o ##hw ##a ##l ##a ##n ##a ##m ##u	3
+##hw	ch ##o ##hw ##a ##l ##a ##m	3
+##hw	w ##o ##b ##l ##o ##hw	2
+##hw	w ##a ##n ##o ##hw	2
+##hw	t ##a ##l ##hw ##a ##s	2
+##hw	p ##u ##n ##o ##hw ##e ##n	2
+##hw	p ##a ##s ##u ##hw ##i	2
+##hw	o ##hw ##a ##k ##i ##ch	2
+##hw	o ##g ##w ##o ##g ##u ##hw	2
+##hw	ny ##u ##n ##o ##hw ##e ##n	2
+##hw	ny ##u ##hw ##a ##l ##u	2
+##hw	ny ##o ##hw ##a ##l ##e	2
+##hw	ny ##a ##s ##u ##s ##u ##hw ##e ##i ##k	2
+##hw	ny ##a ##l ##hw ##a ##s ##u ##k	2
+##hw	n ##o ##hw ##a ##l ##a ##n ##a ##m ##u	2
+##hw	n ##a ##w ##o ##hw	2
+##hw	n ##a ##s ##u ##hw ##i	2
+##hw	n ##a ##hw ##o ##t ##u	2
+##hw	m ##u ##hw ##a ##l ##u	2
+##hw	m ##e ##hw ##a ##l ##i ##u	2
+##hw	m ##a ##s ##u ##hw ##i	2
+##hw	m ##a ##s ##t ##e ##t ##i ##hw	2
+##hw	m ##a ##n ##o ##hw ##a ##n ##u	2
+##hw	m ##a ##n ##a ##hw ##a ##n ##a ##l ##u ##l ##i	2
+##hw	i ##n ##o ##hw ##e ##n	2
+##hw	h ##u ##hw ##e	2
+##hw	h ##o ##hw ##a ##l ##u	2
+##hw	h ##a ##s ##u ##hw ##i	2
+##hw	h ##a ##l ##hw ##a ##s	2
+##hw	ch ##u ##hw ##a ##l ##a ##n ##u	2
+##hw	ch ##o ##m ##e ##g ##u ##hw ##i ##y ##u	2
+##hw	ch ##o ##hw ##a ##l ##o ##k	2
+##hw	ch ##o ##g ##a ##l ##i ##hw ##i ##h	2
+##hw	ch ##a ##n ##o ##hw ##a ##g ##a ##g ##u ##n	2
+##hw	ch ##a ##hw ##a ##n ##u	2
+##hw	a ##p ##a ##hw ##i ##k	2
+##hw	yop ##u ##hw	1
+##hw	yo ##hw ##l ##e ##g ##u ##l	1
+##hw	yo ##h ##l ##e ##g ##u ##hw	1
+##hw	y ##e ##k ##e ##p ##e ##y ##o ##hw	1
+##hw	y ##e ##g ##u ##hw ##i ##y ##u	1
+##hw	y ##e ##g ##u ##hw ##i ##w ##e ##i ##g ##a ##s	1
+##hw	y ##a ##hw ##e ##n	1
+##hw	w ##a ##n ##o ##hw ##i ##g ##u ##hw ##i	1
+##hw	t ##u ##l ##hw ##a ##s	1
+##hw	t ##o ##hw ##a ##l ##u	1
+##hw	s ##a ##hw ##o ##m ##u ##k	1
+##hw	p ##u ##s ##u ##s ##u ##hw ##e	1
+##hw	p ##u ##l ##hw ##a ##s ##u ##m ##a ##g ##u ##k	1
+##hw	p ##u ##l ##hw ##a ##s	1
+##hw	p ##u ##hw ##e ##n	1
+##hw	p ##u ##hw ##e ##ch	1
+##hw	p ##u ##hw ##a ##n ##u	1
+##hw	p ##o ##hw ##a ##l ##e	1
+##hw	p ##o ##hw ##a ##l ##a ##n ##u	1
+##hw	p ##a ##n ##o ##hw ##e ##ch	1
+##hw	p ##a ##n ##a ##hw ##o ##g ##a ##g ##u ##n	1
+##hw	o ##n ##o ##g ##u ##hw	1
+##hw	o ##k ##w ##a ##k ##i ##hw	1
+##hw	o ##hw ##o ##h	1
+##hw	ny ##u ##n ##o ##hw ##a ##t ##u	1
+##hw	ny ##u ##n ##a ##hw ##a ##s	1
+##hw	ny ##u ##hw ##a ##l ##e ##n ##y ##a ##m ##u	1
+##hw	ny ##u ##hw ##a ##l ##e ##n	1
+##hw	ny ##o ##n ##o ##hw ##a ##l ##u	1
+##hw	ny ##o ##n ##a ##hw ##a ##l ##u	1
+##hw	ny ##o ##k ##w ##a ##l ##m ##e ##ch ##- ##u ##m ##o ##hw ##a ##g ##u ##k	1
+##hw	ny ##o ##hw ##a ##l ##u	1
+##hw	ny ##o ##hw	1
+##hw	ny ##a ##l ##hw ##o ##s	1
+##hw	n ##u ##n ##o ##s ##u ##hw	1
+##hw	n ##u ##n ##o ##hw ##e ##ch	1
+##hw	n ##u ##hw ##e ##p ##u ##m ##a ##n ##a ##l ##i	1
+##hw	n ##u ##hw ##a ##l ##u	1
+##hw	n ##u ##g ##u ##l ##i ##hw	1
+##hw	n ##o ##n ##o ##hw ##a ##l ##a ##m ##u	1
+##hw	n ##o ##hw ##a ##l ##e ##n ##y ##a ##m ##u	1
+##hw	n ##o ##hw ##a ##l ##a ##n ##u	1
+##hw	n ##e ##b ##e ##hw ##a ##l ##i	1
+##hw	n ##a ##n ##o ##hw ##a ##t ##u	1
+##hw	n ##a ##n ##o ##hw ##a ##b ##a ##l	1
+##hw	n ##a ##n ##a ##hw ##o ##s	1
+##hw	n ##a ##l ##hw ##a ##s	1
+##hw	n ##a ##k ##l ##i ##p ##o ##hw ##a ##l ##i	1
+##hw	n ##a ##k ##a ##g ##a ##hw ##a ##l ##i	1
+##hw	n ##a ##hw ##o ##s	1
+##hw	n ##a ##hw ##o ##h	1
+##hw	n ##a ##hw ##e ##n	1
+##hw	n ##a ##hw ##e ##ch	1
+##hw	n ##a ##hw ##a ##l ##e ##n ##y ##u	1
+##hw	n ##a ##hw ##a ##l ##a ##n ##u	1
+##hw	mo ##n ##a ##hw ##a ##l ##u	1
+##hw	m ##u ##s ##u ##hw ##i	1
+##hw	m ##e ##hw ##o ##l ##i ##y ##u	1
+##hw	m ##a ##n ##o ##hw ##e ##p ##u	1
+##hw	m ##a ##n ##o ##hw ##a ##n ##a ##l ##u ##l ##i	1
+##hw	m ##a ##n ##a ##hw ##e ##n ##y ##u	1
+##hw	m ##a ##hw ##e ##n	1
+##hw	log ##u ##hw	1
+##hw	kw ##u ##n ##o ##hw ##o ##p	1
+##hw	kw ##o ##n ##o ##hw ##a ##l ##a ##m ##u	1
+##hw	kw ##a ##s ##u ##s ##u ##hw	1
+##hw	kw ##a ##s ##u ##hw ##i	1
+##hw	kw ##a ##hw ##a ##l	1
+##hw	i ##s ##u ##hw	1
+##hw	i ##hw ##a ##n ##u	1
+##hw	i ##g ##u ##hw	1
+##hw	h ##w ##a ##l ##hw ##a ##s	1
+##hw	h ##u ##hw ##a ##n ##a ##m ##u	1
+##hw	h ##o ##m ##a ##p ##o ##hw ##a ##t ##u	1
+##hw	h ##o ##hw ##e ##m ##u ##m ##a ##n ##u	1
+##hw	h ##o ##hw ##a ##l ##a ##l ##i	1
+##hw	h ##l ##a ##t ##o ##g ##l ##o ##hw	1
+##hw	h ##a ##hw ##o ##k	1
+##hw	h ##a ##hw ##a ##k	1
+##hw	g ##a ##l ##hw ##o ##s ##u ##k	1
+##hw	ch ##u ##s ##u ##s ##u ##hw ##a ##n ##u	1
+##hw	ch ##u ##s ##u ##hw ##- ##e ##ch ##a ##n ##a ##m ##u	1
+##hw	ch ##u ##s ##u ##hw	1
+##hw	ch ##u ##n ##a ##hw ##o ##n ##u	1
+##hw	ch ##u ##n ##a ##hw ##a ##n ##u	1
+##hw	ch ##u ##k ##n ##i ##hw	1
+##hw	ch ##u ##k ##i ##h ##o ##hw ##u	1
+##hw	ch ##u ##hw ##e	1
+##hw	ch ##u ##hw ##a ##l ##e ##p ##u	1
+##hw	ch ##u ##hw ##a ##l ##e ##p ##a ##m ##u	1
+##hw	ch ##u ##hw ##a ##l ##e ##n ##y ##a ##m ##u	1
+##hw	ch ##u ##g ##i ##n ##o ##hw ##a ##h	1
+##hw	ch ##u ##g ##i ##n ##a ##hw ##a ##h	1
+##hw	ch ##o ##hw ##a ##l ##o ##g ##u ##n	1
+##hw	ch ##o ##hw ##a ##l ##o ##b ##u ##l	1
+##hw	ch ##o ##hw ##a ##l ##e ##n	1
+##hw	ch ##o ##hw ##a ##l ##a ##n ##u	1
+##hw	ch ##o ##hw ##a ##l ##a ##g ##u ##n	1
+##hw	ch ##o ##hw ##a ##l ##a ##g ##u ##k	1
+##hw	ch ##o ##hw ##a ##l ##a ##b ##u ##l	1
+##hw	ch ##a ##s ##u ##s ##u ##hw ##a ##n ##u	1
+##hw	ch ##a ##s ##u ##hw ##i	1
+##hw	ch ##a ##g ##i ##n ##o ##hw ##a ##t ##u	1
+##hw	ch ##a ##g ##a ##l ##i ##hw ##i ##h	1
+##hw	b ##l ##u ##hw ##a ##l ##u	1
+##hw	a ##w ##e ##hw	1
+##hw	a ##p ##a ##hw ##i ##n ##y ##u	1
+##hw	a ##n ##o ##hw ##a ##l ##u	1
+##hw	a ##l ##i ##g ##u ##hw ##i ##t ##a ##m ##u	1
+subword:##hw	177	403	2.2768361581920904
+yohw	yohw ##l ##e ##g ##u ##h	7
+yohw	yohw ##l ##e ##g ##u ##l	1
+subword:yohw	2	8	4.0
+ohw	yohw ##l ##e ##g ##u ##h	7
+ohw	ohw ##a ##k	7
+ohw	ohw ##u ##d ##a ##k	4
+ohw	ohw ##a ##k ##i ##ch	2
+ohw	yohw ##l ##e ##g ##u ##l	1
+ohw	ohw ##o ##h	1
+subword:ohw	6	22	3.6666666666666665
+##ohw	n ##ohw ##a ##l ##u	21
+##ohw	n ##u ##n ##ohw ##e ##n	13
+##ohw	o ##n ##ohw	7
+##ohw	ch ##ohw ##a ##l ##u	7
+##ohw	ch ##ohw ##a ##l ##a ##n ##a ##m ##u	3
+##ohw	ch ##ohw ##a ##l ##a ##m	3
+##ohw	w ##o ##b ##l ##ohw	2
+##ohw	w ##a ##n ##ohw	2
+##ohw	p ##u ##n ##ohw ##e ##n	2
+##ohw	ny ##u ##n ##ohw ##e ##n	2
+##ohw	ny ##ohw ##a ##l ##e	2
+##ohw	n ##ohw ##a ##l ##a ##n ##a ##m ##u	2
+##ohw	n ##a ##w ##ohw	2
+##ohw	m ##a ##n ##ohw ##a ##n ##u	2
+##ohw	i ##n ##ohw ##e ##n	2
+##ohw	h ##ohw ##a ##l ##u	2
+##ohw	ch ##ohw ##a ##l ##o ##k	2
+##ohw	ch ##a ##n ##ohw ##a ##g ##a ##g ##u ##n	2
+##ohw	y ##e ##k ##e ##p ##e ##y ##ohw	1
+##ohw	w ##a ##n ##ohw ##i ##g ##u ##hw ##i	1
+##ohw	t ##ohw ##a ##l ##u	1
+##ohw	p ##ohw ##a ##l ##e	1
+##ohw	p ##ohw ##a ##l ##a ##n ##u	1
+##ohw	p ##a ##n ##ohw ##e ##ch	1
+##ohw	ny ##u ##n ##ohw ##a ##t ##u	1
+##ohw	ny ##ohw ##a ##l ##u	1
+##ohw	ny ##ohw	1
+##ohw	ny ##o ##n ##ohw ##a ##l ##u	1
+##ohw	ny ##o ##k ##w ##a ##l ##m ##e ##ch ##- ##u ##m ##ohw ##a ##g ##u ##k	1
+##ohw	n ##u ##n ##ohw ##e ##ch	1
+##ohw	n ##ohw ##a ##l ##e ##n ##y ##a ##m ##u	1
+##ohw	n ##ohw ##a ##l ##a ##n ##u	1
+##ohw	n ##o ##n ##ohw ##a ##l ##a ##m ##u	1
+##ohw	n ##a ##n ##ohw ##a ##t ##u	1
+##ohw	n ##a ##n ##ohw ##a ##b ##a ##l	1
+##ohw	n ##a ##k ##l ##i ##p ##ohw ##a ##l ##i	1
+##ohw	m ##a ##n ##ohw ##e ##p ##u	1
+##ohw	m ##a ##n ##ohw ##a ##n ##a ##l ##u ##l ##i	1
+##ohw	kw ##u ##n ##ohw ##o ##p	1
+##ohw	kw ##o ##n ##ohw ##a ##l ##a ##m ##u	1
+##ohw	h ##ohw ##e ##m ##u ##m ##a ##n ##u	1
+##ohw	h ##ohw ##a ##l ##a ##l ##i	1
+##ohw	h ##o ##m ##a ##p ##ohw ##a ##t ##u	1
+##ohw	h ##l ##a ##t ##o ##g ##l ##ohw	1
+##ohw	ch ##u ##k ##i ##h ##ohw ##u	1
+##ohw	ch ##u ##g ##i ##n ##ohw ##a ##h	1
+##ohw	ch ##ohw ##a ##l ##o ##g ##u ##n	1
+##ohw	ch ##ohw ##a ##l ##o ##b ##u ##l	1
+##ohw	ch ##ohw ##a ##l ##e ##n	1
+##ohw	ch ##ohw ##a ##l ##a ##n ##u	1
+##ohw	ch ##ohw ##a ##l ##a ##g ##u ##n	1
+##ohw	ch ##ohw ##a ##l ##a ##g ##u ##k	1
+##ohw	ch ##ohw ##a ##l ##a ##b ##u ##l	1
+##ohw	ch ##a ##g ##i ##n ##ohw ##a ##t ##u	1
+##ohw	a ##n ##ohw ##a ##l ##u	1
+subword:##ohw	55	115	2.090909090909091
+yowehw	yowehw	4
+subword:yowehw	1	4	4.0
+chohw	chohw ##a ##l ##u	7
+chohw	chohw ##a ##l ##a ##n ##a ##m ##u	3
+chohw	chohw ##a ##l ##a ##m	3
+chohw	chohw ##a ##l ##o ##k	2
+chohw	chohw ##a ##l ##o ##g ##u ##n	1
+chohw	chohw ##a ##l ##o ##b ##u ##l	1
+chohw	chohw ##a ##l ##e ##n	1
+chohw	chohw ##a ##l ##a ##n ##u	1
+chohw	chohw ##a ##l ##a ##g ##u ##n	1
+chohw	chohw ##a ##l ##a ##g ##u ##k	1
+chohw	chohw ##a ##l ##a ##b ##u ##l	1
+subword:chohw	11	22	2.0
+yohwl	yohwl ##e ##g ##u ##h	7
+yohwl	yohwl ##e ##g ##u ##l	1
+subword:yohwl	2	8	4.0
+yohwle	yohwle ##g ##u ##h	7
+yohwle	yohwle ##g ##u ##l	1
+subword:yohwle	2	8	4.0
+yohwleg	yohwleg ##u ##h	7
+yohwleg	yohwleg ##u ##l	1
+subword:yohwleg	2	8	4.0
+ul	ul ##i	889
+ul	ul ##k ##w ##i ##p	56
+ul	ul ##i ##m ##u	50
+ul	ul ##k ##u ##m	22
+ul	ul ##u ##b ##i ##t ##u	3
+ul	ul ##a ##l ##u ##h	2
+ul	ul ##a ##h	2
+ul	ul ##w ##k ##i ##p	1
+ul	ul ##u ##b	1
+ul	ul ##p ##u ##s ##i ##n ##u	1
+ul	ul ##p ##u ##s ##i ##n ##a ##m ##u	1
+ul	ul ##a ##y ##o ##k	1
+ul	ul ##a ##h ##i ##h	1
+subword:ul	13	1030	79.23076923076923
+ut	ut ##a ##b ##a ##l	55
+ut	ut ##a ##m	18
+ut	ut ##a ##g ##u	9
+ut	ut ##a ##g ##a ##l ##u ##l ##i	3
+ut	ut ##o ##w ##a ##h	1
+ut	ut ##a ##b ##a ##l ##u ##m ##a ##l ##u ##l ##i	1
+subword:ut	6	87	14.5
+us	us ##o ##l ##i ##k ##e ##n ##y ##a ##m ##u	1
+subword:us	1	1	1.0
+uso	uso ##l ##i ##k ##e ##n ##y ##a ##m ##u	1
+subword:uso	1	1	1.0
+usol	usol ##i ##k ##e ##n ##y ##a ##m ##u	1
+subword:usol	1	1	1.0
+un	un ##i ##b	2
+subword:un	1	2	2.0
+wo	wo	183
+wo	wo ##l ##o ##b ##a ##i ##ch ##i	105
+wo	wo ##l ##i ##g ##u ##n	52
+wo	wo ##b ##l ##e ##n	34
+wo	wo ##s ##i ##k	29
+wo	owo	23
+wo	wo ##l ##o ##b ##a ##i ##n ##y ##i	20
+wo	owot ##u	20
+wo	wo ##l ##o ##b ##a ##i ##m ##i	10
+wo	wo ##h ##i ##g ##u ##n ##m ##u	10
+wo	wo ##l ##u ##b	9
+wo	wo ##l ##o ##b ##a ##i ##h ##i	7
+wo	wo ##b ##l ##a ##h ##a ##h ##i ##n	7
+wo	wo ##n ##e ##k	6
+wo	wo ##b ##u ##l	6
+wo	wo ##l ##o ##b ##a ##i ##l ##u ##b ##i	4
+wo	wo ##l ##o ##b ##a ##i ##t ##a ##l ##i	3
+wo	wo ##l ##o ##b ##a ##i ##g ##u ##hw ##i	3
+wo	wo ##l ##o ##b ##a ##i ##b ##a ##l ##i	3
+wo	owow ##i ##ch	3
+wo	owo ##b ##u ##k	3
+wo	wo ##l ##o ##b ##a ##i ##p ##a ##l ##i	2
+wo	wo ##l ##o ##b ##a ##i ##b ##i	2
+wo	wo ##h ##i ##s	2
+wo	wo ##b ##l ##ohw	2
+wo	owow ##i ##g	2
+wo	owot ##o ##g	2
+wo	wo ##u ##l ##e ##m ##u	1
+wo	wo ##n ##e ##h ##i ##l ##a ##u	1
+wo	wo ##m ##n ##e ##k	1
+wo	wo ##l ##u ##l	1
+wo	wo ##l ##o ##b ##a ##i ##s ##i	1
+wo	wo ##l ##o ##b ##a ##i ##g ##u ##n ##- ##m ##o ##l ##u ##l ##i	1
+wo	wo ##l ##i ##g ##u ##n ##e ##ch ##i	1
+wo	wo ##l ##e ##p ##a ##n ##u	1
+wo	wo ##l ##e ##h	1
+wo	wo ##l ##a ##b ##a ##i ##h ##i	1
+wo	wo ##l ##a ##b ##a ##i ##ch ##i	1
+wo	wo ##h ##i ##k ##w ##i	1
+wo	wo ##b ##l ##e ##ch	1
+wo	wo ##b ##l ##a ##t ##a ##m ##u	1
+wo	wo ##b ##l ##a ##p	1
+wo	wo ##b ##l ##a ##h ##a ##h ##i ##t ##a ##m ##u	1
+wo	wo ##b ##l ##a ##h ##a ##h ##i ##n ##a ##m ##u	1
+wo	wo ##b ##l ##a ##h ##a ##h ##i ##b ##a ##m ##u	1
+wo	wo ##b ##l ##a ##h ##a ##h ##- ##i ##n ##y ##u ##m ##u	1
+wo	wo ##b ##l ##a ##g ##a ##s	1
+subword:wo	47	572	12.170212765957446
+gwo	gwo ##d ##i ##ch	6
+gwo	gwo ##t ##u ##k ##w ##l ##e ##m ##u	1
+gwo	gwo ##n ##e ##k	1
+gwo	gwo ##d ##u ##s	1
+gwo	gwo ##d ##u ##b ##a ##l	1
+gwo	gwo ##d ##i ##n	1
+gwo	gwo ##d ##i ##h	1
+subword:gwo	7	12	1.7142857142857142
+gwod	gwod ##i ##ch	6
+gwod	gwod ##u ##s	1
+gwod	gwod ##u ##b ##a ##l	1
+gwod	gwod ##i ##n	1
+gwod	gwod ##i ##h	1
+subword:gwod	5	10	2.0
+gwot	gwot ##u ##k ##w ##l ##e ##m ##u	1
+subword:gwot	1	1	1.0
+gwon	gwon ##e ##k	1
+subword:gwon	1	1	1.0
+gwone	gwone ##k	1
+subword:gwone	1	1	1.0
+gwonek	gwonek	1
+subword:gwonek	1	1	1.0
+kowmnek	kowmnek	1
+subword:kowmnek	1	1	1.0
+12-k	12-k ##i ##l ##o ##k	1
+subword:12-k	1	1	1.0
+3-k	3-k ##i ##l ##o ##k	1
+subword:3-k	1	1	1.0
+ech	ech ##e ##ch	339
+ech	ech ##u ##d ##a ##k	246
+ech	ech ##e ##b ##u ##k	114
+ech	ech ##e ##ch ##i ##n	18
+ech	ech ##e ##ch ##i ##ch	15
+ech	ech ##e ##ch ##i ##m	12
+ech	ech ##e ##ch ##i ##n ##u	10
+ech	ech ##e ##ch ##i ##g	9
+ech	ech ##e ##ch ##i ##p	7
+ech	ech ##e ##ch ##i ##l ##u ##h	7
+ech	ech ##e ##ch ##i ##l ##u ##b	5
+ech	ech ##a ##h	5
+ech	ech ##u ##d ##a ##k ##m ##a ##l ##i	2
+ech	ech ##e ##ch ##i ##u	2
+ech	ech ##e ##ch ##i ##s	2
+ech	ech ##e ##ch ##i ##b ##u ##l	2
+ech	ech ##u ##g ##u ##h	1
+ech	ech ##e ##ch ##i ##w ##e	1
+ech	ech ##e ##ch ##i ##t ##u	1
+ech	ech ##e ##ch ##i ##t ##o ##m ##u	1
+ech	ech ##e ##ch ##i ##n ##y ##u	1
+ech	ech ##e ##ch ##i ##k	1
+ech	ech ##e ##ch ##i ##h	1
+ech	ech ##e ##ch ##i ##g ##u	1
+ech	ech ##e ##ch ##i ##b ##u	1
+ech	ech ##e ##ch ##i ##b ##a ##l	1
+subword:ech	26	805	30.96153846153846
+kwo	kwo ##t	13
+kwo	kwo ##n ##e ##k	6
+kwo	kwo ##t ##o ##g	5
+kwo	kwo ##m ##n ##e ##k	4
+kwo	kwo ##l ##a ##l ##i	3
+kwo	kwo ##n ##e ##k ##e ##n	2
+kwo	kwo ##n ##e ##h ##i ##l ##a ##u	2
+kwo	kwo ##u ##h	1
+kwo	kwo ##t ##u ##m ##e ##p ##u	1
+kwo	kwo ##t ##u ##m ##e ##p ##a ##m ##u	1
+kwo	kwo ##t ##u ##m ##a ##n ##u	1
+kwo	kwo ##t ##u ##m ##a ##n ##a ##m ##e ##n	1
+kwo	kwo ##s ##u ##h ##u ##l	1
+kwo	kwo ##n ##ohw ##a ##l ##a ##m ##u	1
+kwo	kwo ##n ##e ##k ##u ##m ##e ##ch	1
+kwo	kwo ##n ##e ##k ##u ##m ##e	1
+kwo	kwo ##n ##e ##k ##u ##m ##a ##n ##u	1
+kwo	kwo ##m ##n ##e ##k ##e ##h	1
+kwo	kwo ##l ##e ##h	1
+kwo	kwo ##k ##e ##n ##y ##u	1
+kwo	kwo ##h ##u ##l	1
+kwo	kwo ##d ##u ##k	1
+subword:kwo	22	50	2.272727272727273
+kwot	kwot	13
+kwot	kwot ##o ##g	5
+kwot	kwot ##u ##m ##e ##p ##u	1
+kwot	kwot ##u ##m ##e ##p ##a ##m ##u	1
+kwot	kwot ##u ##m ##a ##n ##u	1
+kwot	kwot ##u ##m ##a ##n ##a ##m ##e ##n	1
+subword:kwot	6	22	3.6666666666666665
+kwoto	kwoto ##g	5
+subword:kwoto	1	5	5.0
+kwotog	kwotog	5
+subword:kwotog	1	5	5.0
+nohw	nohw ##a ##l ##u	21
+nohw	nohw ##a ##l ##a ##n ##a ##m ##u	2
+nohw	nohw ##a ##l ##e ##n ##y ##a ##m ##u	1
+nohw	nohw ##a ##l ##a ##n ##u	1
+subword:nohw	4	25	6.25
+eche	eche ##ch	339
+eche	eche ##b ##u ##k	114
+eche	eche ##ch ##i ##n	18
+eche	eche ##ch ##i ##ch	15
+eche	eche ##ch ##i ##m	12
+eche	eche ##ch ##i ##n ##u	10
+eche	eche ##ch ##i ##g	9
+eche	eche ##ch ##i ##p	7
+eche	eche ##ch ##i ##l ##u ##h	7
+eche	eche ##ch ##i ##l ##u ##b	5
+eche	eche ##ch ##i ##u	2
+eche	eche ##ch ##i ##s	2
+eche	eche ##ch ##i ##b ##u ##l	2
+eche	eche ##ch ##i ##w ##e	1
+eche	eche ##ch ##i ##t ##u	1
+eche	eche ##ch ##i ##t ##o ##m ##u	1
+eche	eche ##ch ##i ##n ##y ##u	1
+eche	eche ##ch ##i ##k	1
+eche	eche ##ch ##i ##h	1
+eche	eche ##ch ##i ##g ##u	1
+eche	eche ##ch ##i ##b ##u	1
+eche	eche ##ch ##i ##b ##a ##l	1
+subword:eche	22	551	25.045454545454547
+echech	echech	339
+echech	echech ##i ##n	18
+echech	echech ##i ##ch	15
+echech	echech ##i ##m	12
+echech	echech ##i ##n ##u	10
+echech	echech ##i ##g	9
+echech	echech ##i ##p	7
+echech	echech ##i ##l ##u ##h	7
+echech	echech ##i ##l ##u ##b	5
+echech	echech ##i ##u	2
+echech	echech ##i ##s	2
+echech	echech ##i ##b ##u ##l	2
+echech	echech ##i ##w ##e	1
+echech	echech ##i ##t ##u	1
+echech	echech ##i ##t ##o ##m ##u	1
+echech	echech ##i ##n ##y ##u	1
+echech	echech ##i ##k	1
+echech	echech ##i ##h	1
+echech	echech ##i ##g ##u	1
+echech	echech ##i ##b ##u	1
+echech	echech ##i ##b ##a ##l	1
+subword:echech	21	437	20.80952380952381
+echeb	echeb ##u ##k	114
+subword:echeb	1	114	114.0
+ye	ye ##k	354
+ye	ye ##t	47
+ye	ye ##u ##l	42
+ye	ye ##k ##i ##n	29
+ye	ye ##g ##u ##h	21
+ye	ye ##n ##e ##k	15
+ye	ye ##k ##i ##n ##u	14
+ye	ye ##g ##e ##ch ##i ##w ##e ##l ##u ##h	11
+ye	ye ##g ##e ##n ##y ##i ##hw	10
+ye	ye ##k ##i ##ch	9
+ye	ye ##k ##i ##t ##u	5
+ye	ye ##l ##b ##u ##s	4
+ye	ye ##k ##i ##m	4
+ye	ye ##k ##i ##hw	4
+ye	ye ##u ##l ##i ##n ##a ##m ##u	3
+ye	ye ##l ##b ##u ##p	3
+ye	ye ##k ##i ##p ##u	3
+ye	ye ##k ##i ##n ##y ##u	3
+ye	ye ##k ##i ##k ##l ##u ##h	3
+ye	ye ##k ##i ##k	3
+ye	ye ##u ##l ##i ##n ##y ##u ##m ##u	2
+ye	ye ##n ##e ##k ##e ##n	2
+ye	ye ##n ##e ##h ##i ##l ##a ##u	2
+ye	ye ##m ##n ##e ##k	2
+ye	ye ##g ##u ##h ##i ##y ##u	2
+ye	ye ##ch ##a ##l ##a ##k ##u ##k	2
+ye	ye ##b ##u ##g	2
+ye	ye ##y ##o ##t ##u ##w ##i	1
+ye	ye ##y ##a ##i ##s ##e ##ch	1
+ye	ye ##u ##l ##i ##p	1
+ye	ye ##u ##l ##i ##n	1
+ye	ye ##u ##l ##i ##g ##u ##n ##m ##u	1
+ye	ye ##u ##l ##i ##b ##u ##l ##m ##u	1
+ye	ye ##n ##y ##u ##b ##u ##k	1
+ye	ye ##n ##e ##m ##n ##e ##k	1
+ye	ye ##n ##e ##m ##a ##n ##u	1
+ye	ye ##n ##e ##h ##i ##l ##a ##u ##- ##m ##e ##n ##y ##u	1
+ye	ye ##l ##i ##m ##e ##n ##y ##a ##m ##u	1
+ye	ye ##k ##i ##k ##h	1
+ye	ye ##k ##i ##g ##a ##s	1
+ye	ye ##k ##i ##g	1
+ye	ye ##k ##e ##p ##e ##y ##ohw	1
+ye	ye ##k ##e ##g ##e ##p ##u	1
+ye	ye ##i ##l ##m ##e ##n ##y ##a ##m ##u	1
+ye	ye ##g ##w ##i ##h	1
+ye	ye ##g ##u ##hw ##i ##y ##u	1
+ye	ye ##g ##u ##hw ##i ##w ##e ##i ##g ##a ##s	1
+ye	ye ##g ##e ##n ##y ##i ##h	1
+ye	ye ##ch ##l ##e ##h ##e ##n	1
+subword:ye	49	623	12.714285714285714
