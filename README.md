@@ -10,5 +10,5 @@
  
   ![](outputs/BPEresults_productivity_corpusPBCtok_0_200_1/BPE_space.png)
 
-
+Ximena Gutierrez-Vasques, Christian Bentz, Tanja Samardžić. [Languages through the Looking Glass of BPE Compression](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00489/116635/Languages-through-the-Looking-Glass-of-BPE). Computational Linguistics (2023)
 
